@@ -383,17 +383,17 @@ Grailbird.data.tweets_2011_12 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
       }, {
         "h" : 360,
         "resize" : "fit",
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "o_Marreco",
       "protected" : false,
       "id_str" : "46164863",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/574546636627656704\/9Z-9eTGU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612749549157908480\/XqJPbgwr_normal.jpg",
       "id" : 46164863,
       "verified" : false
     }

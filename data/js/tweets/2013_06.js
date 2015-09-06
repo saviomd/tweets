@@ -104,7 +104,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604263523858915329\/Y3uuXYUq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632200816401731584\/b-rekQxI_normal.png",
       "id" : 17369980,
       "verified" : true
     }
@@ -1032,13 +1032,13 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 526
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 387,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 600,
         "resize" : "fit",
@@ -1073,13 +1073,13 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 526
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 387,
           "resize" : "fit",
           "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 600,
           "resize" : "fit",

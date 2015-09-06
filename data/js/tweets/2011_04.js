@@ -541,7 +541,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "41773347",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1134623406\/DSC_0019profileTT_normal.JPG",
       "id" : 41773347,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 62270940058370048,
@@ -1435,12 +1435,6 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 3, 15 ],
       "id_str" : "223622368",
       "id" : 223622368
-    }, {
-      "name" : "MSN Movies",
-      "screen_name" : "MSNMovies",
-      "indices" : [ 97, 107 ],
-      "id_str" : "33940007",
-      "id" : 33940007
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1455,13 +1449,7 @@ Grailbird.data.tweets_2011_04 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/tap11.com\" rel=\"nofollow\"\u003ETap11\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "MSN Movies",
-        "screen_name" : "MSNMovies",
-        "indices" : [ 80, 90 ],
-        "id_str" : "33940007",
-        "id" : 33940007
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ {
         "text" : "FastFive",
@@ -1479,7 +1467,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583989564752195584\/TDkTtfPM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613460909579747328\/yQHdPU4__normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -1669,7 +1657,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583989564752195584\/TDkTtfPM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613460909579747328\/yQHdPU4__normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -1689,7 +1677,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -1726,7 +1714,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 54688709139890176,
     "created_at" : "2011-04-03 23:36:18 +0000",
     "user" : {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",

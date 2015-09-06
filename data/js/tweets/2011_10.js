@@ -656,7 +656,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556907824723161088\/6pEAR3vw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626137507512610816\/e_fXml7r_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -2386,7 +2386,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -2423,7 +2423,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 121871362557095937,
     "created_at" : "2011-10-06 08:56:11 +0000",
     "user" : {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",

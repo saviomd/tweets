@@ -3,39 +3,6 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8519130095",
-  "geo" : { },
-  "id_str" : "8519334622",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques Q merda heim... eu fiquei 3 dias, 1 semana depois de ter assinado. Bela primeira impress\u00E3o, n\u00E3o?",
-  "id" : 8519334622,
-  "in_reply_to_status_id" : 8519130095,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Diego",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],

@@ -285,13 +285,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kell Figueiredo",
-      "screen_name" : "Kell_Figueiredo",
-      "indices" : [ 0, 16 ],
-      "id_str" : "513673478",
-      "id" : 513673478
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -884,13 +878,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1302,12 +1290,6 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
       "id" : 28808110
-    }, {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 11, 21 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1339,12 +1321,6 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
       "id" : 28808110
-    }, {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 11, 21 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1403,13 +1379,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1982,6 +1952,187 @@ Grailbird.data.tweets_2010_10 =
   "text" : "Danilo Gentili ta botando p\/ foder com os pol\u00EDticos, muito foda hahaha http:\/\/danilogentili.zip.net\/arch2010-10-01_2010-10-31.html",
   "id" : 26134376852,
   "created_at" : "2010-10-02 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Vanessa Maia",
+      "screen_name" : "nessamaia",
+      "indices" : [ 0, 10 ],
+      "id_str" : "4879901",
+      "id" : 4879901
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "26046623303",
+  "geo" : { },
+  "id_str" : "26048017436",
+  "in_reply_to_user_id" : 4879901,
+  "text" : "@nessamaia Usa o Firefox em casa tb :P (n\u00E3o conhe\u00E7o nenhum al\u00E9m do xmarks q sincronize entre navegadores diferentes...)",
+  "id" : 26048017436,
+  "in_reply_to_status_id" : 26046623303,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "nessamaia",
+  "in_reply_to_user_id_str" : "4879901",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "luto",
+      "indices" : [ 133, 138 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26073730208",
+  "text" : "Compro a revista com o bon\u00E9 do urubu antes de chegar no trabalho e quando sento e abro o Firefox, o Zico se demitiu.... Corja de fdp #luto",
+  "id" : 26073730208,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rica Perrone",
+      "screen_name" : "RicaPerrone",
+      "indices" : [ 3, 15 ],
+      "id_str" : "36376988",
+      "id" : 36376988
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26076984019",
+  "text" : "RT @RicaPerrone: Agora, na\u00E7\u00E3o, eu queria ver os mesmos caras q vao la cobrar jogador ir na gavea pegar diretor pelo pesco\u00E7o....",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "26076654599",
+    "text" : "Agora, na\u00E7\u00E3o, eu queria ver os mesmos caras q vao la cobrar jogador ir na gavea pegar diretor pelo pesco\u00E7o....",
+    "id" : 26076654599,
+    "created_at" : "2010-10-01 12:54:57 +0000",
+    "user" : {
+      "name" : "Rica Perrone",
+      "screen_name" : "RicaPerrone",
+      "protected" : false,
+      "id_str" : "36376988",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626611299590500352\/0KhvoYcJ_normal.jpg",
+      "id" : 36376988,
+      "verified" : false
+    }
+  },
+  "id" : 26076984019,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26106546156",
+  "text" : "Trovejando e chovendo p\/ kct, vai cair o mundo hj....",
+  "id" : 26106546156,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Maria Santos",
+      "screen_name" : "mariafesantos",
+      "indices" : [ 0, 14 ],
+      "id_str" : "849201576",
+      "id" : 849201576
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26107702446",
+  "text" : "@mariafesantos Aqui em Botafogo j\u00E1 caiu.. Mas choveu menos do que as trovoadas prometiam.",
+  "id" : 26107702446,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26107725106",
+  "text" : "Esse cara \u00E9 foda http:\/\/www.downloadsquad.com\/2010\/10\/01\/future-of-the-web-how-firefox-panorama-and-aza-raskin-will-shape-the-web\/",
+  "id" : 26107725106,
+  "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

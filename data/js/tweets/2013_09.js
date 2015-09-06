@@ -382,7 +382,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "Riccioppo",
       "protected" : false,
       "id_str" : "49781558",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000850205021\/4d1da5773111fd73220a7209525ee96d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626374599886901248\/bwI9m-sw_normal.jpg",
       "id" : 49781558,
       "verified" : false
     }
@@ -417,14 +417,6 @@ Grailbird.data.tweets_2013_09 =
       "id" : 382520857949532161,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
       "sizes" : [ {
-        "h" : 514,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 291,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 878,
         "resize" : "fit",
         "w" : 1024
@@ -436,6 +428,14 @@ Grailbird.data.tweets_2013_09 =
         "h" : 878,
         "resize" : "fit",
         "w" : 1024
+      }, {
+        "h" : 514,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 291,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/u2u42yM2hk"
     } ],
@@ -461,14 +461,6 @@ Grailbird.data.tweets_2013_09 =
         "id" : 382520857949532161,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
         "sizes" : [ {
-          "h" : 514,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 291,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 878,
           "resize" : "fit",
           "w" : 1024
@@ -480,6 +472,14 @@ Grailbird.data.tweets_2013_09 =
           "h" : 878,
           "resize" : "fit",
           "w" : 1024
+        }, {
+          "h" : 514,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 291,
+          "resize" : "fit",
+          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/u2u42yM2hk"
       } ],
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469171480832380928\/rkZR1jIh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615392662233808896\/EtxjSSKk_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -1803,7 +1803,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "bombou",
       "protected" : false,
       "id_str" : "43275638",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596740598545133568\/acqvCSw0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629038617197985797\/kIjIQ8zc_normal.png",
       "id" : 43275638,
       "verified" : false
     }
@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "podcast discusser",
+      "name" : "wow, tu quoque much?",
       "screen_name" : "samknight1",
       "indices" : [ 3, 14 ],
       "id_str" : "38460804",
@@ -1838,25 +1838,25 @@ Grailbird.data.tweets_2013_09 =
       "id" : 377301207900889089,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
       "sizes" : [ {
-        "h" : 331,
+        "h" : 745,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 565,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 1348
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 565,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 187,
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 745,
+        "h" : 331,
         "resize" : "fit",
-        "w" : 1348
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/RN2yLLoikU"
     } ],
@@ -1879,25 +1879,25 @@ Grailbird.data.tweets_2013_09 =
         "id" : 377301207900889089,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
         "sizes" : [ {
-          "h" : 331,
+          "h" : 745,
           "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 565,
-          "resize" : "fit",
-          "w" : 1024
+          "w" : 1348
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
+          "h" : 565,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
           "h" : 187,
           "resize" : "fit",
           "w" : 340
         }, {
-          "h" : 745,
+          "h" : 331,
           "resize" : "fit",
-          "w" : 1348
+          "w" : 600
         } ],
         "display_url" : "pic.twitter.com\/RN2yLLoikU"
       } ],
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377301207896694784,
     "created_at" : "2013-09-10 05:23:12 +0000",
     "user" : {
-      "name" : "podcast discusser",
+      "name" : "wow, tu quoque much?",
       "screen_name" : "samknight1",
       "protected" : false,
       "id_str" : "38460804",
@@ -2522,7 +2522,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538565270621536256\/tKhwikp3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637828066664837121\/1SC7FXli_normal.jpg",
       "id" : 20,
       "verified" : true
     }

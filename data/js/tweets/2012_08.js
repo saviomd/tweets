@@ -798,13 +798,7 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1032,7 +1026,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571076061169868800\/2dDdk-Uh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615680132565504000\/EIpgSD2K_normal.png",
       "id" : 783214,
       "verified" : true
     }
@@ -1345,13 +1339,7 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1373,13 +1361,7 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1650,7 +1632,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604263523858915329\/Y3uuXYUq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632200816401731584\/b-rekQxI_normal.png",
       "id" : 17369980,
       "verified" : true
     }

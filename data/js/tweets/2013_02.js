@@ -742,18 +742,6 @@ Grailbird.data.tweets_2013_02 =
       "id" : 297481516898983936,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCDd3Q4CIAAoBru.jpg",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 797
-      }, {
-        "h" : 903,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 1200,
         "resize" : "fit",
         "w" : 797
@@ -761,6 +749,18 @@ Grailbird.data.tweets_2013_02 =
         "h" : 511,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 797
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 903,
+        "resize" : "fit",
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/lYspZV4Y"
     } ],
@@ -783,18 +783,6 @@ Grailbird.data.tweets_2013_02 =
         "id" : 297481516898983936,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCDd3Q4CIAAoBru.jpg",
         "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 797
-        }, {
-          "h" : 903,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 1200,
           "resize" : "fit",
           "w" : 797
@@ -802,6 +790,18 @@ Grailbird.data.tweets_2013_02 =
           "h" : 511,
           "resize" : "fit",
           "w" : 340
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 797
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 903,
+          "resize" : "fit",
+          "w" : 600
         } ],
         "display_url" : "pic.twitter.com\/lYspZV4Y"
       } ],
@@ -882,7 +882,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "15601887",
       "id" : 15601887
     }, {
-      "name" : "j\u00FClia",
+      "name" : "julieta-ta",
       "screen_name" : "jujubas",
       "indices" : [ 9, 17 ],
       "id_str" : "9143722",

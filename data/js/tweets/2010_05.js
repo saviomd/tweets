@@ -8,50 +8,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "15141491512",
-  "text" : "Fabr\u00EDcio sele\u00E7\u00E3o!! hahaha http:\/\/www.youtube.com\/watch?v=fr-tArI6pag",
-  "id" : 15141491512,
-  "created_at" : "2010-06-01 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15151856686",
-  "text" : "\"\u00C9 a Jaburu!!\" http:\/\/bit.ly\/9rmk0A",
-  "id" : 15151856686,
-  "created_at" : "2010-06-01 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "15130642749",
   "text" : "Q dia triste... fiquei chateado mesmo..",
   "id" : 15130642749,
@@ -443,7 +399,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604263523858915329\/Y3uuXYUq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632200816401731584\/b-rekQxI_normal.png",
       "id" : 17369980,
       "verified" : true
     }
@@ -506,13 +462,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

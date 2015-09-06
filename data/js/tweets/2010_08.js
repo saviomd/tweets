@@ -2,72 +2,6 @@ Grailbird.data.tweets_2010_08 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "22714987115",
-  "geo" : { },
-  "id_str" : "22715498694",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques \u00C9 bom?",
-  "id" : 22715498694,
-  "in_reply_to_status_id" : 22714987115,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "22716040862",
-  "geo" : { },
-  "id_str" : "22717469080",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques Porra, vcs tinham q usar o blippr, \u00E9 legalz\u00E3o.. S\u00F3 consegui convencer a Vanessa hahaha",
-  "id" : 22717469080,
-  "in_reply_to_status_id" : 22716040862,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -233,7 +167,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "RicaPerrone",
       "protected" : false,
       "id_str" : "36376988",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595260316956626944\/VHPw1olW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626611299590500352\/0KhvoYcJ_normal.jpg",
       "id" : 36376988,
       "verified" : false
     }
@@ -848,7 +782,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eae sumida!",
+      "name" : "Capit\u00E3o dos nudes",
       "screen_name" : "edutestosterona",
       "indices" : [ 3, 19 ],
       "id_str" : "19335309",
@@ -881,11 +815,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21451864023,
     "created_at" : "2010-08-18 01:47:05 +0000",
     "user" : {
-      "name" : "Eae sumida!",
+      "name" : "Capit\u00E3o dos nudes",
       "screen_name" : "edutestosterona",
       "protected" : false,
       "id_str" : "19335309",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588354317385658368\/N-YwsrMU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622295778564943876\/ixc6ND3I_normal.jpg",
       "id" : 19335309,
       "verified" : false
     }
@@ -1598,6 +1532,28 @@ Grailbird.data.tweets_2010_08 =
   "text" : "IE6 com menos de 5% de uso no Brasil, que bonito! Agora quem precisa morrer \u00E9 o 7!! http:\/\/bit.ly\/9Jysf2",
   "id" : 20156753144,
   "created_at" : "2010-08-02 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20086952196",
+  "text" : "Botafogo 2x1 Vit\u00F3ria, com gols aos 35min, 36 e 37 do segundo tempo?!?! Sinistro hahaha",
+  "id" : 20086952196,
+  "created_at" : "2010-08-01 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

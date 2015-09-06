@@ -872,7 +872,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "9swords",
       "protected" : false,
       "id_str" : "16662478",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563706801770987520\/XC5-fbJr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639247070768046080\/KT0fm479_normal.jpg",
       "id" : 16662478,
       "verified" : false
     }
@@ -1188,6 +1188,28 @@ Grailbird.data.tweets_2010_04 =
   "text" : "Fa\u00E7a uma coisa muito escrota e ganhe outra http:\/\/www.vasconapele.com.br",
   "id" : 11491416689,
   "created_at" : "2010-04-02 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11397826289",
+  "text" : "Tem dias q o \u00E1lcool \u00E9 necessidade.",
+  "id" : 11397826289,
+  "created_at" : "2010-04-01 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

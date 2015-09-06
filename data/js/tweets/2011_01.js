@@ -3,74 +3,6 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 0, 9 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "Vanessa Maia",
-      "screen_name" : "nessamaia",
-      "indices" : [ 10, 20 ],
-      "id_str" : "4879901",
-      "id" : 4879901
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "32235827211804672",
-  "in_reply_to_user_id" : 32441865,
-  "text" : "@nalannes @nessamaia Queria muito ver vcs jogando isso hahaha http:\/\/glo.bo\/fBpMQK",
-  "id" : 32235827211804672,
-  "created_at" : "2011-02-01 00:36:34 +0000",
-  "in_reply_to_screen_name" : "nalannes",
-  "in_reply_to_user_id_str" : "32441865",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 0, 9 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "32229939042320384",
-  "in_reply_to_user_id" : 32441865,
-  "text" : "@nalannes Vi o video do Pardalzinho, muito legal haha. V\u00EA esse aqui q te falei, do Zico com o filho do Costinha http:\/\/youtu.be\/VAyNx_IYQ2E",
-  "id" : 32229939042320384,
-  "created_at" : "2011-02-01 00:13:10 +0000",
-  "in_reply_to_screen_name" : "nalannes",
-  "in_reply_to_user_id_str" : "32441865",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Daniel Marques",
       "screen_name" : "danielcmarques",
       "indices" : [ 0, 15 ],
@@ -205,7 +137,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583989564752195584\/TDkTtfPM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613460909579747328\/yQHdPU4__normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -243,7 +175,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "17154146",
       "id" : 17154146
     }, {
-      "name" : "99T\u00E1xi",
+      "name" : "99Tarsis",
       "screen_name" : "tarsisazevedo",
       "indices" : [ 139, 140 ],
       "id_str" : "20527092",
@@ -275,7 +207,7 @@ Grailbird.data.tweets_2011_01 =
         "id_str" : "17154146",
         "id" : 17154146
       }, {
-        "name" : "99T\u00E1xi",
+        "name" : "99Tarsis",
         "screen_name" : "tarsisazevedo",
         "indices" : [ 114, 128 ],
         "id_str" : "20527092",
@@ -616,13 +548,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -843,13 +769,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Joey Netto",
-      "screen_name" : "JoeyNetto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2326536568",
-      "id" : 2326536568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1035,7 +955,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "RealMORTE",
       "protected" : false,
       "id_str" : "113194428",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577380844811210752\/BcIiJy2w_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616008812877713408\/CnAbXt1j_normal.jpg",
       "id" : 113194428,
       "verified" : false
     }
@@ -1898,7 +1818,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604263523858915329\/Y3uuXYUq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632200816401731584\/b-rekQxI_normal.png",
       "id" : 17369980,
       "verified" : true
     }

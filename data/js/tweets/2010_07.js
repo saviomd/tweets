@@ -2,28 +2,6 @@ Grailbird.data.tweets_2010_07 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20086952196",
-  "text" : "Botafogo 2x1 Vit\u00F3ria, com gols aos 35min, 36 e 37 do segundo tempo?!?! Sinistro hahaha",
-  "id" : 20086952196,
-  "created_at" : "2010-08-01 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Vanessa Maia",
       "screen_name" : "nessamaia",
@@ -1162,7 +1140,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "julianchaos",
       "protected" : false,
       "id_str" : "16607571",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/579892523562348544\/Eiga7IN__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630917889080578048\/HgQXSDhI_normal.jpg",
       "id" : 16607571,
       "verified" : false
     }
@@ -1801,6 +1779,127 @@ Grailbird.data.tweets_2010_07 =
   "text" : "#ChupaArgentina hahahahaha tomaram no cu bonito!!!",
   "id" : 17658744474,
   "created_at" : "2010-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17451657463",
+  "text" : "Genial http:\/\/bit.ly\/acRZ0i",
+  "id" : 17451657463,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Diego",
+      "screen_name" : "diegoneto",
+      "indices" : [ 0, 10 ],
+      "id_str" : "28808110",
+      "id" : 28808110
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17489266103",
+  "geo" : { },
+  "id_str" : "17489947871",
+  "in_reply_to_user_id" : 28808110,
+  "text" : "@diegoneto N\u00E3o fa\u00E7o id\u00E9ia... J\u00E1 q \u00E9 p\/ chutar, Baga\u00E7o?!?!",
+  "id" : 17489947871,
+  "in_reply_to_status_id" : 17489266103,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diegoneto",
+  "in_reply_to_user_id_str" : "28808110",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Diego",
+      "screen_name" : "diegoneto",
+      "indices" : [ 0, 10 ],
+      "id_str" : "28808110",
+      "id" : 28808110
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17515836581",
+  "geo" : { },
+  "id_str" : "17515954844",
+  "in_reply_to_user_id" : 28808110,
+  "text" : "@diegoneto Hahahahah eu vi a mensagem dele depois. Maneiro!! Tu ainda ta em Botafogo? Vamos marcar um almo\u00E7o n\u00F3s 3 porra!",
+  "id" : 17515954844,
+  "in_reply_to_status_id" : 17515836581,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diegoneto",
+  "in_reply_to_user_id_str" : "28808110",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Diego",
+      "screen_name" : "diegoneto",
+      "indices" : [ 0, 10 ],
+      "id_str" : "28808110",
+      "id" : 28808110
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17516036978",
+  "geo" : { },
+  "id_str" : "17519589057",
+  "in_reply_to_user_id" : 28808110,
+  "text" : "@diegoneto Rola pow, qualquer dia. S\u00F3 me ligar antes.",
+  "id" : 17519589057,
+  "in_reply_to_status_id" : 17516036978,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diegoneto",
+  "in_reply_to_user_id_str" : "28808110",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

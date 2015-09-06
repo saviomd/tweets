@@ -980,7 +980,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "vanissa",
       "protected" : false,
       "id_str" : "18245240",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582435675389181952\/uQrk4LWX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608615182089252864\/n8f8cpSm_normal.jpg",
       "id" : 18245240,
       "verified" : false
     }

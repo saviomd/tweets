@@ -266,7 +266,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "32441865",
       "id" : 32441865
     }, {
-      "name" : "LiquidaTim\u00E3o\u2122",
+      "name" : "Projeto N\u00E3o Recua\u2122",
       "screen_name" : "aureasouto",
       "indices" : [ 10, 21 ],
       "id_str" : "78987936",
@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 205806263542624258,
     "created_at" : "2012-05-24 23:43:31 +0000",
     "user" : {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "comu_palmeiras",
       "protected" : false,
       "id_str" : "49050724",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503735396657020928\/Y-WRYGR8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639570436137873412\/_04_pbW1_normal.jpg",
       "id" : 49050724,
       "verified" : false
     }
@@ -1294,7 +1294,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "Estadao",
       "protected" : false,
       "id_str" : "9317502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418731799611588608\/nHQDOl5v_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614571452998774784\/YQlqrOeY_normal.jpg",
       "id" : 9317502,
       "verified" : true
     }

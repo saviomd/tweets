@@ -860,13 +860,7 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Flamengo a vera",
-      "screen_name" : "flaconcept",
-      "indices" : [ 20, 31 ],
-      "id_str" : "96583211",
-      "id" : 96583211
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -182,6 +182,82 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Jos\u00E9 Morais",
+      "screen_name" : "jmoraisf",
+      "indices" : [ 3, 12 ],
+      "id_str" : "90243382",
+      "id" : 90243382
+    }, {
+      "name" : "MacMagazine.com.br",
+      "screen_name" : "MacMagazine",
+      "indices" : [ 14, 26 ],
+      "id_str" : "15056952",
+      "id" : 15056952
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/Iorh8FRf",
+      "expanded_url" : "http:\/\/www.rjfc.net\/wp-content\/uploads\/2012\/10\/apple_legal_text_css.png",
+      "display_url" : "rjfc.net\/wp-content\/upl\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "261462639094411264",
+  "text" : "RT @jmoraisf: @MacMagazine easter egg no site da apple: eles usam a classe css SOSUMI (so sue me) pros textos de copyright. http:\/\/t.co\/ ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "MacMagazine.com.br",
+        "screen_name" : "MacMagazine",
+        "indices" : [ 0, 12 ],
+        "id_str" : "15056952",
+        "id" : 15056952
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 110, 130 ],
+        "url" : "http:\/\/t.co\/Iorh8FRf",
+        "expanded_url" : "http:\/\/www.rjfc.net\/wp-content\/uploads\/2012\/10\/apple_legal_text_css.png",
+        "display_url" : "rjfc.net\/wp-content\/upl\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "261461319339888640",
+    "in_reply_to_user_id" : 15056952,
+    "text" : "@MacMagazine easter egg no site da apple: eles usam a classe css SOSUMI (so sue me) pros textos de copyright. http:\/\/t.co\/Iorh8FRf",
+    "id" : 261461319339888640,
+    "created_at" : "2012-10-25 13:36:50 +0000",
+    "in_reply_to_screen_name" : "MacMagazine",
+    "in_reply_to_user_id_str" : "15056952",
+    "user" : {
+      "name" : "Jos\u00E9 Morais",
+      "screen_name" : "jmoraisf",
+      "protected" : false,
+      "id_str" : "90243382",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619254679403237377\/tRbIf2By_normal.jpg",
+      "id" : 90243382,
+      "verified" : false
+    }
+  },
+  "id" : 261462639094411264,
+  "created_at" : "2012-10-25 13:42:05 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Andr\u00E9 Tschaffon",
       "screen_name" : "andretschaffon",
       "indices" : [ 0, 15 ],
@@ -264,6 +340,14 @@ Grailbird.data.tweets_2012_10 =
         "resize" : "fit",
         "w" : 600
       }, {
+        "h" : 305,
+        "resize" : "fit",
+        "w" : 651
+      }, {
+        "h" : 305,
+        "resize" : "fit",
+        "w" : 651
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -271,14 +355,6 @@ Grailbird.data.tweets_2012_10 =
         "h" : 159,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 305,
-        "resize" : "fit",
-        "w" : 651
-      }, {
-        "h" : 305,
-        "resize" : "fit",
-        "w" : 651
       } ],
       "display_url" : "pic.twitter.com\/V7ONMXMd"
     } ],
@@ -305,6 +381,14 @@ Grailbird.data.tweets_2012_10 =
           "resize" : "fit",
           "w" : 600
         }, {
+          "h" : 305,
+          "resize" : "fit",
+          "w" : 651
+        }, {
+          "h" : 305,
+          "resize" : "fit",
+          "w" : 651
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -312,14 +396,6 @@ Grailbird.data.tweets_2012_10 =
           "h" : 159,
           "resize" : "fit",
           "w" : 340
-        }, {
-          "h" : 305,
-          "resize" : "fit",
-          "w" : 651
-        }, {
-          "h" : 305,
-          "resize" : "fit",
-          "w" : 651
         } ],
         "display_url" : "pic.twitter.com\/V7ONMXMd"
       } ],

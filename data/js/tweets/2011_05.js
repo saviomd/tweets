@@ -360,7 +360,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -397,7 +397,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 73640620207509504,
     "created_at" : "2011-05-26 06:44:26 +0000",
     "user" : {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
@@ -1032,7 +1032,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -1059,7 +1059,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 68529314144067584,
     "created_at" : "2011-05-12 04:13:56 +0000",
     "user" : {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
@@ -1590,7 +1590,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "developer",
       "protected" : false,
       "id_str" : "778325",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514165992180576256\/uDa8bMs5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618224236046348288\/e9zA8jdK_normal.png",
       "id" : 778325,
       "verified" : false
     }

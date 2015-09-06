@@ -44,7 +44,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "ZURBfoundation",
       "protected" : false,
       "id_str" : "360434586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540601078916452352\/gIke9rjv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639914587240828928\/J3V1CugP_normal.png",
       "id" : 360434586,
       "verified" : false
     }
@@ -64,7 +64,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -113,7 +113,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 218511035227836416,
     "created_at" : "2012-06-29 01:07:45 +0000",
     "user" : {
-      "name" : "V\u00EDtor",
+      "name" : "V\u00EDtor Louren\u00E7o",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
@@ -257,7 +257,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "googlechrome",
       "protected" : false,
       "id_str" : "56505125",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1281767185\/product_logo_256_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639149491690471424\/slowQFCK_normal.png",
       "id" : 56505125,
       "verified" : true
     }
