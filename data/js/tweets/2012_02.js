@@ -457,7 +457,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eduardo de Matos",
+      "name" : "Eduardo Matos",
       "screen_name" : "matos_eduardo",
       "indices" : [ 0, 14 ],
       "id_str" : "146297924",

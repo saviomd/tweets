@@ -1,5 +1,27 @@
 Grailbird.data.tweets_2010_03 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11397826289",
+  "text" : "Tem dias q o \u00E1lcool \u00E9 necessidade.",
+  "id" : 11397826289,
+  "created_at" : "2010-04-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -838,79 +860,6 @@ Grailbird.data.tweets_2010_03 =
   "text" : "Caraca a\u00ED, os caras t\u00E3o MUITO velhos!! http:\/\/www.youtube.com\/watch?v=GBU9XYZCvzY",
   "id" : 9853587926,
   "created_at" : "2010-03-02 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9834562829",
-  "text" : "Obina n\u00E3o existe hahaha http:\/\/www.youtube.com\/watch?v=Hf7WUeIbWaI",
-  "id" : 9834562829,
-  "created_at" : "2010-03-01 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tiago",
-      "screen_name" : "CR_Flamengo",
-      "indices" : [ 3, 15 ],
-      "id_str" : "63763277",
-      "id" : 63763277
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9835391900",
-  "text" : "RT @CR_Flamengo: Leia na Ag\u00EAnciaFla: Presskit dispon\u00EDvel para o torcedor http:\/\/bit.ly\/dek9yI",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003Etwitterfeed\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "9835068419",
-    "text" : "Leia na Ag\u00EAnciaFla: Presskit dispon\u00EDvel para o torcedor http:\/\/bit.ly\/dek9yI",
-    "id" : 9835068419,
-    "created_at" : "2010-03-01 18:04:10 +0000",
-    "user" : {
-      "name" : "Flamengo",
-      "screen_name" : "Flamengo",
-      "protected" : false,
-      "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514814823914172416\/THfYpnoK_normal.jpeg",
-      "id" : 59591856,
-      "verified" : true
-    }
-  },
-  "id" : 9835391900,
-  "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

@@ -471,7 +471,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Heilmann ",
+      "name" : "Christian Heilmann",
       "screen_name" : "codepo8",
       "indices" : [ 3, 11 ],
       "id_str" : "13567",
@@ -510,7 +510,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 85853047988826112,
     "created_at" : "2011-06-28 23:32:16 +0000",
     "user" : {
-      "name" : "Christian Heilmann ",
+      "name" : "Christian Heilmann",
       "screen_name" : "codepo8",
       "protected" : false,
       "id_str" : "13567",

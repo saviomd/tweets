@@ -417,6 +417,14 @@ Grailbird.data.tweets_2013_09 =
       "id" : 382520857949532161,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
       "sizes" : [ {
+        "h" : 514,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 878,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
         "h" : 878,
         "resize" : "fit",
         "w" : 1024
@@ -424,14 +432,6 @@ Grailbird.data.tweets_2013_09 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 878,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 514,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 291,
         "resize" : "fit",
@@ -461,6 +461,14 @@ Grailbird.data.tweets_2013_09 =
         "id" : 382520857949532161,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
         "sizes" : [ {
+          "h" : 514,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 878,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
           "h" : 878,
           "resize" : "fit",
           "w" : 1024
@@ -468,14 +476,6 @@ Grailbird.data.tweets_2013_09 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 878,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 514,
-          "resize" : "fit",
-          "w" : 600
         }, {
           "h" : 291,
           "resize" : "fit",
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "indices" : [ 3, 12 ],
       "id_str" : "74594552",
@@ -562,7 +562,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 382417889548333056,
     "created_at" : "2013-09-24 08:15:04 +0000",
     "user" : {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wow, tu quoque much?",
+      "name" : "Folks,",
       "screen_name" : "samknight1",
       "indices" : [ 3, 14 ],
       "id_str" : "38460804",
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377301207896694784,
     "created_at" : "2013-09-10 05:23:12 +0000",
     "user" : {
-      "name" : "wow, tu quoque much?",
+      "name" : "Folks,",
       "screen_name" : "samknight1",
       "protected" : false,
       "id_str" : "38460804",

@@ -143,17 +143,17 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 589,
-        "resize" : "fit",
-        "w" : 599
-      }, {
-        "h" : 589,
-        "resize" : "fit",
-        "w" : 599
-      }, {
         "h" : 334,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 589,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 589,
+        "resize" : "fit",
+        "w" : 599
       } ],
       "display_url" : "pic.twitter.com\/aTheSl9Gbs"
     } ],
@@ -190,17 +190,17 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 589,
-          "resize" : "fit",
-          "w" : 599
-        }, {
-          "h" : 589,
-          "resize" : "fit",
-          "w" : 599
-        }, {
           "h" : 334,
           "resize" : "fit",
           "w" : 340
+        }, {
+          "h" : 589,
+          "resize" : "fit",
+          "w" : 599
+        }, {
+          "h" : 589,
+          "resize" : "fit",
+          "w" : 599
         } ],
         "display_url" : "pic.twitter.com\/aTheSl9Gbs"
       } ],
@@ -217,7 +217,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "perazolo",
       "protected" : false,
       "id_str" : "91936966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616996096993312770\/5mCPVhlR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672106920220745728\/oea-3q0F_normal.jpg",
       "id" : 91936966,
       "verified" : false
     }
@@ -283,13 +283,13 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 720
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 191,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 405,
         "resize" : "fit",
@@ -329,13 +329,13 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 720
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 191,
           "resize" : "fit",
           "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 405,
           "resize" : "fit",
@@ -793,14 +793,6 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -808,6 +800,14 @@ Grailbird.data.tweets_2014_11 =
         "h" : 768,
         "resize" : "fit",
         "w" : 1024
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/kMLFl9n51N"
     } ],
@@ -852,14 +852,6 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 340
         }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -867,6 +859,14 @@ Grailbird.data.tweets_2014_11 =
           "h" : 768,
           "resize" : "fit",
           "w" : 1024
+        }, {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
         } ],
         "display_url" : "pic.twitter.com\/kMLFl9n51N"
       } ],
@@ -994,7 +994,37 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "19114743",
       "id" : 19114743
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
+      "indices" : [ 117, 139 ],
+      "url" : "http:\/\/t.co\/uEuyzuqF7v",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
+      "id_str" : "532170605492072448",
+      "id" : 532170605492072448,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
+      "sizes" : [ {
+        "h" : 180,
+        "resize" : "fit",
+        "w" : 516
+      }, {
+        "h" : 118,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 180,
+        "resize" : "fit",
+        "w" : 516
+      }, {
+        "h" : 180,
+        "resize" : "fit",
+        "w" : 516
+      } ],
+      "display_url" : "pic.twitter.com\/uEuyzuqF7v"
+    } ],
     "hashtags" : [ {
       "text" : "NumberOfTheBeast",
       "indices" : [ 87, 104 ]
@@ -1002,12 +1032,7 @@ Grailbird.data.tweets_2014_11 =
       "text" : "IronMaiden",
       "indices" : [ 105, 116 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 117, 139 ],
-      "url" : "http:\/\/t.co\/uEuyzuqF7v",
-      "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
-      "display_url" : "pic.twitter.com\/uEuyzuqF7v"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "532199056345276416",
@@ -1028,7 +1053,37 @@ Grailbird.data.tweets_2014_11 =
         "id_str" : "19114743",
         "id" : 19114743
       } ],
-      "media" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
+        "indices" : [ 101, 123 ],
+        "url" : "http:\/\/t.co\/uEuyzuqF7v",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
+        "id_str" : "532170605492072448",
+        "id" : 532170605492072448,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
+        "sizes" : [ {
+          "h" : 180,
+          "resize" : "fit",
+          "w" : 516
+        }, {
+          "h" : 118,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 180,
+          "resize" : "fit",
+          "w" : 516
+        }, {
+          "h" : 180,
+          "resize" : "fit",
+          "w" : 516
+        } ],
+        "display_url" : "pic.twitter.com\/uEuyzuqF7v"
+      } ],
       "hashtags" : [ {
         "text" : "NumberOfTheBeast",
         "indices" : [ 71, 88 ]
@@ -1036,12 +1091,7 @@ Grailbird.data.tweets_2014_11 =
         "text" : "IronMaiden",
         "indices" : [ 89, 100 ]
       } ],
-      "urls" : [ {
-        "indices" : [ 101, 123 ],
-        "url" : "http:\/\/t.co\/uEuyzuqF7v",
-        "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
-        "display_url" : "pic.twitter.com\/uEuyzuqF7v"
-      } ]
+      "urls" : [ ]
     },
     "geo" : { },
     "id_str" : "532172413552041984",
@@ -1230,17 +1280,17 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 349,
-        "resize" : "fit",
-        "w" : 626
-      }, {
-        "h" : 349,
-        "resize" : "fit",
-        "w" : 626
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 349,
+        "resize" : "fit",
+        "w" : 626
+      }, {
+        "h" : 349,
+        "resize" : "fit",
+        "w" : 626
       } ],
       "display_url" : "pic.twitter.com\/HHoc4T4Jo6"
     } ],
@@ -1288,17 +1338,17 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 600
         }, {
-          "h" : 349,
-          "resize" : "fit",
-          "w" : 626
-        }, {
-          "h" : 349,
-          "resize" : "fit",
-          "w" : 626
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 349,
+          "resize" : "fit",
+          "w" : 626
+        }, {
+          "h" : 349,
+          "resize" : "fit",
+          "w" : 626
         } ],
         "display_url" : "pic.twitter.com\/HHoc4T4Jo6"
       } ],

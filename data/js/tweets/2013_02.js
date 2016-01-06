@@ -818,7 +818,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "staychiIl",
       "protected" : false,
       "id_str" : "290754668",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551872817202233346\/L7H7Nlcb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661924883257909248\/MGL_Nl77_normal.jpg",
       "id" : 290754668,
       "verified" : false
     }

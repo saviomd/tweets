@@ -70,7 +70,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "206348770",
       "id" : 206348770
     }, {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "indices" : [ 64, 73 ],
       "id_str" : "74594552",
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2013_08 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "App Store ",
+        "name" : "App Store",
         "screen_name" : "AppStore",
         "indices" : [ 46, 55 ],
         "id_str" : "74594552",
@@ -137,7 +137,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Cut_The_Rope",
       "protected" : false,
       "id_str" : "206348770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580011642102112256\/Rw-4RRsF_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680040646758019074\/FXSsS1O-_normal.jpg",
       "id" : 206348770,
       "verified" : false
     }
@@ -308,12 +308,6 @@ Grailbird.data.tweets_2013_08 =
       "indices" : [ 39, 49 ],
       "id_str" : "16256918",
       "id" : 16256918
-    }, {
-      "name" : "Leonardo Quirino",
-      "screen_name" : "LouresLeo",
-      "indices" : [ 50, 60 ],
-      "id_str" : "69451221",
-      "id" : 69451221
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -758,7 +752,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615680132565504000\/EIpgSD2K_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666407537084796928\/YBGgi9BO_normal.png",
       "id" : 783214,
       "verified" : true
     }
@@ -1962,7 +1956,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "pingdom",
       "protected" : false,
       "id_str" : "15674759",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2669794458\/74c50c2938accf866de4cf41fefd3b9c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682142880656404480\/0zjpqoOZ_normal.png",
       "id" : 15674759,
       "verified" : true
     }

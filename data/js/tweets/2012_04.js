@@ -360,7 +360,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "flapravaler",
       "protected" : false,
       "id_str" : "235964540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3072087460\/18219ea8cd939c8e5b82cad866963f0a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/673916457269329920\/9SBZI1iD_normal.png",
       "id" : 235964540,
       "verified" : false
     }

@@ -204,7 +204,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "jschuller",
       "protected" : false,
       "id_str" : "11584132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635293045982806016\/SJ96xoQu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/670446718371033088\/7wDIj8EX_normal.png",
       "id" : 11584132,
       "verified" : false
     }
@@ -490,7 +490,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -517,7 +517,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273134890604703745,
     "created_at" : "2012-11-26 18:43:27 +0000",
     "user" : {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",

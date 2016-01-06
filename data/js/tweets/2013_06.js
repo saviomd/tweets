@@ -3,7 +3,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eduardo de Matos",
+      "name" : "Eduardo Matos",
       "screen_name" : "matos_eduardo",
       "indices" : [ 0, 14 ],
       "id_str" : "146297924",
@@ -104,7 +104,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632200816401731584\/b-rekQxI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677818808560676864\/my9t3roI_normal.png",
       "id" : 17369980,
       "verified" : true
     }
@@ -1552,7 +1552,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "5639932",
       "id" : 5639932
     }, {
-      "name" : "BandNews FM - 94,9 ",
+      "name" : "BandNews FM - 94,9",
       "screen_name" : "bandnewsfmrio",
       "indices" : [ 27, 41 ],
       "id_str" : "83634722",
@@ -1677,7 +1677,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527884301434511360\/SMqnLsuW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651937992114880512\/eksuZdeK_normal.png",
       "id" : 14724725,
       "verified" : true
     }

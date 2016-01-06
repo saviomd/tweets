@@ -44,7 +44,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "ZURBfoundation",
       "protected" : false,
       "id_str" : "360434586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639914587240828928\/J3V1CugP_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667408986333839360\/nBnTLP-t_normal.png",
       "id" : 360434586,
       "verified" : false
     }
@@ -439,7 +439,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "MurfAD",
       "protected" : false,
       "id_str" : "22279004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/559091149718052864\/TVCgL3mQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664841753636139008\/nwB1mN2E_normal.jpg",
       "id" : 22279004,
       "verified" : false
     }
@@ -2129,7 +2129,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -2166,7 +2166,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 210460876086587392,
     "created_at" : "2012-06-06 19:59:17 +0000",
     "user" : {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -2644,7 +2644,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -2681,7 +2681,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 208568447217582080,
     "created_at" : "2012-06-01 14:39:27 +0000",
     "user" : {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",

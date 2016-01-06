@@ -71,7 +71,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rafucko",
       "protected" : false,
       "id_str" : "36823059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/594210375811342336\/NZEJBbCH_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/654648988423970816\/HrsZl19t_normal.jpg",
       "id" : 36823059,
       "verified" : false
     }
@@ -665,7 +665,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vision Implementer  ",
+      "name" : "#VisionImplementor",
       "screen_name" : "Tyrese",
       "indices" : [ 3, 10 ],
       "id_str" : "24621955",
@@ -704,11 +704,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 290034516549062656,
     "created_at" : "2013-01-12 09:56:31 +0000",
     "user" : {
-      "name" : "Vision Implementer  ",
+      "name" : "#VisionImplementor",
       "screen_name" : "Tyrese",
       "protected" : false,
       "id_str" : "24621955",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622918551645499392\/BY6NJkGG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/673796316095455232\/mLNp3acG_normal.jpg",
       "id" : 24621955,
       "verified" : true
     }

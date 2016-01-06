@@ -2,6 +2,79 @@ Grailbird.data.tweets_2010_02 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9834562829",
+  "text" : "Obina n\u00E3o existe hahaha http:\/\/www.youtube.com\/watch?v=Hf7WUeIbWaI",
+  "id" : 9834562829,
+  "created_at" : "2010-03-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tiago",
+      "screen_name" : "CR_Flamengo",
+      "indices" : [ 3, 15 ],
+      "id_str" : "63763277",
+      "id" : 63763277
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9835391900",
+  "text" : "RT @CR_Flamengo: Leia na Ag\u00EAnciaFla: Presskit dispon\u00EDvel para o torcedor http:\/\/bit.ly\/dek9yI",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003Etwitterfeed\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "9835068419",
+    "text" : "Leia na Ag\u00EAnciaFla: Presskit dispon\u00EDvel para o torcedor http:\/\/bit.ly\/dek9yI",
+    "id" : 9835068419,
+    "created_at" : "2010-03-01 18:04:10 +0000",
+    "user" : {
+      "name" : "Flamengo",
+      "screen_name" : "Flamengo",
+      "protected" : false,
+      "id_str" : "59591856",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514814823914172416\/THfYpnoK_normal.jpeg",
+      "id" : 59591856,
+      "verified" : true
+    }
+  },
+  "id" : 9835391900,
+  "created_at" : "2010-03-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Marques",
       "screen_name" : "danielcmarques",
@@ -807,39 +880,6 @@ Grailbird.data.tweets_2010_02 =
   "text" : "RT: @FelipeBSR: Hexa est\u00E1 nas m\u00E3os. Votem a\u00ED galera: http:\/\/www.camiseteria.com\/design.aspx?did=35196 :)",
   "id" : 8597772652,
   "created_at" : "2010-02-03 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8519130095",
-  "geo" : { },
-  "id_str" : "8519334622",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques Q merda heim... eu fiquei 3 dias, 1 semana depois de ter assinado. Bela primeira impress\u00E3o, n\u00E3o?",
-  "id" : 8519334622,
-  "in_reply_to_status_id" : 8519130095,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

@@ -68,7 +68,13 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u0627\u0628\u0648 \u0632\u064A\u0627\u062F",
+      "screen_name" : "DiogoVn",
+      "indices" : [ 0, 8 ],
+      "id_str" : "4030612517",
+      "id" : 4030612517
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -584,7 +590,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rica Perrone",
+      "name" : "Rica Perrone \u26BD\uFE0F",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -969,7 +975,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rica Perrone",
+      "name" : "Rica Perrone \u26BD\uFE0F",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -1008,7 +1014,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "28808110",
       "id" : 28808110
     }, {
-      "name" : "Rica Perrone",
+      "name" : "Rica Perrone \u26BD\uFE0F",
       "screen_name" : "RicaPerrone",
       "indices" : [ 46, 58 ],
       "id_str" : "36376988",

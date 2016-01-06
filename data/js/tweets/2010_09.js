@@ -2,6 +2,187 @@ Grailbird.data.tweets_2010_09 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Vanessa Maia",
+      "screen_name" : "nessamaia",
+      "indices" : [ 0, 10 ],
+      "id_str" : "4879901",
+      "id" : 4879901
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "26046623303",
+  "geo" : { },
+  "id_str" : "26048017436",
+  "in_reply_to_user_id" : 4879901,
+  "text" : "@nessamaia Usa o Firefox em casa tb :P (n\u00E3o conhe\u00E7o nenhum al\u00E9m do xmarks q sincronize entre navegadores diferentes...)",
+  "id" : 26048017436,
+  "in_reply_to_status_id" : 26046623303,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "nessamaia",
+  "in_reply_to_user_id_str" : "4879901",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "luto",
+      "indices" : [ 133, 138 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26073730208",
+  "text" : "Compro a revista com o bon\u00E9 do urubu antes de chegar no trabalho e quando sento e abro o Firefox, o Zico se demitiu.... Corja de fdp #luto",
+  "id" : 26073730208,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rica Perrone \u26BD\uFE0F",
+      "screen_name" : "RicaPerrone",
+      "indices" : [ 3, 15 ],
+      "id_str" : "36376988",
+      "id" : 36376988
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26076984019",
+  "text" : "RT @RicaPerrone: Agora, na\u00E7\u00E3o, eu queria ver os mesmos caras q vao la cobrar jogador ir na gavea pegar diretor pelo pesco\u00E7o....",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "26076654599",
+    "text" : "Agora, na\u00E7\u00E3o, eu queria ver os mesmos caras q vao la cobrar jogador ir na gavea pegar diretor pelo pesco\u00E7o....",
+    "id" : 26076654599,
+    "created_at" : "2010-10-01 12:54:57 +0000",
+    "user" : {
+      "name" : "Rica Perrone \u26BD\uFE0F",
+      "screen_name" : "RicaPerrone",
+      "protected" : false,
+      "id_str" : "36376988",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675828447365722112\/yeOtgpCA_normal.jpg",
+      "id" : 36376988,
+      "verified" : true
+    }
+  },
+  "id" : 26076984019,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26106546156",
+  "text" : "Trovejando e chovendo p\/ kct, vai cair o mundo hj....",
+  "id" : 26106546156,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Maria Santos",
+      "screen_name" : "mariafesantos",
+      "indices" : [ 0, 14 ],
+      "id_str" : "849201576",
+      "id" : 849201576
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26107702446",
+  "text" : "@mariafesantos Aqui em Botafogo j\u00E1 caiu.. Mas choveu menos do que as trovoadas prometiam.",
+  "id" : 26107702446,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26107725106",
+  "text" : "Esse cara \u00E9 foda http:\/\/www.downloadsquad.com\/2010\/10\/01\/future-of-the-web-how-firefox-panorama-and-aza-raskin-will-shape-the-web\/",
+  "id" : 26107725106,
+  "created_at" : "2010-10-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1410,7 +1591,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rica Perrone",
+      "name" : "Rica Perrone \u26BD\uFE0F",
       "screen_name" : "RicaPerrone",
       "indices" : [ 3, 15 ],
       "id_str" : "36376988",
@@ -1437,83 +1618,17 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22810860990,
     "created_at" : "2010-09-02 16:10:52 +0000",
     "user" : {
-      "name" : "Rica Perrone",
+      "name" : "Rica Perrone \u26BD\uFE0F",
       "screen_name" : "RicaPerrone",
       "protected" : false,
       "id_str" : "36376988",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626611299590500352\/0KhvoYcJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675828447365722112\/yeOtgpCA_normal.jpg",
       "id" : 36376988,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 22813770947,
   "created_at" : "2010-09-02 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "22714987115",
-  "geo" : { },
-  "id_str" : "22715498694",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques \u00C9 bom?",
-  "id" : 22715498694,
-  "in_reply_to_status_id" : 22714987115,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "22716040862",
-  "geo" : { },
-  "id_str" : "22717469080",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques Porra, vcs tinham q usar o blippr, \u00E9 legalz\u00E3o.. S\u00F3 consegui convencer a Vanessa hahaha",
-  "id" : 22717469080,
-  "in_reply_to_status_id" : 22716040862,
-  "created_at" : "2010-09-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

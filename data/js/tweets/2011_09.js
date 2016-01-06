@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "hermioneway",
       "protected" : false,
       "id_str" : "9950972",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2828557363\/06e030950a2a5ad2d18e4a1b944aad50_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648524594207424512\/0h3Td8PI_normal.jpg",
       "id" : 9950972,
       "verified" : false
     }
@@ -2411,7 +2411,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "indices" : [ 3, 12 ],
       "id_str" : "74594552",
@@ -2478,7 +2478,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 113805446330073089,
     "created_at" : "2011-09-14 02:45:07 +0000",
     "user" : {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
@@ -3491,7 +3491,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "41194626",
       "id" : 41194626
     }, {
-      "name" : "Estadao",
+      "name" : "Estad\u00E3o",
       "screen_name" : "Estadao",
       "indices" : [ 127, 135 ],
       "id_str" : "9317502",
@@ -3513,7 +3513,7 @@ Grailbird.data.tweets_2011_09 =
     "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Estadao",
+        "name" : "Estad\u00E3o",
         "screen_name" : "Estadao",
         "indices" : [ 111, 119 ],
         "id_str" : "9317502",

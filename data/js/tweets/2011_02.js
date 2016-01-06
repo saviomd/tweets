@@ -450,7 +450,13 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u0627\u0628\u0648 \u0632\u064A\u0627\u062F",
+      "screen_name" : "DiogoVn",
+      "indices" : [ 0, 8 ],
+      "id_str" : "4030612517",
+      "id" : 4030612517
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -703,7 +709,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rica Perrone",
+      "name" : "Rica Perrone \u26BD\uFE0F",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -2214,7 +2220,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Victor_Lucas",
       "protected" : false,
       "id_str" : "15177163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635318650661044224\/zJkpVuMu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660520192619900928\/yq7PIijI_normal.jpg",
       "id" : 15177163,
       "verified" : true
     }
@@ -2553,74 +2559,6 @@ Grailbird.data.tweets_2011_02 =
   },
   "id" : 32381377655607296,
   "created_at" : "2011-02-01 10:14:56 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 0, 9 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "Vanessa Maia",
-      "screen_name" : "nessamaia",
-      "indices" : [ 10, 20 ],
-      "id_str" : "4879901",
-      "id" : 4879901
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "32235827211804672",
-  "in_reply_to_user_id" : 32441865,
-  "text" : "@nalannes @nessamaia Queria muito ver vcs jogando isso hahaha http:\/\/glo.bo\/fBpMQK",
-  "id" : 32235827211804672,
-  "created_at" : "2011-02-01 00:36:34 +0000",
-  "in_reply_to_screen_name" : "nalannes",
-  "in_reply_to_user_id_str" : "32441865",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 0, 9 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "32229939042320384",
-  "in_reply_to_user_id" : 32441865,
-  "text" : "@nalannes Vi o video do Pardalzinho, muito legal haha. V\u00EA esse aqui q te falei, do Zico com o filho do Costinha http:\/\/youtu.be\/VAyNx_IYQ2E",
-  "id" : 32229939042320384,
-  "created_at" : "2011-02-01 00:13:10 +0000",
-  "in_reply_to_screen_name" : "nalannes",
-  "in_reply_to_user_id_str" : "32441865",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

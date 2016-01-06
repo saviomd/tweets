@@ -590,7 +590,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "adidasfootball",
       "protected" : false,
       "id_str" : "219683269",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637250939993358336\/OgL-O76a_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671610995815661568\/EwUuM1mi_normal.jpg",
       "id" : 219683269,
       "verified" : true
     }
@@ -1031,7 +1031,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "joemccann",
       "protected" : false,
       "id_str" : "14814762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000776233859\/b1575c7e4646a5c7a31cef89da8a7a99_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646310956142751748\/QEDs8WtN_normal.jpg",
       "id" : 14814762,
       "verified" : false
     }

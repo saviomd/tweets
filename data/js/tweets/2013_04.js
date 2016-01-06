@@ -262,7 +262,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jasonsantamaria",
       "protected" : false,
       "id_str" : "60273",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549701565842350080\/-1iCuatJ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675370839404101632\/jiu3tOoC_normal.png",
       "id" : 60273,
       "verified" : true
     }
@@ -1368,7 +1368,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jaobrunelli",
       "protected" : false,
       "id_str" : "8236812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581677873804759040\/OMJ1W7pM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653595687389667329\/lH_Cnyc8_normal.jpg",
       "id" : 8236812,
       "verified" : false
     }
@@ -1415,7 +1415,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Heilmann ",
+      "name" : "Christian Heilmann",
       "screen_name" : "codepo8",
       "indices" : [ 3, 11 ],
       "id_str" : "13567",
@@ -1452,7 +1452,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 321749715525976064,
     "created_at" : "2013-04-09 22:21:24 +0000",
     "user" : {
-      "name" : "Christian Heilmann ",
+      "name" : "Christian Heilmann",
       "screen_name" : "codepo8",
       "protected" : false,
       "id_str" : "13567",

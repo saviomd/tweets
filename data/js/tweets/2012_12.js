@@ -567,7 +567,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "21636840",
       "id" : 21636840
     }, {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "indices" : [ 42, 51 ],
       "id_str" : "74594552",
@@ -589,7 +589,7 @@ Grailbird.data.tweets_2012_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "App Store ",
+        "name" : "App Store",
         "screen_name" : "AppStore",
         "indices" : [ 27, 36 ],
         "id_str" : "74594552",
@@ -903,7 +903,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "fat",
       "protected" : false,
       "id_str" : "16521996",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633908271795929088\/Yt9ZoAcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665059836321665024\/5xDnQpdK_normal.jpg",
       "id" : 16521996,
       "verified" : false
     }
@@ -1297,7 +1297,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Viljami S.",
+      "name" : "Viljami Salminen",
       "screen_name" : "viljamis",
       "indices" : [ 3, 12 ],
       "id_str" : "29015597",
@@ -1324,11 +1324,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 274949862620004352,
     "created_at" : "2012-12-01 18:55:30 +0000",
     "user" : {
-      "name" : "Viljami S.",
+      "name" : "Viljami Salminen",
       "screen_name" : "viljamis",
       "protected" : false,
       "id_str" : "29015597",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477454825127284736\/ogWbEGL7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671595827740086273\/wCUWq-1S_normal.png",
       "id" : 29015597,
       "verified" : false
     }

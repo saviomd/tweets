@@ -4,6 +4,160 @@ Grailbird.data.tweets_2009_08 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3678601272",
+  "text" : "Al\u00E9m do tornozelo, agora \u00E9 o joelho doendo. E eu nem joguei bola esse fds (altinho na praia n\u00E3o conta n\u00E9). To ficando velho..",
+  "id" : 3678601272,
+  "created_at" : "2009-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel Marques",
+      "screen_name" : "danielcmarques",
+      "indices" : [ 0, 15 ],
+      "id_str" : "5639932",
+      "id" : 5639932
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "3687690610",
+  "geo" : { },
+  "id_str" : "3687842511",
+  "in_reply_to_user_id" : 5639932,
+  "text" : "@danielcmarques To com (um pouco s\u00F3) de pena de tu hahaha. Como se o t\u00E9cnico fosse o problema n\u00E9.. nego n\u00E3o aprende.",
+  "id" : 3687842511,
+  "in_reply_to_status_id" : 3687690610,
+  "created_at" : "2009-09-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "danielcmarques",
+  "in_reply_to_user_id_str" : "5639932",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3690175089",
+  "text" : "Eu quero http:\/\/bit.ly\/VRhlo",
+  "id" : 3690175089,
+  "created_at" : "2009-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3695149015",
+  "text" : "F\u00E9rias marcadas, come\u00E7ando a contagem regressiva p\/ 1\u00BA de mar\u00E7o \u00AC\u00AC",
+  "id" : 3695149015,
+  "created_at" : "2009-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3695923626",
+  "text" : "Gmail ta baleiando ou sou s\u00F3 eu?",
+  "id" : 3695923626,
+  "created_at" : "2009-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Vanessa Maia",
+      "screen_name" : "nessamaia",
+      "indices" : [ 0, 10 ],
+      "id_str" : "4879901",
+      "id" : 4879901
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "3696087286",
+  "geo" : { },
+  "id_str" : "3696156945",
+  "in_reply_to_user_id" : 4879901,
+  "text" : "@nessamaia Twitter t\u00E1 r\u00E1pido heim...",
+  "id" : 3696156945,
+  "in_reply_to_status_id" : 3696087286,
+  "created_at" : "2009-09-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "nessamaia",
+  "in_reply_to_user_id_str" : "4879901",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "vergonha",
       "indices" : [ 31, 40 ]

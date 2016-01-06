@@ -418,7 +418,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Shchepetilnikov",
+      "name" : "Alexander",
       "screen_name" : "irqed",
       "indices" : [ 3, 9 ],
       "id_str" : "14377221",
@@ -445,11 +445,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 358212928404586498,
     "created_at" : "2013-07-19 13:13:12 +0000",
     "user" : {
-      "name" : "Alex Shchepetilnikov",
+      "name" : "Alexander",
       "screen_name" : "irqed",
       "protected" : false,
       "id_str" : "14377221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522367344749060096\/LXRjXZaT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664342080185995264\/UFj_2Ipg_normal.jpg",
       "id" : 14377221,
       "verified" : false
     }
@@ -978,7 +978,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "iChris",
       "protected" : false,
       "id_str" : "58323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552125938901598208\/p3I2dtSQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672483203349745664\/ykEA5R2X_normal.jpg",
       "id" : 58323,
       "verified" : false
     }
@@ -1318,7 +1318,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Olavo Doce",
+      "name" : "Olavo",
       "screen_name" : "olavodc",
       "indices" : [ 3, 11 ],
       "id_str" : "3367477695",
@@ -1364,7 +1364,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "1981olavo",
       "protected" : false,
       "id_str" : "33029356",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636518098493902849\/7ikeIDjC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668542849244360704\/rO_cK-W-_normal.jpg",
       "id" : 33029356,
       "verified" : false
     }

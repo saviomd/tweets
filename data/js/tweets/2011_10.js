@@ -1906,7 +1906,7 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "19855422",
       "id" : 19855422
     }, {
-      "name" : "Cristiane Souza",
+      "name" : "Cristiane Oliveira",
       "screen_name" : "CR15",
       "indices" : [ 28, 33 ],
       "id_str" : "7505632",
@@ -1932,7 +1932,7 @@ Grailbird.data.tweets_2011_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Cristiane Souza",
+        "name" : "Cristiane Oliveira",
         "screen_name" : "CR15",
         "indices" : [ 9, 14 ],
         "id_str" : "7505632",
@@ -1961,7 +1961,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "lisaneandrade",
       "protected" : false,
       "id_str" : "19855422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596303012320120833\/WCOFxVfh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665959372300935169\/6N05LR25_normal.jpg",
       "id" : 19855422,
       "verified" : false
     }

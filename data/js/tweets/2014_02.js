@@ -26,13 +26,13 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 1789,
-        "resize" : "fit",
-        "w" : 1776
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 1789,
+        "resize" : "fit",
+        "w" : 1776
       }, {
         "h" : 342,
         "resize" : "fit",
@@ -67,13 +67,13 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "fit",
           "w" : 1024
         }, {
-          "h" : 1789,
-          "resize" : "fit",
-          "w" : 1776
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 1789,
+          "resize" : "fit",
+          "w" : 1776
         }, {
           "h" : 342,
           "resize" : "fit",
@@ -278,18 +278,6 @@ Grailbird.data.tweets_2014_02 =
       "id" : 438744070140477440,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bha7aEAIQAAB6v6.png",
       "sizes" : [ {
-        "h" : 346,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 611,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 1043,
         "resize" : "fit",
         "w" : 1024
@@ -297,6 +285,18 @@ Grailbird.data.tweets_2014_02 =
         "h" : 1058,
         "resize" : "fit",
         "w" : 1038
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 346,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 611,
+        "resize" : "fit",
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/Ca0AWNWAB8"
     } ],
@@ -324,18 +324,6 @@ Grailbird.data.tweets_2014_02 =
         "id" : 438744070140477440,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bha7aEAIQAAB6v6.png",
         "sizes" : [ {
-          "h" : 346,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 611,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 1043,
           "resize" : "fit",
           "w" : 1024
@@ -343,6 +331,18 @@ Grailbird.data.tweets_2014_02 =
           "h" : 1058,
           "resize" : "fit",
           "w" : 1038
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 346,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 611,
+          "resize" : "fit",
+          "w" : 600
         } ],
         "display_url" : "pic.twitter.com\/Ca0AWNWAB8"
       } ],
@@ -493,141 +493,6 @@ Grailbird.data.tweets_2014_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lee Bedford",
-      "screen_name" : "ratinabun",
-      "indices" : [ 3, 13 ],
-      "id_str" : "533093033",
-      "id" : 533093033
-    }, {
-      "name" : "Iron Maiden",
-      "screen_name" : "IronMaiden",
-      "indices" : [ 72, 83 ],
-      "id_str" : "19114743",
-      "id" : 19114743
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ratinabun\/status\/437865074980429824\/photo\/1",
-      "indices" : [ 84, 106 ],
-      "url" : "http:\/\/t.co\/QtV3P46ECZ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BhOb9z4CIAAurh1.jpg",
-      "id_str" : "437865074984624128",
-      "id" : 437865074984624128,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhOb9z4CIAAurh1.jpg",
-      "sizes" : [ {
-        "h" : 226,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1152,
-        "resize" : "fit",
-        "w" : 1728
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 682,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/QtV3P46ECZ"
-    } ],
-    "hashtags" : [ {
-      "text" : "miniaturemonday",
-      "indices" : [ 23, 39 ]
-    }, {
-      "text" : "Lego",
-      "indices" : [ 66, 71 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "437914961747378177",
-  "text" : "RT @ratinabun: Another #miniaturemonday photo of Lego Iron Maiden #Lego @IronMaiden http:\/\/t.co\/QtV3P46ECZ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Iron Maiden",
-        "screen_name" : "IronMaiden",
-        "indices" : [ 57, 68 ],
-        "id_str" : "19114743",
-        "id" : 19114743
-      } ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ratinabun\/status\/437865074980429824\/photo\/1",
-        "indices" : [ 69, 91 ],
-        "url" : "http:\/\/t.co\/QtV3P46ECZ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BhOb9z4CIAAurh1.jpg",
-        "id_str" : "437865074984624128",
-        "id" : 437865074984624128,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhOb9z4CIAAurh1.jpg",
-        "sizes" : [ {
-          "h" : 226,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1152,
-          "resize" : "fit",
-          "w" : 1728
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 682,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/QtV3P46ECZ"
-      } ],
-      "hashtags" : [ {
-        "text" : "miniaturemonday",
-        "indices" : [ 8, 24 ]
-      }, {
-        "text" : "Lego",
-        "indices" : [ 51, 56 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "437865074980429824",
-    "text" : "Another #miniaturemonday photo of Lego Iron Maiden #Lego @IronMaiden http:\/\/t.co\/QtV3P46ECZ",
-    "id" : 437865074980429824,
-    "created_at" : "2014-02-24 08:22:23 +0000",
-    "user" : {
-      "name" : "Lee Bedford",
-      "screen_name" : "ratinabun",
-      "protected" : false,
-      "id_str" : "533093033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602965015675707392\/6YUXYB38_normal.jpg",
-      "id" : 533093033,
-      "verified" : false
-    }
-  },
-  "id" : 437914961747378177,
-  "created_at" : "2014-02-24 11:40:37 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1610945382\/Foto__11__normal.JPG",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -673,14 +538,6 @@ Grailbird.data.tweets_2014_02 =
       "id" : 437235209994772480,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhFfG18IIAAcCl9.jpg",
       "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 768,
         "resize" : "fit",
         "w" : 1024
@@ -688,6 +545,14 @@ Grailbird.data.tweets_2014_02 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 768,
         "resize" : "fit",
@@ -714,14 +579,6 @@ Grailbird.data.tweets_2014_02 =
         "id" : 437235209994772480,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhFfG18IIAAcCl9.jpg",
         "sizes" : [ {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 768,
           "resize" : "fit",
           "w" : 1024
@@ -729,6 +586,14 @@ Grailbird.data.tweets_2014_02 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 255,
+          "resize" : "fit",
+          "w" : 340
         }, {
           "h" : 768,
           "resize" : "fit",
@@ -749,7 +614,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "integralist",
       "protected" : false,
       "id_str" : "18293449",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629041283055620096\/qPER0Amm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/656379102883131393\/bHyVgDyi_normal.jpg",
       "id" : 18293449,
       "verified" : false
     }
@@ -1277,17 +1142,17 @@ Grailbird.data.tweets_2014_02 =
       "id" : 435247875518259200,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BgpPowGCYAA4sJf.png",
       "sizes" : [ {
+        "h" : 300,
+        "resize" : "fit",
+        "w" : 300
+      }, {
+        "h" : 300,
+        "resize" : "fit",
+        "w" : 300
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 300
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 300
       }, {
         "h" : 300,
         "resize" : "fit",
@@ -1497,7 +1362,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Henrique Araujo",
+      "name" : "Henri",
       "screen_name" : "rhesuhs",
       "indices" : [ 3, 11 ],
       "id_str" : "22381318",
@@ -1534,11 +1399,11 @@ Grailbird.data.tweets_2014_02 =
     "id" : 433576706905874432,
     "created_at" : "2014-02-12 12:21:57 +0000",
     "user" : {
-      "name" : "Henrique Araujo",
+      "name" : "Henri",
       "screen_name" : "rhesuhs",
       "protected" : false,
       "id_str" : "22381318",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638140689272934400\/J4nfrVX7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683760313217462272\/06kqfj8r_normal.jpg",
       "id" : 22381318,
       "verified" : false
     }
@@ -1841,7 +1706,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "raphaelschaad",
       "protected" : false,
       "id_str" : "15341579",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1418492088\/herotintin_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642736755721039872\/D4NuGXgS_normal.jpg",
       "id" : 15341579,
       "verified" : false
     }
@@ -2016,6 +1881,10 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 600
       }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
         "h" : 764,
         "resize" : "fit",
         "w" : 1024
@@ -2023,10 +1892,6 @@ Grailbird.data.tweets_2014_02 =
         "h" : 253,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/oOaMMbVy4g"
     } ],
@@ -2100,13 +1965,13 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 600,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -2150,13 +2015,13 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "fit",
           "w" : 340
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 600,
           "resize" : "fit",
           "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 1024,
           "resize" : "fit",
@@ -2383,21 +2248,21 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 453,
+        "h" : 2048,
         "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 1536
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 2048,
+        "h" : 800,
         "resize" : "fit",
-        "w" : 1536
+        "w" : 600
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/qAbsbIoDTS"
     } ],
@@ -2424,21 +2289,21 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "fit",
           "w" : 1024
         }, {
-          "h" : 453,
+          "h" : 2048,
           "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
+          "w" : 1536
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 2048,
+          "h" : 800,
           "resize" : "fit",
-          "w" : 1536
+          "w" : 600
+        }, {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/qAbsbIoDTS"
       } ],
@@ -2610,7 +2475,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "cesarotti",
       "protected" : false,
       "id_str" : "14629347",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601957143063957504\/TD7FePWr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667173887759773698\/9_L3BuDw_normal.jpg",
       "id" : 14629347,
       "verified" : false
     }

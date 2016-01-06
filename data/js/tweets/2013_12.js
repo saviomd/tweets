@@ -138,7 +138,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angry Turcos",
+      "name" : "Turco Rachid",
       "screen_name" : "ChrisTurco010",
       "indices" : [ 3, 17 ],
       "id_str" : "107113834",
@@ -153,25 +153,25 @@ Grailbird.data.tweets_2013_12 =
       "id" : 413418731768119298,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
       "sizes" : [ {
+        "h" : 280,
+        "resize" : "fit",
+        "w" : 500
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
         "h" : 280,
         "resize" : "fit",
-        "w" : 500
+        "w" : 499
+      }, {
+        "h" : 280,
+        "resize" : "fit",
+        "w" : 499
       }, {
         "h" : 190,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 280,
-        "resize" : "fit",
-        "w" : 499
-      }, {
-        "h" : 280,
-        "resize" : "fit",
-        "w" : 499
       } ],
       "display_url" : "pic.twitter.com\/tMXkdro7IW"
     } ],
@@ -194,25 +194,25 @@ Grailbird.data.tweets_2013_12 =
         "id" : 413418731768119298,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
         "sizes" : [ {
+          "h" : 280,
+          "resize" : "fit",
+          "w" : 500
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
           "h" : 280,
           "resize" : "fit",
-          "w" : 500
+          "w" : 499
+        }, {
+          "h" : 280,
+          "resize" : "fit",
+          "w" : 499
         }, {
           "h" : 190,
           "resize" : "fit",
           "w" : 340
-        }, {
-          "h" : 280,
-          "resize" : "fit",
-          "w" : 499
-        }, {
-          "h" : 280,
-          "resize" : "fit",
-          "w" : 499
         } ],
         "display_url" : "pic.twitter.com\/tMXkdro7IW"
       } ],
@@ -225,11 +225,11 @@ Grailbird.data.tweets_2013_12 =
     "id" : 413418731910754304,
     "created_at" : "2013-12-18 21:21:21 +0000",
     "user" : {
-      "name" : "Angry Turcos",
+      "name" : "Turco Rachid",
       "screen_name" : "ChrisTurco010",
       "protected" : false,
       "id_str" : "107113834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615715420943855616\/qbFkzOCV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653733285953146880\/dcAZsghh_normal.jpg",
       "id" : 107113834,
       "verified" : false
     }
@@ -858,6 +858,14 @@ Grailbird.data.tweets_2013_12 =
       "id" : 409773037651640320,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba_OaBvCQAAumh0.jpg",
       "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 449,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 254,
         "resize" : "fit",
         "w" : 340
@@ -866,17 +874,9 @@ Grailbird.data.tweets_2013_12 =
         "resize" : "fit",
         "w" : 619
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 464,
         "resize" : "fit",
         "w" : 619
-      }, {
-        "h" : 449,
-        "resize" : "fit",
-        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/qsSb1Ln2c1"
     } ],
@@ -899,6 +899,14 @@ Grailbird.data.tweets_2013_12 =
         "id" : 409773037651640320,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba_OaBvCQAAumh0.jpg",
         "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 449,
+          "resize" : "fit",
+          "w" : 600
+        }, {
           "h" : 254,
           "resize" : "fit",
           "w" : 340
@@ -907,17 +915,9 @@ Grailbird.data.tweets_2013_12 =
           "resize" : "fit",
           "w" : 619
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 464,
           "resize" : "fit",
           "w" : 619
-        }, {
-          "h" : 449,
-          "resize" : "fit",
-          "w" : 600
         } ],
         "display_url" : "pic.twitter.com\/qsSb1Ln2c1"
       } ],
@@ -1023,6 +1023,18 @@ Grailbird.data.tweets_2013_12 =
       "id" : 409007545286549506,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba0WMgdCYAIAmK0.jpg",
       "sizes" : [ {
+        "h" : 615,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 718,
+        "resize" : "fit",
+        "w" : 700
+      }, {
+        "h" : 718,
+        "resize" : "fit",
+        "w" : 699
+      }, {
         "h" : 348,
         "resize" : "fit",
         "w" : 340
@@ -1030,18 +1042,6 @@ Grailbird.data.tweets_2013_12 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 615,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 718,
-        "resize" : "fit",
-        "w" : 699
-      }, {
-        "h" : 718,
-        "resize" : "fit",
-        "w" : 700
       } ],
       "display_url" : "pic.twitter.com\/1s1XngA4FP"
     } ],
@@ -1064,6 +1064,18 @@ Grailbird.data.tweets_2013_12 =
         "id" : 409007545286549506,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba0WMgdCYAIAmK0.jpg",
         "sizes" : [ {
+          "h" : 615,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 718,
+          "resize" : "fit",
+          "w" : 700
+        }, {
+          "h" : 718,
+          "resize" : "fit",
+          "w" : 699
+        }, {
           "h" : 348,
           "resize" : "fit",
           "w" : 340
@@ -1071,18 +1083,6 @@ Grailbird.data.tweets_2013_12 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 615,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 718,
-          "resize" : "fit",
-          "w" : 699
-        }, {
-          "h" : 718,
-          "resize" : "fit",
-          "w" : 700
         } ],
         "display_url" : "pic.twitter.com\/1s1XngA4FP"
       } ],

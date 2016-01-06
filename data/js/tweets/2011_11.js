@@ -56,7 +56,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "AllianzParque",
       "protected" : false,
       "id_str" : "272102958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519936185376845824\/T7wFOzZI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666354070014328832\/mKg_Kdxy_normal.png",
       "id" : 272102958,
       "verified" : true
     }
@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "ThiagoSalata",
       "protected" : false,
       "id_str" : "39923755",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2447100063\/cc085a52-c99e-41bd-881b-f0c50e7bdc1d_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653342972415737856\/OxBHKhqS_normal.jpg",
       "id" : 39923755,
       "verified" : false
     }

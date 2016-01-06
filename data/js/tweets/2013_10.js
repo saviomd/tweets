@@ -547,7 +547,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -584,7 +584,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 391329275153891328,
     "created_at" : "2013-10-18 22:25:44 +0000",
     "user" : {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -676,7 +676,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "pontofrio",
       "protected" : false,
       "id_str" : "16788804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627803400856600577\/-i1a_eGI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676745824722886656\/dkea3q_f_normal.png",
       "id" : 16788804,
       "verified" : true
     }
@@ -844,7 +844,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -881,7 +881,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 387992560246865920,
     "created_at" : "2013-10-09 17:26:49 +0000",
     "user" : {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -968,17 +968,17 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eduardo de Matos",
+      "name" : "Eduardo Matos",
       "screen_name" : "matos_eduardo",
       "indices" : [ 0, 14 ],
       "id_str" : "146297924",
       "id" : 146297924
     }, {
-      "name" : "Gustavo Corr\u00EAa",
+      "name" : "Gustavo",
       "screen_name" : "_GustavoCorrea",
       "indices" : [ 15, 30 ],
-      "id_str" : "36459051",
-      "id" : 36459051
+      "id_str" : "4047623080",
+      "id" : 4047623080
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1012,7 +1012,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eduardo de Matos",
+      "name" : "Eduardo Matos",
       "screen_name" : "matos_eduardo",
       "indices" : [ 0, 14 ],
       "id_str" : "146297924",

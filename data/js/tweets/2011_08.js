@@ -883,7 +883,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "indices" : [ 3, 12 ],
       "id_str" : "74594552",
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 103575566539689986,
     "created_at" : "2011-08-16 21:15:14 +0000",
     "user" : {
-      "name" : "App Store ",
+      "name" : "App Store",
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "lisaneandrade",
       "protected" : false,
       "id_str" : "19855422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596303012320120833\/WCOFxVfh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665959372300935169\/6N05LR25_normal.jpg",
       "id" : 19855422,
       "verified" : false
     }
@@ -1855,7 +1855,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tecnoblog",
+      "name" : "snap: tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 37, 47 ],
       "id_str" : "16008305",
