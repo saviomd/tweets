@@ -137,7 +137,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Cut_The_Rope",
       "protected" : false,
       "id_str" : "206348770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724964736882855936\/mVraUbYF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763769315506196481\/WQj7Ug5m_normal.jpg",
       "id" : 206348770,
       "verified" : true
     }
@@ -752,7 +752,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666407537084796928\/YBGgi9BO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -1529,7 +1529,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1556,7 +1556,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 366617324511432704,
     "created_at" : "2013-08-11 17:49:16 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

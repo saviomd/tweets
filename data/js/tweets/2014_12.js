@@ -269,7 +269,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "182922172",
       "id" : 182922172
     }, {
-      "name" : "globoesporte.com",
+      "name" : "snap globoesportecom",
       "screen_name" : "globoesportecom",
       "indices" : [ 79, 95 ],
       "id_str" : "10842792",
@@ -321,7 +321,7 @@ Grailbird.data.tweets_2014_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "globoesporte.com",
+        "name" : "snap globoesportecom",
         "screen_name" : "globoesportecom",
         "indices" : [ 58, 74 ],
         "id_str" : "10842792",
@@ -376,7 +376,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "_GonzaRodriguez",
       "protected" : false,
       "id_str" : "182922172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695632755409973248\/gksbeBcF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765626823774466048\/s59fSb_0_normal.jpg",
       "id" : 182922172,
       "verified" : false
     }
@@ -396,7 +396,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 544533408521531392,
     "created_at" : "2014-12-15 16:44:16 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",

@@ -202,7 +202,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -330,7 +330,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -569,13 +569,13 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "21856856502",
+  "in_reply_to_status_id_str" : "21858417189",
   "geo" : { },
-  "id_str" : "21858115915",
+  "id_str" : "21859069110",
   "in_reply_to_user_id" : 4879901,
-  "text" : "@nessamaia Hj foi foda... Agora \u00E9 torcer p\/ Luxemburgo cair.",
-  "id" : 21858115915,
-  "in_reply_to_status_id" : 21856856502,
+  "text" : "@nessamaia Se algu\u00E9m bom estiver dando sopa, com certeza!! (assim quero acreditar..)",
+  "id" : 21859069110,
+  "in_reply_to_status_id" : 21858417189,
   "created_at" : "2010-08-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "nessamaia",
   "in_reply_to_user_id_str" : "4879901",
@@ -602,13 +602,13 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "21858417189",
+  "in_reply_to_status_id_str" : "21856856502",
   "geo" : { },
-  "id_str" : "21859069110",
+  "id_str" : "21858115915",
   "in_reply_to_user_id" : 4879901,
-  "text" : "@nessamaia Se algu\u00E9m bom estiver dando sopa, com certeza!! (assim quero acreditar..)",
-  "id" : 21859069110,
-  "in_reply_to_status_id" : 21858417189,
+  "text" : "@nessamaia Hj foi foda... Agora \u00E9 torcer p\/ Luxemburgo cair.",
+  "id" : 21858115915,
+  "in_reply_to_status_id" : 21856856502,
   "created_at" : "2010-08-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "nessamaia",
   "in_reply_to_user_id_str" : "4879901",
@@ -742,7 +742,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
@@ -797,7 +797,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eduardo Grohl",
+      "name" : "Eduardo",
       "screen_name" : "edutestosterona",
       "indices" : [ 3, 19 ],
       "id_str" : "19335309",
@@ -830,11 +830,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21451864023,
     "created_at" : "2010-08-18 01:47:05 +0000",
     "user" : {
-      "name" : "Eduardo Grohl",
+      "name" : "Eduardo",
       "screen_name" : "edutestosterona",
       "protected" : false,
       "id_str" : "19335309",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731217240918528000\/6INSPVO3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753211767078195200\/gexejCYW_normal.jpg",
       "id" : 19335309,
       "verified" : false
     }

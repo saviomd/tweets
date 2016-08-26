@@ -3,7 +3,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 4, 16 ],
       "id_str" : "36376988",
@@ -140,6 +140,61 @@ Grailbird.data.tweets_2009_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel Marques",
+      "screen_name" : "danielcmarques",
+      "indices" : [ 0, 15 ],
+      "id_str" : "5639932",
+      "id" : 5639932
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "2889870130",
+  "geo" : { },
+  "id_str" : "2889918703",
+  "in_reply_to_user_id" : 5639932,
+  "text" : "@danielcmarques Fica puto n\u00E3o hahaha",
+  "id" : 2889918703,
+  "in_reply_to_status_id" : 2889870130,
+  "created_at" : "2009-07-28 00:00:00 +0000",
+  "in_reply_to_screen_name" : "danielcmarques",
+  "in_reply_to_user_id_str" : "5639932",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2891179719",
+  "text" : "Prot\u00F3tipos p\/ nova interface do Firefox 4, interessante http:\/\/bit.ly\/gEzcO",
+  "id" : 2891179719,
+  "created_at" : "2009-07-28 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -205,61 +260,6 @@ Grailbird.data.tweets_2009_07 =
   "created_at" : "2009-07-28 00:00:00 +0000",
   "in_reply_to_screen_name" : "danielcmarques",
   "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "2889870130",
-  "geo" : { },
-  "id_str" : "2889918703",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques Fica puto n\u00E3o hahaha",
-  "id" : 2889918703,
-  "in_reply_to_status_id" : 2889870130,
-  "created_at" : "2009-07-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2891179719",
-  "text" : "Prot\u00F3tipos p\/ nova interface do Firefox 4, interessante http:\/\/bit.ly\/gEzcO",
-  "id" : 2891179719,
-  "created_at" : "2009-07-28 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -383,13 +383,13 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 4, 12 ],
       "id_str" : "26618823",
       "id" : 26618823
     }, {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 17, 29 ],
       "id_str" : "36376988",
@@ -1300,7 +1300,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 0, 8 ],
       "id_str" : "26618823",
@@ -1331,7 +1331,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
@@ -1382,6 +1382,28 @@ Grailbird.data.tweets_2009_07 =
   "created_at" : "2009-07-04 00:00:00 +0000",
   "in_reply_to_screen_name" : "AndreDentinho",
   "in_reply_to_user_id_str" : "35314811",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2445843107",
+  "text" : "Engarrafamento fdp",
+  "id" : 2445843107,
+  "created_at" : "2009-07-03 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1484,10 +1506,10 @@ Grailbird.data.tweets_2009_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2445843107",
-  "text" : "Engarrafamento fdp",
-  "id" : 2445843107,
-  "created_at" : "2009-07-03 00:00:00 +0000",
+  "id_str" : "2442056734",
+  "text" : "Haja saco.... Daqui a pouco vai explodir",
+  "id" : 2442056734,
+  "created_at" : "2009-07-02 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1509,28 +1531,6 @@ Grailbird.data.tweets_2009_07 =
   "id_str" : "2435939226",
   "text" : "Essa parada de ocultar as pastas e labels no Gmail \u00E9 uma maravilha.",
   "id" : 2435939226,
-  "created_at" : "2009-07-02 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2442056734",
-  "text" : "Haja saco.... Daqui a pouco vai explodir",
-  "id" : 2442056734,
   "created_at" : "2009-07-02 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

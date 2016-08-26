@@ -125,7 +125,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lee",
+      "name" : "Livinha",
       "screen_name" : "liviadami",
       "indices" : [ 3, 13 ],
       "id_str" : "1358315736",
@@ -229,7 +229,7 @@ Grailbird.data.tweets_2015_09 =
     "in_reply_to_screen_name" : "MRGOULD",
     "in_reply_to_user_id_str" : "18904121",
     "user" : {
-      "name" : "Lee",
+      "name" : "Livinha",
       "screen_name" : "liviadami",
       "protected" : false,
       "id_str" : "1358315736",
@@ -435,7 +435,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fernando Vives",
+      "name" : "FV",
       "screen_name" : "fdvives",
       "indices" : [ 3, 11 ],
       "id_str" : "19271642",
@@ -472,7 +472,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 645613952379023360,
     "created_at" : "2015-09-20 15:02:15 +0000",
     "user" : {
-      "name" : "Fernando Vives",
+      "name" : "FV",
       "screen_name" : "fdvives",
       "protected" : false,
       "id_str" : "19271642",
@@ -612,7 +612,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "26981455",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
       "id" : 26981455,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 644504189222174720,
@@ -1303,7 +1303,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

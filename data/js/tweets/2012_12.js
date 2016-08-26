@@ -55,7 +55,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "285725955459280898",
   "text" : "RT @MacMagazine: \u21AA Jogo Sonic Jump \u00E9 o sexto presente escolhido pela Apple \u2022 http:\/\/t.co\/3RQzq63a",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -79,7 +79,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 285725955459280898,
@@ -308,7 +308,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 0, 8 ],
       "id_str" : "26618823",
@@ -677,7 +677,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "15875898",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712939083291561984\/7GeUaypi_normal.jpg",
       "id" : 15875898,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 280761706060320768,
@@ -905,7 +905,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "16521996",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665059836321665024\/5xDnQpdK_normal.jpg",
       "id" : 16521996,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 278279266934878208,

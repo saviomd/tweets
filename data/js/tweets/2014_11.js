@@ -214,7 +214,7 @@ Grailbird.data.tweets_2014_11 =
     "created_at" : "2014-11-22 00:39:51 +0000",
     "user" : {
       "name" : "Rog\u00E9rio",
-      "screen_name" : "___rogerlo___",
+      "screen_name" : "perazoIo",
       "protected" : false,
       "id_str" : "91936966",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/721543772681723904\/3VR3QcXX_normal.jpg",
@@ -736,7 +736,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "robferdman",
       "protected" : false,
       "id_str" : "316659505",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000637002676\/2a27589cf2132b55fe5ee0cfbf423be5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763952758965751808\/Vm2Zo35o_normal.jpg",
       "id" : 316659505,
       "verified" : true
     }
@@ -982,49 +982,13 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "19114743",
       "id" : 19114743
     }, {
-      "name" : "B. Shep History",
-      "screen_name" : "BSHistory77",
-      "indices" : [ 26, 38 ],
-      "id_str" : "1469939629",
-      "id" : 1469939629
-    }, {
       "name" : "Iron Maiden",
       "screen_name" : "IronMaiden",
       "indices" : [ 74, 85 ],
       "id_str" : "19114743",
       "id" : 19114743
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
-      "indices" : [ 117, 139 ],
-      "url" : "http:\/\/t.co\/uEuyzuqF7v",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
-      "id_str" : "532170605492072448",
-      "id" : 532170605492072448,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
-      "sizes" : [ {
-        "h" : 119,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 180,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 180,
-        "resize" : "fit",
-        "w" : 516
-      }, {
-        "h" : 180,
-        "resize" : "fit",
-        "w" : 516
-      } ],
-      "display_url" : "pic.twitter.com\/uEuyzuqF7v"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "NumberOfTheBeast",
       "indices" : [ 87, 104 ]
@@ -1032,7 +996,12 @@ Grailbird.data.tweets_2014_11 =
       "text" : "IronMaiden",
       "indices" : [ 105, 116 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 117, 139 ],
+      "url" : "http:\/\/t.co\/uEuyzuqF7v",
+      "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
+      "display_url" : "pic.twitter.com\/uEuyzuqF7v"
+    } ]
   },
   "geo" : { },
   "id_str" : "532199056345276416",
@@ -1041,49 +1010,13 @@ Grailbird.data.tweets_2014_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "B. Shep History",
-        "screen_name" : "BSHistory77",
-        "indices" : [ 10, 22 ],
-        "id_str" : "1469939629",
-        "id" : 1469939629
-      }, {
         "name" : "Iron Maiden",
         "screen_name" : "IronMaiden",
         "indices" : [ 58, 69 ],
         "id_str" : "19114743",
         "id" : 19114743
       } ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
-        "indices" : [ 101, 123 ],
-        "url" : "http:\/\/t.co\/uEuyzuqF7v",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
-        "id_str" : "532170605492072448",
-        "id" : 532170605492072448,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B2KmWJxCcAAJdnQ.jpg",
-        "sizes" : [ {
-          "h" : 119,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 180,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 180,
-          "resize" : "fit",
-          "w" : 516
-        }, {
-          "h" : 180,
-          "resize" : "fit",
-          "w" : 516
-        } ],
-        "display_url" : "pic.twitter.com\/uEuyzuqF7v"
-      } ],
+      "media" : [ ],
       "hashtags" : [ {
         "text" : "NumberOfTheBeast",
         "indices" : [ 71, 88 ]
@@ -1091,7 +1024,12 @@ Grailbird.data.tweets_2014_11 =
         "text" : "IronMaiden",
         "indices" : [ 89, 100 ]
       } ],
-      "urls" : [ ]
+      "urls" : [ {
+        "indices" : [ 101, 123 ],
+        "url" : "http:\/\/t.co\/uEuyzuqF7v",
+        "expanded_url" : "http:\/\/twitter.com\/BSHistory77\/status\/532170606436163584\/photo\/1",
+        "display_url" : "pic.twitter.com\/uEuyzuqF7v"
+      } ]
     },
     "geo" : { },
     "id_str" : "532172413552041984",

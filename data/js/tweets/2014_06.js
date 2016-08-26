@@ -331,7 +331,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -418,7 +418,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 482529847462608897,
     "created_at" : "2014-06-27 14:24:15 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "DirceuJuniorFla",
       "protected" : false,
       "id_str" : "71916313",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716100447975653376\/jXBEKHt8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747490363670151169\/CLb8TLUN_normal.jpg",
       "id" : 71916313,
       "verified" : false
     }
@@ -1755,117 +1755,6 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Anthony",
-      "screen_name" : "antsgardiner",
-      "indices" : [ 3, 16 ],
-      "id_str" : "29534960",
-      "id" : 29534960
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/antsgardiner\/status\/479785505731538944\/photo\/1",
-      "indices" : [ 66, 88 ],
-      "url" : "http:\/\/t.co\/pYY4O8sic0",
-      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
-      "id_str" : "479785492569800705",
-      "id" : 479785492569800705,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
-      "sizes" : [ {
-        "h" : 122,
-        "resize" : "crop",
-        "w" : 122
-      }, {
-        "h" : 122,
-        "resize" : "fit",
-        "w" : 234
-      }, {
-        "h" : 122,
-        "resize" : "fit",
-        "w" : 234
-      }, {
-        "h" : 122,
-        "resize" : "fit",
-        "w" : 234
-      }, {
-        "h" : 122,
-        "resize" : "fit",
-        "w" : 234
-      } ],
-      "display_url" : "pic.twitter.com\/pYY4O8sic0"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "480403956292931584",
-  "text" : "RT @antsgardiner: Why isn't China at the World Cup? Because this: http:\/\/t.co\/pYY4O8sic0",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/antsgardiner\/status\/479785505731538944\/photo\/1",
-        "indices" : [ 48, 70 ],
-        "url" : "http:\/\/t.co\/pYY4O8sic0",
-        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
-        "id_str" : "479785492569800705",
-        "id" : 479785492569800705,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
-        "sizes" : [ {
-          "h" : 122,
-          "resize" : "crop",
-          "w" : 122
-        }, {
-          "h" : 122,
-          "resize" : "fit",
-          "w" : 234
-        }, {
-          "h" : 122,
-          "resize" : "fit",
-          "w" : 234
-        }, {
-          "h" : 122,
-          "resize" : "fit",
-          "w" : 234
-        }, {
-          "h" : 122,
-          "resize" : "fit",
-          "w" : 234
-        } ],
-        "display_url" : "pic.twitter.com\/pYY4O8sic0"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "479785505731538944",
-    "text" : "Why isn't China at the World Cup? Because this: http:\/\/t.co\/pYY4O8sic0",
-    "id" : 479785505731538944,
-    "created_at" : "2014-06-20 00:39:13 +0000",
-    "user" : {
-      "name" : "Anthony",
-      "screen_name" : "antsgardiner",
-      "protected" : false,
-      "id_str" : "29534960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/688627041126625280\/eIcahOK7_normal.jpg",
-      "id" : 29534960,
-      "verified" : false
-    }
-  },
-  "id" : 480403956292931584,
-  "created_at" : "2014-06-21 17:36:43 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2213,7 +2102,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "TozzaFla",
       "protected" : false,
       "id_str" : "829084044",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730058975178326017\/HcpNMCA9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768473078557016064\/SSpBnad-_normal.jpg",
       "id" : 829084044,
       "verified" : false
     }
@@ -2274,7 +2163,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2321,7 +2210,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2348,7 +2237,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 479363576772448256,
     "created_at" : "2014-06-18 20:42:37 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2916,7 +2805,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "6484432",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000269303502\/d1b8a5c870720f3a43c034bbba45a501_normal.png",
       "id" : 6484432,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 477471976223956992,
@@ -2987,7 +2876,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -3197,7 +3086,7 @@ Grailbird.data.tweets_2014_06 =
   "id_str" : "476182108336300034",
   "text" : "RT @MacMagazine: \u21AA Apple veicula v\u00EDdeo destacando toda a nova interface do OS X Yosemite \u2022 http:\/\/t.co\/7M8UgQXvkP",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3221,7 +3110,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 476182108336300034,
@@ -4046,7 +3935,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "DirceuJuniorFla",
       "protected" : false,
       "id_str" : "71916313",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716100447975653376\/jXBEKHt8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747490363670151169\/CLb8TLUN_normal.jpg",
       "id" : 71916313,
       "verified" : false
     }
@@ -4066,7 +3955,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -4093,7 +3982,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473192385791660032,
     "created_at" : "2014-06-01 20:00:30 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -4117,7 +4006,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -4144,7 +4033,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473193950741008385,
     "created_at" : "2014-06-01 20:06:44 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

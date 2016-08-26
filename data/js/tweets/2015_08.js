@@ -185,7 +185,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "indices" : [ 3, 12 ],
       "id_str" : "4375",
@@ -234,7 +234,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 636687119117864960,
     "created_at" : "2015-08-26 23:50:12 +0000",
     "user" : {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
@@ -804,7 +804,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "26981455",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
       "id" : 26981455,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 635464615120474112,
@@ -1017,7 +1017,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "YouTube",
       "protected" : false,
       "id_str" : "10228272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716288017707757569\/euqA4xQc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757706422138376193\/AoQthRY__normal.jpg",
       "id" : 10228272,
       "verified" : true
     }
@@ -1362,9 +1362,9 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "theQuietus",
       "protected" : false,
       "id_str" : "15776837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440469642914451456\/-EOD4AvI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748426521002582016\/B5Qpo5g-_normal.jpg",
       "id" : 15776837,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 631499733245251584,
@@ -1423,7 +1423,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "faithnomoreblog",
       "protected" : false,
       "id_str" : "70129611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1810172132\/mgid-uma-artist-mtv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/754761039607107586\/GimM9OQk_normal.jpg",
       "id" : 70129611,
       "verified" : false
     }

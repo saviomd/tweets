@@ -313,7 +313,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -340,7 +340,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 316944143706365952,
     "created_at" : "2013-03-27 16:05:47 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -391,7 +391,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 316701028533796865,
     "created_at" : "2013-03-26 23:59:43 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -415,7 +415,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -442,7 +442,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 316600101302849536,
     "created_at" : "2013-03-26 17:18:40 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -864,11 +864,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 311958088406138880,
     "created_at" : "2013-03-13 21:52:59 +0000",
     "user" : {
-      "name" : "Black Byakuya",
+      "name" : "ks",
       "screen_name" : "Kevkashi",
       "protected" : false,
       "id_str" : "33553251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730453325380980736\/SNtnKfS__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765699636401205249\/GiO4tqPu_normal.jpg",
       "id" : 33553251,
       "verified" : false
     }
@@ -995,7 +995,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "311935715866988545",
   "text" : "RT @MacMagazine: Buraco Jogatina \u00E9 um novo jogo de cartas para iGadgets, com partidas individuais ou online \u2022 http:\/\/t.co\/6NXOuW0yso",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1019,7 +1019,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 311935715866988545,
@@ -1243,7 +1243,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "GameOverGreggy",
       "protected" : false,
       "id_str" : "62593760",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717912800807391233\/l1tHx0sz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756269342694572032\/bQ8h6PIF_normal.jpg",
       "id" : 62593760,
       "verified" : true
     }

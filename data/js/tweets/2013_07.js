@@ -418,7 +418,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alexander",
+      "name" : "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "screen_name" : "irqed",
       "indices" : [ 3, 9 ],
       "id_str" : "14377221",
@@ -445,7 +445,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 358212928404586498,
     "created_at" : "2013-07-19 13:13:12 +0000",
     "user" : {
-      "name" : "Alexander",
+      "name" : "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "screen_name" : "irqed",
       "protected" : false,
       "id_str" : "14377221",
@@ -978,7 +978,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "iChris",
       "protected" : false,
       "id_str" : "58323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706670307038212098\/m9ihJ_13_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767225177214099456\/AVyjA7h1_normal.jpg",
       "id" : 58323,
       "verified" : false
     }
@@ -1225,7 +1225,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "eddievanhalen",
       "protected" : false,
       "id_str" : "35865024",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1402081795\/profile3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745365002568163330\/O616OLCt_normal.jpg",
       "id" : 35865024,
       "verified" : true
     }
@@ -1324,7 +1324,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "3367477695",
       "id" : 3367477695
     }, {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 13, 21 ],
       "id_str" : "26618823",
@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg",
+        "name" : "Arthur Muhlenberg\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -1360,11 +1360,11 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "Urublog",
     "in_reply_to_user_id_str" : "26618823",
     "user" : {
-      "name" : "Azul da vergonha !",
-      "screen_name" : "1981olavo",
+      "name" : "s\u00E3o judas tadeu",
+      "screen_name" : "HexaOlavo",
       "protected" : false,
       "id_str" : "33029356",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712835273365827584\/ga1PKdFt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748518806675427328\/28KqmSnr_normal.jpg",
       "id" : 33029356,
       "verified" : false
     }
@@ -1487,7 +1487,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "athinkingman",
       "protected" : false,
       "id_str" : "15002823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1245041082\/2578064512_c7c7e33460_s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746738472015245313\/kJmhvdA-_normal.jpg",
       "id" : 15002823,
       "verified" : false
     }
@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1962,7 +1962,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 352264868197445632,
     "created_at" : "2013-07-03 03:17:44 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

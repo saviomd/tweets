@@ -204,7 +204,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "jschuller",
       "protected" : false,
       "id_str" : "11584132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/670446718371033088\/7wDIj8EX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/741857780961681413\/rKVJYWeB_normal.jpg",
       "id" : 11584132,
       "verified" : false
     }
@@ -312,7 +312,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -349,7 +349,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273255092403179520,
     "created_at" : "2012-11-27 02:41:05 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -490,7 +490,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -517,7 +517,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273134890604703745,
     "created_at" : "2012-11-26 18:43:27 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -1304,7 +1304,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "270925716877606912",
   "text" : "RT @MacMagazine: \u21AA Editor gr\u00E1fico Pixelmator est\u00E1 agora por apenas US$15 na Mac App Store! \u2022 http:\/\/t.co\/OpoYmwgJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1328,7 +1328,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 270925716877606912,
@@ -2002,7 +2002,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "48298703",
       "id" : 48298703
     }, {
-      "name" : "Jornal O Globo",
+      "name" : "snap: JornalOGlobo",
       "screen_name" : "JornalOGlobo",
       "indices" : [ 101, 114 ],
       "id_str" : "54341363",
@@ -2036,7 +2036,7 @@ Grailbird.data.tweets_2012_11 =
         "id_str" : "48298703",
         "id" : 48298703
       }, {
-        "name" : "Jornal O Globo",
+        "name" : "snap: JornalOGlobo",
         "screen_name" : "JornalOGlobo",
         "indices" : [ 85, 98 ],
         "id_str" : "54341363",
@@ -2271,7 +2271,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "265977800551448576",
   "text" : "RT @MacMagazine: \u21AA My Xbox LIVE para iOS vira Xbox SmartGlass e est\u00E1 agora muito mais completo \u2022 http:\/\/t.co\/ibNLP3lZ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2295,7 +2295,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 265977800551448576,

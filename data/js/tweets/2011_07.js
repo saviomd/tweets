@@ -112,7 +112,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -841,7 +841,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "IDGNow",
       "protected" : false,
       "id_str" : "8183762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456030980281597952\/3Sfdl-4X_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737264849919574017\/VuLpiTrh_normal.jpg",
       "id" : 8183762,
       "verified" : false
     }
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "sensacionalista",
       "protected" : false,
       "id_str" : "36751573",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1139481484\/loguinho_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753678106775392256\/w1Uu5P41_normal.jpg",
       "id" : 36751573,
       "verified" : true
     }
@@ -1108,7 +1108,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "13600352",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483828518573207552\/4gYXlO8__normal.jpeg",
       "id" : 13600352,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 92752049569144832,
@@ -1306,7 +1306,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "eduardopaes_",
       "protected" : false,
       "id_str" : "48298703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2713044994\/aeb591bffcb9321bc3a81167f0f494a4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749454236463796224\/w5AJTy5K_normal.jpg",
       "id" : 48298703,
       "verified" : true
     }

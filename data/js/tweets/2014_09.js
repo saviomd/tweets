@@ -891,7 +891,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "730373",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576892785149628416\/FiovXOSs_normal.jpeg",
       "id" : 730373,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 514413640825700353,
@@ -1495,7 +1495,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "26981455",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
       "id" : 26981455,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 511322740851478529,
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000575623979\/59db8c64b416eea20effbb79df106104_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756933122772525056\/FwG8UYtj_normal.jpg",
       "id" : 17768307,
       "verified" : true
     }
@@ -2349,7 +2349,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 509462230094462976,
     "created_at" : "2014-09-09 22:03:55 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",

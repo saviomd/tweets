@@ -471,7 +471,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "notasausage",
       "protected" : false,
       "id_str" : "11718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516633810239508480\/I9aY_yEK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746334254867554304\/f-cwmzFI_normal.jpg",
       "id" : 11718,
       "verified" : false
     }

@@ -57,7 +57,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -144,7 +144,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 593103169510584320,
     "created_at" : "2015-04-28 17:23:09 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -265,7 +265,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 592737722965581826,
     "created_at" : "2015-04-27 17:11:00 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -902,7 +902,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "BleacherReport",
       "protected" : false,
       "id_str" : "890891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717914903697235968\/DXrhOLo1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751421072508084224\/f-W8B0YJ_normal.jpg",
       "id" : 890891,
       "verified" : true
     }
@@ -1030,7 +1030,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "BatmanvSuperman",
       "protected" : false,
       "id_str" : "583288452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717430924334399488\/rs86YHaM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738413996697473024\/zbxAmnZr_normal.jpg",
       "id" : 583288452,
       "verified" : true
     }

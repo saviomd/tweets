@@ -266,7 +266,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "32441865",
       "id" : 32441865
     }, {
-      "name" : "Ministro Sr Waldemar",
+      "name" : "Marlon\u00E3o da Massa\u2122",
       "screen_name" : "aureasouto",
       "indices" : [ 10, 21 ],
       "id_str" : "78987936",
@@ -419,7 +419,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 207799450972860416,
     "created_at" : "2012-05-30 11:43:44 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -548,7 +548,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "NETFLU",
       "protected" : false,
       "id_str" : "43372176",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707694741471760384\/Ag0SL1CD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765165247435005952\/hafAd3O9_normal.jpg",
       "id" : 43372176,
       "verified" : false
     }
@@ -568,7 +568,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 0, 8 ],
       "id_str" : "26618823",
@@ -634,7 +634,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "59857720",
       "id" : 59857720
     }, {
-      "name" : "Lancenet!",
+      "name" : "LANCE!",
       "screen_name" : "lancenet",
       "indices" : [ 39, 48 ],
       "id_str" : "15488353",
@@ -656,7 +656,7 @@ Grailbird.data.tweets_2012_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Lancenet!",
+        "name" : "LANCE!",
         "screen_name" : "lancenet",
         "indices" : [ 19, 28 ],
         "id_str" : "15488353",
@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -1057,11 +1057,11 @@ Grailbird.data.tweets_2012_05 =
     "id" : 205806263542624258,
     "created_at" : "2012-05-24 23:43:31 +0000",
     "user" : {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697899943655137280\/cI9-9coO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759697016976871425\/pAik26IG_normal.jpg",
       "id" : 760892,
       "verified" : false
     }
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "comu_palmeiras",
       "protected" : false,
       "id_str" : "49050724",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726906545125076992\/oOX7M6XI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768943947452407808\/HZnGKjLi_normal.jpg",
       "id" : 49050724,
       "verified" : false
     }
@@ -2838,7 +2838,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2875,7 +2875,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 199264030500724736,
     "created_at" : "2012-05-06 22:27:01 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

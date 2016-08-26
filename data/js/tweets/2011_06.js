@@ -93,7 +93,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "thadeum",
       "protected" : false,
       "id_str" : "4530981",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491593681460158464\/BCAaX7B5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745310397318692864\/JIvgHOT4_normal.jpg",
       "id" : 4530981,
       "verified" : false
     }
@@ -471,7 +471,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Heilmann",
+      "name" : "(((Chris Heilmann)))",
       "screen_name" : "codepo8",
       "indices" : [ 3, 11 ],
       "id_str" : "13567",
@@ -510,7 +510,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 85853047988826112,
     "created_at" : "2011-06-28 23:32:16 +0000",
     "user" : {
-      "name" : "Christian Heilmann",
+      "name" : "(((Chris Heilmann)))",
       "screen_name" : "codepo8",
       "protected" : false,
       "id_str" : "13567",
@@ -730,7 +730,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -757,7 +757,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 84282220948365313,
     "created_at" : "2011-06-24 15:30:22 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1730,7 +1730,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "63763277",
       "id" : 63763277
     }, {
-      "name" : "snap: SporTVOficial",
+      "name" : "SporTV",
       "screen_name" : "SporTV",
       "indices" : [ 30, 37 ],
       "id_str" : "12652472",
@@ -1747,7 +1747,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "snap: SporTVOficial",
+        "name" : "SporTV",
         "screen_name" : "SporTV",
         "indices" : [ 13, 20 ],
         "id_str" : "12652472",
@@ -1767,7 +1767,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2038,7 +2038,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -2065,11 +2065,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 76697925203398656,
     "created_at" : "2011-06-03 17:13:05 +0000",
     "user" : {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697899943655137280\/cI9-9coO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759697016976871425\/pAik26IG_normal.jpg",
       "id" : 760892,
       "verified" : false
     }
@@ -2254,7 +2254,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2293,7 +2293,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 76003881422819328,
     "created_at" : "2011-06-01 19:15:12 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

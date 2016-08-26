@@ -196,7 +196,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Runyon",
+      "name" : "C.G. Runyon",
       "screen_name" : "CGRunyon",
       "indices" : [ 3, 12 ],
       "id_str" : "172066483",
@@ -245,7 +245,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 524773709500805121,
     "created_at" : "2014-10-22 04:06:16 +0000",
     "user" : {
-      "name" : "Christopher Runyon",
+      "name" : "C.G. Runyon",
       "screen_name" : "CGRunyon",
       "protected" : false,
       "id_str" : "172066483",
@@ -472,7 +472,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "_GonzaRodriguez",
       "protected" : false,
       "id_str" : "182922172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695632755409973248\/gksbeBcF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765626823774466048\/s59fSb_0_normal.jpg",
       "id" : 182922172,
       "verified" : false
     }
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "ThatChrisGore",
       "protected" : false,
       "id_str" : "23161445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708467568441298944\/KcEYpVxL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747447237127507969\/mGDJvzeS_normal.jpg",
       "id" : 23161445,
       "verified" : true
     }
@@ -1067,7 +1067,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "euqueirozbrenda",
       "protected" : false,
       "id_str" : "1659909228",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714499376601759744\/ZP2jBFIJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/764647141876850689\/A6eofXUs_normal.jpg",
       "id" : 1659909228,
       "verified" : false
     }
@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "indices" : [ 3, 12 ],
       "id_str" : "4375",
@@ -1114,7 +1114,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 517839798917406720,
     "created_at" : "2014-10-03 00:53:23 +0000",
     "user" : {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",

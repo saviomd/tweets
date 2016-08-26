@@ -2,63 +2,8 @@ Grailbird.data.tweets_2010_06 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17451657463",
-  "text" : "Genial http:\/\/bit.ly\/acRZ0i",
-  "id" : 17451657463,
-  "created_at" : "2010-07-01 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
-      "screen_name" : "diegoneto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "28808110",
-      "id" : 28808110
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17489266103",
-  "geo" : { },
-  "id_str" : "17489947871",
-  "in_reply_to_user_id" : 28808110,
-  "text" : "@diegoneto N\u00E3o fa\u00E7o id\u00E9ia... J\u00E1 q \u00E9 p\/ chutar, Baga\u00E7o?!?!",
-  "id" : 17489947871,
-  "in_reply_to_status_id" : 17489266103,
-  "created_at" : "2010-07-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "diegoneto",
-  "in_reply_to_user_id_str" : "28808110",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
@@ -91,7 +36,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
@@ -108,6 +53,61 @@ Grailbird.data.tweets_2010_06 =
   "text" : "@diegoneto Rola pow, qualquer dia. S\u00F3 me ligar antes.",
   "id" : 17519589057,
   "in_reply_to_status_id" : 17516036978,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diegoneto",
+  "in_reply_to_user_id_str" : "28808110",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17451657463",
+  "text" : "Genial http:\/\/bit.ly\/acRZ0i",
+  "id" : 17451657463,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Diego Tavares",
+      "screen_name" : "diegoneto",
+      "indices" : [ 0, 10 ],
+      "id_str" : "28808110",
+      "id" : 28808110
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17489266103",
+  "geo" : { },
+  "id_str" : "17489947871",
+  "in_reply_to_user_id" : 28808110,
+  "text" : "@diegoneto N\u00E3o fa\u00E7o id\u00E9ia... J\u00E1 q \u00E9 p\/ chutar, Baga\u00E7o?!?!",
+  "id" : 17489947871,
+  "in_reply_to_status_id" : 17489266103,
   "created_at" : "2010-07-01 00:00:00 +0000",
   "in_reply_to_screen_name" : "diegoneto",
   "in_reply_to_user_id_str" : "28808110",
@@ -665,7 +665,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -947,7 +947,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -1046,7 +1046,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -1268,7 +1268,7 @@ Grailbird.data.tweets_2010_06 =
     "user" : {
       "name" : "Mariana de Ara\u00FAjo",
       "screen_name" : "marydearaujo",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "52234231",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513869720299528192\/LABoKyet_normal.jpeg",
       "id" : 52234231,
@@ -1343,6 +1343,72 @@ Grailbird.data.tweets_2010_06 =
   "text" : "Aeee, Robben vai jogar a Copa http:\/\/bit.ly\/bYcWPj",
   "id" : 16016672242,
   "created_at" : "2010-06-12 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Natalia Lannes",
+      "screen_name" : "nalannes",
+      "indices" : [ 0, 9 ],
+      "id_str" : "32441865",
+      "id" : 32441865
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "15896660754",
+  "geo" : { },
+  "id_str" : "15896933260",
+  "in_reply_to_user_id" : 32441865,
+  "text" : "@nalannes Eu tb achei hahahaha",
+  "id" : 15896933260,
+  "in_reply_to_status_id" : 15896660754,
+  "created_at" : "2010-06-11 00:00:00 +0000",
+  "in_reply_to_screen_name" : "nalannes",
+  "in_reply_to_user_id_str" : "32441865",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Brett",
+      "screen_name" : "mattbrett",
+      "indices" : [ 0, 10 ],
+      "id_str" : "637373",
+      "id" : 637373
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "15902648425",
+  "geo" : { },
+  "id_str" : "15927230748",
+  "in_reply_to_user_id" : 637373,
+  "text" : "@mattbrett TF2 rocks! Shame that we live so far and can't play together.. (btw, could you log in with my account to win me the earbuds? heh)",
+  "id" : 15927230748,
+  "in_reply_to_status_id" : 15902648425,
+  "created_at" : "2010-06-11 00:00:00 +0000",
+  "in_reply_to_screen_name" : "mattbrett",
+  "in_reply_to_user_id_str" : "637373",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1442,72 +1508,6 @@ Grailbird.data.tweets_2010_06 =
   "text" : "Team Fortress 2 pela metade do pre\u00E7o at\u00E9 o fds. E quem jogar usando Mac, ganhar fone de ouvido p\/ bonecos http:\/\/bit.ly\/92DdNH",
   "id" : 15888205388,
   "created_at" : "2010-06-11 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 0, 9 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "15896660754",
-  "geo" : { },
-  "id_str" : "15896933260",
-  "in_reply_to_user_id" : 32441865,
-  "text" : "@nalannes Eu tb achei hahahaha",
-  "id" : 15896933260,
-  "in_reply_to_status_id" : 15896660754,
-  "created_at" : "2010-06-11 00:00:00 +0000",
-  "in_reply_to_screen_name" : "nalannes",
-  "in_reply_to_user_id_str" : "32441865",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Brett",
-      "screen_name" : "mattbrett",
-      "indices" : [ 0, 10 ],
-      "id_str" : "637373",
-      "id" : 637373
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "15902648425",
-  "geo" : { },
-  "id_str" : "15927230748",
-  "in_reply_to_user_id" : 637373,
-  "text" : "@mattbrett TF2 rocks! Shame that we live so far and can't play together.. (btw, could you log in with my account to win me the earbuds? heh)",
-  "id" : 15927230748,
-  "in_reply_to_status_id" : 15902648425,
-  "created_at" : "2010-06-11 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mattbrett",
-  "in_reply_to_user_id_str" : "637373",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -2114,7 +2114,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",

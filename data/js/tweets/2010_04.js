@@ -97,7 +97,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -124,7 +124,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 13021196818,
     "created_at" : "2010-04-28 18:30:20 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -170,7 +170,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 38, 48 ],
       "id_str" : "16008305",
@@ -308,7 +308,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -999,6 +999,28 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11716292898",
+  "text" : "Quando (se?!?!) a \u00E1gua baixar, a cidade vai t\u00E1 um lixo, literalmente!!",
+  "id" : 11716292898,
+  "created_at" : "2010-04-06 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Mariana de Ara\u00FAjo",
       "screen_name" : "marydearaujo",
@@ -1099,28 +1121,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11707588734",
   "text" : "E quanto mais not\u00EDcias eu leio, mais inacredit\u00E1vel parece... #caosnorio",
   "id" : 11707588734,
-  "created_at" : "2010-04-06 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11716292898",
-  "text" : "Quando (se?!?!) a \u00E1gua baixar, a cidade vai t\u00E1 um lixo, literalmente!!",
-  "id" : 11716292898,
   "created_at" : "2010-04-06 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

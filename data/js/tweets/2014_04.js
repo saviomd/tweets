@@ -3,7 +3,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "indices" : [ 3, 12 ],
       "id_str" : "4375",
@@ -96,7 +96,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 461239412417130497,
     "created_at" : "2014-04-29 20:23:39 +0000",
     "user" : {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
@@ -311,7 +311,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -689,7 +689,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718424319060156416\/CjHaorv1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758342601770672128\/eUKaqXK4_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }
@@ -903,7 +903,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "170704309",
       "id" : 170704309
     }, {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 16, 24 ],
       "id_str" : "26618823",
@@ -920,7 +920,7 @@ Grailbird.data.tweets_2014_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg",
+        "name" : "Arthur Muhlenberg\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -965,7 +965,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -992,7 +992,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456611637730897920,
     "created_at" : "2014-04-17 01:54:32 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1187,7 +1187,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 455511026956369920,
     "created_at" : "2014-04-14 01:01:06 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1558,7 +1558,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "UOL",
       "protected" : false,
       "id_str" : "70799317",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676820421308719105\/NsTF0vCr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735582756701343744\/E3Az0jIs_normal.jpg",
       "id" : 70799317,
       "verified" : true
     }
@@ -1681,7 +1681,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "MatthewKick",
       "protected" : false,
       "id_str" : "25236963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720235680803250176\/2VvnZ9_K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753586348079063040\/SJmhfLLw_normal.jpg",
       "id" : 25236963,
       "verified" : false
     }
@@ -1864,7 +1864,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "recborg",
       "protected" : false,
       "id_str" : "232439599",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636854015096168448\/gJHOcaOd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763683603276566529\/2u4m-vhn_normal.jpg",
       "id" : 232439599,
       "verified" : false
     }
@@ -2558,7 +2558,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2822,7 +2822,7 @@ Grailbird.data.tweets_2014_04 =
   "id_str" : "452867639418052609",
   "text" : "RT @MacMagazine: Capuchin \u00E9 um \u00F3timo joguinho de passatempo para voc\u00EA ter no seu iPhone\/iPod touch \u2022 http:\/\/t.co\/GnkRVDT5vb",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2846,7 +2846,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 452867639418052609,
@@ -3031,7 +3031,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "35432643",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725034709533728770\/ZVaJZ_tu_normal.jpg",
       "id" : 35432643,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 451834585119461376,

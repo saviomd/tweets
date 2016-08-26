@@ -117,7 +117,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "eddievanhalen",
       "protected" : false,
       "id_str" : "35865024",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1402081795\/profile3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745365002568163330\/O616OLCt_normal.jpg",
       "id" : 35865024,
       "verified" : true
     }
@@ -537,7 +537,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "18865450",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692501547540938753\/-4lk9HMW_normal.png",
       "id" : 18865450,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 140223591659732992,
@@ -555,7 +555,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -604,7 +604,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 140163076807860224,
     "created_at" : "2011-11-25 20:20:56 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1153,7 +1153,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1942,7 +1942,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 132549595262763008,
     "created_at" : "2011-11-04 20:07:40 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

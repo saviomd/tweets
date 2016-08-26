@@ -747,7 +747,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "eduardopaes_",
       "protected" : false,
       "id_str" : "48298703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2713044994\/aeb591bffcb9321bc3a81167f0f494a4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749454236463796224\/w5AJTy5K_normal.jpg",
       "id" : 48298703,
       "verified" : true
     }
@@ -1182,7 +1182,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "4879901",
       "id" : 4879901
     }, {
-      "name" : "Lancenet!",
+      "name" : "LANCE!",
       "screen_name" : "lancenet",
       "indices" : [ 11, 20 ],
       "id_str" : "15488353",
@@ -1227,7 +1227,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "4879901",
       "id" : 4879901
     }, {
-      "name" : "Lancenet!",
+      "name" : "LANCE!",
       "screen_name" : "lancenet",
       "indices" : [ 11, 20 ],
       "id_str" : "15488353",

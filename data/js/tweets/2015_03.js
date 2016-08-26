@@ -347,7 +347,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -444,7 +444,7 @@ Grailbird.data.tweets_2015_03 =
     "id" : 580471759515881474,
     "created_at" : "2015-03-24 20:50:26 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "eddievanhalen",
       "protected" : false,
       "id_str" : "35865024",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1402081795\/profile3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745365002568163330\/O616OLCt_normal.jpg",
       "id" : 35865024,
       "verified" : true
     }
@@ -1308,7 +1308,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712733516564402176\/_zB1EI-3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752857333655535616\/CTOILFYP_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -1425,7 +1425,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

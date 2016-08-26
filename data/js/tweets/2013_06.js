@@ -104,7 +104,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -271,7 +271,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "robertnyman",
       "protected" : false,
       "id_str" : "8414132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522114103406387200\/Zr3cHt29_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760791351969587204\/zFHv9T1e_normal.jpg",
       "id" : 8414132,
       "verified" : false
     }
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1208,7 +1208,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 345504854946504704,
     "created_at" : "2013-06-14 11:35:51 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1232,7 +1232,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1269,7 +1269,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 345295487030661120,
     "created_at" : "2013-06-13 21:43:54 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1677,7 +1677,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651937992114880512\/eksuZdeK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757971058951454720\/MldvK3rH_normal.jpg",
       "id" : 14724725,
       "verified" : true
     }

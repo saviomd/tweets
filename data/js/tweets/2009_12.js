@@ -590,7 +590,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -975,7 +975,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 0, 12 ],
       "id_str" : "36376988",
@@ -1008,19 +1008,19 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
       "id" : 28808110
     }, {
-      "name" : "Snap: rica.perrone",
+      "name" : "Rica Perrone",
       "screen_name" : "RicaPerrone",
       "indices" : [ 46, 58 ],
       "id_str" : "36376988",
       "id" : 36376988
     }, {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 61, 69 ],
       "id_str" : "26618823",

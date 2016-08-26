@@ -430,7 +430,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -517,7 +517,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 471327979302580224,
     "created_at" : "2014-05-27 16:32:01 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1205,7 +1205,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1295,7 +1295,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "466408948904771586",
   "text" : "RT @MacMagazine: \u21AA Apple coloca as suas \"iOS Human Interface Guidelines\" na iBooks Store \u2022 http:\/\/t.co\/CrYDW0WSb5",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1319,7 +1319,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 466408948904771586,
@@ -1468,7 +1468,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000575623979\/59db8c64b416eea20effbb79df106104_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756933122772525056\/FwG8UYtj_normal.jpg",
       "id" : 17768307,
       "verified" : true
     }
@@ -2693,7 +2693,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "ProfWoodward",
       "protected" : false,
       "id_str" : "419780201",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729236276172443649\/k1cjR8MX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766730272251473924\/DLvlAX7m_normal.jpg",
       "id" : 419780201,
       "verified" : false
     }
@@ -2808,7 +2808,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "jim_unwin",
       "protected" : false,
       "id_str" : "265479915",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727314854156054528\/xpQEs-El_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743570651122925568\/II2JSaQf_normal.jpg",
       "id" : 265479915,
       "verified" : false
     }

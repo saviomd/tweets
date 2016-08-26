@@ -443,7 +443,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "nprmusic",
       "protected" : false,
       "id_str" : "13784592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723302711727382528\/6tUcVPIM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768169011859324928\/-2frWHaT_normal.jpg",
       "id" : 13784592,
       "verified" : true
     }
@@ -1480,7 +1480,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "jurandirfilho",
       "protected" : false,
       "id_str" : "8703862",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712034090002812928\/YtGNzI7r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768250457013776385\/sN2nKVym_normal.jpg",
       "id" : 8703862,
       "verified" : false
     }
@@ -2101,7 +2101,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -2198,7 +2198,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 596314869563052032,
     "created_at" : "2015-05-07 14:05:18 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -2222,7 +2222,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "indices" : [ 3, 12 ],
       "id_str" : "4375",
@@ -2271,7 +2271,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 596025461790121984,
     "created_at" : "2015-05-06 18:55:18 +0000",
     "user" : {
-      "name" : "Diego Eis",
+      "name" : "snap: diegoeis",
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",

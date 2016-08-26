@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 395632536006565888,
     "created_at" : "2013-10-30 19:25:21 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -547,7 +547,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -584,7 +584,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 391329275153891328,
     "created_at" : "2013-10-18 22:25:44 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -676,7 +676,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "pontofrio",
       "protected" : false,
       "id_str" : "16788804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714452460627181568\/rxbgeftM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756122142673100800\/dHwqw9Be_normal.jpg",
       "id" : 16788804,
       "verified" : true
     }
@@ -715,7 +715,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "390838092871241728",
   "text" : "RT @MacMagazine: \u21AA Warner Bros. lan\u00E7a jogo Batman: Arkham Origins para iOS, em modelo \"freemium\" \u2022 http:\/\/t.co\/jHOrbeqsgK",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -739,7 +739,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 390838092871241728,
@@ -844,7 +844,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -881,7 +881,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 387992560246865920,
     "created_at" : "2013-10-09 17:26:49 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "4879901",
       "id" : 4879901
     }, {
-      "name" : "snap: reesenna",
+      "name" : "Renata",
       "screen_name" : "resenna",
       "indices" : [ 38, 46 ],
       "id_str" : "15601887",
@@ -1184,7 +1184,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: reesenna",
+      "name" : "Renata",
       "screen_name" : "resenna",
       "indices" : [ 0, 8 ],
       "id_str" : "15601887",

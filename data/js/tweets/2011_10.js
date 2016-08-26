@@ -562,7 +562,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2386,7 +2386,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -2423,11 +2423,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 121871362557095937,
     "created_at" : "2011-10-06 08:56:11 +0000",
     "user" : {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697899943655137280\/cI9-9coO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759697016976871425\/pAik26IG_normal.jpg",
       "id" : 760892,
       "verified" : false
     }

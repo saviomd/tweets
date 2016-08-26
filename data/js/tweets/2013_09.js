@@ -382,7 +382,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "Riccioppo",
       "protected" : false,
       "id_str" : "49781558",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626374599886901248\/bwI9m-sw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759522159874146305\/bVlDps1X_normal.jpg",
       "id" : 49781558,
       "verified" : false
     }
@@ -1092,7 +1092,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 380324787060359168,
@@ -1612,7 +1612,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "475016622",
       "id" : 475016622
     }, {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 15, 23 ],
       "id_str" : "26618823",
@@ -1629,7 +1629,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg",
+        "name" : "Arthur Muhlenberg\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Smart and also Good",
+      "name" : "sick transit, gloria",
       "screen_name" : "samknight1",
       "indices" : [ 3, 14 ],
       "id_str" : "38460804",
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377301207896694784,
     "created_at" : "2013-09-10 05:23:12 +0000",
     "user" : {
-      "name" : "Smart and also Good",
+      "name" : "sick transit, gloria",
       "screen_name" : "samknight1",
       "protected" : false,
       "id_str" : "38460804",

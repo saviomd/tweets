@@ -63,7 +63,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "14724725",
       "id" : 14724725
     }, {
-      "name" : "Dave Prowse",
+      "name" : "DARTH VADER",
       "screen_name" : "isDARTHVADER",
       "indices" : [ 120, 133 ],
       "id_str" : "215187970",
@@ -133,7 +133,7 @@ Grailbird.data.tweets_2016_04 =
         "id_str" : "14724725",
         "id" : 14724725
       }, {
-        "name" : "Dave Prowse",
+        "name" : "DARTH VADER",
         "screen_name" : "isDARTHVADER",
         "indices" : [ 101, 114 ],
         "id_str" : "215187970",
@@ -426,7 +426,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651937992114880512\/eksuZdeK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757971058951454720\/MldvK3rH_normal.jpg",
       "id" : 14724725,
       "verified" : true
     }
@@ -759,7 +759,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "26981455",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
       "id" : 26981455,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 721736936549982209,
@@ -1076,7 +1076,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "BatmanvSuperman",
       "protected" : false,
       "id_str" : "583288452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717430924334399488\/rs86YHaM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738413996697473024\/zbxAmnZr_normal.jpg",
       "id" : 583288452,
       "verified" : true
     }
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 717167190932332544,

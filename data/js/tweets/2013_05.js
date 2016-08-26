@@ -288,7 +288,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 339104255787016194,
     "created_at" : "2013-05-27 19:42:09 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -590,7 +590,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "adidasfootball",
       "protected" : false,
       "id_str" : "219683269",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712564067404279809\/d4JrigyR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752771956236255232\/t7nlIHQY_normal.jpg",
       "id" : 219683269,
       "verified" : true
     }
@@ -1564,7 +1564,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1591,7 +1591,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 333072677071896577,
     "created_at" : "2013-05-11 04:14:49 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1881,7 +1881,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1930,7 +1930,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 331955511010398208,
     "created_at" : "2013-05-08 02:15:35 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2379,7 +2379,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "331417042278285314",
   "text" : "RT @MacMagazine: Depois de fazer sucesso com Buraco, Jogatina lan\u00E7a jogo Tranca para iPhones\/iPods touch \u2022 http:\/\/t.co\/utAnVTbsqG",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2403,7 +2403,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "15056952",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577802295838048256\/xETCIpy7_normal.png",
       "id" : 15056952,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 331417042278285314,

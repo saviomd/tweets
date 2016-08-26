@@ -280,28 +280,6 @@ Grailbird.data.tweets_2009_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3517819071",
-  "text" : "@joeynetto Huahahaaha eu sei quem \u00E9, tive q fazer o mesmo duas semanas atr\u00E1s.",
-  "id" : 3517819071,
-  "created_at" : "2009-08-24 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Billy Gould",
       "screen_name" : "MRGOULD",
@@ -339,6 +317,28 @@ Grailbird.data.tweets_2009_08 =
   "id_str" : "3513884185",
   "text" : "19h n\u00E3o da tempo de chegar!! Muito menos de ir em casa antes e pegar minha camisa p\/ conseguir um aut\u00F3grafo.. http:\/\/tinyurl.com\/m6t8rn",
   "id" : 3513884185,
+  "created_at" : "2009-08-24 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3517819071",
+  "text" : "@joeynetto Huahahaaha eu sei quem \u00E9, tive q fazer o mesmo duas semanas atr\u00E1s.",
+  "id" : 3517819071,
   "created_at" : "2009-08-24 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
@@ -811,7 +811,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",

@@ -44,7 +44,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651937992114880512\/eksuZdeK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757971058951454720\/MldvK3rH_normal.jpg",
       "id" : 14724725,
       "verified" : true
     }
@@ -438,7 +438,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "indices" : [ 3, 13 ],
       "id_str" : "16008305",
@@ -535,7 +535,7 @@ Grailbird.data.tweets_2015_11 =
     "id" : 663823459357581312,
     "created_at" : "2015-11-09 21:00:20 +0000",
     "user" : {
-      "name" : "snap: tecnoblog",
+      "name" : "Tecnoblog",
       "screen_name" : "Tecnoblog",
       "protected" : false,
       "id_str" : "16008305",
@@ -602,7 +602,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "26981455",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
       "id" : 26981455,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 663035668466180096,

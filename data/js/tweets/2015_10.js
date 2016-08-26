@@ -94,7 +94,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -215,7 +215,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -336,7 +336,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "exame",
       "protected" : false,
       "id_str" : "30070288",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1939412583\/twitter_exame_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766741727159914496\/Ov_O0gJ8_normal.jpg",
       "id" : 30070288,
       "verified" : true
     }
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "17768307",
       "id" : 17768307
     }, {
-      "name" : "DC Comics",
+      "name" : "DC",
       "screen_name" : "DCComics",
       "indices" : [ 46, 55 ],
       "id_str" : "18173624",
@@ -679,7 +679,7 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "DC Comics",
+        "name" : "DC",
         "screen_name" : "DCComics",
         "indices" : [ 30, 39 ],
         "id_str" : "18173624",
@@ -744,7 +744,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000575623979\/59db8c64b416eea20effbb79df106104_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756933122772525056\/FwG8UYtj_normal.jpg",
       "id" : 17768307,
       "verified" : true
     }

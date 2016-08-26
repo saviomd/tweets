@@ -181,7 +181,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666407537084796928\/YBGgi9BO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -302,7 +302,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "totalfilm",
       "protected" : false,
       "id_str" : "17483878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1584787305\/totalfilm_twitter_avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738652880387878912\/kEeI_JQZ_normal.jpg",
       "id" : 17483878,
       "verified" : true
     }
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000575623979\/59db8c64b416eea20effbb79df106104_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756933122772525056\/FwG8UYtj_normal.jpg",
       "id" : 17768307,
       "verified" : true
     }
@@ -1461,7 +1461,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "BatmanvSuperman",
       "protected" : false,
       "id_str" : "583288452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717430924334399488\/rs86YHaM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738413996697473024\/zbxAmnZr_normal.jpg",
       "id" : 583288452,
       "verified" : true
     }
@@ -1681,7 +1681,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -1748,7 +1748,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "BatmanvSuperman",
       "protected" : false,
       "id_str" : "583288452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717430924334399488\/rs86YHaM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738413996697473024\/zbxAmnZr_normal.jpg",
       "id" : 583288452,
       "verified" : true
     }

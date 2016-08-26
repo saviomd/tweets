@@ -193,7 +193,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -236,7 +236,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 74013895639056384,
     "created_at" : "2011-05-27 07:27:42 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -313,7 +313,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "eddievanhalen",
       "protected" : false,
       "id_str" : "35865024",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1402081795\/profile3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745365002568163330\/O616OLCt_normal.jpg",
       "id" : 35865024,
       "verified" : true
     }
@@ -360,7 +360,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -397,11 +397,11 @@ Grailbird.data.tweets_2011_05 =
     "id" : 73640620207509504,
     "created_at" : "2011-05-26 06:44:26 +0000",
     "user" : {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697899943655137280\/cI9-9coO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759697016976871425\/pAik26IG_normal.jpg",
       "id" : 760892,
       "verified" : false
     }
@@ -582,7 +582,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 0, 10 ],
       "id_str" : "28808110",
@@ -1032,7 +1032,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "indices" : [ 3, 6 ],
       "id_str" : "760892",
@@ -1059,11 +1059,11 @@ Grailbird.data.tweets_2011_05 =
     "id" : 68529314144067584,
     "created_at" : "2011-05-12 04:13:56 +0000",
     "user" : {
-      "name" : "V\u00EDtor Louren\u00E7o",
+      "name" : "Vitor",
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697899943655137280\/cI9-9coO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759697016976871425\/pAik26IG_normal.jpg",
       "id" : 760892,
       "verified" : false
     }

@@ -56,13 +56,57 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
   },
   "id" : 9835391900,
   "created_at" : "2010-03-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9728322000",
+  "text" : "Pq a pressa de ir embora ontem foi grande e eu esqueci hehe. Finalmente, f\u00E9rias!!!! S\u00F3 falta o sol agora..",
+  "id" : 9728322000,
+  "created_at" : "2010-02-27 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9728701559",
+  "text" : "Deve ter sido, no m\u00EDnimo, engra\u00E7ado http:\/\/www.itwire.com\/your-it-news\/home-it\/37217-faith-no-more-stream-entire-show-to-chatroulette",
+  "id" : 9728701559,
+  "created_at" : "2010-02-27 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -205,50 +249,6 @@ Grailbird.data.tweets_2010_02 =
   "created_at" : "2010-02-27 00:00:00 +0000",
   "in_reply_to_screen_name" : "danielcmarques",
   "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9728322000",
-  "text" : "Pq a pressa de ir embora ontem foi grande e eu esqueci hehe. Finalmente, f\u00E9rias!!!! S\u00F3 falta o sol agora..",
-  "id" : 9728322000,
-  "created_at" : "2010-02-27 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9728701559",
-  "text" : "Deve ter sido, no m\u00EDnimo, engra\u00E7ado http:\/\/www.itwire.com\/your-it-news\/home-it\/37217-faith-no-more-stream-entire-show-to-chatroulette",
-  "id" : 9728701559,
-  "created_at" : "2010-02-27 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 4, 14 ],
       "id_str" : "28808110",
@@ -716,7 +716,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "18391036",
       "id" : 18391036
     }, {
-      "name" : "Patricia Lima \u2654",
+      "name" : "Patricia Lima \u2020",
       "screen_name" : "patoka",
       "indices" : [ 66, 73 ],
       "id_str" : "15279041",

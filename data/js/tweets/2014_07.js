@@ -264,7 +264,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000575623979\/59db8c64b416eea20effbb79df106104_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756933122772525056\/FwG8UYtj_normal.jpg",
       "id" : 17768307,
       "verified" : true
     }
@@ -417,7 +417,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "BatmanvSuperman",
       "protected" : false,
       "id_str" : "583288452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717430924334399488\/rs86YHaM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738413996697473024\/zbxAmnZr_normal.jpg",
       "id" : 583288452,
       "verified" : true
     }
@@ -707,7 +707,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb",
+      "name" : "( (  Larry Hryb ) )",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -804,7 +804,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 489499220253372416,
     "created_at" : "2014-07-16 19:58:03 +0000",
     "user" : {
-      "name" : "Larry Hryb",
+      "name" : "( (  Larry Hryb ) )",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -1012,7 +1012,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "chrisdeerin",
       "protected" : false,
       "id_str" : "130835710",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702897252860354560\/Rsnbq-Dg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757980386588823552\/5qi_JmFC_normal.jpg",
       "id" : 130835710,
       "verified" : false
     }
@@ -1256,7 +1256,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "DFB_Team_EN",
       "protected" : false,
       "id_str" : "2350218440",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666189940343050240\/JDxaouts_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766216226809020417\/wh6wzkDn_normal.jpg",
       "id" : 2350218440,
       "verified" : true
     }
@@ -1541,7 +1541,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "allthehoranlove",
       "protected" : false,
       "id_str" : "1611690398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733345017784336386\/8G5Ro73e_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767922453058293760\/yE8N6Qqc_normal.jpg",
       "id" : 1611690398,
       "verified" : false
     }
@@ -1561,7 +1561,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1648,7 +1648,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 488463503351881728,
     "created_at" : "2014-07-13 23:22:29 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1797,7 +1797,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712733516564402176\/_zB1EI-3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752857333655535616\/CTOILFYP_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -1817,7 +1817,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "M\u00F6lter \u2708",
+      "name" : "M\u00F6lter\u2122 \u2708",
       "screen_name" : "MolterGui",
       "indices" : [ 3, 13 ],
       "id_str" : "54611454",
@@ -1904,7 +1904,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 488068905118998528,
     "created_at" : "2014-07-12 21:14:29 +0000",
     "user" : {
-      "name" : "M\u00F6lter \u2708",
+      "name" : "M\u00F6lter\u2122 \u2708",
       "screen_name" : "MolterGui",
       "protected" : false,
       "id_str" : "54611454",
@@ -2420,7 +2420,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "DFB_Team_EN",
       "protected" : false,
       "id_str" : "2350218440",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666189940343050240\/JDxaouts_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766216226809020417\/wh6wzkDn_normal.jpg",
       "id" : 2350218440,
       "verified" : true
     }
@@ -2551,7 +2551,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2578,7 +2578,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 486612427040366592,
     "created_at" : "2014-07-08 20:46:58 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2713,7 +2713,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2750,7 +2750,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 485867528519168000,
     "created_at" : "2014-07-06 19:27:00 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2813,7 +2813,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "95306144",
       "id" : 95306144
     }, {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 20, 28 ],
       "id_str" : "26618823",
@@ -2830,7 +2830,7 @@ Grailbird.data.tweets_2014_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg",
+        "name" : "Arthur Muhlenberg\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -2853,7 +2853,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "LeoAlcantara10",
       "protected" : false,
       "id_str" : "95306144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672203015680430080\/QTAalJVy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755455085069631489\/NXwEtBuw_normal.jpg",
       "id" : 95306144,
       "verified" : false
     }
@@ -3342,7 +3342,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "nikefootball",
       "protected" : false,
       "id_str" : "41147159",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732467051105640448\/l-F_v6N-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762057596341661696\/pRNqMumZ_normal.jpg",
       "id" : 41147159,
       "verified" : true
     }
@@ -3459,7 +3459,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "nikefootball",
       "protected" : false,
       "id_str" : "41147159",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732467051105640448\/l-F_v6N-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762057596341661696\/pRNqMumZ_normal.jpg",
       "id" : 41147159,
       "verified" : true
     }
@@ -3618,7 +3618,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Podolski10",
       "protected" : false,
       "id_str" : "19596687",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629926343069814784\/K71ajEdU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742007498186600448\/H1wt8FRq_normal.jpg",
       "id" : 19596687,
       "verified" : true
     }
@@ -4115,7 +4115,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "BSchweinsteiger",
       "protected" : false,
       "id_str" : "1283561876",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687664928216449024\/mEA7sHld_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743064666881052672\/078obLWp_normal.jpg",
       "id" : 1283561876,
       "verified" : true
     }
@@ -4419,7 +4419,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "BSchweinsteiger",
       "protected" : false,
       "id_str" : "1283561876",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687664928216449024\/mEA7sHld_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743064666881052672\/078obLWp_normal.jpg",
       "id" : 1283561876,
       "verified" : true
     }
@@ -4639,7 +4639,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: reesenna",
+      "name" : "Renata",
       "screen_name" : "resenna",
       "indices" : [ 0, 8 ],
       "id_str" : "15601887",
@@ -4780,7 +4780,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "BleacherReport",
       "protected" : false,
       "id_str" : "890891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717914903697235968\/DXrhOLo1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751421072508084224\/f-W8B0YJ_normal.jpg",
       "id" : 890891,
       "verified" : true
     }
@@ -4911,7 +4911,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: reesenna",
+      "name" : "Renata",
       "screen_name" : "resenna",
       "indices" : [ 0, 8 ],
       "id_str" : "15601887",

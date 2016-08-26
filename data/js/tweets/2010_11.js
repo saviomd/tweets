@@ -124,7 +124,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diego",
+      "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
       "indices" : [ 3, 13 ],
       "id_str" : "28808110",
@@ -979,7 +979,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731105975520874496\/6maFuXBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -1300,7 +1300,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "DaniloGentili",
       "protected" : false,
       "id_str" : "14213711",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722519645455060993\/XqAt1-Dj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744243863620063232\/8R_7yl1s_normal.jpg",
       "id" : 14213711,
       "verified" : true
     }
@@ -1482,7 +1482,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "julianchaos",
       "protected" : false,
       "id_str" : "16607571",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729475472615194625\/qLTlUdQG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744996602822033408\/PikSWt3g_normal.jpg",
       "id" : 16607571,
       "verified" : false
     }

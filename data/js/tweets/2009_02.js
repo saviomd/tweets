@@ -74,9 +74,9 @@ Grailbird.data.tweets_2009_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1253353022",
-  "text" : "De volta \u00E0 vida normal... pelo menos consegui chegar cedo e tomar meu a\u00E7a\u00ED bonz\u00E3o.",
-  "id" : 1253353022,
+  "id_str" : "1253396901",
+  "text" : "Faith No More de volta!! T\u00F4 at\u00E9 emocionado haha http:\/\/tinyurl.com\/ddk5gp",
+  "id" : 1253396901,
   "created_at" : "2009-02-26 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
@@ -96,9 +96,9 @@ Grailbird.data.tweets_2009_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1253396901",
-  "text" : "Faith No More de volta!! T\u00F4 at\u00E9 emocionado haha http:\/\/tinyurl.com\/ddk5gp",
-  "id" : 1253396901,
+  "id_str" : "1253353022",
+  "text" : "De volta \u00E0 vida normal... pelo menos consegui chegar cedo e tomar meu a\u00E7a\u00ED bonz\u00E3o.",
+  "id" : 1253353022,
   "created_at" : "2009-02-26 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

@@ -245,7 +245,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712733516564402176\/_zB1EI-3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752857333655535616\/CTOILFYP_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 400698632032485376,
     "created_at" : "2013-11-13 18:56:13 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1675,7 +1675,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 397752911310360576,
     "created_at" : "2013-11-05 15:50:58 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg",
+      "name" : "Arthur Muhlenberg\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

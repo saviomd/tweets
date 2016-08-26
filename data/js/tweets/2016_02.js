@@ -380,7 +380,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "168530981",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714753502820573190\/UxqiBrYx_normal.jpg",
       "id" : 168530981,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 700475976862474240,
@@ -677,7 +677,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "mattzollerseitz",
       "protected" : false,
       "id_str" : "138416662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727335874334195713\/A6ZQ5b8M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746759924621934593\/Yu4MbSjL_normal.jpg",
       "id" : 138416662,
       "verified" : false
     }
@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "BatmanvSuperman",
       "protected" : false,
       "id_str" : "583288452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717430924334399488\/rs86YHaM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738413996697473024\/zbxAmnZr_normal.jpg",
       "id" : 583288452,
       "verified" : true
     }
@@ -1321,7 +1321,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727989935052079104\/L4vjxr1f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
