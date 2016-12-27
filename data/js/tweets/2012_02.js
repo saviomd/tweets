@@ -195,12 +195,7 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/TJEGDUMl",
-      "expanded_url" : "http:\/\/nicolasgallagher.com\/about-normalize-css\/",
-      "display_url" : "nicolasgallagher.com\/about-normaliz\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "174558156750467072",
@@ -256,12 +251,7 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/v3lEfDlZ",
-      "expanded_url" : "http:\/\/bit.ly\/wuS9Q3",
-      "display_url" : "bit.ly\/wuS9Q3"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "174281750254596096",
@@ -663,12 +653,7 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/3ouBaP83",
-      "expanded_url" : "http:\/\/www.smashingmagazine.com\/2012\/02\/15\/smashing-book-3-preorder\/",
-      "display_url" : "smashingmagazine.com\/2012\/02\/15\/sma\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "169923744800841728",
@@ -747,7 +732,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "eduardopaes_",
       "protected" : false,
       "id_str" : "48298703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749454236463796224\/w5AJTy5K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797191135852642305\/A8hsUmyQ_normal.jpg",
       "id" : 48298703,
       "verified" : true
     }

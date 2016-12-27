@@ -399,12 +399,6 @@ Grailbird.data.tweets_2010_11 =
       "indices" : [ 23, 33 ],
       "id_str" : "46152686",
       "id" : 46152686
-    }, {
-      "name" : "Renata",
-      "screen_name" : "resenna",
-      "indices" : [ 139, 140 ],
-      "id_str" : "15601887",
-      "id" : 15601887
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -979,7 +973,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804003173723738112\/xQSJHsG5_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -1064,7 +1058,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486575037239934976\/7jZU5s1f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1115,7 +1109,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486575037239934976\/7jZU5s1f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1269,7 +1263,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SNAP: danilogentili",
+      "name" : "Danilo Gentili",
       "screen_name" : "DaniloGentili",
       "indices" : [ 3, 17 ],
       "id_str" : "14213711",
@@ -1296,7 +1290,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 2824231087767552,
     "created_at" : "2010-11-11 20:45:23 +0000",
     "user" : {
-      "name" : "SNAP: danilogentili",
+      "name" : "Danilo Gentili",
       "screen_name" : "DaniloGentili",
       "protected" : false,
       "id_str" : "14213711",
@@ -1449,12 +1443,7 @@ Grailbird.data.tweets_2010_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/a5fkk3y",
-      "expanded_url" : "http:\/\/desculpeanossafalha.com.br\/?p=417",
-      "display_url" : "desculpeanossafalha.com.br\/?p=417"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "29589773498",

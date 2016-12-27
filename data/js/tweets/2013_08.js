@@ -88,11 +88,6 @@ Grailbird.data.tweets_2013_08 =
       "url" : "http:\/\/t.co\/MxBWLerlWO",
       "expanded_url" : "http:\/\/bit.ly\/tbRV2A",
       "display_url" : "bit.ly\/tbRV2A"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/plitpg4daB",
-      "expanded_url" : "http:\/\/ow.ly\/i\/30pq7",
-      "display_url" : "ow.ly\/i\/30pq7"
     } ]
   },
   "geo" : { },
@@ -137,7 +132,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Cut_The_Rope",
       "protected" : false,
       "id_str" : "206348770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763769315506196481\/WQj7Ug5m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808647078763261952\/YYHslW-Z_normal.jpg",
       "id" : 206348770,
       "verified" : true
     }
@@ -349,7 +344,7 @@ Grailbird.data.tweets_2013_08 =
       "id" : 32441865
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/372515227558236160\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/372515227558236160\/photo\/1",
       "indices" : [ 105, 127 ],
       "url" : "http:\/\/t.co\/h2ebyeifV1",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BStwoB0IYAAQiM0.jpg",
@@ -503,7 +498,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "4879901",
       "id" : 4879901
     }, {
-      "name" : "ChrisJohnRiley \u272A",
+      "name" : "ChrisJohnRiley \uD83C\uDF10",
       "screen_name" : "ChrisJohnRiley",
       "indices" : [ 27, 42 ],
       "id_str" : "14311405",
@@ -867,7 +862,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "getbootstrap",
       "protected" : false,
       "id_str" : "372475592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000195279414\/f8404a9d719c7ffce1478ba1a50036f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788777950132830208\/vgO3N1r7_normal.jpg",
       "id" : 372475592,
       "verified" : false
     }
@@ -1007,12 +1002,6 @@ Grailbird.data.tweets_2013_08 =
       "indices" : [ 3, 16 ],
       "id_str" : "133129567",
       "id" : 133129567
-    }, {
-      "name" : "Smashing Magazine",
-      "screen_name" : "smashingmag",
-      "indices" : [ 136, 140 ],
-      "id_str" : "15736190",
-      "id" : 15736190
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1370,9 +1359,9 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "ImpressiveWebs",
       "protected" : false,
       "id_str" : "39445335",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2847459552\/2a8fc63f4d5901903798f5eacc84f002_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772672687923748864\/R09iHOl-_normal.jpg",
       "id" : 39445335,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 367802927206789120,
@@ -1644,10 +1633,7 @@ Grailbird.data.tweets_2013_08 =
         "display_url" : "m.nydailynews.com\/1.1422685"
       } ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 40.4714537694, -79.9613556804 ]
-    },
+    "geo" : { },
     "id_str" : "366063810680864768",
     "text" : "They forgot to put any elevator shafts in a 47-story skyscraper. http:\/\/t.co\/3NKJJYhP3h Ouch.",
     "id" : 366063810680864768,
@@ -2061,7 +2047,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "almirfilho",
       "protected" : false,
       "id_str" : "20877653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700428896039268352\/G-_pG9Rq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/810718777234989056\/I8TsovSK_normal.jpg",
       "id" : 20877653,
       "verified" : false
     }

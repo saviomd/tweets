@@ -44,7 +44,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757971058951454720\/MldvK3rH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785901285417463808\/KTKj5giM_normal.jpg",
       "id" : 14724725,
       "verified" : true
     }
@@ -273,37 +273,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "45083460",
       "id" : 45083460
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/petrobras\/status\/664487888118112256\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/hFNBuVwZVc",
-      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/CTiwaUvUsAA4Ldn.png",
-      "id_str" : "664474911327432704",
-      "id" : 664474911327432704,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/CTiwaUvUsAA4Ldn.png",
-      "sizes" : [ {
-        "h" : 479,
-        "resize" : "fit",
-        "w" : 958
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 170,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 479,
-        "resize" : "fit",
-        "w" : 958
-      }, {
-        "h" : 300,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/hFNBuVwZVc"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "GPpetrobrasF1",
       "indices" : [ 115, 129 ]
@@ -318,7 +288,7 @@ Grailbird.data.tweets_2015_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/petrobras\/status\/664487888118112256\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/petrobras\/status\/664487888118112256\/photo\/1",
         "indices" : [ 116, 139 ],
         "url" : "https:\/\/t.co\/hFNBuVwZVc",
         "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/CTiwaUvUsAA4Ldn.png",
@@ -364,7 +334,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "petrobras",
       "protected" : false,
       "id_str" : "45083460",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458691576089169920\/Oj30Ye1p_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799597328730558464\/ks3kVnp-_normal.jpg",
       "id" : 45083460,
       "verified" : true
     }
@@ -444,37 +414,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "16008305",
       "id" : 16008305
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Tecnoblog\/status\/663823459357581312\/photo\/1",
-      "indices" : [ 122, 140 ],
-      "url" : "https:\/\/t.co\/RMwRRmQr0L",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CTZf6WXWUAAkjmu.jpg",
-      "id_str" : "663823451124289536",
-      "id" : 663823451124289536,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CTZf6WXWUAAkjmu.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 338,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 700
-      }, {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 700
-      } ],
-      "display_url" : "pic.twitter.com\/RMwRRmQr0L"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 98, 121 ],
@@ -491,7 +431,7 @@ Grailbird.data.tweets_2015_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Tecnoblog\/status\/663823459357581312\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Tecnoblog\/status\/663823459357581312\/photo\/1",
         "indices" : [ 107, 130 ],
         "url" : "https:\/\/t.co\/RMwRRmQr0L",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CTZf6WXWUAAkjmu.jpg",

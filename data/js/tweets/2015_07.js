@@ -10,7 +10,7 @@ Grailbird.data.tweets_2015_07 =
       "id" : 19114743
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/626740836605239296\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/626740836605239296\/video\/1",
       "indices" : [ 70, 92 ],
       "url" : "http:\/\/t.co\/Vg7UIZ2voq",
       "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/626740805466783744\/pu\/img\/IzDrrx8K9vLvub8L.jpg",
@@ -56,7 +56,7 @@ Grailbird.data.tweets_2015_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/626740836605239296\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/626740836605239296\/video\/1",
         "indices" : [ 54, 76 ],
         "url" : "http:\/\/t.co\/Vg7UIZ2voq",
         "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/626740805466783744\/pu\/img\/IzDrrx8K9vLvub8L.jpg",
@@ -158,7 +158,7 @@ Grailbird.data.tweets_2015_07 =
       "id" : 35865024
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/eddievanhalen\/status\/625348001091858433\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/eddievanhalen\/status\/625348001091858433\/photo\/1",
       "indices" : [ 67, 89 ],
       "url" : "http:\/\/t.co\/VEoCQhO2Ie",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CK2usSUVEAAEsDx.jpg",
@@ -205,7 +205,7 @@ Grailbird.data.tweets_2015_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/eddievanhalen\/status\/625348001091858433\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/eddievanhalen\/status\/625348001091858433\/photo\/1",
         "indices" : [ 48, 70 ],
         "url" : "http:\/\/t.co\/VEoCQhO2Ie",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CK2usSUVEAAEsDx.jpg",
@@ -350,12 +350,7 @@ Grailbird.data.tweets_2015_07 =
       "text" : "BatmanvSuperman",
       "indices" : [ 109, 125 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/4SlPFWOoeE",
-      "expanded_url" : "https:\/\/amp.twimg.com\/v\/1e5ce5c1-5150-4e8a-a8ba-9623909b30da",
-      "display_url" : "amp.twimg.com\/v\/1e5ce5c1-515\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "619976383956189184",
@@ -513,7 +508,7 @@ Grailbird.data.tweets_2015_07 =
       "id" : 40293333
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/VanHalen\/status\/619586357409624064\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/VanHalen\/status\/619586357409624064\/video\/1",
       "indices" : [ 99, 121 ],
       "url" : "http:\/\/t.co\/M0Kytx5oYJ",
       "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/619585559938269185\/pu\/img\/uoT7GJMx9iv325Kr.jpg",
@@ -560,7 +555,7 @@ Grailbird.data.tweets_2015_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/VanHalen\/status\/619586357409624064\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/VanHalen\/status\/619586357409624064\/video\/1",
         "indices" : [ 85, 107 ],
         "url" : "http:\/\/t.co\/M0Kytx5oYJ",
         "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/619585559938269185\/pu\/img\/uoT7GJMx9iv325Kr.jpg",
@@ -635,37 +630,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "449349346",
       "id" : 449349346
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/BradBirdA113\/status\/618829026610671620\/photo\/1",
-      "indices" : [ 143, 144 ],
-      "url" : "http:\/\/t.co\/iPmXQZ3Fyn",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CJaFt2SUsAAqIv_.jpg",
-      "id_str" : "618829021522997248",
-      "id" : 618829021522997248,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CJaFt2SUsAAqIv_.jpg",
-      "sizes" : [ {
-        "h" : 878,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 935,
-        "resize" : "fit",
-        "w" : 639
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 935,
-        "resize" : "fit",
-        "w" : 639
-      }, {
-        "h" : 497,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/iPmXQZ3Fyn"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "TheIronGiant",
       "indices" : [ 59, 72 ]
@@ -689,7 +654,7 @@ Grailbird.data.tweets_2015_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/BradBirdA113\/status\/618829026610671620\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/BradBirdA113\/status\/618829026610671620\/photo\/1",
         "indices" : [ 120, 142 ],
         "url" : "http:\/\/t.co\/iPmXQZ3Fyn",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CJaFt2SUsAAqIv_.jpg",
@@ -837,7 +802,7 @@ Grailbird.data.tweets_2015_07 =
       "id" : 16008305
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Tecnoblog\/status\/618168969007104000\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Tecnoblog\/status\/618168969007104000\/photo\/1",
       "indices" : [ 106, 128 ],
       "url" : "http:\/\/t.co\/QHGC33eo9M",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CJQtZi3WIAAwniz.png",
@@ -883,7 +848,7 @@ Grailbird.data.tweets_2015_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Tecnoblog\/status\/618168969007104000\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Tecnoblog\/status\/618168969007104000\/photo\/1",
         "indices" : [ 91, 113 ],
         "url" : "http:\/\/t.co\/QHGC33eo9M",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CJQtZi3WIAAwniz.png",

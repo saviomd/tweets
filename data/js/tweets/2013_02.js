@@ -104,12 +104,7 @@ Grailbird.data.tweets_2013_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/aL6MeQAm5g",
-      "expanded_url" : "http:\/\/youtu.be\/nKIu9yen5nc",
-      "display_url" : "youtu.be\/nKIu9yen5nc"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "306869976697024512",
@@ -137,7 +132,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486575037239934976\/7jZU5s1f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -640,12 +635,7 @@ Grailbird.data.tweets_2013_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/9RSO3TXG",
-      "expanded_url" : "http:\/\/thewalkingdeadassault.com",
-      "display_url" : "thewalkingdeadassault.com"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "300761622086025217",
@@ -734,7 +724,7 @@ Grailbird.data.tweets_2013_02 =
       "id" : 1534321640
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Fraank_Oceaan\/status\/297481516890595329\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Fraank_Oceaan\/status\/297481516890595329\/photo\/1",
       "indices" : [ 92, 112 ],
       "url" : "http:\/\/t.co\/lYspZV4Y",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BCDd3Q4CIAAoBru.jpg",
@@ -775,7 +765,7 @@ Grailbird.data.tweets_2013_02 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Fraank_Oceaan\/status\/297481516890595329\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Fraank_Oceaan\/status\/297481516890595329\/photo\/1",
         "indices" : [ 73, 93 ],
         "url" : "http:\/\/t.co\/lYspZV4Y",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BCDd3Q4CIAAoBru.jpg",
@@ -882,7 +872,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "15601887",
       "id" : 15601887
     }, {
-      "name" : "snap: me pergunta",
+      "name" : "julia com fritas",
       "screen_name" : "jujubas",
       "indices" : [ 9, 17 ],
       "id_str" : "9143722",
@@ -915,11 +905,11 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Lin",
+      "name" : "Bobbie D. Johnson",
       "screen_name" : "trailingjohnson",
       "indices" : [ 3, 19 ],
-      "id_str" : "287603659",
-      "id" : 287603659
+      "id_str" : "809488085981556738",
+      "id" : 809488085981556738
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -953,7 +943,7 @@ Grailbird.data.tweets_2013_02 =
     "created_at" : "2013-02-05 17:02:47 +0000",
     "user" : {
       "name" : "Justin Lin",
-      "screen_name" : "trailingjohnson",
+      "screen_name" : "justinlin",
       "protected" : false,
       "id_str" : "287603659",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1324620140\/images_normal.jpeg",

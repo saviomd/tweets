@@ -1004,7 +1004,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1218,7 +1218,7 @@ Grailbird.data.tweets_2012_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/153658824836923392\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/153658824836923392\/photo\/1",
       "indices" : [ 47, 67 ],
       "url" : "http:\/\/t.co\/v7foRLqR",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AiHn4xdCQAATG7d.jpg",

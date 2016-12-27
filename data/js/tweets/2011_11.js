@@ -20,7 +20,7 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ {
       "indices" : [ 114, 134 ],
       "url" : "http:\/\/t.co\/VzSJldaw",
-      "expanded_url" : "http:\/\/twitter.com\/#!\/NovaArena\/status\/141942334714691584",
+      "expanded_url" : "https:\/\/twitter.com\/#!\/NovaArena\/status\/141942334714691584",
       "display_url" : "twitter.com\/#!\/NovaArena\/s\u2026"
     } ]
   },
@@ -42,7 +42,7 @@ Grailbird.data.tweets_2011_11 =
       "urls" : [ {
         "indices" : [ 99, 119 ],
         "url" : "http:\/\/t.co\/VzSJldaw",
-        "expanded_url" : "http:\/\/twitter.com\/#!\/NovaArena\/status\/141942334714691584",
+        "expanded_url" : "https:\/\/twitter.com\/#!\/NovaArena\/status\/141942334714691584",
         "display_url" : "twitter.com\/#!\/NovaArena\/s\u2026"
       } ]
     },
@@ -494,7 +494,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Edwards",
+      "name" : "Marc Edwards \uD83D\uDCCE",
       "screen_name" : "marcedwards",
       "indices" : [ 3, 15 ],
       "id_str" : "18865450",
@@ -531,7 +531,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 140165774001180672,
     "created_at" : "2011-11-25 20:31:39 +0000",
     "user" : {
-      "name" : "Marc Edwards",
+      "name" : "Marc Edwards \uD83D\uDCCE",
       "screen_name" : "marcedwards",
       "protected" : false,
       "id_str" : "18865450",
@@ -569,12 +569,7 @@ Grailbird.data.tweets_2011_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/CdMxZh5C",
-      "expanded_url" : "http:\/\/migre.me\/6eZIe",
-      "display_url" : "migre.me\/6eZIe"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "140222037158404098",
@@ -1120,12 +1115,7 @@ Grailbird.data.tweets_2011_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/NkMos3kb",
-      "expanded_url" : "http:\/\/bit.ly\/tPmBLW",
-      "display_url" : "bit.ly\/tPmBLW"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "136535441552834560",
@@ -1153,7 +1143,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

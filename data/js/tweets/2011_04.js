@@ -944,7 +944,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1437,10 +1437,7 @@ Grailbird.data.tweets_2011_04 =
       "id" : 223622368
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "FastFive",
-      "indices" : [ 130, 139 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1467,7 +1464,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709248671213158401\/9ZknP4Tj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807254579360370688\/eqauuwlr_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -1613,12 +1610,6 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 3, 15 ],
       "id_str" : "223622368",
       "id" : 223622368
-    }, {
-      "name" : "Fast & Furious",
-      "screen_name" : "FastFurious",
-      "indices" : [ 139, 140 ],
-      "id_str" : "223622368",
-      "id" : 223622368
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1657,7 +1648,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709248671213158401\/9ZknP4Tj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807254579360370688\/eqauuwlr_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -1718,9 +1709,9 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759697016976871425\/pAik26IG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789418873913090048\/8Wt6X_8Q_normal.jpg",
       "id" : 760892,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 54692620173193216,

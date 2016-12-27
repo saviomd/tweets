@@ -2023,12 +2023,6 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 3, 13 ],
       "id_str" : "637373",
       "id" : 637373
-    }, {
-      "name" : "Andrew McTeer",
-      "screen_name" : "AndrewMcTeer",
-      "indices" : [ 139, 140 ],
-      "id_str" : "2507326525",
-      "id" : 2507326525
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2061,7 +2055,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486575037239934976\/7jZU5s1f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
       "id" : 637373,
       "verified" : false
     }

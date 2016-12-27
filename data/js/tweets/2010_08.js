@@ -429,6 +429,12 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "O n\u00F4made",
+      "screen_name" : "onomade",
+      "indices" : [ 3, 11 ],
+      "id_str" : "782752905401143296",
+      "id" : 782752905401143296
+    }, {
       "name" : "conector",
       "screen_name" : "conector",
       "indices" : [ 72, 81 ],
@@ -656,7 +662,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486575037239934976\/7jZU5s1f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -797,7 +803,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eduardo",
+      "name" : "Eduardo Hetfield",
       "screen_name" : "edutestosterona",
       "indices" : [ 3, 19 ],
       "id_str" : "19335309",
@@ -830,11 +836,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21451864023,
     "created_at" : "2010-08-18 01:47:05 +0000",
     "user" : {
-      "name" : "Eduardo",
+      "name" : "Eduardo Hetfield",
       "screen_name" : "edutestosterona",
       "protected" : false,
       "id_str" : "19335309",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753211767078195200\/gexejCYW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802151742737620993\/ELh6K_tz_normal.jpg",
       "id" : 19335309,
       "verified" : false
     }

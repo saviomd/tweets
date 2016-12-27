@@ -1007,9 +1007,9 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "ImpressiveWebs",
       "protected" : false,
       "id_str" : "39445335",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2847459552\/2a8fc63f4d5901903798f5eacc84f002_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772672687923748864\/R09iHOl-_normal.jpg",
       "id" : 39445335,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 271810476780965889,
@@ -2002,17 +2002,11 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "48298703",
       "id" : 48298703
     }, {
-      "name" : "snap: JornalOGlobo",
+      "name" : "Jornal O Globo",
       "screen_name" : "JornalOGlobo",
       "indices" : [ 101, 114 ],
       "id_str" : "54341363",
       "id" : 54341363
-    }, {
-      "name" : "Marcelo Freixo",
-      "screen_name" : "MarceloFreixo",
-      "indices" : [ 139, 140 ],
-      "id_str" : "45870897",
-      "id" : 45870897
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2036,7 +2030,7 @@ Grailbird.data.tweets_2012_11 =
         "id_str" : "48298703",
         "id" : 48298703
       }, {
-        "name" : "snap: JornalOGlobo",
+        "name" : "Jornal O Globo",
         "screen_name" : "JornalOGlobo",
         "indices" : [ 85, 98 ],
         "id_str" : "54341363",
@@ -2462,12 +2456,7 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/0TueW0kN",
-      "expanded_url" : "http:\/\/maker.github.com\/ratchet\/",
-      "display_url" : "maker.github.com\/ratchet\/"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "265602615998558209",
@@ -2519,7 +2508,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "getbootstrap",
       "protected" : false,
       "id_str" : "372475592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000195279414\/f8404a9d719c7ffce1478ba1a50036f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788777950132830208\/vgO3N1r7_normal.jpg",
       "id" : 372475592,
       "verified" : false
     }
@@ -2664,37 +2653,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "637373",
       "id" : 637373
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/mattbrett\/status\/265230708157607936\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/vWvSmLPZ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/A65J7IACcAApDmP.png",
-      "id_str" : "265230708170190848",
-      "id" : 265230708170190848,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A65J7IACcAApDmP.png",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1065,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 604,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/vWvSmLPZ"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -2706,7 +2665,7 @@ Grailbird.data.tweets_2012_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/mattbrett\/status\/265230708157607936\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/mattbrett\/status\/265230708157607936\/photo\/1",
         "indices" : [ 114, 134 ],
         "url" : "http:\/\/t.co\/vWvSmLPZ",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/A65J7IACcAApDmP.png",
@@ -2749,7 +2708,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486575037239934976\/7jZU5s1f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
       "id" : 637373,
       "verified" : false
     }

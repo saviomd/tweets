@@ -15,37 +15,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "63763277",
       "id" : 63763277
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/fifacom_pt\/status\/405887605381681153\/photo\/1",
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/ZniF9Ovvz2",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BaIAoGpCUAEepq9.jpg",
-      "id_str" : "405887605394264065",
-      "id" : 405887605394264065,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BaIAoGpCUAEepq9.jpg",
-      "sizes" : [ {
-        "h" : 399,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 681,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 226,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 1362,
-        "resize" : "fit",
-        "w" : 2048
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      } ],
-      "display_url" : "pic.twitter.com\/ZniF9Ovvz2"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "CopadoBrasil",
       "indices" : [ 30, 43 ]
@@ -71,7 +41,7 @@ Grailbird.data.tweets_2013_11 =
         "id" : 63763277
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/fifacom_pt\/status\/405887605381681153\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/fifacom_pt\/status\/405887605381681153\/photo\/1",
         "indices" : [ 111, 133 ],
         "url" : "http:\/\/t.co\/ZniF9Ovvz2",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BaIAoGpCUAEepq9.jpg",
@@ -155,7 +125,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 63763277
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/adidasfutebol\/status\/405878277534789632\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/adidasfutebol\/status\/405878277534789632\/photo\/1",
       "indices" : [ 99, 121 ],
       "url" : "http:\/\/t.co\/l24li4oE9y",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BaH4JJsCMAEdeTp.jpg",
@@ -202,7 +172,7 @@ Grailbird.data.tweets_2013_11 =
         "id" : 63763277
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/adidasfutebol\/status\/405878277534789632\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/adidasfutebol\/status\/405878277534789632\/photo\/1",
         "indices" : [ 80, 102 ],
         "url" : "http:\/\/t.co\/l24li4oE9y",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BaH4JJsCMAEdeTp.jpg",
@@ -245,7 +215,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752857333655535616\/CTOILFYP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803303777273073665\/aV_8MX6W_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -784,7 +754,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 237845487
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GeorgeTakei\/status\/402477184734199809\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GeorgeTakei\/status\/402477184734199809\/photo\/1",
       "indices" : [ 53, 75 ],
       "url" : "http:\/\/t.co\/B4kJq2f9Dm",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BZXi3fGIcAA9yVF.jpg",
@@ -825,7 +795,7 @@ Grailbird.data.tweets_2013_11 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/GeorgeTakei\/status\/402477184734199809\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/GeorgeTakei\/status\/402477184734199809\/photo\/1",
         "indices" : [ 36, 58 ],
         "url" : "http:\/\/t.co\/B4kJq2f9Dm",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BZXi3fGIcAA9yVF.jpg",
@@ -868,7 +838,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "GeorgeTakei",
       "protected" : false,
       "id_str" : "237845487",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700355030117937152\/3uW9IKHD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811285572711051264\/Uswu4kqS_normal.jpg",
       "id" : 237845487,
       "verified" : true
     }
@@ -1046,9 +1016,9 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "ImpressiveWebs",
       "protected" : false,
       "id_str" : "39445335",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2847459552\/2a8fc63f4d5901903798f5eacc84f002_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772672687923748864\/R09iHOl-_normal.jpg",
       "id" : 39445335,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 400704370465312768,
@@ -1118,10 +1088,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 38682272
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "notreally",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1447,7 +1414,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "949521",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/537483244468318208\/H1ArNbIw_normal.jpeg",
       "id" : 949521,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 398467897951281153,
@@ -1478,7 +1445,7 @@ Grailbird.data.tweets_2013_11 =
       "id" : 386783814
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ge_fIa\/status\/398063580441878528\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/ge_fIa\/status\/398063580441878528\/photo\/1",
       "indices" : [ 82, 104 ],
       "url" : "http:\/\/t.co\/Sw1gJGWcJO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BYY0t6aCIAAAwy_.jpg",
@@ -1528,7 +1495,7 @@ Grailbird.data.tweets_2013_11 =
         "id" : 386783814
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ge_fIa\/status\/398063580441878528\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ge_fIa\/status\/398063580441878528\/photo\/1",
         "indices" : [ 70, 92 ],
         "url" : "http:\/\/t.co\/Sw1gJGWcJO",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BYY0t6aCIAAAwy_.jpg",
@@ -1751,7 +1718,7 @@ Grailbird.data.tweets_2013_11 =
   "id_str" : "397345773622665216",
   "text" : "RT @Real_CSS_Tricks: Tinted Images with Multiple Backgrounds http:\/\/t.co\/9mCVgNT3Gx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

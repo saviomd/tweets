@@ -117,9 +117,9 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/759697016976871425\/pAik26IG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789418873913090048\/8Wt6X_8Q_normal.jpg",
       "id" : 760892,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 218512543965118465,
@@ -221,13 +221,7 @@ Grailbird.data.tweets_2012_06 =
       "id" : 56505125
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "io12",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "keynote",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -439,7 +433,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "MurfAD",
       "protected" : false,
       "id_str" : "22279004",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664841753636139008\/nwB1mN2E_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/801210101507956736\/Yh8rF8Qk_normal.jpg",
       "id" : 22279004,
       "verified" : false
     }
@@ -798,11 +792,11 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jQuery",
+      "name" : "jquery",
       "screen_name" : "jquery",
       "indices" : [ 3, 10 ],
-      "id_str" : "14538601",
-      "id" : 14538601
+      "id_str" : "787925705988403200",
+      "id" : 787925705988403200
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -835,13 +829,13 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216265999543042048,
     "created_at" : "2012-06-22 20:26:46 +0000",
     "user" : {
-      "name" : "jQuery",
-      "screen_name" : "jquery",
+      "name" : "JS Foundation",
+      "screen_name" : "the_jsf",
       "protected" : false,
       "id_str" : "14538601",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/59268975\/jquery_avatar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787927149953056768\/7J4QDNJ9_normal.jpg",
       "id" : 14538601,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 216266991722446849,
@@ -1542,12 +1536,7 @@ Grailbird.data.tweets_2012_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Aer3fuQF",
-      "expanded_url" : "http:\/\/www.lifehacker.com.au\/2012\/06\/kogan-imposing-tax-on-shoppers-who-use-ie7\/",
-      "display_url" : "lifehacker.com.au\/2012\/06\/kogan-\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "213258807919390721",
@@ -1655,7 +1644,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: diegoeis",
+      "name" : "Diego Eis",
       "screen_name" : "diegoeis",
       "indices" : [ 3, 12 ],
       "id_str" : "4375",
@@ -1698,7 +1687,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 212950412091850752,
     "created_at" : "2012-06-13 16:51:49 +0000",
     "user" : {
-      "name" : "snap: diegoeis",
+      "name" : "Diego Eis",
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
@@ -2444,7 +2433,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bernarddeluna",
+      "name" : "Bernard De Luna",
       "screen_name" : "bernarddeluna",
       "indices" : [ 0, 14 ],
       "id_str" : "17681607",
@@ -2483,7 +2472,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bernarddeluna",
+      "name" : "Bernard De Luna",
       "screen_name" : "bernarddeluna",
       "indices" : [ 3, 17 ],
       "id_str" : "17681607",
@@ -2532,7 +2521,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 209320047951347712,
     "created_at" : "2012-06-03 16:26:03 +0000",
     "user" : {
-      "name" : "bernarddeluna",
+      "name" : "Bernard De Luna",
       "screen_name" : "bernarddeluna",
       "protected" : false,
       "id_str" : "17681607",

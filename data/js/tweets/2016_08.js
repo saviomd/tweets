@@ -1,5 +1,406 @@
 Grailbird.data.tweets_2016_08 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Vulture",
+      "screen_name" : "vulture",
+      "indices" : [ 3, 11 ],
+      "id_str" : "24216951",
+      "id" : 24216951
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/p469kEx7sw",
+      "expanded_url" : "http:\/\/vult.re\/2bBNHc4",
+      "display_url" : "vult.re\/2bBNHc4"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "771087977929990144",
+  "text" : "RT @vulture: Which Jason Statham character would win a tournament of Jason Statham characters? https:\/\/t.co\/p469kEx7sw https:\/\/t.co\/u59Vxjz\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/vulture\/status\/771004574882672640\/photo\/1",
+        "indices" : [ 106, 129 ],
+        "url" : "https:\/\/t.co\/u59VxjzSLz",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CrMokucW8AAUtPi.jpg",
+        "id_str" : "771004572617863168",
+        "id" : 771004572617863168,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CrMokucW8AAUtPi.jpg",
+        "sizes" : [ {
+          "h" : 630,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 357,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 630,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 630,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "display_url" : "pic.twitter.com\/u59VxjzSLz"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 82, 105 ],
+        "url" : "https:\/\/t.co\/p469kEx7sw",
+        "expanded_url" : "http:\/\/vult.re\/2bBNHc4",
+        "display_url" : "vult.re\/2bBNHc4"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "771004574882672640",
+    "text" : "Which Jason Statham character would win a tournament of Jason Statham characters? https:\/\/t.co\/p469kEx7sw https:\/\/t.co\/u59VxjzSLz",
+    "id" : 771004574882672640,
+    "created_at" : "2016-08-31 15:19:49 +0000",
+    "user" : {
+      "name" : "Vulture",
+      "screen_name" : "vulture",
+      "protected" : false,
+      "id_str" : "24216951",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649630037423976449\/DMJ-5l6t_normal.jpg",
+      "id" : 24216951,
+      "verified" : true
+    }
+  },
+  "id" : 771087977929990144,
+  "created_at" : "2016-08-31 20:51:14 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 29, 52 ],
+      "url" : "https:\/\/t.co\/9VbSDpcFi8",
+      "expanded_url" : "https:\/\/www.youtube.com\/watch?v=C6VgotgUfyA",
+      "display_url" : "youtube.com\/watch?v=C6Vgot\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "770817589215985664",
+  "text" : "Full House vers\u00E3o Vingadores https:\/\/t.co\/9VbSDpcFi8",
+  "id" : 770817589215985664,
+  "created_at" : "2016-08-31 02:56:49 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brad Frost",
+      "screen_name" : "brad_frost",
+      "indices" : [ 3, 14 ],
+      "id_str" : "11855482",
+      "id" : 11855482
+    }, {
+      "name" : "Jason Grigsby, \u26014",
+      "screen_name" : "grigs",
+      "indices" : [ 67, 73 ],
+      "id_str" : "5774462",
+      "id" : 5774462
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "aeachi",
+      "indices" : [ 113, 120 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/9SGzWvgL71",
+      "expanded_url" : "https:\/\/cloudfour.com\/thinks\/autofill-what-web-devs-should-know-but-dont\/",
+      "display_url" : "cloudfour.com\/thinks\/autofil\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "770381670298124288",
+  "text" : "RT @brad_frost: Autofill can help users fill out forms 30% faster. @grigs has the scoop: https:\/\/t.co\/9SGzWvgL71 #aeachi",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Jason Grigsby, \u26014",
+        "screen_name" : "grigs",
+        "indices" : [ 51, 57 ],
+        "id_str" : "5774462",
+        "id" : 5774462
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "aeachi",
+        "indices" : [ 97, 104 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 73, 96 ],
+        "url" : "https:\/\/t.co\/9SGzWvgL71",
+        "expanded_url" : "https:\/\/cloudfour.com\/thinks\/autofill-what-web-devs-should-know-but-dont\/",
+        "display_url" : "cloudfour.com\/thinks\/autofil\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "770309478986178560",
+    "text" : "Autofill can help users fill out forms 30% faster. @grigs has the scoop: https:\/\/t.co\/9SGzWvgL71 #aeachi",
+    "id" : 770309478986178560,
+    "created_at" : "2016-08-29 17:17:46 +0000",
+    "user" : {
+      "name" : "Brad Frost",
+      "screen_name" : "brad_frost",
+      "protected" : false,
+      "id_str" : "11855482",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "id" : 11855482,
+      "verified" : false
+    }
+  },
+  "id" : 770381670298124288,
+  "created_at" : "2016-08-29 22:04:37 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "WILL McCRABB",
+      "screen_name" : "mccrabb_will",
+      "indices" : [ 3, 16 ],
+      "id_str" : "1355061596",
+      "id" : 1355061596
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "769897287984218112",
+  "text" : "RT @mccrabb_will: I'm fighting an ulcer due to horrific studio notes on a project I'm about to give up on. \nThen, I read this. https:\/\/t.co\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/mccrabb_will\/status\/769668823993634816\/photo\/1",
+        "indices" : [ 109, 132 ],
+        "url" : "https:\/\/t.co\/nob2mt0CDW",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cq5pstIVUAE3xqU.jpg",
+        "id_str" : "769668803076640769",
+        "id" : 769668803076640769,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cq5pstIVUAE3xqU.jpg",
+        "sizes" : [ {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1539
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 902
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1539
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 511
+        } ],
+        "display_url" : "pic.twitter.com\/nob2mt0CDW"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "769668823993634816",
+    "text" : "I'm fighting an ulcer due to horrific studio notes on a project I'm about to give up on. \nThen, I read this. https:\/\/t.co\/nob2mt0CDW",
+    "id" : 769668823993634816,
+    "created_at" : "2016-08-27 22:52:02 +0000",
+    "user" : {
+      "name" : "WILL McCRABB",
+      "screen_name" : "mccrabb_will",
+      "protected" : false,
+      "id_str" : "1355061596",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735166660110209026\/ReBriA87_normal.jpg",
+      "id" : 1355061596,
+      "verified" : false
+    }
+  },
+  "id" : 769897287984218112,
+  "created_at" : "2016-08-28 13:59:52 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bogdan Botezatu",
+      "screen_name" : "bbotezatu",
+      "indices" : [ 3, 13 ],
+      "id_str" : "64704848",
+      "id" : 64704848
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/bbotezatu\/status\/768756952528723969\/photo\/1",
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/OCQUDPhlXY",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CqssXMfXEAAwPcI.jpg",
+      "id_str" : "768756938398175232",
+      "id" : 768756938398175232,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CqssXMfXEAAwPcI.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 900,
+        "resize" : "fit",
+        "w" : 1127
+      }, {
+        "h" : 900,
+        "resize" : "fit",
+        "w" : 1127
+      }, {
+        "h" : 900,
+        "resize" : "fit",
+        "w" : 1127
+      }, {
+        "h" : 543,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/OCQUDPhlXY"
+    } ],
+    "hashtags" : [ {
+      "text" : "Linux",
+      "indices" : [ 36, 42 ]
+    }, {
+      "text" : "cake",
+      "indices" : [ 62, 67 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "769290631093055488",
+  "text" : "RT @bbotezatu: Happy 25th birthday, #Linux! Here's your f-ing #cake, go ahead and compile it yourself. https:\/\/t.co\/OCQUDPhlXY",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/bbotezatu\/status\/768756952528723969\/photo\/1",
+        "indices" : [ 88, 111 ],
+        "url" : "https:\/\/t.co\/OCQUDPhlXY",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CqssXMfXEAAwPcI.jpg",
+        "id_str" : "768756938398175232",
+        "id" : 768756938398175232,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CqssXMfXEAAwPcI.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 900,
+          "resize" : "fit",
+          "w" : 1127
+        }, {
+          "h" : 900,
+          "resize" : "fit",
+          "w" : 1127
+        }, {
+          "h" : 900,
+          "resize" : "fit",
+          "w" : 1127
+        }, {
+          "h" : 543,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "display_url" : "pic.twitter.com\/OCQUDPhlXY"
+      } ],
+      "hashtags" : [ {
+        "text" : "Linux",
+        "indices" : [ 21, 27 ]
+      }, {
+        "text" : "cake",
+        "indices" : [ 47, 52 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "768756952528723969",
+    "text" : "Happy 25th birthday, #Linux! Here's your f-ing #cake, go ahead and compile it yourself. https:\/\/t.co\/OCQUDPhlXY",
+    "id" : 768756952528723969,
+    "created_at" : "2016-08-25 10:28:34 +0000",
+    "user" : {
+      "name" : "Bogdan Botezatu",
+      "screen_name" : "bbotezatu",
+      "protected" : false,
+      "id_str" : "64704848",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581083998761328640\/6LrDLO9V_normal.jpg",
+      "id" : 64704848,
+      "verified" : false
+    }
+  },
+  "id" : 769290631093055488,
+  "created_at" : "2016-08-26 21:49:13 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -379,7 +780,7 @@ Grailbird.data.tweets_2016_08 =
       "id" : 246394886
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/shutupmikeginn\/status\/766029035537215488\/video\/1",
+      "expanded_url" : "https:\/\/twitter.com\/shutupmikeginn\/status\/766029035537215488\/video\/1",
       "indices" : [ 74, 97 ],
       "url" : "https:\/\/t.co\/Ad9ULnDdYh",
       "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/766028486121254913\/pu\/img\/_yE1VXtaitSqrY00.jpg",
@@ -420,7 +821,7 @@ Grailbird.data.tweets_2016_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/shutupmikeginn\/status\/766029035537215488\/video\/1",
+        "expanded_url" : "https:\/\/twitter.com\/shutupmikeginn\/status\/766029035537215488\/video\/1",
         "indices" : [ 54, 77 ],
         "url" : "https:\/\/t.co\/Ad9ULnDdYh",
         "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/766028486121254913\/pu\/img\/_yE1VXtaitSqrY00.jpg",
@@ -555,12 +956,7 @@ Grailbird.data.tweets_2016_08 =
       "text" : "AssassinsCreedMovie",
       "indices" : [ 110, 130 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/2TCk4Jfkz6",
-      "expanded_url" : "https:\/\/amp.twimg.com\/v\/6f7b0224-4a58-48da-abed-1345852645d5",
-      "display_url" : "amp.twimg.com\/v\/6f7b0224-4a5\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "765728644727705601",
@@ -711,37 +1107,7 @@ Grailbird.data.tweets_2016_08 =
       "id_str" : "111996730",
       "id" : 111996730
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/FUTBOX\/status\/763812243536486400\/photo\/1",
-      "indices" : [ 126, 140 ],
-      "url" : "https:\/\/t.co\/n3tmcQ8aG7",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CpmbILnWIAANmNT.jpg",
-      "id_str" : "763812176675086336",
-      "id" : 763812176675086336,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CpmbILnWIAANmNT.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 552,
-        "resize" : "fit",
-        "w" : 740
-      }, {
-        "h" : 552,
-        "resize" : "fit",
-        "w" : 740
-      }, {
-        "h" : 552,
-        "resize" : "fit",
-        "w" : 740
-      }, {
-        "h" : 507,
-        "resize" : "fit",
-        "w" : 680
-      } ],
-      "display_url" : "pic.twitter.com\/n3tmcQ8aG7"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "cbf",
       "indices" : [ 12, 16 ]
@@ -770,7 +1136,7 @@ Grailbird.data.tweets_2016_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/FUTBOX\/status\/763812243536486400\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/FUTBOX\/status\/763812243536486400\/photo\/1",
         "indices" : [ 114, 137 ],
         "url" : "https:\/\/t.co\/n3tmcQ8aG7",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CpmbILnWIAANmNT.jpg",
@@ -857,7 +1223,7 @@ Grailbird.data.tweets_2016_08 =
       "id" : 14335144
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/digitalspy\/status\/763022560695033856\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/digitalspy\/status\/763022560695033856\/photo\/1",
       "indices" : [ 92, 115 ],
       "url" : "https:\/\/t.co\/7zdUGXKXOS",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CpbM-U5WEAQVGlp.jpg",
@@ -903,7 +1269,7 @@ Grailbird.data.tweets_2016_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/digitalspy\/status\/763022560695033856\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/digitalspy\/status\/763022560695033856\/photo\/1",
         "indices" : [ 76, 99 ],
         "url" : "https:\/\/t.co\/7zdUGXKXOS",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CpbM-U5WEAQVGlp.jpg",
@@ -951,7 +1317,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "digitalspy",
       "protected" : false,
       "id_str" : "14335144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742304177683107840\/nOS2jA6Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804301034801823744\/U9uZuyLQ_normal.jpg",
       "id" : 14335144,
       "verified" : true
     }
@@ -1035,8 +1401,8 @@ Grailbird.data.tweets_2016_08 =
       "name" : "Dan Mall",
       "screen_name" : "danielmall",
       "indices" : [ 3, 14 ],
-      "id_str" : "799212",
-      "id" : 799212
+      "id_str" : "801477557933768706",
+      "id" : 801477557933768706
     }, {
       "name" : "Brad Bird",
       "screen_name" : "BradBirdA113",
@@ -1082,7 +1448,7 @@ Grailbird.data.tweets_2016_08 =
     "created_at" : "2016-05-13 13:40:11 +0000",
     "user" : {
       "name" : "Dan Mall",
-      "screen_name" : "danielmall",
+      "screen_name" : "danmall",
       "protected" : false,
       "id_str" : "799212",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479251398383513600\/BMuz5Tje_normal.jpeg",

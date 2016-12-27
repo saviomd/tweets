@@ -198,12 +198,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 126, 140 ],
-      "url" : "http:\/\/t.co\/wFjEdQUNAf",
-      "expanded_url" : "http:\/\/alistapart.com\/article\/flat-ui-and-forms",
-      "display_url" : "alistapart.com\/article\/flat-u\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "394962208914149376",
@@ -643,12 +638,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Xid1UypAQp",
-      "expanded_url" : "http:\/\/pingu.im\/1cYcu3y",
-      "display_url" : "pingu.im\/1cYcu3y"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "390896577113780225",
@@ -676,7 +666,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "pontofrio",
       "protected" : false,
       "id_str" : "16788804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756122142673100800\/dHwqw9Be_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803668161446969345\/xelGY0Kd_normal.jpg",
       "id" : 16788804,
       "verified" : true
     }

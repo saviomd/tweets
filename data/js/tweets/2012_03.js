@@ -338,7 +338,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/183420358202900480\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/183420358202900480\/photo\/1",
       "indices" : [ 7, 27 ],
       "url" : "http:\/\/t.co\/q3gKXNJZ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Aouj2A-CQAALdAt.jpg",
@@ -2095,12 +2095,7 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/H75i2gO1",
-      "expanded_url" : "http:\/\/ow.ly\/9vBoU",
-      "display_url" : "ow.ly\/9vBoU"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "177469646025408512",

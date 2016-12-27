@@ -933,7 +933,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "18245240",
       "id" : 18245240
     }, {
-      "name" : "snap: JornalOGlobo",
+      "name" : "Jornal O Globo",
       "screen_name" : "JornalOGlobo",
       "indices" : [ 92, 105 ],
       "id_str" : "54341363",
@@ -955,7 +955,7 @@ Grailbird.data.tweets_2011_09 =
     "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "snap: JornalOGlobo",
+        "name" : "Jornal O Globo",
         "screen_name" : "JornalOGlobo",
         "indices" : [ 79, 92 ],
         "id_str" : "54341363",
@@ -2482,7 +2482,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724379674076270592\/wvCqZirD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -3272,12 +3272,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/p5OASmC",
-      "expanded_url" : "http:\/\/bit.ly\/k2dvUQ",
-      "display_url" : "bit.ly\/k2dvUQ"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "109650219234365442",
@@ -3311,7 +3306,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "eduardopaes_",
       "protected" : false,
       "id_str" : "48298703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749454236463796224\/w5AJTy5K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797191135852642305\/A8hsUmyQ_normal.jpg",
       "id" : 48298703,
       "verified" : true
     }
@@ -3399,12 +3394,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/g6hbZAA",
-      "expanded_url" : "http:\/\/bit.ly\/n1VsNv",
-      "display_url" : "bit.ly\/n1VsNv"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "109310011343241216",

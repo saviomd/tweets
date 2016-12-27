@@ -138,14 +138,14 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Turco",
+      "name" : "Todo Turco",
       "screen_name" : "ChrisTurco010",
       "indices" : [ 3, 17 ],
       "id_str" : "107113834",
       "id" : 107113834
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ChrisTurco010\/status\/413418731910754304\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/ChrisTurco010\/status\/413418731910754304\/photo\/1",
       "indices" : [ 95, 117 ],
       "url" : "http:\/\/t.co\/tMXkdro7IW",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
@@ -186,7 +186,7 @@ Grailbird.data.tweets_2013_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ChrisTurco010\/status\/413418731910754304\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ChrisTurco010\/status\/413418731910754304\/photo\/1",
         "indices" : [ 76, 98 ],
         "url" : "http:\/\/t.co\/tMXkdro7IW",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 413418731910754304,
     "created_at" : "2013-12-18 21:21:21 +0000",
     "user" : {
-      "name" : "Chris Turco",
+      "name" : "Todo Turco",
       "screen_name" : "ChrisTurco010",
       "protected" : false,
       "id_str" : "107113834",
@@ -842,117 +842,6 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sports Central",
-      "screen_name" : "sportscscentral",
-      "indices" : [ 3, 19 ],
-      "id_str" : "1080664117",
-      "id" : 1080664117
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/sportscscentral\/status\/409773037643251712\/photo\/1",
-      "indices" : [ 48, 70 ],
-      "url" : "http:\/\/t.co\/qsSb1Ln2c1",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Ba_OaBvCQAAumh0.jpg",
-      "id_str" : "409773037651640320",
-      "id" : 409773037651640320,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba_OaBvCQAAumh0.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 464,
-        "resize" : "fit",
-        "w" : 619
-      }, {
-        "h" : 464,
-        "resize" : "fit",
-        "w" : 619
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/qsSb1Ln2c1"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "409777177375551488",
-  "text" : "RT @sportscscentral: Torcedor do Vasco da Gama! http:\/\/t.co\/qsSb1Ln2c1",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/sportscscentral\/status\/409773037643251712\/photo\/1",
-        "indices" : [ 27, 49 ],
-        "url" : "http:\/\/t.co\/qsSb1Ln2c1",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Ba_OaBvCQAAumh0.jpg",
-        "id_str" : "409773037651640320",
-        "id" : 409773037651640320,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba_OaBvCQAAumh0.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 464,
-          "resize" : "fit",
-          "w" : 619
-        }, {
-          "h" : 464,
-          "resize" : "fit",
-          "w" : 619
-        }, {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/qsSb1Ln2c1"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "409773037643251712",
-    "text" : "Torcedor do Vasco da Gama! http:\/\/t.co\/qsSb1Ln2c1",
-    "id" : 409773037643251712,
-    "created_at" : "2013-12-08 19:54:40 +0000",
-    "user" : {
-      "name" : "Sports Central",
-      "screen_name" : "sportscscentral",
-      "protected" : false,
-      "id_str" : "1080664117",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635848983374655488\/5qrZgDiu_normal.png",
-      "id" : 1080664117,
-      "verified" : false
-    }
-  },
-  "id" : 409777177375551488,
-  "created_at" : "2013-12-08 20:11:07 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1015,7 +904,7 @@ Grailbird.data.tweets_2013_12 =
       "id" : 2283712113
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Locowio\/status\/409007545278160896\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Locowio\/status\/409007545278160896\/photo\/1",
       "indices" : [ 82, 104 ],
       "url" : "http:\/\/t.co\/1s1XngA4FP",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Ba0WMgdCYAIAmK0.jpg",
@@ -1056,7 +945,7 @@ Grailbird.data.tweets_2013_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Locowio\/status\/409007545278160896\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Locowio\/status\/409007545278160896\/photo\/1",
         "indices" : [ 69, 91 ],
         "url" : "http:\/\/t.co\/1s1XngA4FP",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Ba0WMgdCYAIAmK0.jpg",
@@ -1332,9 +1221,9 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "ImpressiveWebs",
       "protected" : false,
       "id_str" : "39445335",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2847459552\/2a8fc63f4d5901903798f5eacc84f002_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772672687923748864\/R09iHOl-_normal.jpg",
       "id" : 39445335,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 407638618602479616,
@@ -1362,9 +1251,6 @@ Grailbird.data.tweets_2013_12 =
     "hashtags" : [ {
       "text" : "FreeGame",
       "indices" : [ 123, 132 ]
-    }, {
-      "text" : "TheWalkingDead",
-      "indices" : [ 133, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 99, 122 ],
@@ -1698,7 +1584,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709248671213158401\/9ZknP4Tj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807254579360370688\/eqauuwlr_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }

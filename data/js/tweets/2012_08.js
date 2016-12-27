@@ -489,12 +489,7 @@ Grailbird.data.tweets_2012_08 =
       "text" : "Hyundai",
       "indices" : [ 36, 44 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/te4r6dov",
-      "expanded_url" : "http:\/\/bit.ly\/Nt54u0",
-      "display_url" : "bit.ly\/Nt54u0"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "240450979915517952",
@@ -996,7 +991,7 @@ Grailbird.data.tweets_2012_08 =
     "urls" : [ {
       "indices" : [ 99, 119 ],
       "url" : "http:\/\/t.co\/kitCO7mI",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2012\/08\/bootstrap-21-and-counting.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2012\/08\/bootstrap-21-and-counting.html",
       "display_url" : "blog.twitter.com\/2012\/08\/bootst\u2026"
     } ]
   },
@@ -1012,7 +1007,7 @@ Grailbird.data.tweets_2012_08 =
       "urls" : [ {
         "indices" : [ 86, 106 ],
         "url" : "http:\/\/t.co\/kitCO7mI",
-        "expanded_url" : "http:\/\/blog.twitter.com\/2012\/08\/bootstrap-21-and-counting.html",
+        "expanded_url" : "https:\/\/blog.twitter.com\/2012\/08\/bootstrap-21-and-counting.html",
         "display_url" : "blog.twitter.com\/2012\/08\/bootst\u2026"
       } ]
     },
@@ -1596,12 +1591,7 @@ Grailbird.data.tweets_2012_08 =
       "text" : "Subday",
       "indices" : [ 120, 127 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/XRCsMowq",
-      "expanded_url" : "http:\/\/migre.me\/aiiLA",
-      "display_url" : "migre.me\/aiiLA"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "235789028073541632",
@@ -1632,7 +1622,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804003173723738112\/xQSJHsG5_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2155,12 +2145,7 @@ Grailbird.data.tweets_2012_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/w6P4JS82",
-      "expanded_url" : "http:\/\/ig.cm\/QJdCeY",
-      "display_url" : "ig.cm\/QJdCeY"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "233622669264838658",
@@ -2746,12 +2731,7 @@ Grailbird.data.tweets_2012_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/ckzuR3kR",
-      "expanded_url" : "http:\/\/globoesporte.globo.com\/rs\/noticia\/2012\/04\/irmao-de-ronaldinho-assis-moreira-e-condenado-cinco-anos-de-prisao.html",
-      "display_url" : "globoesporte.globo.com\/rs\/noticia\/201\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "232530789089280000",

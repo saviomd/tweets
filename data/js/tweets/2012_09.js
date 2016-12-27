@@ -1036,12 +1036,7 @@ Grailbird.data.tweets_2012_09 =
       "text" : "Hyundai",
       "indices" : [ 28, 36 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/pHvaWpEJ",
-      "expanded_url" : "http:\/\/glo.bo\/NoJCVK",
-      "display_url" : "glo.bo\/NoJCVK"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "245993355190865921",
@@ -1620,9 +1615,9 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "ImpressiveWebs",
       "protected" : false,
       "id_str" : "39445335",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2847459552\/2a8fc63f4d5901903798f5eacc84f002_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772672687923748864\/R09iHOl-_normal.jpg",
       "id" : 39445335,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 245155607634669569,
@@ -1813,9 +1808,9 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "ImpressiveWebs",
       "protected" : false,
       "id_str" : "39445335",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2847459552\/2a8fc63f4d5901903798f5eacc84f002_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772672687923748864\/R09iHOl-_normal.jpg",
       "id" : 39445335,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 243420279798366208,
@@ -1941,7 +1936,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "getbootstrap",
       "protected" : false,
       "id_str" : "372475592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000195279414\/f8404a9d719c7ffce1478ba1a50036f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788777950132830208\/vgO3N1r7_normal.jpg",
       "id" : 372475592,
       "verified" : false
     }
@@ -1980,7 +1975,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243194917076230144",
   "text" : "RT @Real_CSS_Tricks: A Word About CSS4 http:\/\/t.co\/ZFlXgWFN",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

@@ -50,12 +50,7 @@ Grailbird.data.tweets_2012_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/IVW3I8Tn",
-      "expanded_url" : "http:\/\/ow.ly\/az1Os",
-      "display_url" : "ow.ly\/az1Os"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "195980322930835457",
@@ -341,7 +336,7 @@ Grailbird.data.tweets_2012_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/193760661384347648\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/193760661384347648\/photo\/1",
       "indices" : [ 39, 59 ],
       "url" : "http:\/\/t.co\/UUMhvJ8u",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/ArBgS4GCQAEdiso.jpg",
@@ -977,7 +972,7 @@ Grailbird.data.tweets_2012_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/190938666330357763\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/190938666330357763\/photo\/1",
       "indices" : [ 80, 100 ],
       "url" : "http:\/\/t.co\/cGktCc6l",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AqZZtJUCAAAtXZj.jpg",
@@ -1243,7 +1238,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "RubruNegru",
       "protected" : false,
       "id_str" : "352248873",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486804051913232384\/OQU14jXW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813490595301834752\/4ulXQqoQ_normal.jpg",
       "id" : 352248873,
       "verified" : false
     }

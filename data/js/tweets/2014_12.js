@@ -37,7 +37,7 @@ Grailbird.data.tweets_2014_12 =
       "id" : 16377944
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/paulohiga\/status\/549601715251863552\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/paulohiga\/status\/549601715251863552\/photo\/1",
       "indices" : [ 118, 140 ],
       "url" : "http:\/\/t.co\/JBc9KeQCWp",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B6CT2K8IYAE-jAd.png",
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2014_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/paulohiga\/status\/549601715251863552\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/paulohiga\/status\/549601715251863552\/photo\/1",
         "indices" : [ 103, 125 ],
         "url" : "http:\/\/t.co\/JBc9KeQCWp",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B6CT2K8IYAE-jAd.png",
@@ -269,43 +269,13 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "182922172",
       "id" : 182922172
     }, {
-      "name" : "snap globoesportecom",
+      "name" : "globoesportecom",
       "screen_name" : "globoesportecom",
       "indices" : [ 79, 95 ],
       "id_str" : "10842792",
       "id" : 10842792
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/_GonzaRodriguez\/status\/545457947716104192\/photo\/1",
-      "indices" : [ 121, 140 ],
-      "url" : "http:\/\/t.co\/cJhrIGNBrB",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B5HbHMRIIAAX32c.jpg",
-      "id_str" : "545457946487169024",
-      "id" : 545457946487169024,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B5HbHMRIIAAX32c.jpg",
-      "sizes" : [ {
-        "h" : 542,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 307,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 925,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 1612,
-        "resize" : "fit",
-        "w" : 1784
-      } ],
-      "display_url" : "pic.twitter.com\/cJhrIGNBrB"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 97, 120 ],
@@ -321,14 +291,14 @@ Grailbird.data.tweets_2014_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "snap globoesportecom",
+        "name" : "globoesportecom",
         "screen_name" : "globoesportecom",
         "indices" : [ 58, 74 ],
         "id_str" : "10842792",
         "id" : 10842792
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/_GonzaRodriguez\/status\/545457947716104192\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/_GonzaRodriguez\/status\/545457947716104192\/photo\/1",
         "indices" : [ 100, 122 ],
         "url" : "http:\/\/t.co\/cJhrIGNBrB",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B5HbHMRIIAAX32c.jpg",
@@ -376,7 +346,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "_GonzaRodriguez",
       "protected" : false,
       "id_str" : "182922172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765626823774466048\/s59fSb_0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/805295770475827200\/sgF9DWZx_normal.jpg",
       "id" : 182922172,
       "verified" : false
     }
@@ -403,7 +373,7 @@ Grailbird.data.tweets_2014_12 =
       "id" : 16008305
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Tecnoblog\/status\/544533408521531392\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Tecnoblog\/status\/544533408521531392\/photo\/1",
       "indices" : [ 108, 130 ],
       "url" : "http:\/\/t.co\/jIZ0Oj5dtH",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B46RB_aCYAAFCYH.jpg",
@@ -449,7 +419,7 @@ Grailbird.data.tweets_2014_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Tecnoblog\/status\/544533408521531392\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Tecnoblog\/status\/544533408521531392\/photo\/1",
         "indices" : [ 93, 115 ],
         "url" : "http:\/\/t.co\/jIZ0Oj5dtH",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B46RB_aCYAAFCYH.jpg",
@@ -575,7 +545,7 @@ Grailbird.data.tweets_2014_12 =
       "id" : 14663585
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/quatrorodas\/status\/543021006559125505\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/quatrorodas\/status\/543021006559125505\/photo\/1",
       "indices" : [ 96, 118 ],
       "url" : "http:\/\/t.co\/HIHnBy1HRg",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B4kyuj3CYAAAMY_.jpg",
@@ -621,7 +591,7 @@ Grailbird.data.tweets_2014_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/quatrorodas\/status\/543021006559125505\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/quatrorodas\/status\/543021006559125505\/photo\/1",
         "indices" : [ 79, 101 ],
         "url" : "http:\/\/t.co\/HIHnBy1HRg",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B4kyuj3CYAAAMY_.jpg",
@@ -788,37 +758,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "16893383",
       "id" : 16893383
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/autoesporte\/status\/540226883234037760\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/v2x7HzAKyK",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B39E3wtCUAEYCfT.jpg",
-      "id_str" : "540226205065039873",
-      "id" : 540226205065039873,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B39E3wtCUAEYCfT.jpg",
-      "sizes" : [ {
-        "h" : 227,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 628,
-        "resize" : "fit",
-        "w" : 940
-      }, {
-        "h" : 401,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 628,
-        "resize" : "fit",
-        "w" : 940
-      } ],
-      "display_url" : "pic.twitter.com\/v2x7HzAKyK"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "GM",
       "indices" : [ 17, 20 ]
@@ -838,7 +778,7 @@ Grailbird.data.tweets_2014_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/autoesporte\/status\/540226883234037760\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/autoesporte\/status\/540226883234037760\/photo\/1",
         "indices" : [ 117, 139 ],
         "url" : "http:\/\/t.co\/v2x7HzAKyK",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B39E3wtCUAEYCfT.jpg",

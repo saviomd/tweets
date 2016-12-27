@@ -121,7 +121,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "234306919",
       "id" : 234306919
     }, {
-      "name" : "Christina Wodtke",
+      "name" : "christina",
       "screen_name" : "cwodtke",
       "indices" : [ 63, 71 ],
       "id_str" : "1763261",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Christina Wodtke",
+        "name" : "christina",
         "screen_name" : "cwodtke",
         "indices" : [ 46, 54 ],
         "id_str" : "1763261",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "smash_it_on",
       "protected" : false,
       "id_str" : "234306919",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446960914789441536\/r9xdQJ0l_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802911519084343296\/4dDCDFtn_normal.jpg",
       "id" : 234306919,
       "verified" : false
     }
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2013_09 =
       "id" : 506652594
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Jeff_Daniels\/status\/382520858100523009\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Jeff_Daniels\/status\/382520858100523009\/photo\/1",
       "indices" : [ 40, 62 ],
       "url" : "http:\/\/t.co\/u2u42yM2hk",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2013_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Jeff_Daniels\/status\/382520858100523009\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Jeff_Daniels\/status\/382520858100523009\/photo\/1",
         "indices" : [ 22, 44 ],
         "url" : "http:\/\/t.co\/u2u42yM2hk",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724379674076270592\/wvCqZirD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -850,7 +850,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bernarddeluna",
+      "name" : "Bernard De Luna",
       "screen_name" : "bernarddeluna",
       "indices" : [ 0, 14 ],
       "id_str" : "17681607",
@@ -883,7 +883,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bernarddeluna",
+      "name" : "Bernard De Luna",
       "screen_name" : "bernarddeluna",
       "indices" : [ 0, 14 ],
       "id_str" : "17681607",
@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "380042347184025600",
   "text" : "RT @Real_CSS_Tricks: Controlling CSS Animations and Transitions with JavaScript http:\/\/t.co\/IGJBE8L8t5",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1717,7 +1717,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "949521",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/537483244468318208\/H1ArNbIw_normal.jpeg",
       "id" : 949521,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 377892849569628160,
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2013_09 =
       "id" : 38460804
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/samknight1\/status\/377301207896694784\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/samknight1\/status\/377301207896694784\/photo\/1",
       "indices" : [ 93, 115 ],
       "url" : "http:\/\/t.co\/RN2yLLoikU",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
@@ -1871,7 +1871,7 @@ Grailbird.data.tweets_2013_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/samknight1\/status\/377301207896694784\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/samknight1\/status\/377301207896694784\/photo\/1",
         "indices" : [ 77, 99 ],
         "url" : "http:\/\/t.co\/RN2yLLoikU",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
@@ -2151,7 +2151,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "anna_debenham",
       "protected" : false,
       "id_str" : "9655342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660807871156887552\/qDyGT6Dx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784343491295846400\/3drR5_cj_normal.jpg",
       "id" : 9655342,
       "verified" : false
     }
@@ -2534,12 +2534,7 @@ Grailbird.data.tweets_2013_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 121, 140 ],
-      "url" : "https:\/\/t.co\/gxmZVQODyV",
-      "expanded_url" : "https:\/\/medium.com\/on-management\/91b443104b92",
-      "display_url" : "medium.com\/on-management\/\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "375095612926337024",

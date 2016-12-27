@@ -125,7 +125,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Livinha",
+      "name" : "Liv",
       "screen_name" : "liviadami",
       "indices" : [ 3, 13 ],
       "id_str" : "1358315736",
@@ -138,7 +138,7 @@ Grailbird.data.tweets_2015_09 =
       "id" : 18904121
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/liviadami\/status\/647898663277207553\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/liviadami\/status\/647898663277207553\/photo\/1",
       "indices" : [ 24, 46 ],
       "url" : "http:\/\/t.co\/wp6sSSY84W",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CP3MY48WwAAO7Op.jpg",
@@ -185,7 +185,7 @@ Grailbird.data.tweets_2015_09 =
         "id" : 18904121
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/liviadami\/status\/647898663277207553\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/liviadami\/status\/647898663277207553\/photo\/1",
         "indices" : [ 9, 31 ],
         "url" : "http:\/\/t.co\/wp6sSSY84W",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CP3MY48WwAAO7Op.jpg",
@@ -229,11 +229,11 @@ Grailbird.data.tweets_2015_09 =
     "in_reply_to_screen_name" : "MRGOULD",
     "in_reply_to_user_id_str" : "18904121",
     "user" : {
-      "name" : "Livinha",
+      "name" : "Liv",
       "screen_name" : "liviadami",
       "protected" : false,
       "id_str" : "1358315736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728336300152066048\/9D24kkmA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798554780465565697\/-F9C6A49_normal.jpg",
       "id" : 1358315736,
       "verified" : false
     }
@@ -320,37 +320,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "19261479",
       "id" : 19261479
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ArtoftheTitle\/status\/646353826291822596\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/y9JM8mUXTJ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CPhO3T1WoAAQ4ZE.jpg",
-      "id_str" : "646353258651492352",
-      "id" : 646353258651492352,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CPhO3T1WoAAQ4ZE.jpg",
-      "sizes" : [ {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 331,
-        "resize" : "fit",
-        "w" : 588
-      }, {
-        "h" : 331,
-        "resize" : "fit",
-        "w" : 588
-      }, {
-        "h" : 331,
-        "resize" : "fit",
-        "w" : 588
-      } ],
-      "display_url" : "pic.twitter.com\/y9JM8mUXTJ"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 108, 130 ],
@@ -367,7 +337,7 @@ Grailbird.data.tweets_2015_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ArtoftheTitle\/status\/646353826291822596\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/ArtoftheTitle\/status\/646353826291822596\/photo\/1",
         "indices" : [ 112, 134 ],
         "url" : "http:\/\/t.co\/y9JM8mUXTJ",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CPhO3T1WoAAQ4ZE.jpg",
@@ -417,7 +387,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "19261479",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661216413697249280\/BTNBrl9g_normal.jpg",
       "id" : 19261479,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 646479316583358464,
@@ -643,11 +613,6 @@ Grailbird.data.tweets_2015_09 =
       "url" : "http:\/\/t.co\/vlYAFPPAf2",
       "expanded_url" : "http:\/\/www.ironmaiden.com\/tourdates.php",
       "display_url" : "ironmaiden.com\/tourdates.php"
-    }, {
-      "indices" : [ 125, 140 ],
-      "url" : "https:\/\/t.co\/qLQusJ9cRK",
-      "expanded_url" : "https:\/\/amp.twimg.com\/v\/ac13d13f-d997-4ba9-ae09-ee5b05e05815",
-      "display_url" : "amp.twimg.com\/v\/ac13d13f-d99\u2026"
     } ]
   },
   "geo" : { },
@@ -769,7 +734,7 @@ Grailbird.data.tweets_2015_09 =
       "id" : 16893383
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/autoesporte\/status\/644326722020769793\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/autoesporte\/status\/644326722020769793\/photo\/1",
       "indices" : [ 104, 126 ],
       "url" : "http:\/\/t.co\/7WSF8iHcwg",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CPEbtm9WIAAMeSC.jpg",
@@ -815,7 +780,7 @@ Grailbird.data.tweets_2015_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/autoesporte\/status\/644326722020769793\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/autoesporte\/status\/644326722020769793\/photo\/1",
         "indices" : [ 87, 109 ],
         "url" : "http:\/\/t.co\/7WSF8iHcwg",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CPEbtm9WIAAMeSC.jpg",
@@ -897,12 +862,7 @@ Grailbird.data.tweets_2015_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/XXpIXHVEII",
-      "expanded_url" : "https:\/\/shop.smashingmagazine.com\/products\/best-of-nine-smashing-years",
-      "display_url" : "shop.smashingmagazine.com\/products\/best-\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "643633769832914944",
@@ -1023,7 +983,7 @@ Grailbird.data.tweets_2015_09 =
       "id" : 19114743
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/AppleMusic\/status\/642085646820069376\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/AppleMusic\/status\/642085646820069376\/photo\/1",
       "indices" : [ 112, 134 ],
       "url" : "http:\/\/t.co\/MTPOvnfR5P",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/COklfl2W8AAKCvW.png",
@@ -1071,7 +1031,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "642155805173776384",
   "text" : "RT @AppleMusic: 40 years and still going strong.\n@IronMaiden\n#TheBookOfSouls #UpTheIrons\nhttp:\/\/t.co\/t7upJ4h7Bv http:\/\/t.co\/MTPOvnfR5P",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Iron Maiden",
@@ -1081,7 +1041,7 @@ Grailbird.data.tweets_2015_09 =
         "id" : 19114743
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/AppleMusic\/status\/642085646820069376\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/AppleMusic\/status\/642085646820069376\/photo\/1",
         "indices" : [ 96, 118 ],
         "url" : "http:\/\/t.co\/MTPOvnfR5P",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/COklfl2W8AAKCvW.png",
@@ -1135,7 +1095,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "AppleMusic",
       "protected" : false,
       "id_str" : "74580436",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723946659189649409\/BbLv-HB0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804761218078670848\/yyaoY86i_normal.jpg",
       "id" : 74580436,
       "verified" : true
     }
@@ -1200,37 +1160,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "77848619",
       "id" : 77848619
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Flamengo\/status\/641948256981925888\/photo\/1",
-      "indices" : [ 124, 140 ],
-      "url" : "http:\/\/t.co\/sPJs7bnE3g",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/COioiDFW8AAX5rk.jpg",
-      "id_str" : "641948249797095424",
-      "id" : 641948249797095424,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/COioiDFW8AAX5rk.jpg",
-      "sizes" : [ {
-        "h" : 283,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 750,
-        "resize" : "fit",
-        "w" : 900
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 500,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 750,
-        "resize" : "fit",
-        "w" : 900
-      } ],
-      "display_url" : "pic.twitter.com\/sPJs7bnE3g"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "Pet43",
       "indices" : [ 110, 116 ]
@@ -1254,7 +1184,7 @@ Grailbird.data.tweets_2015_09 =
         "id" : 77848619
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Flamengo\/status\/641948256981925888\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Flamengo\/status\/641948256981925888\/photo\/1",
         "indices" : [ 110, 132 ],
         "url" : "http:\/\/t.co\/sPJs7bnE3g",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/COioiDFW8AAX5rk.jpg",
@@ -1303,7 +1233,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767870039961825299\/ex82K79c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1398,123 +1328,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Os coment\u00E1rios j\u00E1 dizem tudo.. vacilaram legal https:\/\/t.co\/OHXgHMvU20",
   "id" : 641654220953927680,
   "created_at" : "2015-09-09 16:47:42 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Classic Rock",
-      "screen_name" : "ClassicRockMag",
-      "indices" : [ 3, 18 ],
-      "id_str" : "27055945",
-      "id" : 27055945
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/ClassicRockMag\/status\/639860580514336768\/photo\/1",
-      "indices" : [ 98, 120 ],
-      "url" : "http:\/\/t.co\/r0lcYkrFV2",
-      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
-      "id_str" : "639843396534829056",
-      "id" : 639843396534829056,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
-      "sizes" : [ {
-        "h" : 532,
-        "resize" : "fit",
-        "w" : 394
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 532,
-        "resize" : "fit",
-        "w" : 394
-      }, {
-        "h" : 459,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 532,
-        "resize" : "fit",
-        "w" : 394
-      } ],
-      "display_url" : "pic.twitter.com\/r0lcYkrFV2"
-    } ],
-    "hashtags" : [ {
-      "text" : "UpTheIrons",
-      "indices" : [ 86, 97 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "639890080769933312",
-  "text" : "RT @ClassicRockMag: Coming soon: the new issue of Classic Rock. We've got it covered. #UpTheIrons http:\/\/t.co\/r0lcYkrFV2",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/ClassicRockMag\/status\/639860580514336768\/photo\/1",
-        "indices" : [ 78, 100 ],
-        "url" : "http:\/\/t.co\/r0lcYkrFV2",
-        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
-        "id_str" : "639843396534829056",
-        "id" : 639843396534829056,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
-        "sizes" : [ {
-          "h" : 532,
-          "resize" : "fit",
-          "w" : 394
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 532,
-          "resize" : "fit",
-          "w" : 394
-        }, {
-          "h" : 459,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 532,
-          "resize" : "fit",
-          "w" : 394
-        } ],
-        "display_url" : "pic.twitter.com\/r0lcYkrFV2"
-      } ],
-      "hashtags" : [ {
-        "text" : "UpTheIrons",
-        "indices" : [ 66, 77 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "639860580514336768",
-    "text" : "Coming soon: the new issue of Classic Rock. We've got it covered. #UpTheIrons http:\/\/t.co\/r0lcYkrFV2",
-    "id" : 639860580514336768,
-    "created_at" : "2015-09-04 18:00:25 +0000",
-    "user" : {
-      "name" : "Classic Rock",
-      "screen_name" : "ClassicRockMag",
-      "protected" : false,
-      "id_str" : "27055945",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000510976572\/6f29340c96d93e17ebd6b8766ec5be3a_normal.jpeg",
-      "id" : 27055945,
-      "verified" : false
-    }
-  },
-  "id" : 639890080769933312,
-  "created_at" : "2015-09-04 19:57:38 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

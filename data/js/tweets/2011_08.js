@@ -666,21 +666,10 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 3, 15 ],
       "id_str" : "15736190",
       "id" : 15736190
-    }, {
-      "name" : "Chris Coyier",
-      "screen_name" : "chriscoyier",
-      "indices" : [ 139, 140 ],
-      "id_str" : "793830",
-      "id" : 793830
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/aks7ReM",
-      "expanded_url" : "http:\/\/bit.ly\/pFwSL7",
-      "display_url" : "bit.ly\/pFwSL7"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "103966459037876224",
@@ -948,7 +937,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724379674076270592\/wvCqZirD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -1796,12 +1785,7 @@ Grailbird.data.tweets_2011_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/kbCRlK4",
-      "expanded_url" : "http:\/\/h5bp.com\/#v2",
-      "display_url" : "h5bp.com\/#v2"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "101328305520783360",

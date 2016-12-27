@@ -37,7 +37,7 @@ Grailbird.data.tweets_2016_07 =
       "id" : 15056952
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/MacMagazine\/status\/759749809527934976\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/MacMagazine\/status\/759749809527934976\/photo\/1",
       "indices" : [ 85, 108 ],
       "url" : "https:\/\/t.co\/qanB43SUrs",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CossbAlVIAEwBjl.jpg",
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2016_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/MacMagazine\/status\/759749809527934976\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/MacMagazine\/status\/759749809527934976\/photo\/1",
         "indices" : [ 68, 91 ],
         "url" : "https:\/\/t.co\/qanB43SUrs",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CossbAlVIAEwBjl.jpg",
@@ -186,12 +186,7 @@ Grailbird.data.tweets_2016_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/9x8FXzP6iO",
-      "expanded_url" : "http:\/\/blog.getbootstrap.com\/2016\/07\/27\/bootstrap-4-alpha-3\/",
-      "display_url" : "blog.getbootstrap.com\/2016\/07\/27\/boo\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "758391235174404096",
@@ -219,7 +214,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "getbootstrap",
       "protected" : false,
       "id_str" : "372475592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000195279414\/f8404a9d719c7ffce1478ba1a50036f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788777950132830208\/vgO3N1r7_normal.jpg",
       "id" : 372475592,
       "verified" : false
     }
@@ -266,7 +261,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ZackSnyder",
+      "name" : "Zack Snyder",
       "screen_name" : "ZackSnyder",
       "indices" : [ 3, 14 ],
       "id_str" : "17768307",
@@ -321,7 +316,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 756934912532373505,
     "created_at" : "2016-07-23 19:32:00 +0000",
     "user" : {
-      "name" : "ZackSnyder",
+      "name" : "Zack Snyder",
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
@@ -352,7 +347,7 @@ Grailbird.data.tweets_2016_07 =
       "id" : 18505708
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/krisajenkins\/status\/756108999515316224\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/krisajenkins\/status\/756108999515316224\/photo\/1",
       "indices" : [ 54, 77 ],
       "url" : "https:\/\/t.co\/3JnS9X7HKz",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Cn49HzvWgAAfsL-.jpg",
@@ -393,7 +388,7 @@ Grailbird.data.tweets_2016_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/krisajenkins\/status\/756108999515316224\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/krisajenkins\/status\/756108999515316224\/photo\/1",
         "indices" : [ 36, 59 ],
         "url" : "https:\/\/t.co\/3JnS9X7HKz",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Cn49HzvWgAAfsL-.jpg",
@@ -436,7 +431,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "krisajenkins",
       "protected" : false,
       "id_str" : "18505708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619915644251832320\/JVYEqLUa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774967000028372992\/MqMut5Ui_normal.jpg",
       "id" : 18505708,
       "verified" : false
     }
@@ -556,37 +551,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "74594552",
       "id" : 74594552
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/AppStore\/status\/754397197534392321\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/BdPVhmtZER",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CngoP-cWgAA3pTR.jpg",
-      "id_str" : "754397192509620224",
-      "id" : 754397192509620224,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CngoP-cWgAA3pTR.jpg",
-      "sizes" : [ {
-        "h" : 583,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 583,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 387,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 583,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/BdPVhmtZER"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 103, 126 ],
@@ -599,11 +564,11 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "754661023651663873",
   "text" : "RT @AppStore: We could talk about movies all day! And that's exactly what we're doing in Letterboxd. \uD83C\uDFAC https:\/\/t.co\/BVzEsdDnmk https:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/AppStore\/status\/754397197534392321\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/AppStore\/status\/754397197534392321\/photo\/1",
         "indices" : [ 113, 136 ],
         "url" : "https:\/\/t.co\/BdPVhmtZER",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CngoP-cWgAA3pTR.jpg",
@@ -651,7 +616,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724379674076270592\/wvCqZirD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -711,7 +676,7 @@ Grailbird.data.tweets_2016_07 =
       "id" : 15056952
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/MacMagazine\/status\/753209059902304256\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/MacMagazine\/status\/753209059902304256\/photo\/1",
       "indices" : [ 111, 134 ],
       "url" : "https:\/\/t.co\/WVwiMjHIAe",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CnPvpYuUAAATStr.jpg",
@@ -757,7 +722,7 @@ Grailbird.data.tweets_2016_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/MacMagazine\/status\/753209059902304256\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/MacMagazine\/status\/753209059902304256\/photo\/1",
         "indices" : [ 94, 117 ],
         "url" : "https:\/\/t.co\/WVwiMjHIAe",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CnPvpYuUAAATStr.jpg",
@@ -891,37 +856,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "3330135441",
       "id" : 3330135441
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/750352166167117824\/photo\/1",
-      "indices" : [ 123, 140 ],
-      "url" : "https:\/\/t.co\/8umVsgxlH8",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmnExixWcAAJHZs.jpg",
-      "id_str" : "750347168360329216",
-      "id" : 750347168360329216,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmnExixWcAAJHZs.jpg",
-      "sizes" : [ {
-        "h" : 598,
-        "resize" : "fit",
-        "w" : 1000
-      }, {
-        "h" : 407,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 598,
-        "resize" : "fit",
-        "w" : 1000
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 598,
-        "resize" : "fit",
-        "w" : 1000
-      } ],
-      "display_url" : "pic.twitter.com\/8umVsgxlH8"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 62, 85 ],
@@ -944,7 +879,7 @@ Grailbird.data.tweets_2016_07 =
         "id" : 3330135441
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/750352166167117824\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/750352166167117824\/photo\/1",
         "indices" : [ 107, 130 ],
         "url" : "https:\/\/t.co\/8umVsgxlH8",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CmnExixWcAAJHZs.jpg",

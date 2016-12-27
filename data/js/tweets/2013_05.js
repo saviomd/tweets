@@ -113,12 +113,7 @@ Grailbird.data.tweets_2013_05 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/cYzSI5MQiX",
-      "expanded_url" : "http:\/\/purecss.io",
-      "display_url" : "purecss.io"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "340459044995211264",
@@ -481,7 +476,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "adidasfootball",
+      "name" : "adidas Football",
       "screen_name" : "adidasfootball",
       "indices" : [ 3, 18 ],
       "id_str" : "219683269",
@@ -494,7 +489,7 @@ Grailbird.data.tweets_2013_05 =
       "id" : 63763277
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/adidasfootball\/status\/337971840515452928\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/adidasfootball\/status\/337971840515452928\/photo\/1",
       "indices" : [ 85, 107 ],
       "url" : "http:\/\/t.co\/Um3GUVX9y2",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BLC3mSqCMAAeQub.jpg",
@@ -544,7 +539,7 @@ Grailbird.data.tweets_2013_05 =
         "id" : 63763277
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/adidasfootball\/status\/337971840515452928\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/adidasfootball\/status\/337971840515452928\/photo\/1",
         "indices" : [ 65, 87 ],
         "url" : "http:\/\/t.co\/Um3GUVX9y2",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BLC3mSqCMAAeQub.jpg",
@@ -586,11 +581,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 337971840515452928,
     "created_at" : "2013-05-24 16:42:20 +0000",
     "user" : {
-      "name" : "adidasfootball",
+      "name" : "adidas Football",
       "screen_name" : "adidasfootball",
       "protected" : false,
       "id_str" : "219683269",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752771956236255232\/t7nlIHQY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800985872082599936\/NgLlBLY8_normal.jpg",
       "id" : 219683269,
       "verified" : true
     }
@@ -958,7 +953,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616283091120750592\/EXNZP3-O_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -1033,7 +1028,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "14814762",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646310956142751748\/QEDs8WtN_normal.jpg",
       "id" : 14814762,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 336630300056621057,
@@ -1288,7 +1283,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616283091120750592\/EXNZP3-O_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -1369,7 +1364,7 @@ Grailbird.data.tweets_2013_05 =
       "id" : 11855482
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/brad_frost\/status\/333996834152386564\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/brad_frost\/status\/333996834152386564\/photo\/1",
       "indices" : [ 48, 70 ],
       "url" : "http:\/\/t.co\/FSk4rTJQ3w",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BKKYWeACEAESgpU.jpg",
@@ -1410,7 +1405,7 @@ Grailbird.data.tweets_2013_05 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/brad_frost\/status\/333996834152386564\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/brad_frost\/status\/333996834152386564\/photo\/1",
         "indices" : [ 32, 54 ],
         "url" : "http:\/\/t.co\/FSk4rTJQ3w",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BKKYWeACEAESgpU.jpg",
@@ -1496,11 +1491,6 @@ Grailbird.data.tweets_2013_05 =
       "url" : "https:\/\/t.co\/06ybcbK3W0",
       "expanded_url" : "https:\/\/jetstrap.com\/",
       "display_url" : "jetstrap.com"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/4wg5Ulp8aP",
-      "expanded_url" : "http:\/\/www.divshot.com",
-      "display_url" : "divshot.com"
     } ]
   },
   "geo" : { },
@@ -2074,12 +2064,7 @@ Grailbird.data.tweets_2013_05 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/q6cojfA0Hq",
-      "expanded_url" : "http:\/\/www.smashingmagazine.com\/2013\/05\/07\/smashing-editors-choice-free-ebook\/",
-      "display_url" : "smashingmagazine.com\/2013\/05\/07\/sma\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "331790279713624064",
@@ -2164,7 +2149,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "pixelmator",
       "protected" : false,
       "id_str" : "10059852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616940340885327872\/tgh65VWO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798528973416308736\/kdyl1JQP_normal.jpg",
       "id" : 10059852,
       "verified" : false
     }
@@ -2440,7 +2425,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "330736103093051392",
   "text" : "RT @Real_CSS_Tricks: 3D Inset Parallax Effect http:\/\/t.co\/hA8AjSFKcJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

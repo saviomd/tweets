@@ -83,7 +83,7 @@ Grailbird.data.tweets_2012_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/229646923139788800\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/229646923139788800\/photo\/1",
       "indices" : [ 13, 33 ],
       "url" : "http:\/\/t.co\/PLgtKG82",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Ay_eqO3CMAEqRkL.jpg",
@@ -798,7 +798,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "RomarioOnze",
       "protected" : false,
       "id_str" : "42629261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758326345575399424\/_bhGOh_Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/770857787228315648\/nkTC2oDS_normal.jpg",
       "id" : 42629261,
       "verified" : true
     }
@@ -849,7 +849,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "RomarioOnze",
       "protected" : false,
       "id_str" : "42629261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758326345575399424\/_bhGOh_Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/770857787228315648\/nkTC2oDS_normal.jpg",
       "id" : 42629261,
       "verified" : true
     }
@@ -1091,7 +1091,7 @@ Grailbird.data.tweets_2012_07 =
       "id" : 338152687
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/sbadsgood\/status\/225528884051968000\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/sbadsgood\/status\/225528884051968000\/photo\/1",
       "indices" : [ 96, 116 ],
       "url" : "http:\/\/t.co\/Loxh7I77",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AyE9UzzCAAEDrWG.jpg",
@@ -1135,7 +1135,7 @@ Grailbird.data.tweets_2012_07 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/sbadsgood\/status\/225528884051968000\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/sbadsgood\/status\/225528884051968000\/photo\/1",
         "indices" : [ 81, 101 ],
         "url" : "http:\/\/t.co\/Loxh7I77",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/AyE9UzzCAAEDrWG.jpg",
@@ -1422,7 +1422,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "224620610351927297",
   "text" : "RT @real_CSS_Tricks: Some things beginners might not know about Sublime Text http:\/\/t.co\/qM13gaJO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1912,7 +1912,7 @@ Grailbird.data.tweets_2012_07 =
       "id" : 4879901
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/222899446764150785\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/222899446764150785\/photo\/1",
       "indices" : [ 40, 60 ],
       "url" : "http:\/\/t.co\/4np0f9HL",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Axfl3alCIAAka3f.jpg",
@@ -2095,7 +2095,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "markjardine",
       "protected" : false,
       "id_str" : "635523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568304707420946432\/sRpcRgd8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/770788161332981760\/AZqofaol_normal.jpg",
       "id" : 635523,
       "verified" : false
     }
@@ -2138,7 +2138,7 @@ Grailbird.data.tweets_2012_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/221246550930767873\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/221246550930767873\/photo\/1",
       "indices" : [ 30, 50 ],
       "url" : "http:\/\/t.co\/Xgx6KDhM",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AxIGkNxCQAEK8va.jpg",

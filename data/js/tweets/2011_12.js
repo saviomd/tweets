@@ -371,7 +371,7 @@ Grailbird.data.tweets_2011_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/149095268531449856\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/149095268531449856\/photo\/1",
       "indices" : [ 41, 61 ],
       "url" : "http:\/\/t.co\/KMUe8ZbJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AhGxW1bCMAAlh9q.jpg",
@@ -496,12 +496,7 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/BfGUWwYb",
-      "expanded_url" : "http:\/\/goo.gl\/X3UOo",
-      "display_url" : "goo.gl\/X3UOo"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "148886828001398784",
@@ -1119,12 +1114,7 @@ Grailbird.data.tweets_2011_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/R28Ru00A",
-      "expanded_url" : "http:\/\/bit.ly\/us2iyU",
-      "display_url" : "bit.ly\/us2iyU"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "145988991785762816",

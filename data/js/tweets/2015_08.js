@@ -36,37 +36,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "19114743",
       "id" : 19114743
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/637237001012559872\/photo\/1",
-      "indices" : [ 123, 140 ],
-      "url" : "http:\/\/t.co\/MAaNjQWaF9",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNfqsJNUsAAWGHM.png",
-      "id_str" : "637235916403159040",
-      "id" : 637235916403159040,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNfqsJNUsAAWGHM.png",
-      "sizes" : [ {
-        "h" : 356,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 607,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1349,
-        "resize" : "fit",
-        "w" : 2274
-      }, {
-        "h" : 202,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/MAaNjQWaF9"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "speedoflight",
       "indices" : [ 39, 52 ]
@@ -89,7 +59,7 @@ Grailbird.data.tweets_2015_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/637237001012559872\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/637237001012559872\/photo\/1",
         "indices" : [ 107, 129 ],
         "url" : "http:\/\/t.co\/MAaNjQWaF9",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CNfqsJNUsAAWGHM.png",
@@ -185,7 +155,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snap: diegoeis",
+      "name" : "Diego Eis",
       "screen_name" : "diegoeis",
       "indices" : [ 3, 12 ],
       "id_str" : "4375",
@@ -234,7 +204,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 636687119117864960,
     "created_at" : "2015-08-26 23:50:12 +0000",
     "user" : {
-      "name" : "snap: diegoeis",
+      "name" : "Diego Eis",
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
@@ -420,7 +390,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 19114743
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/636191737539624960\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/636191737539624960\/photo\/1",
       "indices" : [ 59, 81 ],
       "url" : "http:\/\/t.co\/I7Hau9vsSh",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CNQ1AxKWEAA7A7K.jpg",
@@ -466,7 +436,7 @@ Grailbird.data.tweets_2015_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/IronMaiden\/status\/636191737539624960\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/636191737539624960\/photo\/1",
         "indices" : [ 43, 65 ],
         "url" : "http:\/\/t.co\/I7Hau9vsSh",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CNQ1AxKWEAA7A7K.jpg",
@@ -547,11 +517,6 @@ Grailbird.data.tweets_2015_08 =
       "url" : "http:\/\/t.co\/M7AFErE8Da",
       "expanded_url" : "http:\/\/www.rollingstone.com\/sports\/features\/space-jam-forever-the-website-that-wouldnt-die-20150819",
       "display_url" : "rollingstone.com\/sports\/feature\u2026"
-    }, {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/EcMMzkKApz",
-      "expanded_url" : "http:\/\/www.warnerbros.com\/archive\/spacejam\/movie\/jam.htm",
-      "display_url" : "warnerbros.com\/archive\/spacej\u2026"
     } ]
   },
   "geo" : { },
@@ -618,7 +583,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 48504743
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/springsteen\/status\/636164328903811072\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/springsteen\/status\/636164328903811072\/photo\/1",
       "indices" : [ 89, 111 ],
       "url" : "http:\/\/t.co\/8X1BdJYDBb",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CNQcFQkUEAAFg2c.jpg",
@@ -668,7 +633,7 @@ Grailbird.data.tweets_2015_08 =
         "id" : 48504743
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/springsteen\/status\/636164328903811072\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/springsteen\/status\/636164328903811072\/photo\/1",
         "indices" : [ 72, 94 ],
         "url" : "http:\/\/t.co\/8X1BdJYDBb",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CNQcFQkUEAAFg2c.jpg",
@@ -890,7 +855,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "getbootstrap",
       "protected" : false,
       "id_str" : "372475592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000195279414\/f8404a9d719c7ffce1478ba1a50036f9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788777950132830208\/vgO3N1r7_normal.jpg",
       "id" : 372475592,
       "verified" : false
     }
@@ -917,7 +882,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 10228272
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/YouTube\/status\/632944944492232704\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/YouTube\/status\/632944944492232704\/photo\/1",
       "indices" : [ 91, 113 ],
       "url" : "http:\/\/t.co\/SGoCXajBHV",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/CMisErnWsAAutqA.png",
@@ -962,11 +927,11 @@ Grailbird.data.tweets_2015_08 =
   "id_str" : "633317511916875777",
   "text" : "RT @YouTube: When Eddie plays video games, Eddie wins. https:\/\/t.co\/NEA0FIHWf4 #IronMaiden http:\/\/t.co\/SGoCXajBHV",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/YouTube\/status\/632944944492232704\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/YouTube\/status\/632944944492232704\/photo\/1",
         "indices" : [ 78, 100 ],
         "url" : "http:\/\/t.co\/SGoCXajBHV",
         "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/CMisErnWsAAutqA.png",
@@ -1017,7 +982,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "YouTube",
       "protected" : false,
       "id_str" : "10228272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757706422138376193\/AoQthRY__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811648447833141248\/cuq3DcOP_normal.jpg",
       "id" : 10228272,
       "verified" : true
     }
@@ -1256,7 +1221,7 @@ Grailbird.data.tweets_2015_08 =
       "id" : 19114743
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/theQuietus\/status\/631398940009701376\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/theQuietus\/status\/631398940009701376\/photo\/1",
       "indices" : [ 109, 131 ],
       "url" : "http:\/\/t.co\/x2G425NSmu",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CMMt_U6WsAAA_Gr.jpg",
@@ -1311,7 +1276,7 @@ Grailbird.data.tweets_2015_08 =
         "id" : 19114743
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/theQuietus\/status\/631398940009701376\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/theQuietus\/status\/631398940009701376\/photo\/1",
         "indices" : [ 93, 115 ],
         "url" : "http:\/\/t.co\/x2G425NSmu",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CMMt_U6WsAAA_Gr.jpg",
@@ -1390,12 +1355,7 @@ Grailbird.data.tweets_2015_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/vSbfBN8bBv",
-      "expanded_url" : "http:\/\/fb.me\/2g7ZfzTnd",
-      "display_url" : "fb.me\/2g7ZfzTnd"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "631297983150202880",

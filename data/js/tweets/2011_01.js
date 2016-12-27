@@ -205,7 +205,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709248671213158401\/9ZknP4Tj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807254579360370688\/eqauuwlr_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -242,12 +242,6 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 80, 96 ],
       "id_str" : "17154146",
       "id" : 17154146
-    }, {
-      "name" : "99tarsis",
-      "screen_name" : "tarsisazevedo",
-      "indices" : [ 139, 140 ],
-      "id_str" : "20527092",
-      "id" : 20527092
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1023,7 +1017,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "RealMORTE",
       "protected" : false,
       "id_str" : "113194428",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714630733466312704\/I6vSdqiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797337863696371712\/uvQvf0kg_normal.jpg",
       "id" : 113194428,
       "verified" : false
     }
@@ -1640,7 +1634,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486575037239934976\/7jZU5s1f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1751,7 +1745,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "_fabioazevedo",
       "protected" : false,
       "id_str" : "62381861",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457968403576537088\/LJOSsaZC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789096599758770176\/uwVTJ6HA_normal.jpg",
       "id" : 62381861,
       "verified" : false
     }
@@ -1886,7 +1880,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735596921994248192\/dtStXdw9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804003173723738112\/xQSJHsG5_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }

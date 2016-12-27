@@ -125,7 +125,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/285397896432599040\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/285397896432599040\/photo\/1",
       "indices" : [ 36, 56 ],
       "url" : "http:\/\/t.co\/NBy1bjkX",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A_Xv3-0CQAAD9sa.jpg",
@@ -367,7 +367,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/saviomd\/status\/281210860762968065\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/281210860762968065\/photo\/1",
       "indices" : [ 42, 62 ],
       "url" : "http:\/\/t.co\/LOYwEIQI",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A-cPybcCMAA67PZ.jpg",
@@ -575,12 +575,7 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/WrS8MIRX",
-      "expanded_url" : "https:\/\/itunes.apple.com\/us\/app\/fruit-ninja\/id362949845?mt=8",
-      "display_url" : "itunes.apple.com\/us\/app\/fruit-n\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "280840079566581760",
@@ -614,7 +609,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Halfbrick",
       "protected" : false,
       "id_str" : "21636840",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1106062016\/SoloBrickcopysmall_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780664592758247424\/SkdeHP5x_normal.jpg",
       "id" : 21636840,
       "verified" : true
     }
