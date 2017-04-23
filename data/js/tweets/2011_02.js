@@ -503,79 +503,6 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "Cauax - Busca Cursos",
-      "screen_name" : "cauax_br",
-      "indices" : [ 103, 112 ],
-      "id_str" : "239606528",
-      "id" : 239606528
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 79, 98 ],
-      "url" : "http:\/\/t.co\/K6Z50OB",
-      "expanded_url" : "http:\/\/www.cauax.com\/blog\/2011\/02\/24\/oportunidades-emprego-copa-do-mundo-olimpiadas\/",
-      "display_url" : "cauax.com\/blog\/2011\/02\/2\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "40736449519304704",
-  "text" : "RT @nalannes: Oportunidades de emprego geradas pela Copa do Mundo e Olimp\u00EDadas http:\/\/t.co\/K6Z50OB via @cauax_br",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Cauax - Busca Cursos",
-        "screen_name" : "cauax_br",
-        "indices" : [ 89, 98 ],
-        "id_str" : "239606528",
-        "id" : 239606528
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 65, 84 ],
-        "url" : "http:\/\/t.co\/K6Z50OB",
-        "expanded_url" : "http:\/\/www.cauax.com\/blog\/2011\/02\/24\/oportunidades-emprego-copa-do-mundo-olimpiadas\/",
-        "display_url" : "cauax.com\/blog\/2011\/02\/2\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "40732826995396608",
-    "text" : "Oportunidades de emprego geradas pela Copa do Mundo e Olimp\u00EDadas http:\/\/t.co\/K6Z50OB via @cauax_br",
-    "id" : 40732826995396608,
-    "created_at" : "2011-02-24 11:20:37 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 40736449519304704,
-  "created_at" : "2011-02-24 11:35:01 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1190,69 +1117,6 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "Cauax - Busca Cursos",
-      "screen_name" : "cauax_br",
-      "indices" : [ 17, 26 ],
-      "id_str" : "239606528",
-      "id" : 239606528
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "37269369469796352",
-  "text" : "RT @nalannes: RT @cauax_br Receba ofertas de cursos e treinamentos: http:\/\/ow.ly\/3WiXq",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Cauax - Busca Cursos",
-        "screen_name" : "cauax_br",
-        "indices" : [ 3, 12 ],
-        "id_str" : "239606528",
-        "id" : 239606528
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "37257505423761409",
-    "text" : "RT @cauax_br Receba ofertas de cursos e treinamentos: http:\/\/ow.ly\/3WiXq",
-    "id" : 37257505423761409,
-    "created_at" : "2011-02-14 21:10:56 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 37269369469796352,
-  "created_at" : "2011-02-14 21:58:04 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1619,7 +1483,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "matthewpennell",
       "protected" : false,
       "id_str" : "12492",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757580690720522241\/k8uX5ioi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813833657177739264\/bhawdmyX_normal.jpg",
       "id" : 12492,
       "verified" : false
     }
@@ -2220,7 +2084,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Victor_Lucas",
       "protected" : false,
       "id_str" : "15177163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743679653945106434\/iX7Kr5oi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849354876748533760\/9IlE1riN_normal.jpg",
       "id" : 15177163,
       "verified" : true
     }
@@ -2277,7 +2141,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "dirtgame",
       "protected" : false,
       "id_str" : "168708219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618756616469512192\/gzLzGHW8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824602750382174208\/PjLgqJ4J_normal.jpg",
       "id" : 168708219,
       "verified" : true
     }
@@ -2552,7 +2416,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

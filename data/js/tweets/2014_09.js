@@ -255,7 +255,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -342,11 +342,11 @@ Grailbird.data.tweets_2014_09 =
     "id" : 515179711815618561,
     "created_at" : "2014-09-25 16:43:09 +0000",
     "user" : {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -465,7 +465,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -514,11 +514,11 @@ Grailbird.data.tweets_2014_09 =
     "id" : 514901209124466688,
     "created_at" : "2014-09-24 22:16:29 +0000",
     "user" : {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1010,7 +1010,7 @@ Grailbird.data.tweets_2014_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eric Robinson",
-      "screen_name" : "Eric_Robinson",
+      "screen_name" : "eric_robinson",
       "indices" : [ 3, 17 ],
       "id_str" : "7275542",
       "id" : 7275542
@@ -1097,7 +1097,7 @@ Grailbird.data.tweets_2014_09 =
     "created_at" : "2014-09-19 19:03:21 +0000",
     "user" : {
       "name" : "Eric Robinson",
-      "screen_name" : "Eric_Robinson",
+      "screen_name" : "eric_robinson",
       "protected" : false,
       "id_str" : "7275542",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603601350396620801\/vlJvqX26_normal.png",

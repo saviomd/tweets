@@ -510,6 +510,135 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Metal Hammer",
+      "screen_name" : "MetalHammer",
+      "indices" : [ 3, 15 ],
+      "id_str" : "19773713",
+      "id" : 19773713
+    }, {
+      "name" : "Faith No More",
+      "screen_name" : "FaithNoMore",
+      "indices" : [ 45, 57 ],
+      "id_str" : "2444728176",
+      "id" : 2444728176
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MetalHammer\/status\/610555554222735362\/photo\/1",
+      "indices" : [ 86, 108 ],
+      "url" : "http:\/\/t.co\/SDFnuqvLWZ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CHkhCnaWIAAWY-x.jpg",
+      "id_str" : "610555553308352512",
+      "id" : 610555553308352512,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHkhCnaWIAAWY-x.jpg",
+      "sizes" : [ {
+        "h" : 91,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 160,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 160,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 160,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/SDFnuqvLWZ"
+    } ],
+    "hashtags" : [ {
+      "text" : "GoldenGods",
+      "indices" : [ 74, 85 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "611006259131772929",
+  "text" : "RT @MetalHammer: The winner of Best Album is @faithnomore\u2019s Sol Invictus! #GoldenGods http:\/\/t.co\/SDFnuqvLWZ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Faith No More",
+        "screen_name" : "FaithNoMore",
+        "indices" : [ 28, 40 ],
+        "id_str" : "2444728176",
+        "id" : 2444728176
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/MetalHammer\/status\/610555554222735362\/photo\/1",
+        "indices" : [ 69, 91 ],
+        "url" : "http:\/\/t.co\/SDFnuqvLWZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CHkhCnaWIAAWY-x.jpg",
+        "id_str" : "610555553308352512",
+        "id" : 610555553308352512,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHkhCnaWIAAWY-x.jpg",
+        "sizes" : [ {
+          "h" : 91,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 160,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 160,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 160,
+          "resize" : "fit",
+          "w" : 600
+        } ],
+        "display_url" : "pic.twitter.com\/SDFnuqvLWZ"
+      } ],
+      "hashtags" : [ {
+        "text" : "GoldenGods",
+        "indices" : [ 57, 68 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "610555554222735362",
+    "text" : "The winner of Best Album is @faithnomore\u2019s Sol Invictus! #GoldenGods http:\/\/t.co\/SDFnuqvLWZ",
+    "id" : 610555554222735362,
+    "created_at" : "2015-06-15 21:12:42 +0000",
+    "user" : {
+      "name" : "Metal Hammer",
+      "screen_name" : "MetalHammer",
+      "protected" : false,
+      "id_str" : "19773713",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775642080324493312\/WpV7hyF3_normal.jpg",
+      "id" : 19773713,
+      "verified" : true
+    }
+  },
+  "id" : 611006259131772929,
+  "created_at" : "2015-06-17 03:03:38 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Little White Lies",
       "screen_name" : "LWLies",
       "indices" : [ 3, 10 ],
@@ -1324,7 +1453,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "rhyslist",
       "protected" : false,
       "id_str" : "622902049",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813114206136500225\/djwBRqyG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851025983058706432\/0QyNWWIy_normal.jpg",
       "id" : 622902049,
       "verified" : false
     }

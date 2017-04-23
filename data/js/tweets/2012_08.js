@@ -301,7 +301,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2012_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 3, 11 ],
       "id_str" : "783214",
       "id" : 783214
@@ -1018,10 +1018,10 @@ Grailbird.data.tweets_2012_08 =
     "created_at" : "2012-08-21 00:45:02 +0000",
     "user" : {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842992378960986112\/Yd1Z53jW_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -2118,74 +2118,6 @@ Grailbird.data.tweets_2012_08 =
   "text" : "Jogo do Walking Dead no Facebook. Acabou trabalho, matar zumbi at\u00E9 as 18h http:\/\/t.co\/qXWr5dhd",
   "id" : 233657969340977152,
   "created_at" : "2012-08-09 20:16:15 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "iG Esporte",
-      "screen_name" : "igesporte",
-      "indices" : [ 35, 45 ],
-      "id_str" : "50055866",
-      "id" : 50055866
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "233622669264838658",
-  "text" : "RT @nalannes: sensacional ---&gt; \u201C@igesporte: Ap\u00F3s 12 anos, zagueiro \u00EDdolo de time ingl\u00EAs marca primeiro gol e torcida invade http:\/\/t. ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "iG Esporte",
-        "screen_name" : "igesporte",
-        "indices" : [ 21, 31 ],
-        "id_str" : "50055866",
-        "id" : 50055866
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 113, 133 ],
-        "url" : "http:\/\/t.co\/w6P4JS82",
-        "expanded_url" : "http:\/\/ig.cm\/QJdCeY",
-        "display_url" : "ig.cm\/QJdCeY"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "233592287303700481",
-    "text" : "sensacional ---&gt; \u201C@igesporte: Ap\u00F3s 12 anos, zagueiro \u00EDdolo de time ingl\u00EAs marca primeiro gol e torcida invade http:\/\/t.co\/w6P4JS82\u201D",
-    "id" : 233592287303700481,
-    "created_at" : "2012-08-09 15:55:15 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 233622669264838658,
-  "created_at" : "2012-08-09 17:55:59 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -2759,7 +2691,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }

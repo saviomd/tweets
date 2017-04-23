@@ -205,7 +205,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807254579360370688\/eqauuwlr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }

@@ -898,7 +898,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "fat",
       "protected" : false,
       "id_str" : "16521996",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665059836321665024\/5xDnQpdK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854733477215744000\/Qzv9Zd6C_normal.jpg",
       "id" : 16521996,
       "verified" : true
     }

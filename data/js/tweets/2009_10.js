@@ -156,6 +156,39 @@ Grailbird.data.tweets_2009_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Clayton Reis",
+      "screen_name" : "claytonreis",
+      "indices" : [ 0, 12 ],
+      "id_str" : "60614193",
+      "id" : 60614193
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "5137711440",
+  "geo" : { },
+  "id_str" : "5148007155",
+  "in_reply_to_user_id" : 60614193,
+  "text" : "@claytonreis \u00C9 pq tu \u00E9 feio hahaha. Q man\u00E9 auto-escola... a praia tava uma maravilha.",
+  "id" : 5148007155,
+  "in_reply_to_status_id" : 5137711440,
+  "created_at" : "2009-10-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "claytonreis",
+  "in_reply_to_user_id_str" : "60614193",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -188,39 +221,6 @@ Grailbird.data.tweets_2009_10 =
   "text" : "Joguei at\u00E9 no campo onde jogava quando era moleque. Legal rever a galera.",
   "id" : 5135825429,
   "created_at" : "2009-10-25 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Clayton Reis",
-      "screen_name" : "claytonreis",
-      "indices" : [ 0, 12 ],
-      "id_str" : "60614193",
-      "id" : 60614193
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "5137711440",
-  "geo" : { },
-  "id_str" : "5148007155",
-  "in_reply_to_user_id" : 60614193,
-  "text" : "@claytonreis \u00C9 pq tu \u00E9 feio hahaha. Q man\u00E9 auto-escola... a praia tava uma maravilha.",
-  "id" : 5148007155,
-  "in_reply_to_status_id" : 5137711440,
-  "created_at" : "2009-10-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "claytonreis",
-  "in_reply_to_user_id_str" : "60614193",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

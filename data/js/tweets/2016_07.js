@@ -431,7 +431,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "krisajenkins",
       "protected" : false,
       "id_str" : "18505708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774967000028372992\/MqMut5Ui_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820990046350307328\/XkInw47V_normal.jpg",
       "id" : 18505708,
       "verified" : false
     }

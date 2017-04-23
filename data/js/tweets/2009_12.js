@@ -8,50 +8,6 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "7179042953",
-  "text" : "Entrevista legal com o Pet, v\u00E1rias curiosidades http:\/\/tinyurl.com\/ydsnaxv",
-  "id" : 7179042953,
-  "created_at" : "2009-12-30 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7199245499",
-  "text" : "\"Dei um 'jab' nele, de esquerda, assim \u00F3\" hahaha http:\/\/tinyurl.com\/yeqogru",
-  "id" : 7199245499,
-  "created_at" : "2009-12-30 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "7199975584",
   "text" : "Team Fortress 2 continua em promo\u00E7\u00E3o at\u00E9 dia 3 de janeiro. Quem n\u00E3o comprou ainda, compre http:\/\/store.steampowered.com\/app\/440\/",
   "id" : 7199975584,
@@ -89,6 +45,50 @@ Grailbird.data.tweets_2009_12 =
   "created_at" : "2009-12-30 00:00:00 +0000",
   "in_reply_to_screen_name" : "diogovincenzi",
   "in_reply_to_user_id_str" : "16905421",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7179042953",
+  "text" : "Entrevista legal com o Pet, v\u00E1rias curiosidades http:\/\/tinyurl.com\/ydsnaxv",
+  "id" : 7179042953,
+  "created_at" : "2009-12-30 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7199245499",
+  "text" : "\"Dei um 'jab' nele, de esquerda, assim \u00F3\" hahaha http:\/\/tinyurl.com\/yeqogru",
+  "id" : 7199245499,
+  "created_at" : "2009-12-30 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

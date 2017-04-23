@@ -131,7 +131,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -442,79 +442,6 @@ Grailbird.data.tweets_2011_09 =
   "text" : "Danilo Gentili falando do Chaves, muito bom!! http:\/\/t.co\/ljb2Q3oV",
   "id" : 118830180616769536,
   "created_at" : "2011-09-27 23:31:37 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "Cauax - Busca Cursos",
-      "screen_name" : "cauax_br",
-      "indices" : [ 91, 100 ],
-      "id_str" : "239606528",
-      "id" : 239606528
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 66, 86 ],
-      "url" : "http:\/\/t.co\/Gr4iczRv",
-      "expanded_url" : "http:\/\/p.ost.im\/p\/ejetFT",
-      "display_url" : "p.ost.im\/p\/ejetFT"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "118818485559242752",
-  "text" : "RT @nalannes: Cauax no Programa Neg\u00F3cios de Sucesso  - TV Vit\u00F3ria http:\/\/t.co\/Gr4iczRv via @cauax_br",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Cauax - Busca Cursos",
-        "screen_name" : "cauax_br",
-        "indices" : [ 77, 86 ],
-        "id_str" : "239606528",
-        "id" : 239606528
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 52, 72 ],
-        "url" : "http:\/\/t.co\/Gr4iczRv",
-        "expanded_url" : "http:\/\/p.ost.im\/p\/ejetFT",
-        "display_url" : "p.ost.im\/p\/ejetFT"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "118807913862148096",
-    "text" : "Cauax no Programa Neg\u00F3cios de Sucesso  - TV Vit\u00F3ria http:\/\/t.co\/Gr4iczRv via @cauax_br",
-    "id" : 118807913862148096,
-    "created_at" : "2011-09-27 22:03:08 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 118818485559242752,
-  "created_at" : "2011-09-27 22:45:09 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1448,7 +1375,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -1823,7 +1750,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "hermioneway",
       "protected" : false,
       "id_str" : "9950972",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712942424738422784\/NZ-pvpRo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836881205308055552\/VblY2Hi3_normal.jpg",
       "id" : 9950972,
       "verified" : false
     }
@@ -2603,7 +2530,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -2948,7 +2875,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3306,7 +3233,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "eduardopaes_",
       "protected" : false,
       "id_str" : "48298703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797191135852642305\/A8hsUmyQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838696788722876416\/qBpZvkZ2_normal.jpg",
       "id" : 48298703,
       "verified" : true
     }
@@ -3424,7 +3351,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 109310011343241216,

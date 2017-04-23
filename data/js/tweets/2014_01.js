@@ -245,7 +245,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -856,7 +856,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "RollingStone",
       "protected" : false,
       "id_str" : "14780915",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458998630175617024\/MIwtW6L0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854429445301706752\/m2G7YLYb_normal.jpg",
       "id" : 14780915,
       "verified" : true
     }
@@ -1394,7 +1394,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "ziconarede",
       "protected" : false,
       "id_str" : "42459293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533463203481534464\/_IZKgUYD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847255515591720960\/tmJd3-Vw_normal.jpg",
       "id" : 42459293,
       "verified" : true
     }

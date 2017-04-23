@@ -352,28 +352,6 @@ Grailbird.data.tweets_2009_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3440777225",
-  "text" : "Esse 052 do flamengo j\u00E1 deu n\u00E9? Tira o Angelim, bota mais um armador e segura a porra dos volantes q t\u00E3o achando q s\u00E3o atacantes atr\u00E1s.",
-  "id" : 3440777225,
-  "created_at" : "2009-08-21 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Andr\u00E9 Luiz Silva",
       "screen_name" : "AndreDentinho",
@@ -416,6 +394,28 @@ Grailbird.data.tweets_2009_08 =
   "id_str" : "3452479797",
   "text" : "Melhor que comer pizza nesse tempinho \u00E9 comer pizza nesse tempinho de gra\u00E7a!!",
   "id" : 3452479797,
+  "created_at" : "2009-08-21 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3440777225",
+  "text" : "Esse 052 do flamengo j\u00E1 deu n\u00E9? Tira o Angelim, bota mais um armador e segura a porra dos volantes q t\u00E3o achando q s\u00E3o atacantes atr\u00E1s.",
+  "id" : 3440777225,
   "created_at" : "2009-08-21 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

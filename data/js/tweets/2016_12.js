@@ -1,5 +1,126 @@
 Grailbird.data.tweets_2016_12 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tecnoblog",
+      "screen_name" : "Tecnoblog",
+      "indices" : [ 3, 13 ],
+      "id_str" : "16008305",
+      "id" : 16008305
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Tecnoblog\/status\/814090741349814272\/photo\/1",
+      "indices" : [ 117, 140 ],
+      "url" : "https:\/\/t.co\/nmfnp7luhn",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C0w7NdHWEAEDK-y.jpg",
+      "id_str" : "814090734986989569",
+      "id" : 814090734986989569,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0w7NdHWEAEDK-y.jpg",
+      "sizes" : [ {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 394,
+        "resize" : "fit",
+        "w" : 700
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 394,
+        "resize" : "fit",
+        "w" : 700
+      }, {
+        "h" : 394,
+        "resize" : "fit",
+        "w" : 700
+      } ],
+      "display_url" : "pic.twitter.com\/nmfnp7luhn"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 93, 116 ],
+      "url" : "https:\/\/t.co\/k2S1nBWPw6",
+      "expanded_url" : "http:\/\/tbnet.me\/2iqpLIo",
+      "display_url" : "tbnet.me\/2iqpLIo"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "814675111122964486",
+  "text" : "RT @Tecnoblog: Piloto autom\u00E1tico da Tesla freia sozinho antes de acidente \u00E0 frente ocorrer \u00BB\u00A0https:\/\/t.co\/k2S1nBWPw6 https:\/\/t.co\/nmfnp7luhn",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Tecnoblog\/status\/814090741349814272\/photo\/1",
+        "indices" : [ 102, 125 ],
+        "url" : "https:\/\/t.co\/nmfnp7luhn",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C0w7NdHWEAEDK-y.jpg",
+        "id_str" : "814090734986989569",
+        "id" : 814090734986989569,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C0w7NdHWEAEDK-y.jpg",
+        "sizes" : [ {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 394,
+          "resize" : "fit",
+          "w" : 700
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 394,
+          "resize" : "fit",
+          "w" : 700
+        }, {
+          "h" : 394,
+          "resize" : "fit",
+          "w" : 700
+        } ],
+        "display_url" : "pic.twitter.com\/nmfnp7luhn"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 78, 101 ],
+        "url" : "https:\/\/t.co\/k2S1nBWPw6",
+        "expanded_url" : "http:\/\/tbnet.me\/2iqpLIo",
+        "display_url" : "tbnet.me\/2iqpLIo"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "814090741349814272",
+    "text" : "Piloto autom\u00E1tico da Tesla freia sozinho antes de acidente \u00E0 frente ocorrer \u00BB\u00A0https:\/\/t.co\/k2S1nBWPw6 https:\/\/t.co\/nmfnp7luhn",
+    "id" : 814090741349814272,
+    "created_at" : "2016-12-28 12:48:52 +0000",
+    "user" : {
+      "name" : "Tecnoblog",
+      "screen_name" : "Tecnoblog",
+      "protected" : false,
+      "id_str" : "16008305",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493576408229105664\/-Bd12Zyc_normal.png",
+      "id" : 16008305,
+      "verified" : true
+    }
+  },
+  "id" : 814675111122964486,
+  "created_at" : "2016-12-30 03:30:57 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -414,7 +535,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806916872104972288\/_cRzjzDn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851404649823383552\/LzRe2jxx_normal.jpg",
       "id" : 287690539,
       "verified" : true
     }
@@ -535,7 +656,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -692,7 +813,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "sarah_edo",
       "protected" : false,
       "id_str" : "813333008",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742157172516085764\/hxI9M6He_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825582368907931648\/oaLvwS7y_normal.jpg",
       "id" : 813333008,
       "verified" : false
     }
@@ -977,7 +1098,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "agenciaduome",
       "protected" : false,
       "id_str" : "2810571892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519826965071556608\/B9l-DFRB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814161278671421441\/5amjb00r_normal.jpg",
       "id" : 2810571892,
       "verified" : false
     }
@@ -1121,244 +1242,13 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806916872104972288\/_cRzjzDn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851404649823383552\/LzRe2jxx_normal.jpg",
       "id" : 287690539,
       "verified" : true
     }
   },
   "id" : 806945407020376064,
   "created_at" : "2016-12-08 19:35:52 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "FILM | itself",
-      "screen_name" : "FILMitself",
-      "indices" : [ 3, 14 ],
-      "id_str" : "802546577692704770",
-      "id" : 802546577692704770
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/FILMitself\/status\/805923051258855424\/photo\/1",
-      "indices" : [ 97, 120 ],
-      "url" : "https:\/\/t.co\/XhWu26v15I",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cy82lgLVQAEvIZg.jpg",
-      "id_str" : "805922876243132417",
-      "id" : 805922876243132417,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy82lgLVQAEvIZg.jpg",
-      "sizes" : [ {
-        "h" : 368,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 692,
-        "resize" : "fit",
-        "w" : 1280
-      }, {
-        "h" : 649,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 692,
-        "resize" : "fit",
-        "w" : 1280
-      } ],
-      "display_url" : "pic.twitter.com\/XhWu26v15I"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/FILMitself\/status\/805923051258855424\/photo\/1",
-      "indices" : [ 97, 120 ],
-      "url" : "https:\/\/t.co\/XhWu26v15I",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cy82niYUoAA07aD.jpg",
-      "id_str" : "805922911194226688",
-      "id" : 805922911194226688,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy82niYUoAA07aD.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 631,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 666,
-        "resize" : "fit",
-        "w" : 1266
-      }, {
-        "h" : 666,
-        "resize" : "fit",
-        "w" : 1266
-      }, {
-        "h" : 358,
-        "resize" : "fit",
-        "w" : 680
-      } ],
-      "display_url" : "pic.twitter.com\/XhWu26v15I"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/FILMitself\/status\/805923051258855424\/photo\/1",
-      "indices" : [ 97, 120 ],
-      "url" : "https:\/\/t.co\/XhWu26v15I",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cy82pllVQAIhavc.jpg",
-      "id_str" : "805922946413838338",
-      "id" : 805922946413838338,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy82pllVQAIhavc.jpg",
-      "sizes" : [ {
-        "h" : 642,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 364,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 685,
-        "resize" : "fit",
-        "w" : 1280
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 685,
-        "resize" : "fit",
-        "w" : 1280
-      } ],
-      "display_url" : "pic.twitter.com\/XhWu26v15I"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806811184255160324",
-  "text" : "RT @FILMitself: GHOST IN THE SHELL (1995), LOST IN TRANSLATION (2003), GHOST IN THE SHELL (2017) https:\/\/t.co\/XhWu26v15I",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/FILMitself\/status\/805923051258855424\/photo\/1",
-        "indices" : [ 81, 104 ],
-        "url" : "https:\/\/t.co\/XhWu26v15I",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cy82lgLVQAEvIZg.jpg",
-        "id_str" : "805922876243132417",
-        "id" : 805922876243132417,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy82lgLVQAEvIZg.jpg",
-        "sizes" : [ {
-          "h" : 368,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 692,
-          "resize" : "fit",
-          "w" : 1280
-        }, {
-          "h" : 649,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 692,
-          "resize" : "fit",
-          "w" : 1280
-        } ],
-        "display_url" : "pic.twitter.com\/XhWu26v15I"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/FILMitself\/status\/805923051258855424\/photo\/1",
-        "indices" : [ 81, 104 ],
-        "url" : "https:\/\/t.co\/XhWu26v15I",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cy82niYUoAA07aD.jpg",
-        "id_str" : "805922911194226688",
-        "id" : 805922911194226688,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy82niYUoAA07aD.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 631,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 666,
-          "resize" : "fit",
-          "w" : 1266
-        }, {
-          "h" : 666,
-          "resize" : "fit",
-          "w" : 1266
-        }, {
-          "h" : 358,
-          "resize" : "fit",
-          "w" : 680
-        } ],
-        "display_url" : "pic.twitter.com\/XhWu26v15I"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/FILMitself\/status\/805923051258855424\/photo\/1",
-        "indices" : [ 81, 104 ],
-        "url" : "https:\/\/t.co\/XhWu26v15I",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cy82pllVQAIhavc.jpg",
-        "id_str" : "805922946413838338",
-        "id" : 805922946413838338,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cy82pllVQAIhavc.jpg",
-        "sizes" : [ {
-          "h" : 642,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 364,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 685,
-          "resize" : "fit",
-          "w" : 1280
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 685,
-          "resize" : "fit",
-          "w" : 1280
-        } ],
-        "display_url" : "pic.twitter.com\/XhWu26v15I"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "805923051258855424",
-    "text" : "GHOST IN THE SHELL (1995), LOST IN TRANSLATION (2003), GHOST IN THE SHELL (2017) https:\/\/t.co\/XhWu26v15I",
-    "id" : 805923051258855424,
-    "created_at" : "2016-12-05 23:53:23 +0000",
-    "user" : {
-      "name" : "FILM | itself",
-      "screen_name" : "FILMitself",
-      "protected" : false,
-      "id_str" : "802546577692704770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802547869169303553\/Q4U-5bF-_normal.jpg",
-      "id" : 802546577692704770,
-      "verified" : false
-    }
-  },
-  "id" : 806811184255160324,
-  "created_at" : "2016-12-08 10:42:30 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1689,7 +1579,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1806,7 +1696,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1903,7 +1793,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "CONMEBOL",
       "protected" : false,
       "id_str" : "1265260098",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807238479541370880\/UwKU5h-w_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839852527868854273\/gx4LmW0d_normal.jpg",
       "id" : 1265260098,
       "verified" : true
     }
@@ -2116,7 +2006,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2273,7 +2163,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806916872104972288\/_cRzjzDn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851404649823383552\/LzRe2jxx_normal.jpg",
       "id" : 287690539,
       "verified" : true
     }
@@ -2523,7 +2413,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "TheKentti",
       "protected" : false,
       "id_str" : "2251621472",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695542763975286784\/4UQd6f33_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/840987865857298432\/ODVx2TVt_normal.jpg",
       "id" : 2251621472,
       "verified" : false
     }

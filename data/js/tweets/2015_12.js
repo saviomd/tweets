@@ -125,7 +125,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 3, 11 ],
       "id_str" : "783214",
       "id" : 783214
@@ -178,10 +178,10 @@ Grailbird.data.tweets_2015_12 =
     "created_at" : "2015-12-22 15:00:37 +0000",
     "user" : {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842992378960986112\/Yd1Z53jW_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -651,7 +651,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "agenciaduome",
       "protected" : false,
       "id_str" : "2810571892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519826965071556608\/B9l-DFRB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814161278671421441\/5amjb00r_normal.jpg",
       "id" : 2810571892,
       "verified" : false
     }

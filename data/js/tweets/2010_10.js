@@ -934,69 +934,6 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "Avantare",
-      "screen_name" : "Avantare",
-      "indices" : [ 77, 86 ],
-      "id_str" : "33950455",
-      "id" : 33950455
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27446851962",
-  "text" : "RT @nalannes: Para quem quer saber mais do Drupal: http:\/\/bit.ly\/9ijwc1 (via @Avantare)",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Avantare",
-        "screen_name" : "Avantare",
-        "indices" : [ 63, 72 ],
-        "id_str" : "33950455",
-        "id" : 33950455
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "27446225954",
-    "text" : "Para quem quer saber mais do Drupal: http:\/\/bit.ly\/9ijwc1 (via @Avantare)",
-    "id" : 27446225954,
-    "created_at" : "2010-10-15 14:29:21 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 27446851962,
-  "created_at" : "2010-10-15 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1146,6 +1083,70 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Diego Tavares",
+      "screen_name" : "diegoneto",
+      "indices" : [ 0, 10 ],
+      "id_str" : "28808110",
+      "id" : 28808110
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "27262662037",
+  "in_reply_to_user_id" : 28808110,
+  "text" : "@diegoneto @joeynetto Bora almo\u00E7ar amanh\u00E3?",
+  "id" : 27262662037,
+  "created_at" : "2010-10-13 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diegoneto",
+  "in_reply_to_user_id_str" : "28808110",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Diego Tavares",
+      "screen_name" : "diegoneto",
+      "indices" : [ 0, 10 ],
+      "id_str" : "28808110",
+      "id" : 28808110
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "27262715252",
+  "geo" : { },
+  "id_str" : "27263151369",
+  "in_reply_to_user_id" : 28808110,
+  "text" : "@diegoneto Porra!!",
+  "id" : 27263151369,
+  "in_reply_to_status_id" : 27262715252,
+  "created_at" : "2010-10-13 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diegoneto",
+  "in_reply_to_user_id_str" : "28808110",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1189,57 +1190,6 @@ Grailbird.data.tweets_2010_10 =
   "created_at" : "2010-10-13 00:00:00 +0000",
   "in_reply_to_screen_name" : "diegoneto",
   "in_reply_to_user_id_str" : "28808110",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27267138871",
-  "text" : "RT @nalannes: Material no m\u00EDnimo curioso para dar uma analisada antes das elei\u00E7\u00F5es: http:\/\/bit.ly\/cV7Z57",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "27262507221",
-    "text" : "Material no m\u00EDnimo curioso para dar uma analisada antes das elei\u00E7\u00F5es: http:\/\/bit.ly\/cV7Z57",
-    "id" : 27262507221,
-    "created_at" : "2010-10-13 17:42:03 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 27267138871,
-  "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1334,70 +1284,6 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_user_id" : 28808110,
   "text" : "@diegoneto @joeynetto Bora almo\u00E7ar amanh\u00E3?",
   "id" : 27260354901,
-  "created_at" : "2010-10-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "diegoneto",
-  "in_reply_to_user_id_str" : "28808110",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Diego Tavares",
-      "screen_name" : "diegoneto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "28808110",
-      "id" : 28808110
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27262662037",
-  "in_reply_to_user_id" : 28808110,
-  "text" : "@diegoneto @joeynetto Bora almo\u00E7ar amanh\u00E3?",
-  "id" : 27262662037,
-  "created_at" : "2010-10-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "diegoneto",
-  "in_reply_to_user_id_str" : "28808110",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Diego Tavares",
-      "screen_name" : "diegoneto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "28808110",
-      "id" : 28808110
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "27262715252",
-  "geo" : { },
-  "id_str" : "27263151369",
-  "in_reply_to_user_id" : 28808110,
-  "text" : "@diegoneto Porra!!",
-  "id" : 27263151369,
-  "in_reply_to_status_id" : 27262715252,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "in_reply_to_screen_name" : "diegoneto",
   "in_reply_to_user_id_str" : "28808110",

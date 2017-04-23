@@ -125,134 +125,6 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Liv",
-      "screen_name" : "liviadami",
-      "indices" : [ 3, 13 ],
-      "id_str" : "1358315736",
-      "id" : 1358315736
-    }, {
-      "name" : "Billy Gould",
-      "screen_name" : "MRGOULD",
-      "indices" : [ 15, 23 ],
-      "id_str" : "18904121",
-      "id" : 18904121
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/liviadami\/status\/647898663277207553\/photo\/1",
-      "indices" : [ 24, 46 ],
-      "url" : "http:\/\/t.co\/wp6sSSY84W",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CP3MY48WwAAO7Op.jpg",
-      "id_str" : "647898649385680896",
-      "id" : 647898649385680896,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CP3MY48WwAAO7Op.jpg",
-      "sizes" : [ {
-        "h" : 712,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 224,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 396,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 675,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/wp6sSSY84W"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "648183774338023424",
-  "text" : "RT @liviadami: @MRGOULD http:\/\/t.co\/wp6sSSY84W",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Billy Gould",
-        "screen_name" : "MRGOULD",
-        "indices" : [ 0, 8 ],
-        "id_str" : "18904121",
-        "id" : 18904121
-      } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/liviadami\/status\/647898663277207553\/photo\/1",
-        "indices" : [ 9, 31 ],
-        "url" : "http:\/\/t.co\/wp6sSSY84W",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CP3MY48WwAAO7Op.jpg",
-        "id_str" : "647898649385680896",
-        "id" : 647898649385680896,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CP3MY48WwAAO7Op.jpg",
-        "sizes" : [ {
-          "h" : 712,
-          "resize" : "fit",
-          "w" : 1080
-        }, {
-          "h" : 224,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 396,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 675,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/wp6sSSY84W"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "647894331702046720",
-    "geo" : { },
-    "id_str" : "647898663277207553",
-    "in_reply_to_user_id" : 18904121,
-    "text" : "@MRGOULD http:\/\/t.co\/wp6sSSY84W",
-    "id" : 647898663277207553,
-    "in_reply_to_status_id" : 647894331702046720,
-    "created_at" : "2015-09-26 22:20:53 +0000",
-    "in_reply_to_screen_name" : "MRGOULD",
-    "in_reply_to_user_id_str" : "18904121",
-    "user" : {
-      "name" : "Liv",
-      "screen_name" : "liviadami",
-      "protected" : false,
-      "id_str" : "1358315736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798554780465565697\/-F9C6A49_normal.jpg",
-      "id" : 1358315736,
-      "verified" : false
-    }
-  },
-  "id" : 648183774338023424,
-  "created_at" : "2015-09-27 17:13:49 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "PapodeHomem",
       "screen_name" : "papodehomem",
       "indices" : [ 3, 15 ],
@@ -848,7 +720,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -892,11 +764,11 @@ Grailbird.data.tweets_2015_09 =
     "id" : 643502873599418368,
     "created_at" : "2015-09-14 19:13:35 +0000",
     "user" : {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1095,7 +967,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "AppleMusic",
       "protected" : false,
       "id_str" : "74580436",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804761218078670848\/yyaoY86i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849476056193134594\/sgEjJQYq_normal.jpg",
       "id" : 74580436,
       "verified" : true
     }
@@ -1233,7 +1105,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1328,6 +1200,123 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Os coment\u00E1rios j\u00E1 dizem tudo.. vacilaram legal https:\/\/t.co\/OHXgHMvU20",
   "id" : 641654220953927680,
   "created_at" : "2015-09-09 16:47:42 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Classic Rock",
+      "screen_name" : "ClassicRockMag",
+      "indices" : [ 3, 18 ],
+      "id_str" : "27055945",
+      "id" : 27055945
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/ClassicRockMag\/status\/639860580514336768\/photo\/1",
+      "indices" : [ 98, 120 ],
+      "url" : "http:\/\/t.co\/r0lcYkrFV2",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
+      "id_str" : "639843396534829056",
+      "id" : 639843396534829056,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
+      "sizes" : [ {
+        "h" : 532,
+        "resize" : "fit",
+        "w" : 394
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 532,
+        "resize" : "fit",
+        "w" : 394
+      }, {
+        "h" : 459,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 532,
+        "resize" : "fit",
+        "w" : 394
+      } ],
+      "display_url" : "pic.twitter.com\/r0lcYkrFV2"
+    } ],
+    "hashtags" : [ {
+      "text" : "UpTheIrons",
+      "indices" : [ 86, 97 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "639890080769933312",
+  "text" : "RT @ClassicRockMag: Coming soon: the new issue of Classic Rock. We've got it covered. #UpTheIrons http:\/\/t.co\/r0lcYkrFV2",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ClassicRockMag\/status\/639860580514336768\/photo\/1",
+        "indices" : [ 78, 100 ],
+        "url" : "http:\/\/t.co\/r0lcYkrFV2",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
+        "id_str" : "639843396534829056",
+        "id" : 639843396534829056,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/COEuLdpWgAA77h9.png",
+        "sizes" : [ {
+          "h" : 532,
+          "resize" : "fit",
+          "w" : 394
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 532,
+          "resize" : "fit",
+          "w" : 394
+        }, {
+          "h" : 459,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 532,
+          "resize" : "fit",
+          "w" : 394
+        } ],
+        "display_url" : "pic.twitter.com\/r0lcYkrFV2"
+      } ],
+      "hashtags" : [ {
+        "text" : "UpTheIrons",
+        "indices" : [ 66, 77 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "639860580514336768",
+    "text" : "Coming soon: the new issue of Classic Rock. We've got it covered. #UpTheIrons http:\/\/t.co\/r0lcYkrFV2",
+    "id" : 639860580514336768,
+    "created_at" : "2015-09-04 18:00:25 +0000",
+    "user" : {
+      "name" : "Classic Rock",
+      "screen_name" : "ClassicRockMag",
+      "protected" : false,
+      "id_str" : "27055945",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000510976572\/6f29340c96d93e17ebd6b8766ec5be3a_normal.jpeg",
+      "id" : 27055945,
+      "verified" : false
+    }
+  },
+  "id" : 639890080769933312,
+  "created_at" : "2015-09-04 19:57:38 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

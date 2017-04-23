@@ -565,7 +565,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -712,7 +712,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 84331523641315328,
@@ -761,7 +761,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -1640,67 +1640,6 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 46, 65 ],
-      "url" : "http:\/\/t.co\/lm3unzL",
-      "expanded_url" : "http:\/\/migre.me\/51DU7",
-      "display_url" : "migre.me\/51DU7"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "79186089713217536",
-  "text" : "RT @nalannes: Dica para quem quer um aumento: http:\/\/t.co\/lm3unzL",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 32, 51 ],
-        "url" : "http:\/\/t.co\/lm3unzL",
-        "expanded_url" : "http:\/\/migre.me\/51DU7",
-        "display_url" : "migre.me\/51DU7"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "79185562958958592",
-    "text" : "Dica para quem quer um aumento: http:\/\/t.co\/lm3unzL",
-    "id" : 79185562958958592,
-    "created_at" : "2011-06-10 13:58:04 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 79186089713217536,
-  "created_at" : "2011-06-10 14:00:09 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1767,7 +1706,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2063,7 +2002,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "VL",
       "protected" : false,
       "id_str" : "760892",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789418873913090048\/8Wt6X_8Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848483052107857920\/5R4NyW40_normal.jpg",
       "id" : 760892,
       "verified" : true
     }
@@ -2291,7 +2230,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }

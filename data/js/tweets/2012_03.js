@@ -262,7 +262,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -814,7 +814,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -881,7 +881,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1035,7 +1035,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1539,7 +1539,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1696,7 +1696,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1835,7 +1835,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -1920,7 +1920,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 177835951505158144,
@@ -2009,7 +2009,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 177756142477381632,
@@ -2273,7 +2273,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 177007129012609024,

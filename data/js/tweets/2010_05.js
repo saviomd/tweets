@@ -100,7 +100,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "ziconarede",
       "protected" : false,
       "id_str" : "42459293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533463203481534464\/_IZKgUYD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847255515591720960\/tmJd3-Vw_normal.jpg",
       "id" : 42459293,
       "verified" : true
     }

@@ -71,7 +71,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rafucko",
       "protected" : false,
       "id_str" : "36823059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795588992653725696\/Rob1AI1S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845575362650279937\/TNqNecCk_normal.jpg",
       "id" : 36823059,
       "verified" : false
     }

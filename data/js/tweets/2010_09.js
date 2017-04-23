@@ -561,6 +561,31 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "newtwitter",
+      "indices" : [ 54, 65 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25357433973",
+  "text" : "To com o twitter novo, a interface \u00E9 MUITO mais legal #newtwitter",
+  "id" : 25357433973,
+  "created_at" : "2010-09-24 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -653,17 +678,14 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "newtwitter",
-      "indices" : [ 54, 65 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "25357433973",
-  "text" : "To com o twitter novo, a interface \u00E9 MUITO mais legal #newtwitter",
-  "id" : 25357433973,
-  "created_at" : "2010-09-24 00:00:00 +0000",
+  "id_str" : "25271818780",
+  "text" : "Pet \u00E9 foda!! At\u00E9 quando erra, acerta hahaha",
+  "id" : 25271818780,
+  "created_at" : "2010-09-23 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -697,28 +719,6 @@ Grailbird.data.tweets_2010_09 =
   "created_at" : "2010-09-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "HelderLima",
   "in_reply_to_user_id_str" : "39985652",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25271818780",
-  "text" : "Pet \u00E9 foda!! At\u00E9 quando erra, acerta hahaha",
-  "id" : 25271818780,
-  "created_at" : "2010-09-23 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

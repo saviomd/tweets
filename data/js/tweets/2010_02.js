@@ -56,7 +56,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -283,6 +283,39 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Vanessa Maia",
+      "screen_name" : "nessamaia",
+      "indices" : [ 0, 10 ],
+      "id_str" : "4879901",
+      "id" : 4879901
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "9626358241",
+  "geo" : { },
+  "id_str" : "9626433890",
+  "in_reply_to_user_id" : 4879901,
+  "text" : "@nessamaia Pras f\u00E9rias!!! :D",
+  "id" : 9626433890,
+  "in_reply_to_status_id" : 9626358241,
+  "created_at" : "2010-02-25 00:00:00 +0000",
+  "in_reply_to_screen_name" : "nessamaia",
+  "in_reply_to_user_id_str" : "4879901",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -315,39 +348,6 @@ Grailbird.data.tweets_2010_02 =
   "text" : "Maraca sinistro ontem!! Tava com saudade haha. Fabr\u00EDcio \u00E9 o novo Gamarra!! E o Wagner Love \u00E9 um merda!",
   "id" : 9626426827,
   "created_at" : "2010-02-25 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Vanessa Maia",
-      "screen_name" : "nessamaia",
-      "indices" : [ 0, 10 ],
-      "id_str" : "4879901",
-      "id" : 4879901
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "9626358241",
-  "geo" : { },
-  "id_str" : "9626433890",
-  "in_reply_to_user_id" : 4879901,
-  "text" : "@nessamaia Pras f\u00E9rias!!! :D",
-  "id" : 9626433890,
-  "in_reply_to_status_id" : 9626358241,
-  "created_at" : "2010-02-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "nessamaia",
-  "in_reply_to_user_id_str" : "4879901",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

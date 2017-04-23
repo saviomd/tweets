@@ -94,7 +94,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "meeloalex",
       "protected" : false,
       "id_str" : "3416773767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813276822129569792\/jhqPcsrO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848027254219317248\/7oCkzMvz_normal.jpg",
       "id" : 3416773767,
       "verified" : false
     }
@@ -199,6 +199,129 @@ Grailbird.data.tweets_2016_09 =
   },
   "id" : 781874621675081728,
   "created_at" : "2016-09-30 15:13:30 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Metal Hammer",
+      "screen_name" : "MetalHammer",
+      "indices" : [ 3, 15 ],
+      "id_str" : "19773713",
+      "id" : 19773713
+    }, {
+      "name" : "Iron Maiden",
+      "screen_name" : "IronMaiden",
+      "indices" : [ 18, 29 ],
+      "id_str" : "19114743",
+      "id" : 19114743
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MetalHammer\/status\/781436289610645504\/video\/1",
+      "indices" : [ 73, 96 ],
+      "url" : "https:\/\/t.co\/gt0qUYfmWL",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/781436166872637441\/pu\/img\/7U3B4kgBGYR3AJgO.jpg",
+      "id_str" : "781436166872637441",
+      "id" : 781436166872637441,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/781436166872637441\/pu\/img\/7U3B4kgBGYR3AJgO.jpg",
+      "sizes" : [ {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 0,
+        "resize" : "fit",
+        "w" : 0
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/gt0qUYfmWL"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "781617321253167104",
+  "text" : "RT @MetalHammer: .@IronMaiden's Somewhere In Time is 30 years old today. https:\/\/t.co\/gt0qUYfmWL",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Iron Maiden",
+        "screen_name" : "IronMaiden",
+        "indices" : [ 1, 12 ],
+        "id_str" : "19114743",
+        "id" : 19114743
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/MetalHammer\/status\/781436289610645504\/video\/1",
+        "indices" : [ 56, 79 ],
+        "url" : "https:\/\/t.co\/gt0qUYfmWL",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/781436166872637441\/pu\/img\/7U3B4kgBGYR3AJgO.jpg",
+        "id_str" : "781436166872637441",
+        "id" : 781436166872637441,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/781436166872637441\/pu\/img\/7U3B4kgBGYR3AJgO.jpg",
+        "sizes" : [ {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 0,
+          "resize" : "fit",
+          "w" : 0
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
+        } ],
+        "display_url" : "pic.twitter.com\/gt0qUYfmWL"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "781436289610645504",
+    "text" : ".@IronMaiden's Somewhere In Time is 30 years old today. https:\/\/t.co\/gt0qUYfmWL",
+    "id" : 781436289610645504,
+    "created_at" : "2016-09-29 10:11:44 +0000",
+    "user" : {
+      "name" : "Metal Hammer",
+      "screen_name" : "MetalHammer",
+      "protected" : false,
+      "id_str" : "19773713",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775642080324493312\/WpV7hyF3_normal.jpg",
+      "id" : 19773713,
+      "verified" : true
+    }
+  },
+  "id" : 781617321253167104,
+  "created_at" : "2016-09-29 22:11:05 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -318,7 +441,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -429,7 +552,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "Sammy_Goal",
       "protected" : false,
       "id_str" : "30720839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720329766608510976\/l8gOqb5B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854971250556403712\/0lyG-i0Y_normal.jpg",
       "id" : 30720839,
       "verified" : true
     }
@@ -834,7 +957,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1252,7 +1375,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "patrickfulton",
       "protected" : false,
       "id_str" : "8374852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803680846440005632\/qJT2l0bR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823673948734980101\/0kVTONDd_normal.jpg",
       "id" : 8374852,
       "verified" : false
     }

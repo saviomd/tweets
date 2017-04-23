@@ -1,5 +1,108 @@
 Grailbird.data.tweets_2015_05 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Metal Hammer",
+      "screen_name" : "MetalHammer",
+      "indices" : [ 3, 15 ],
+      "id_str" : "19773713",
+      "id" : 19773713
+    }, {
+      "name" : "Iron Maiden",
+      "screen_name" : "IronMaiden",
+      "indices" : [ 30, 41 ],
+      "id_str" : "19114743",
+      "id" : 19114743
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 112, 134 ],
+      "url" : "http:\/\/t.co\/UclDcW4mjm",
+      "expanded_url" : "http:\/\/goo.gl\/umd3pm",
+      "display_url" : "goo.gl\/umd3pm"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "604281923834363904",
+  "text" : "RT @MetalHammer: 15 years ago @IronMaiden released Brave New World. Here's our review from all those years ago. http:\/\/t.co\/UclDcW4mjm http\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Iron Maiden",
+        "screen_name" : "IronMaiden",
+        "indices" : [ 13, 24 ],
+        "id_str" : "19114743",
+        "id" : 19114743
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/MetalHammer\/status\/604248380991131650\/photo\/1",
+        "indices" : [ 118, 140 ],
+        "url" : "http:\/\/t.co\/SbMWOA5g6O",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CGKr0McWkAAzFQK.jpg",
+        "id_str" : "604234213202759680",
+        "id" : 604234213202759680,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CGKr0McWkAAzFQK.jpg",
+        "sizes" : [ {
+          "h" : 1280,
+          "resize" : "fit",
+          "w" : 1280
+        }, {
+          "h" : 600,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/SbMWOA5g6O"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 95, 117 ],
+        "url" : "http:\/\/t.co\/UclDcW4mjm",
+        "expanded_url" : "http:\/\/goo.gl\/umd3pm",
+        "display_url" : "goo.gl\/umd3pm"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "604248380991131650",
+    "text" : "15 years ago @IronMaiden released Brave New World. Here's our review from all those years ago. http:\/\/t.co\/UclDcW4mjm http:\/\/t.co\/SbMWOA5g6O",
+    "id" : 604248380991131650,
+    "created_at" : "2015-05-29 11:30:15 +0000",
+    "user" : {
+      "name" : "Metal Hammer",
+      "screen_name" : "MetalHammer",
+      "protected" : false,
+      "id_str" : "19773713",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775642080324493312\/WpV7hyF3_normal.jpg",
+      "id" : 19773713,
+      "verified" : true
+    }
+  },
+  "id" : 604281923834363904,
+  "created_at" : "2015-05-29 13:43:32 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -423,7 +526,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -450,11 +553,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 603944543084478464,
     "created_at" : "2015-05-28 15:22:54 +0000",
     "user" : {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1479,13 +1582,13 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeffrey Zeldman",
+      "name" : "Zeldman",
       "screen_name" : "zeldman",
       "indices" : [ 3, 11 ],
       "id_str" : "61133",
       "id" : 61133
     }, {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 128, 139 ],
       "id_str" : "11855482",
@@ -1502,7 +1605,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Brad Frost",
+        "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
         "screen_name" : "brad_frost",
         "indices" : [ 115, 126 ],
         "id_str" : "11855482",
@@ -1521,11 +1624,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598512720401584129,
     "created_at" : "2015-05-13 15:38:47 +0000",
     "user" : {
-      "name" : "Jeffrey Zeldman",
+      "name" : "Zeldman",
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802578634510921729\/UCM7pFZX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843519123711803393\/pyYe9LFq_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -1830,7 +1933,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 596517207749894144,
@@ -2043,7 +2146,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/570009494805946368\/dfEcOkau_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814258787330719744\/vG-aJaxd_normal.jpg",
       "id" : 4375,
       "verified" : false
     }
@@ -2063,7 +2166,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -2100,11 +2203,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 595221291071713280,
     "created_at" : "2015-05-04 13:39:49 +0000",
     "user" : {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }

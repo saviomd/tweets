@@ -2,6 +2,28 @@ Grailbird.data.tweets_2009_06 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2423120511",
+  "text" : "Pow.. Uniforme novo do Flamengo ficou meio estranho.. (mas o reserva at\u00E9 q passa) http:\/\/tinyurl.com\/nt4h6v",
+  "id" : 2423120511,
+  "created_at" : "2009-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "becca",
       "screen_name" : "dasbecca",
@@ -21,28 +43,6 @@ Grailbird.data.tweets_2009_06 =
   "created_at" : "2009-07-01 00:00:00 +0000",
   "in_reply_to_screen_name" : "dasbecca",
   "in_reply_to_user_id_str" : "10991",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2423120511",
-  "text" : "Pow.. Uniforme novo do Flamengo ficou meio estranho.. (mas o reserva at\u00E9 q passa) http:\/\/tinyurl.com\/nt4h6v",
-  "id" : 2423120511,
-  "created_at" : "2009-07-01 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

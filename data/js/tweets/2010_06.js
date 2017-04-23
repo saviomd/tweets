@@ -2,6 +2,61 @@ Grailbird.data.tweets_2010_06 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17451657463",
+  "text" : "Genial http:\/\/bit.ly\/acRZ0i",
+  "id" : 17451657463,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Diego Tavares",
+      "screen_name" : "diegoneto",
+      "indices" : [ 0, 10 ],
+      "id_str" : "28808110",
+      "id" : 28808110
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "17489266103",
+  "geo" : { },
+  "id_str" : "17489947871",
+  "in_reply_to_user_id" : 28808110,
+  "text" : "@diegoneto N\u00E3o fa\u00E7o id\u00E9ia... J\u00E1 q \u00E9 p\/ chutar, Baga\u00E7o?!?!",
+  "id" : 17489947871,
+  "in_reply_to_status_id" : 17489266103,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "diegoneto",
+  "in_reply_to_user_id_str" : "28808110",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Diego Tavares",
       "screen_name" : "diegoneto",
@@ -53,61 +108,6 @@ Grailbird.data.tweets_2010_06 =
   "text" : "@diegoneto Rola pow, qualquer dia. S\u00F3 me ligar antes.",
   "id" : 17519589057,
   "in_reply_to_status_id" : 17516036978,
-  "created_at" : "2010-07-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "diegoneto",
-  "in_reply_to_user_id_str" : "28808110",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17451657463",
-  "text" : "Genial http:\/\/bit.ly\/acRZ0i",
-  "id" : 17451657463,
-  "created_at" : "2010-07-01 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Diego Tavares",
-      "screen_name" : "diegoneto",
-      "indices" : [ 0, 10 ],
-      "id_str" : "28808110",
-      "id" : 28808110
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "17489266103",
-  "geo" : { },
-  "id_str" : "17489947871",
-  "in_reply_to_user_id" : 28808110,
-  "text" : "@diegoneto N\u00E3o fa\u00E7o id\u00E9ia... J\u00E1 q \u00E9 p\/ chutar, Baga\u00E7o?!?!",
-  "id" : 17489947871,
-  "in_reply_to_status_id" : 17489266103,
   "created_at" : "2010-07-01 00:00:00 +0000",
   "in_reply_to_screen_name" : "diegoneto",
   "in_reply_to_user_id_str" : "28808110",
@@ -925,7 +925,7 @@ Grailbird.data.tweets_2010_06 =
     "user" : {
       "name" : "Felipe B. S. Rezende",
       "screen_name" : "FelipeBSR",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "44413727",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079281665\/Untitled-2_normal.jpg",
       "id" : 44413727,
@@ -1355,6 +1355,28 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15888205388",
+  "text" : "Team Fortress 2 pela metade do pre\u00E7o at\u00E9 o fds. E quem jogar usando Mac, ganhar fone de ouvido p\/ bonecos http:\/\/bit.ly\/92DdNH",
+  "id" : 15888205388,
+  "created_at" : "2010-06-11 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Natalia Lannes",
       "screen_name" : "nalannes",
@@ -1498,16 +1520,45 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "IM",
+      "screen_name" : "IronMaidenFC",
+      "indices" : [ 3, 16 ],
+      "id_str" : "395483704",
+      "id" : 395483704
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "15888205388",
-  "text" : "Team Fortress 2 pela metade do pre\u00E7o at\u00E9 o fds. E quem jogar usando Mac, ganhar fone de ouvido p\/ bonecos http:\/\/bit.ly\/92DdNH",
-  "id" : 15888205388,
-  "created_at" : "2010-06-11 00:00:00 +0000",
+  "id_str" : "15876604675",
+  "text" : "RT @IronMaidenFC: Maiden tour shock! 4th guitarist added to lineup! http:\/\/twitpic.com\/1vmeam",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitpic.com\" rel=\"nofollow\"\u003ETwitpic\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15876383225",
+    "text" : "Maiden tour shock! 4th guitarist added to lineup! http:\/\/twitpic.com\/1vmeam",
+    "id" : 15876383225,
+    "created_at" : "2010-06-10 20:28:52 +0000",
+    "user" : {
+      "name" : "Iron Maiden",
+      "screen_name" : "IronMaiden",
+      "protected" : false,
+      "id_str" : "19114743",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/79374726\/brand_normal.jpg",
+      "id" : 19114743,
+      "verified" : true
+    }
+  },
+  "id" : 15876604675,
+  "created_at" : "2010-06-10 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1551,57 +1602,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15849987185",
   "text" : "Porra, nem precisava avisar, todo mundo j\u00E1 sabe h\u00E1 mais de 100 anos.. http:\/\/bit.ly\/a60fug",
   "id" : 15849987185,
-  "created_at" : "2010-06-10 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "IM",
-      "screen_name" : "IronMaidenFC",
-      "indices" : [ 3, 16 ],
-      "id_str" : "395483704",
-      "id" : 395483704
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15876604675",
-  "text" : "RT @IronMaidenFC: Maiden tour shock! 4th guitarist added to lineup! http:\/\/twitpic.com\/1vmeam",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitpic.com\" rel=\"nofollow\"\u003ETwitpic\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15876383225",
-    "text" : "Maiden tour shock! 4th guitarist added to lineup! http:\/\/twitpic.com\/1vmeam",
-    "id" : 15876383225,
-    "created_at" : "2010-06-10 20:28:52 +0000",
-    "user" : {
-      "name" : "Iron Maiden",
-      "screen_name" : "IronMaiden",
-      "protected" : false,
-      "id_str" : "19114743",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/79374726\/brand_normal.jpg",
-      "id" : 19114743,
-      "verified" : true
-    }
-  },
-  "id" : 15876604675,
   "created_at" : "2010-06-10 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

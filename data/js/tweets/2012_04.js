@@ -299,6 +299,79 @@ Grailbird.data.tweets_2012_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tudo Flamengo",
+      "screen_name" : "flapravaler",
+      "indices" : [ 3, 15 ],
+      "id_str" : "235964540",
+      "id" : 235964540
+    }, {
+      "name" : "ADT RubroNegro",
+      "screen_name" : "ADTRubroNegro",
+      "indices" : [ 91, 105 ],
+      "id_str" : "552621730",
+      "id" : 552621730
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 62, 82 ],
+      "url" : "http:\/\/t.co\/c11iytEY",
+      "expanded_url" : "http:\/\/www.acimadetudorubronegro.com\/2012\/04\/22\/o-nome-e-o-sobrenome-do-inimigo\/",
+      "display_url" : "acimadetudorubronegro.com\/2012\/04\/22\/o-n\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "194535732348596224",
+  "text" : "RT @flapravaler: O nome e o sobrenome do inimigo do Flamengo: http:\/\/t.co\/c11iytEY , l\u00E1 no @ADTrubronegro",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "ADT RubroNegro",
+        "screen_name" : "ADTRubroNegro",
+        "indices" : [ 74, 88 ],
+        "id_str" : "552621730",
+        "id" : 552621730
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 45, 65 ],
+        "url" : "http:\/\/t.co\/c11iytEY",
+        "expanded_url" : "http:\/\/www.acimadetudorubronegro.com\/2012\/04\/22\/o-nome-e-o-sobrenome-do-inimigo\/",
+        "display_url" : "acimadetudorubronegro.com\/2012\/04\/22\/o-n\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "194253160754319361",
+    "text" : "O nome e o sobrenome do inimigo do Flamengo: http:\/\/t.co\/c11iytEY , l\u00E1 no @ADTrubronegro",
+    "id" : 194253160754319361,
+    "created_at" : "2012-04-23 02:35:37 +0000",
+    "user" : {
+      "name" : "Tudo Flamengo",
+      "screen_name" : "flapravaler",
+      "protected" : false,
+      "id_str" : "235964540",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/673916457269329920\/9SBZI1iD_normal.png",
+      "id" : 235964540,
+      "verified" : false
+    }
+  },
+  "id" : 194535732348596224,
+  "created_at" : "2012-04-23 21:18:27 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1562,7 +1635,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }

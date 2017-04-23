@@ -189,9 +189,9 @@ Grailbird.data.tweets_2009_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1106541827",
-  "text" : "@joeynetto Ae, show do Maiden em mar\u00E7o, pilha? Come\u00E7a a vender ter\u00E7a q vem: www.livepass.com.br",
-  "id" : 1106541827,
+  "id_str" : "1106542484",
+  "text" : "@joeynetto Olha o tamanho do boneco do Eddie hahaha www.ironmaiden.com",
+  "id" : 1106542484,
   "created_at" : "2009-01-09 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
@@ -211,9 +211,9 @@ Grailbird.data.tweets_2009_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1106542484",
-  "text" : "@joeynetto Olha o tamanho do boneco do Eddie hahaha www.ironmaiden.com",
-  "id" : 1106542484,
+  "id_str" : "1106541827",
+  "text" : "@joeynetto Ae, show do Maiden em mar\u00E7o, pilha? Come\u00E7a a vender ter\u00E7a q vem: www.livepass.com.br",
+  "id" : 1106541827,
   "created_at" : "2009-01-09 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

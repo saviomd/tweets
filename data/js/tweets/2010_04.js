@@ -128,7 +128,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -999,6 +999,64 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel Marques",
+      "screen_name" : "danielcmarques",
+      "indices" : [ 0, 15 ],
+      "id_str" : "5639932",
+      "id" : 5639932
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "11695596113",
+  "geo" : { },
+  "id_str" : "11696071345",
+  "in_reply_to_user_id" : 5639932,
+  "text" : "@danielcmarques Q man\u00E9 home office.. Folga!! \\m\/",
+  "id" : 11696071345,
+  "in_reply_to_status_id" : 11695596113,
+  "created_at" : "2010-04-06 00:00:00 +0000",
+  "in_reply_to_screen_name" : "danielcmarques",
+  "in_reply_to_user_id_str" : "5639932",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "caosnorio",
+      "indices" : [ 61, 71 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11707588734",
+  "text" : "E quanto mais not\u00EDcias eu leio, mais inacredit\u00E1vel parece... #caosnorio",
+  "id" : 11707588734,
+  "created_at" : "2010-04-06 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1063,64 +1121,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11692933301",
   "text" : "Toma Ceni!!! hahaha http:\/\/bit.ly\/d0W6KV",
   "id" : 11692933301,
-  "created_at" : "2010-04-06 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Marques",
-      "screen_name" : "danielcmarques",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5639932",
-      "id" : 5639932
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "11695596113",
-  "geo" : { },
-  "id_str" : "11696071345",
-  "in_reply_to_user_id" : 5639932,
-  "text" : "@danielcmarques Q man\u00E9 home office.. Folga!! \\m\/",
-  "id" : 11696071345,
-  "in_reply_to_status_id" : 11695596113,
-  "created_at" : "2010-04-06 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danielcmarques",
-  "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "caosnorio",
-      "indices" : [ 61, 71 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11707588734",
-  "text" : "E quanto mais not\u00EDcias eu leio, mais inacredit\u00E1vel parece... #caosnorio",
-  "id" : 11707588734,
   "created_at" : "2010-04-06 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

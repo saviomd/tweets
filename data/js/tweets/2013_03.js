@@ -344,7 +344,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -446,7 +446,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "2087371",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612988926047985664\/TvJw7c-B_normal.jpg",
       "id" : 2087371,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 314757189652865024,
@@ -764,117 +764,6 @@ Grailbird.data.tweets_2013_03 =
   "text" : "P\/ q serve assistente de canto de gol se o Rafinha \u00E9 empurrado na frente dele e o cara n\u00E3o esbo\u00E7a rea\u00E7\u00E3o nenhuma??",
   "id" : 312013177187614721,
   "created_at" : "2013-03-14 01:31:53 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kevin Lerke",
-      "screen_name" : "KevsWorld_",
-      "indices" : [ 3, 14 ],
-      "id_str" : "4623040588",
-      "id" : 4623040588
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/KevsWorld_\/status\/311958088406138880\/photo\/1",
-      "indices" : [ 61, 83 ],
-      "url" : "http:\/\/t.co\/eVp5XLQR4r",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BFRMOoSCAAERhTU.jpg",
-      "id_str" : "311958088410333185",
-      "id" : 311958088410333185,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BFRMOoSCAAERhTU.jpg",
-      "sizes" : [ {
-        "h" : 607,
-        "resize" : "fit",
-        "w" : 607
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 600,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 607,
-        "resize" : "fit",
-        "w" : 607
-      } ],
-      "display_url" : "pic.twitter.com\/eVp5XLQR4r"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "311993179006197760",
-  "text" : "RT @KevsWorld_: Dear Fifa 13 &amp; EA Server .....FUCK Y'ALL http:\/\/t.co\/eVp5XLQR4r",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/KevsWorld_\/status\/311958088406138880\/photo\/1",
-        "indices" : [ 45, 67 ],
-        "url" : "http:\/\/t.co\/eVp5XLQR4r",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BFRMOoSCAAERhTU.jpg",
-        "id_str" : "311958088410333185",
-        "id" : 311958088410333185,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BFRMOoSCAAERhTU.jpg",
-        "sizes" : [ {
-          "h" : 607,
-          "resize" : "fit",
-          "w" : 607
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 340,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 600,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 607,
-          "resize" : "fit",
-          "w" : 607
-        } ],
-        "display_url" : "pic.twitter.com\/eVp5XLQR4r"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "311958088406138880",
-    "text" : "Dear Fifa 13 &amp; EA Server .....FUCK Y'ALL http:\/\/t.co\/eVp5XLQR4r",
-    "id" : 311958088406138880,
-    "created_at" : "2013-03-13 21:52:59 +0000",
-    "user" : {
-      "name" : "Too Sweet",
-      "screen_name" : "Kevkashi",
-      "protected" : false,
-      "id_str" : "33553251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804266659427078144\/M-aK6zW7_normal.jpg",
-      "id" : 33553251,
-      "verified" : false
-    }
-  },
-  "id" : 311993179006197760,
-  "created_at" : "2013-03-14 00:12:25 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

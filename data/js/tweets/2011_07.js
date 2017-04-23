@@ -61,7 +61,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -112,7 +112,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808081804091604992\/fvhScy56_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -421,7 +421,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 94389173489893377,
@@ -1194,7 +1194,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1306,7 +1306,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "eduardopaes_",
       "protected" : false,
       "id_str" : "48298703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797191135852642305\/A8hsUmyQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838696788722876416\/qBpZvkZ2_normal.jpg",
       "id" : 48298703,
       "verified" : true
     }
@@ -1357,7 +1357,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1508,7 +1508,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477218012194304000\/ytI5hY2H_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1570,79 +1570,6 @@ Grailbird.data.tweets_2011_07 =
   "text" : "Compartilho desse problema. Malditos joguinhos.. http:\/\/www.itouchbr.com.br\/2011\/07\/08\/vale-a-pena-comprar-um-ipod-touch-de-8gb\/",
   "id" : 89387074796523520,
   "created_at" : "2011-07-08 17:35:14 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "indices" : [ 3, 12 ],
-      "id_str" : "32441865",
-      "id" : 32441865
-    }, {
-      "name" : "Cauax - Busca Cursos",
-      "screen_name" : "cauax_br",
-      "indices" : [ 69, 78 ],
-      "id_str" : "239606528",
-      "id" : 239606528
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 45, 64 ],
-      "url" : "http:\/\/t.co\/mc4pD14",
-      "expanded_url" : "http:\/\/blog.cauax.com\/2011\/07\/08\/profissoes-em-alta-na-internet\/",
-      "display_url" : "blog.cauax.com\/2011\/07\/08\/pro\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "89323520110247936",
-  "text" : "RT @nalannes: Profiss\u00F5es em alta na Internet http:\/\/t.co\/mc4pD14 via @cauax_br",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Cauax - Busca Cursos",
-        "screen_name" : "cauax_br",
-        "indices" : [ 55, 64 ],
-        "id_str" : "239606528",
-        "id" : 239606528
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 31, 50 ],
-        "url" : "http:\/\/t.co\/mc4pD14",
-        "expanded_url" : "http:\/\/blog.cauax.com\/2011\/07\/08\/profissoes-em-alta-na-internet\/",
-        "display_url" : "blog.cauax.com\/2011\/07\/08\/pro\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "89308126418964480",
-    "text" : "Profiss\u00F5es em alta na Internet http:\/\/t.co\/mc4pD14 via @cauax_br",
-    "id" : 89308126418964480,
-    "created_at" : "2011-07-08 12:21:31 +0000",
-    "user" : {
-      "name" : "Natalia Lannes",
-      "screen_name" : "nalannes",
-      "protected" : true,
-      "id_str" : "32441865",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1964789373\/eu_normal.jpg",
-      "id" : 32441865,
-      "verified" : false
-    }
-  },
-  "id" : 89323520110247936,
-  "created_at" : "2011-07-08 13:22:41 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1855,7 +1782,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 88652697468801026,

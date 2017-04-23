@@ -288,7 +288,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Erika Hall",
+      "name" : "Erika Hall \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "mulegirl",
       "indices" : [ 3, 12 ],
       "id_str" : "2391",
@@ -345,7 +345,7 @@ Grailbird.data.tweets_2016_06 =
     "id" : 746403775179456514,
     "created_at" : "2016-06-24 18:05:02 +0000",
     "user" : {
-      "name" : "Erika Hall",
+      "name" : "Erika Hall \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "mulegirl",
       "protected" : false,
       "id_str" : "2391",
@@ -460,7 +460,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "u_sylvie",
       "protected" : false,
       "id_str" : "1861568029",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811285876319789056\/KN-kSfgU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818333823368736768\/3tnEJy4r_normal.jpg",
       "id" : 1861568029,
       "verified" : false
     }
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "EW",
       "protected" : false,
       "id_str" : "16312576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615503653131059200\/58NhK092_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/835520807187075072\/nXXMBdhA_normal.jpg",
       "id" : 16312576,
       "verified" : true
     }
@@ -861,7 +861,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803303777273073665\/aV_8MX6W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845266979258880000\/eaYxSfBW_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2016_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Batman v Superman",
@@ -1541,10 +1541,10 @@ Grailbird.data.tweets_2016_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -1576,11 +1576,11 @@ Grailbird.data.tweets_2016_06 =
     "id" : 738051927703965696,
     "created_at" : "2016-06-01 16:57:46 +0000",
     "user" : {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }

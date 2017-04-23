@@ -148,7 +148,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -392,7 +392,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "thepixelgrid",
       "protected" : false,
       "id_str" : "24756351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/781247674003709952\/YtMmsnHd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846483710715289601\/PFBdnGKu_normal.jpg",
       "id" : 24756351,
       "verified" : false
     }
@@ -516,7 +516,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "12222972",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496830024\/Screen_shot_2009-10-29_at_13.16.14_normal.png",
       "id" : 12222972,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 591594030510669824,
@@ -637,7 +637,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807254579360370688\/eqauuwlr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -780,11 +780,11 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "3292195192",
       "id" : 3292195192
     }, {
-      "name" : "DeAndre Jordan",
+      "name" : "HCG Diet Success",
       "screen_name" : "deandrejordan6",
       "indices" : [ 50, 65 ],
-      "id_str" : "47506568",
-      "id" : 47506568
+      "id_str" : "828858034591895552",
+      "id" : 828858034591895552
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -811,11 +811,11 @@ Grailbird.data.tweets_2015_04 =
         "id_str" : "3292195192",
         "id" : 3292195192
       }, {
-        "name" : "DeAndre Jordan",
+        "name" : "HCG Diet Success",
         "screen_name" : "deandrejordan6",
         "indices" : [ 30, 45 ],
-        "id_str" : "47506568",
-        "id" : 47506568
+        "id_str" : "828858034591895552",
+        "id" : 828858034591895552
       } ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/BleacherReport\/status\/590159112891015168\/photo\/1",
@@ -869,7 +869,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "BleacherReport",
       "protected" : false,
       "id_str" : "890891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/791059560308043776\/c4BSc8zg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854430488777379840\/zFdLhwbT_normal.jpg",
       "id" : 890891,
       "verified" : true
     }
@@ -889,7 +889,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -926,11 +926,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 589390478522613762,
     "created_at" : "2015-04-18 11:30:15 +0000",
     "user" : {
-      "name" : "Brad Frost",
+      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499941427820769281\/8tYwgR5r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }

@@ -74,9 +74,9 @@ Grailbird.data.tweets_2009_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1253396901",
-  "text" : "Faith No More de volta!! T\u00F4 at\u00E9 emocionado haha http:\/\/tinyurl.com\/ddk5gp",
-  "id" : 1253396901,
+  "id_str" : "1253353022",
+  "text" : "De volta \u00E0 vida normal... pelo menos consegui chegar cedo e tomar meu a\u00E7a\u00ED bonz\u00E3o.",
+  "id" : 1253353022,
   "created_at" : "2009-02-26 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
@@ -96,10 +96,41 @@ Grailbird.data.tweets_2009_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1253353022",
-  "text" : "De volta \u00E0 vida normal... pelo menos consegui chegar cedo e tomar meu a\u00E7a\u00ED bonz\u00E3o.",
-  "id" : 1253353022,
+  "id_str" : "1253396901",
+  "text" : "Faith No More de volta!! T\u00F4 at\u00E9 emocionado haha http:\/\/tinyurl.com\/ddk5gp",
+  "id" : 1253396901,
   "created_at" : "2009-02-26 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Vanessa Maia",
+      "screen_name" : "nessamaia",
+      "indices" : [ 0, 10 ],
+      "id_str" : "4879901",
+      "id" : 4879901
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1231637547",
+  "in_reply_to_user_id" : 4879901,
+  "text" : "@nessamaia S\u00F3 chama agora pow...",
+  "id" : 1231637547,
+  "created_at" : "2009-02-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "nessamaia",
+  "in_reply_to_user_id_str" : "4879901",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -228,37 +259,6 @@ Grailbird.data.tweets_2009_02 =
   "created_at" : "2009-02-20 00:00:00 +0000",
   "in_reply_to_screen_name" : "danielcmarques",
   "in_reply_to_user_id_str" : "5639932",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Vanessa Maia",
-      "screen_name" : "nessamaia",
-      "indices" : [ 0, 10 ],
-      "id_str" : "4879901",
-      "id" : 4879901
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1231637547",
-  "in_reply_to_user_id" : 4879901,
-  "text" : "@nessamaia S\u00F3 chama agora pow...",
-  "id" : 1231637547,
-  "created_at" : "2009-02-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "nessamaia",
-  "in_reply_to_user_id_str" : "4879901",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

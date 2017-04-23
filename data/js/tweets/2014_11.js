@@ -593,7 +593,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Roberto Ferdman",
+      "name" : "Roberto Aram Ferdman",
       "screen_name" : "robferdman",
       "indices" : [ 3, 14 ],
       "id_str" : "316659505",
@@ -702,7 +702,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 534757556284305408,
     "created_at" : "2014-11-18 17:18:31 +0000",
     "user" : {
-      "name" : "Roberto Ferdman",
+      "name" : "Roberto Aram Ferdman",
       "screen_name" : "robferdman",
       "protected" : false,
       "id_str" : "316659505",

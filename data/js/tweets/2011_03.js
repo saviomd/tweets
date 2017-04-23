@@ -107,7 +107,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "artypapers",
       "protected" : false,
       "id_str" : "19479427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1773480157\/2011-04-14_15-14-10_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839940874351976448\/hIKauS1R_normal.jpg",
       "id" : 19479427,
       "verified" : false
     }
@@ -471,7 +471,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "notasausage",
       "protected" : false,
       "id_str" : "11718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790554113406750720\/Uu6V_bsr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823565494041120768\/7aE3Tz4E_normal.jpg",
       "id" : 11718,
       "verified" : false
     }
@@ -1173,13 +1173,7 @@ Grailbird.data.tweets_2011_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Santander Brasil",
-      "screen_name" : "SacSantander_br",
-      "indices" : [ 0, 16 ],
-      "id_str" : "97050896",
-      "id" : 97050896
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1192,7 +1186,7 @@ Grailbird.data.tweets_2011_03 =
   "id" : 48813409797541888,
   "in_reply_to_status_id" : 48806162455465985,
   "created_at" : "2011-03-18 18:29:58 +0000",
-  "in_reply_to_screen_name" : "SacSantander_br",
+  "in_reply_to_screen_name" : "00000000000B",
   "in_reply_to_user_id_str" : "97050896",
   "user" : {
     "name" : "S\u00E1vio Mendes",
@@ -2188,7 +2182,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807254579360370688\/eqauuwlr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -2462,7 +2456,7 @@ Grailbird.data.tweets_2011_03 =
   "id" : 43364145827020800,
   "in_reply_to_status_id" : 43362701686210560,
   "created_at" : "2011-03-03 17:36:32 +0000",
-  "in_reply_to_screen_name" : "flamengoavera",
+  "in_reply_to_screen_name" : "flaenadamais",
   "in_reply_to_user_id_str" : "96583211",
   "user" : {
     "name" : "S\u00E1vio Mendes",

@@ -311,50 +311,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "19301122648",
-  "text" : "Pow, eu quero!! Parte marcante da minha inf\u00E2ncia.. Pq eu n\u00E3o vi isso 2 semanas atr\u00E1s? http:\/\/amzn.to\/bujwoM",
-  "id" : 19301122648,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19346694040",
-  "text" : "Persons Unknown, minis\u00E9rie (13 epis\u00F3dios s\u00F3) com um dos caras do Third Watch. Parece maneira! Algu\u00E9m j\u00E1 viu? http:\/\/bit.ly\/csmbWS",
-  "id" : 19346694040,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "19263038227",
   "text" : "Terminar um email escroto com \"atenciosamente\" \u00E9 muito legal hahaha",
   "id" : 19263038227,
@@ -390,6 +346,50 @@ Grailbird.data.tweets_2010_07 =
   "created_at" : "2010-07-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "nessamaia",
   "in_reply_to_user_id_str" : "4879901",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19301122648",
+  "text" : "Pow, eu quero!! Parte marcante da minha inf\u00E2ncia.. Pq eu n\u00E3o vi isso 2 semanas atr\u00E1s? http:\/\/amzn.to\/bujwoM",
+  "id" : 19301122648,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19346694040",
+  "text" : "Persons Unknown, minis\u00E9rie (13 epis\u00F3dios s\u00F3) com um dos caras do Third Watch. Parece maneira! Algu\u00E9m j\u00E1 viu? http:\/\/bit.ly\/csmbWS",
+  "id" : 19346694040,
+  "created_at" : "2010-07-23 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1767,7 +1767,7 @@ Grailbird.data.tweets_2010_07 =
     "user" : {
       "name" : "Felipe B. S. Rezende",
       "screen_name" : "FelipeBSR",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "44413727",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079281665\/Untitled-2_normal.jpg",
       "id" : 44413727,

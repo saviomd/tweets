@@ -342,6 +342,28 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1865693327",
+  "text" : "Obina e Z\u00E9 Roberto, pqp!! Ainda bem que botei algumas cervejas p\/ gelar mais cedo hahaha",
+  "id" : 1865693327,
+  "created_at" : "2009-05-21 00:00:00 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Vanessa Maia",
       "screen_name" : "nessamaia",
@@ -401,10 +423,10 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1865693327",
-  "text" : "Obina e Z\u00E9 Roberto, pqp!! Ainda bem que botei algumas cervejas p\/ gelar mais cedo hahaha",
-  "id" : 1865693327,
-  "created_at" : "2009-05-21 00:00:00 +0000",
+  "id_str" : "1850267612",
+  "text" : "Tinha esquecido de como Limp Bizkit \u00E9 ruim, pqp....",
+  "id" : 1850267612,
+  "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -426,28 +448,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1843466650",
   "text" : "Malditos finais de temporada!!!",
   "id" : 1843466650,
-  "created_at" : "2009-05-19 00:00:00 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1850267612",
-  "text" : "Tinha esquecido de como Limp Bizkit \u00E9 ruim, pqp....",
-  "id" : 1850267612,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",

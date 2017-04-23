@@ -1212,7 +1212,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -1273,7 +1273,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520009483238404098\/7iX-ok12_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836992530260570112\/oGxETtI-_normal.jpg",
       "id" : 26618823,
       "verified" : false
     }
@@ -1552,7 +1552,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "5639932",
       "id" : 5639932
     }, {
-      "name" : "BandNews FM - 94,9",
+      "name" : "BandNews FM - Rio",
       "screen_name" : "bandnewsfmrio",
       "indices" : [ 27, 41 ],
       "id_str" : "83634722",
