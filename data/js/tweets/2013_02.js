@@ -675,7 +675,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "RobertKirkman",
       "protected" : false,
       "id_str" : "38682272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1476300122\/Kirkman_Twitter_Icon_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878276033652416512\/-55o5rXD_normal.jpg",
       "id" : 38682272,
       "verified" : true
     }
@@ -744,13 +744,13 @@ Grailbird.data.tweets_2013_02 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 512,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 340
+        "w" : 452
       }, {
-        "h" : 903,
+        "h" : 1200,
         "resize" : "fit",
-        "w" : 600
+        "w" : 797
       } ],
       "display_url" : "pic.twitter.com\/lYspZV4Y"
     } ],
@@ -785,13 +785,13 @@ Grailbird.data.tweets_2013_02 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 512,
+          "h" : 680,
           "resize" : "fit",
-          "w" : 340
+          "w" : 452
         }, {
-          "h" : 903,
+          "h" : 1200,
           "resize" : "fit",
-          "w" : 600
+          "w" : 797
         } ],
         "display_url" : "pic.twitter.com\/lYspZV4Y"
       } ],

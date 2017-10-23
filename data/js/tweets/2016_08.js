@@ -121,7 +121,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -176,11 +176,11 @@ Grailbird.data.tweets_2016_08 =
     "id" : 770309478986178560,
     "created_at" : "2016-08-29 17:17:46 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "mccrabb_will",
       "protected" : false,
       "id_str" : "1355061596",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735166660110209026\/ReBriA87_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917215168785874944\/0Dgg3kT__normal.jpg",
       "id" : 1355061596,
       "verified" : false
     }
@@ -773,7 +773,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "shut up, mike",
+      "name" : "shut up, mike ginn",
       "screen_name" : "shutupmikeginn",
       "indices" : [ 3, 18 ],
       "id_str" : "246394886",
@@ -860,11 +860,11 @@ Grailbird.data.tweets_2016_08 =
     "id" : 766029035537215488,
     "created_at" : "2016-08-17 21:48:48 +0000",
     "user" : {
-      "name" : "shut up, mike",
+      "name" : "shut up, mike ginn",
       "screen_name" : "shutupmikeginn",
       "protected" : false,
       "id_str" : "246394886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523668808020422656\/szD5CZyb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875550181428678657\/oIpANNXl_normal.jpg",
       "id" : 246394886,
       "verified" : true
     }
@@ -1054,7 +1054,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767793102232838144\/TOuN4QWx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873017784887689216\/kVjv9ZSE_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -1196,7 +1196,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3120453980\/1cc6abe8c19a71cb1e3b9f9865c2cb2b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -1317,7 +1317,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "digitalspy",
       "protected" : false,
       "id_str" : "14335144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849278976069701632\/pC4rxUou_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918062546057383936\/ZNOLeJo1_normal.jpg",
       "id" : 14335144,
       "verified" : true
     }

@@ -85,7 +85,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bluesybum",
+      "name" : "Blue",
       "screen_name" : "4tea2",
       "indices" : [ 3, 9 ],
       "id_str" : "244924224",
@@ -104,9 +104,13 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 768
       }, {
-        "h" : 617,
+        "h" : 790,
         "resize" : "fit",
-        "w" : 600
+        "w" : 768
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 661
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -115,10 +119,6 @@ Grailbird.data.tweets_2014_10 =
         "h" : 790,
         "resize" : "fit",
         "w" : 768
-      }, {
-        "h" : 350,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/9lrNUnUVcO"
     } ],
@@ -145,9 +145,13 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 768
         }, {
-          "h" : 617,
+          "h" : 790,
           "resize" : "fit",
-          "w" : 600
+          "w" : 768
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 661
         }, {
           "h" : 150,
           "resize" : "crop",
@@ -156,10 +160,6 @@ Grailbird.data.tweets_2014_10 =
           "h" : 790,
           "resize" : "fit",
           "w" : 768
-        }, {
-          "h" : 350,
-          "resize" : "fit",
-          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/9lrNUnUVcO"
       } ],
@@ -172,7 +172,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 524620633775570944,
     "created_at" : "2014-10-21 17:58:00 +0000",
     "user" : {
-      "name" : "Bluesybum",
+      "name" : "Blue",
       "screen_name" : "4tea2",
       "protected" : false,
       "id_str" : "244924224",
@@ -196,7 +196,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "C.G. Runyon",
+      "name" : "Carol Grant Runyon",
       "screen_name" : "CGRunyon",
       "indices" : [ 3, 12 ],
       "id_str" : "172066483",
@@ -245,11 +245,11 @@ Grailbird.data.tweets_2014_10 =
     "id" : 524773709500805121,
     "created_at" : "2014-10-22 04:06:16 +0000",
     "user" : {
-      "name" : "C.G. Runyon",
+      "name" : "Carol Grant Runyon",
       "screen_name" : "CGRunyon",
       "protected" : false,
       "id_str" : "172066483",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2968476433\/ddb30812bdb5f644aa0ffc07df206e71_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916769258524131328\/-Kg5oyBy_normal.jpg",
       "id" : 172066483,
       "verified" : false
     }
@@ -385,9 +385,13 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 1000
         }, {
-          "h" : 366,
+          "h" : 680,
           "resize" : "fit",
-          "w" : 340
+          "w" : 633
+        }, {
+          "h" : 1075,
+          "resize" : "fit",
+          "w" : 1000
         }, {
           "h" : 1075,
           "resize" : "fit",
@@ -396,10 +400,6 @@ Grailbird.data.tweets_2014_10 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 645,
-          "resize" : "fit",
-          "w" : 600
         } ],
         "display_url" : "pic.twitter.com\/0clZqUzu6x"
       } ],
@@ -442,7 +442,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "_GonzaRodriguez",
       "protected" : false,
       "id_str" : "182922172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842935778556690433\/iGCEatCx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860991094686986241\/ONbZ5uGe_normal.jpg",
       "id" : 182922172,
       "verified" : false
     }
@@ -495,21 +495,21 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 1000
         }, {
-          "h" : 527,
+          "h" : 879,
           "resize" : "fit",
-          "w" : 600
+          "w" : 1000
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
+          "h" : 598,
+          "resize" : "fit",
+          "w" : 680
+        }, {
           "h" : 879,
           "resize" : "fit",
           "w" : 1000
-        }, {
-          "h" : 299,
-          "resize" : "fit",
-          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/DDTXrBWSnV"
       } ],
@@ -636,123 +636,6 @@ Grailbird.data.tweets_2014_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris Gore",
-      "screen_name" : "ThatChrisGore",
-      "indices" : [ 3, 17 ],
-      "id_str" : "23161445",
-      "id" : 23161445
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/ThatChrisGore\/status\/520975986851340288\/photo\/1",
-      "indices" : [ 79, 101 ],
-      "url" : "http:\/\/t.co\/pkJLf7O7RZ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
-      "id_str" : "520975964285988864",
-      "id" : 520975964285988864,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
-      "sizes" : [ {
-        "h" : 550,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 183,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 322,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 550,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/pkJLf7O7RZ"
-    } ],
-    "hashtags" : [ {
-      "text" : "fonts",
-      "indices" : [ 72, 78 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "521429986247704576",
-  "text" : "RT @ThatChrisGore: I hope one of them is Comic Sans. I hate Comic Sans. #fonts http:\/\/t.co\/pkJLf7O7RZ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ThatChrisGore\/status\/520975986851340288\/photo\/1",
-        "indices" : [ 60, 82 ],
-        "url" : "http:\/\/t.co\/pkJLf7O7RZ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
-        "id_str" : "520975964285988864",
-        "id" : 520975964285988864,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
-        "sizes" : [ {
-          "h" : 550,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 183,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 322,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 550,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/pkJLf7O7RZ"
-      } ],
-      "hashtags" : [ {
-        "text" : "fonts",
-        "indices" : [ 53, 59 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "520975986851340288",
-    "text" : "I hope one of them is Comic Sans. I hate Comic Sans. #fonts http:\/\/t.co\/pkJLf7O7RZ",
-    "id" : 520975986851340288,
-    "created_at" : "2014-10-11 16:35:29 +0000",
-    "user" : {
-      "name" : "Chris Gore",
-      "screen_name" : "ThatChrisGore",
-      "protected" : false,
-      "id_str" : "23161445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747447237127507969\/mGDJvzeS_normal.jpg",
-      "id" : 23161445,
-      "verified" : true
-    }
-  },
-  "id" : 521429986247704576,
-  "created_at" : "2014-10-12 22:39:31 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -771,10 +654,6 @@ Grailbird.data.tweets_2014_10 =
       "id" : 520718247583580160,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bzn2fL9IgAAC3-9.jpg",
       "sizes" : [ {
-        "h" : 149,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 240,
         "resize" : "fit",
         "w" : 549
@@ -782,6 +661,10 @@ Grailbird.data.tweets_2014_10 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 240,
+        "resize" : "fit",
+        "w" : 549
       }, {
         "h" : 240,
         "resize" : "fit",
@@ -817,10 +700,6 @@ Grailbird.data.tweets_2014_10 =
         "id" : 520718247583580160,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bzn2fL9IgAAC3-9.jpg",
         "sizes" : [ {
-          "h" : 149,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 240,
           "resize" : "fit",
           "w" : 549
@@ -828,6 +707,10 @@ Grailbird.data.tweets_2014_10 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 240,
+          "resize" : "fit",
+          "w" : 549
         }, {
           "h" : 240,
           "resize" : "fit",
@@ -884,7 +767,7 @@ Grailbird.data.tweets_2014_10 =
       "id" : 52234231
     }, {
       "name" : "Juliana \u2720",
-      "screen_name" : "Julianasic",
+      "screen_name" : "julianasic",
       "indices" : [ 14, 25 ],
       "id_str" : "40663853",
       "id" : 40663853
@@ -939,9 +822,9 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 576
       }, {
-        "h" : 604,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 340
+        "w" : 383
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -980,9 +863,9 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 576
         }, {
-          "h" : 604,
+          "h" : 680,
           "resize" : "fit",
-          "w" : 340
+          "w" : 383
         }, {
           "h" : 150,
           "resize" : "crop",
@@ -1007,7 +890,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "euqueirozbrenda",
       "protected" : false,
       "id_str" : "1659909228",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818540338658902018\/C8OWCpRz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904526084154249216\/x6pDRn7U_normal.jpg",
       "id" : 1659909228,
       "verified" : false
     }
@@ -1103,13 +986,13 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 415
       }, {
-        "h" : 238,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 291,
+        "resize" : "fit",
+        "w" : 415
       }, {
         "h" : 291,
         "resize" : "fit",
@@ -1150,13 +1033,13 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 415
         }, {
-          "h" : 238,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 291,
+          "resize" : "fit",
+          "w" : 415
         }, {
           "h" : 291,
           "resize" : "fit",

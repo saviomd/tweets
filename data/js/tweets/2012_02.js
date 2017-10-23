@@ -732,7 +732,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "eduardopaes_",
       "protected" : false,
       "id_str" : "48298703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838696788722876416\/qBpZvkZ2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871312932461793280\/s95NyXBk_normal.jpg",
       "id" : 48298703,
       "verified" : true
     }

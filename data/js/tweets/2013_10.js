@@ -666,7 +666,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "pontofrio",
       "protected" : false,
       "id_str" : "16788804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803668161446969345\/xelGY0Kd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915336487792775169\/8Fq0sFka_normal.jpg",
       "id" : 16788804,
       "verified" : true
     }

@@ -1,9 +1,1083 @@
 Grailbird.data.tweets_2017_04 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brad Frost",
+      "screen_name" : "brad_frost",
+      "indices" : [ 3, 14 ],
+      "id_str" : "11855482",
+      "id" : 11855482
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/brad_frost\/status\/858759084539088896\/photo\/1",
+      "indices" : [ 45, 68 ],
+      "url" : "https:\/\/t.co\/9zZJkTVDXy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C-rsxBgXgAERez9.jpg",
+      "id_str" : "858759005929439233",
+      "id" : 858759005929439233,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-rsxBgXgAERez9.jpg",
+      "sizes" : [ {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1564,
+        "resize" : "fit",
+        "w" : 1564
+      }, {
+        "h" : 1564,
+        "resize" : "fit",
+        "w" : 1564
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "display_url" : "pic.twitter.com\/9zZJkTVDXy"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "858772731491430404",
+  "text" : "RT @brad_frost: Bathroom signs, South Africa https:\/\/t.co\/9zZJkTVDXy",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/brad_frost\/status\/858759084539088896\/photo\/1",
+        "indices" : [ 29, 52 ],
+        "url" : "https:\/\/t.co\/9zZJkTVDXy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-rsxBgXgAERez9.jpg",
+        "id_str" : "858759005929439233",
+        "id" : 858759005929439233,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-rsxBgXgAERez9.jpg",
+        "sizes" : [ {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1564,
+          "resize" : "fit",
+          "w" : 1564
+        }, {
+          "h" : 1564,
+          "resize" : "fit",
+          "w" : 1564
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "display_url" : "pic.twitter.com\/9zZJkTVDXy"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "858759084539088896",
+    "text" : "Bathroom signs, South Africa https:\/\/t.co\/9zZJkTVDXy",
+    "id" : 858759084539088896,
+    "created_at" : "2017-04-30 19:04:55 +0000",
+    "user" : {
+      "name" : "Brad Frost",
+      "screen_name" : "brad_frost",
+      "protected" : false,
+      "id_str" : "11855482",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
+      "id" : 11855482,
+      "verified" : false
+    }
+  },
+  "id" : 858772731491430404,
+  "created_at" : "2017-04-30 19:59:09 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83D\uDCAC",
+      "name" : "Mario Alberto",
+      "screen_name" : "MarioACharges",
+      "indices" : [ 3, 17 ],
+      "id_str" : "185339696",
+      "id" : 185339696
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MarioACharges\/status\/858079282714873856\/photo\/1",
+      "indices" : [ 54, 77 ],
+      "url" : "https:\/\/t.co\/nuUCMTq5et",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C-iCjSuXoAM4vhR.jpg",
+      "id_str" : "858079271847436291",
+      "id" : 858079271847436291,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-iCjSuXoAM4vhR.jpg",
+      "sizes" : [ {
+        "h" : 520,
+        "resize" : "fit",
+        "w" : 690
+      }, {
+        "h" : 512,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 520,
+        "resize" : "fit",
+        "w" : 690
+      }, {
+        "h" : 520,
+        "resize" : "fit",
+        "w" : 690
+      } ],
+      "display_url" : "pic.twitter.com\/nuUCMTq5et"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 30, 53 ],
+      "url" : "https:\/\/t.co\/bx2JDMcWV3",
+      "expanded_url" : "http:\/\/globoesporte.globo.com\/blogs\/especial-blog\/blog-do-mario-alberto\/post\/vandalismo.html",
+      "display_url" : "globoesporte.globo.com\/blogs\/especial\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "858327615303806978",
+  "text" : "RT @MarioACharges: Vandalismo https:\/\/t.co\/bx2JDMcWV3 https:\/\/t.co\/nuUCMTq5et",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/MarioACharges\/status\/858079282714873856\/photo\/1",
+        "indices" : [ 35, 58 ],
+        "url" : "https:\/\/t.co\/nuUCMTq5et",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-iCjSuXoAM4vhR.jpg",
+        "id_str" : "858079271847436291",
+        "id" : 858079271847436291,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-iCjSuXoAM4vhR.jpg",
+        "sizes" : [ {
+          "h" : 520,
+          "resize" : "fit",
+          "w" : 690
+        }, {
+          "h" : 512,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 520,
+          "resize" : "fit",
+          "w" : 690
+        }, {
+          "h" : 520,
+          "resize" : "fit",
+          "w" : 690
+        } ],
+        "display_url" : "pic.twitter.com\/nuUCMTq5et"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 11, 34 ],
+        "url" : "https:\/\/t.co\/bx2JDMcWV3",
+        "expanded_url" : "http:\/\/globoesporte.globo.com\/blogs\/especial-blog\/blog-do-mario-alberto\/post\/vandalismo.html",
+        "display_url" : "globoesporte.globo.com\/blogs\/especial\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "858079282714873856",
+    "text" : "Vandalismo https:\/\/t.co\/bx2JDMcWV3 https:\/\/t.co\/nuUCMTq5et",
+    "id" : 858079282714873856,
+    "created_at" : "2017-04-28 22:03:37 +0000",
+    "user" : {
+      "name" : "Mario Alberto",
+      "screen_name" : "MarioACharges",
+      "protected" : false,
+      "id_str" : "185339696",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2590149505\/5lyp21qpv1hqh6prs5i2_normal.jpeg",
+      "id" : 185339696,
+      "verified" : false
+    }
+  },
+  "id" : 858327615303806978,
+  "created_at" : "2017-04-29 14:30:25 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Suddi Raval",
+      "screen_name" : "suddiraval",
+      "indices" : [ 3, 14 ],
+      "id_str" : "29766924",
+      "id" : 29766924
+    }, {
+      "name" : "Iron Maiden",
+      "screen_name" : "IronMaiden",
+      "indices" : [ 16, 27 ],
+      "id_str" : "19114743",
+      "id" : 19114743
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/suddiraval\/status\/858277560739876864\/photo\/1",
+      "indices" : [ 62, 85 ],
+      "url" : "https:\/\/t.co\/430Cnp2lpX",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C-k240gXkAAxWId.jpg",
+      "id_str" : "858277553785769984",
+      "id" : 858277553785769984,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-k240gXkAAxWId.jpg",
+      "sizes" : [ {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 631
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 631
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 536
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 631
+      } ],
+      "display_url" : "pic.twitter.com\/430Cnp2lpX"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "858324790184214529",
+  "text" : "RT @suddiraval: @IronMaiden have the longest arms in metal :) https:\/\/t.co\/430Cnp2lpX",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Iron Maiden",
+        "screen_name" : "IronMaiden",
+        "indices" : [ 0, 11 ],
+        "id_str" : "19114743",
+        "id" : 19114743
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/suddiraval\/status\/858277560739876864\/photo\/1",
+        "indices" : [ 46, 69 ],
+        "url" : "https:\/\/t.co\/430Cnp2lpX",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-k240gXkAAxWId.jpg",
+        "id_str" : "858277553785769984",
+        "id" : 858277553785769984,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-k240gXkAAxWId.jpg",
+        "sizes" : [ {
+          "h" : 800,
+          "resize" : "fit",
+          "w" : 631
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 800,
+          "resize" : "fit",
+          "w" : 631
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 536
+        }, {
+          "h" : 800,
+          "resize" : "fit",
+          "w" : 631
+        } ],
+        "display_url" : "pic.twitter.com\/430Cnp2lpX"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "858277560739876864",
+    "in_reply_to_user_id" : 19114743,
+    "text" : "@IronMaiden have the longest arms in metal :) https:\/\/t.co\/430Cnp2lpX",
+    "id" : 858277560739876864,
+    "created_at" : "2017-04-29 11:11:31 +0000",
+    "in_reply_to_screen_name" : "IronMaiden",
+    "in_reply_to_user_id_str" : "19114743",
+    "user" : {
+      "name" : "Suddi Raval",
+      "screen_name" : "suddiraval",
+      "protected" : false,
+      "id_str" : "29766924",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866330454982631424\/AKFbs7OS_normal.jpg",
+      "id" : 29766924,
+      "verified" : false
+    }
+  },
+  "id" : 858324790184214529,
+  "created_at" : "2017-04-29 14:19:11 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Ruddle",
+      "screen_name" : "RuddleMatthew",
+      "indices" : [ 3, 17 ],
+      "id_str" : "31878753",
+      "id" : 31878753
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/RuddleMatthew\/status\/857516095514849281\/photo\/1",
+      "indices" : [ 114, 137 ],
+      "url" : "https:\/\/t.co\/XBMiH26eYo",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C-aCC8BXcAATmst.jpg",
+      "id_str" : "857515766043865088",
+      "id" : 857515766043865088,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-aCC8BXcAATmst.jpg",
+      "sizes" : [ {
+        "h" : 419,
+        "resize" : "fit",
+        "w" : 498
+      }, {
+        "h" : 419,
+        "resize" : "fit",
+        "w" : 498
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 419,
+        "resize" : "fit",
+        "w" : 498
+      }, {
+        "h" : 419,
+        "resize" : "fit",
+        "w" : 498
+      } ],
+      "display_url" : "pic.twitter.com\/XBMiH26eYo"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "857720999961407488",
+  "text" : "RT @RuddleMatthew: Val Kilmer is doing a Reddit AMA and his answer to what it was like working on HEAT is joyous. https:\/\/t.co\/XBMiH26eYo",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/RuddleMatthew\/status\/857516095514849281\/photo\/1",
+        "indices" : [ 95, 118 ],
+        "url" : "https:\/\/t.co\/XBMiH26eYo",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-aCC8BXcAATmst.jpg",
+        "id_str" : "857515766043865088",
+        "id" : 857515766043865088,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-aCC8BXcAATmst.jpg",
+        "sizes" : [ {
+          "h" : 419,
+          "resize" : "fit",
+          "w" : 498
+        }, {
+          "h" : 419,
+          "resize" : "fit",
+          "w" : 498
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 419,
+          "resize" : "fit",
+          "w" : 498
+        }, {
+          "h" : 419,
+          "resize" : "fit",
+          "w" : 498
+        } ],
+        "display_url" : "pic.twitter.com\/XBMiH26eYo"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "857516095514849281",
+    "text" : "Val Kilmer is doing a Reddit AMA and his answer to what it was like working on HEAT is joyous. https:\/\/t.co\/XBMiH26eYo",
+    "id" : 857516095514849281,
+    "created_at" : "2017-04-27 08:45:43 +0000",
+    "user" : {
+      "name" : "Matthew Ruddle",
+      "screen_name" : "RuddleMatthew",
+      "protected" : false,
+      "id_str" : "31878753",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618707764399968257\/1hIq1344_normal.jpg",
+      "id" : 31878753,
+      "verified" : false
+    }
+  },
+  "id" : 857720999961407488,
+  "created_at" : "2017-04-27 22:19:56 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 66, 89 ],
+      "url" : "https:\/\/t.co\/GjZ0ZKsWb9",
+      "expanded_url" : "https:\/\/twitter.com\/joshuamarch\/status\/857650801283616768",
+      "display_url" : "twitter.com\/joshuamarch\/st\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "857674814458392576",
+  "text" : "O Rotten Tomatoes precisa lan\u00E7ar um app q fa\u00E7a isso com filmes!!! https:\/\/t.co\/GjZ0ZKsWb9",
+  "id" : 857674814458392576,
+  "created_at" : "2017-04-27 19:16:25 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rom\u00E1rio",
+      "screen_name" : "RomarioOnze",
+      "indices" : [ 3, 15 ],
+      "id_str" : "42629261",
+      "id" : 42629261
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/RomarioOnze\/status\/857285957523034118\/video\/1",
+      "indices" : [ 63, 86 ],
+      "url" : "https:\/\/t.co\/tL04IN5syQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/857285652060274690\/pu\/img\/y_3NJn2MngXH5RD2.jpg",
+      "id_str" : "857285652060274690",
+      "id" : 857285652060274690,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/857285652060274690\/pu\/img\/y_3NJn2MngXH5RD2.jpg",
+      "sizes" : [ {
+        "h" : 525,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 0,
+        "resize" : "fit",
+        "w" : 0
+      }, {
+        "h" : 612,
+        "resize" : "fit",
+        "w" : 700
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 297,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/tL04IN5syQ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "857674312056176640",
+  "text" : "RT @RomarioOnze: Dia do Goleiro. Fica aqui minha homenagem. ;) https:\/\/t.co\/tL04IN5syQ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/RomarioOnze\/status\/857285957523034118\/video\/1",
+        "indices" : [ 46, 69 ],
+        "url" : "https:\/\/t.co\/tL04IN5syQ",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/857285652060274690\/pu\/img\/y_3NJn2MngXH5RD2.jpg",
+        "id_str" : "857285652060274690",
+        "id" : 857285652060274690,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/857285652060274690\/pu\/img\/y_3NJn2MngXH5RD2.jpg",
+        "sizes" : [ {
+          "h" : 525,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 0,
+          "resize" : "fit",
+          "w" : 0
+        }, {
+          "h" : 612,
+          "resize" : "fit",
+          "w" : 700
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 297,
+          "resize" : "fit",
+          "w" : 340
+        } ],
+        "display_url" : "pic.twitter.com\/tL04IN5syQ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "857285957523034118",
+    "text" : "Dia do Goleiro. Fica aqui minha homenagem. ;) https:\/\/t.co\/tL04IN5syQ",
+    "id" : 857285957523034118,
+    "created_at" : "2017-04-26 17:31:14 +0000",
+    "user" : {
+      "name" : "Rom\u00E1rio",
+      "screen_name" : "RomarioOnze",
+      "protected" : false,
+      "id_str" : "42629261",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900038556294447104\/-Eo66A4S_normal.jpg",
+      "id" : 42629261,
+      "verified" : true
+    }
+  },
+  "id" : 857674312056176640,
+  "created_at" : "2017-04-27 19:14:25 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Forza Motorsport",
+      "screen_name" : "ForzaMotorsport",
+      "indices" : [ 3, 19 ],
+      "id_str" : "30942099",
+      "id" : 30942099
+    }, {
+      "name" : "Hot Wheels",
+      "screen_name" : "Hot_Wheels",
+      "indices" : [ 26, 37 ],
+      "id_str" : "36229154",
+      "id" : 36229154
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ForzaHorizon3",
+      "indices" : [ 76, 90 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "857313422509305859",
+  "text" : "RT @ForzaMotorsport: Your @Hot_Wheels fantasies are about to come true! The #ForzaHorizon3 Hot Wheels Expansion arrives on May 9 https:\/\/t.\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Hot Wheels",
+        "screen_name" : "Hot_Wheels",
+        "indices" : [ 5, 16 ],
+        "id_str" : "36229154",
+        "id" : 36229154
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/857250087961071619\/photo\/1",
+        "indices" : [ 132, 155 ],
+        "url" : "https:\/\/t.co\/3rA11492sZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-WQTgcXoAEBKpl.jpg",
+        "id_str" : "857249968884785153",
+        "id" : 857249968884785153,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-WQTgcXoAEBKpl.jpg",
+        "sizes" : [ {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1152,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 2160,
+          "resize" : "fit",
+          "w" : 3840
+        } ],
+        "display_url" : "pic.twitter.com\/3rA11492sZ"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/857250087961071619\/photo\/1",
+        "indices" : [ 132, 155 ],
+        "url" : "https:\/\/t.co\/3rA11492sZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-WQU9zXUAE1xNu.jpg",
+        "id_str" : "857249993945731073",
+        "id" : 857249993945731073,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-WQU9zXUAE1xNu.jpg",
+        "sizes" : [ {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1152,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 2160,
+          "resize" : "fit",
+          "w" : 3840
+        } ],
+        "display_url" : "pic.twitter.com\/3rA11492sZ"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/857250087961071619\/photo\/1",
+        "indices" : [ 132, 155 ],
+        "url" : "https:\/\/t.co\/3rA11492sZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-WQVwYXYAAygFf.jpg",
+        "id_str" : "857250007522697216",
+        "id" : 857250007522697216,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-WQVwYXYAAygFf.jpg",
+        "sizes" : [ {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1152,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 2160,
+          "resize" : "fit",
+          "w" : 3840
+        } ],
+        "display_url" : "pic.twitter.com\/3rA11492sZ"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/857250087961071619\/photo\/1",
+        "indices" : [ 132, 155 ],
+        "url" : "https:\/\/t.co\/3rA11492sZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C-WQWneWAAE-gvv.jpg",
+        "id_str" : "857250022311723009",
+        "id" : 857250022311723009,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C-WQWneWAAE-gvv.jpg",
+        "sizes" : [ {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1152,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 2160,
+          "resize" : "fit",
+          "w" : 3840
+        } ],
+        "display_url" : "pic.twitter.com\/3rA11492sZ"
+      } ],
+      "hashtags" : [ {
+        "text" : "ForzaHorizon3",
+        "indices" : [ 55, 69 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 108, 131 ],
+        "url" : "https:\/\/t.co\/Z0RNPDNbXn",
+        "expanded_url" : "https:\/\/forzamotorsport.net\/en-us\/news\/FH3_Hot_Wheels_Announce",
+        "display_url" : "forzamotorsport.net\/en-us\/news\/FH3\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "857250087961071619",
+    "text" : "Your @Hot_Wheels fantasies are about to come true! The #ForzaHorizon3 Hot Wheels Expansion arrives on May 9 https:\/\/t.co\/Z0RNPDNbXn https:\/\/t.co\/3rA11492sZ",
+    "id" : 857250087961071619,
+    "created_at" : "2017-04-26 15:08:42 +0000",
+    "user" : {
+      "name" : "Forza Motorsport",
+      "screen_name" : "ForzaMotorsport",
+      "protected" : false,
+      "id_str" : "30942099",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464563521800257536\/-AY8f5yG_normal.jpeg",
+      "id" : 30942099,
+      "verified" : true
+    }
+  },
+  "id" : 857313422509305859,
+  "created_at" : "2017-04-26 19:20:22 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 87, 110 ],
+      "url" : "https:\/\/t.co\/b4Yqg9Gnei",
+      "expanded_url" : "https:\/\/www.youtube.com\/watch?v=5Wg6l9z3TnY",
+      "display_url" : "youtube.com\/watch?v=5Wg6l9\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "857037597918593024",
+  "text" : "An\u00E1lise sensacional do Arrival (vale muito assinar o canal e ver v\u00EDdeos anteriores tb) https:\/\/t.co\/b4Yqg9Gnei",
+  "id" : 857037597918593024,
+  "created_at" : "2017-04-26 01:04:20 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Flamengo",
+      "screen_name" : "Flamengo",
+      "indices" : [ 3, 12 ],
+      "id_str" : "59591856",
+      "id" : 59591856
+    }, {
+      "name" : "adidas Brasil",
+      "screen_name" : "adidasbrasil",
+      "indices" : [ 94, 107 ],
+      "id_str" : "42894971",
+      "id" : 42894971
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Flamengo\/status\/856930514527244288\/video\/1",
+      "indices" : [ 108, 131 ],
+      "url" : "https:\/\/t.co\/ygMtIx6ZZi",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856929013033570309\/pu\/img\/z3Vu-KgSxULVjkLS.jpg",
+      "id_str" : "856929013033570309",
+      "id" : 856929013033570309,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856929013033570309\/pu\/img\/z3Vu-KgSxULVjkLS.jpg",
+      "sizes" : [ {
+        "h" : 0,
+        "resize" : "fit",
+        "w" : 0
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 338,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 191,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 576,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "display_url" : "pic.twitter.com\/ygMtIx6ZZi"
+    } ],
+    "hashtags" : [ {
+      "text" : "EuSou",
+      "indices" : [ 76, 82 ]
+    }, {
+      "text" : "NemMeViu",
+      "indices" : [ 84, 93 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "856965462906810369",
+  "text" : "RT @Flamengo: Bate no peito. Fecha com o Manto que ele \u00E9 brabo. At\u00E9 morrer. #EuSou. #NemMeViu @adidasbrasil https:\/\/t.co\/ygMtIx6ZZi",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "adidas Brasil",
+        "screen_name" : "adidasbrasil",
+        "indices" : [ 80, 93 ],
+        "id_str" : "42894971",
+        "id" : 42894971
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Flamengo\/status\/856930514527244288\/video\/1",
+        "indices" : [ 94, 117 ],
+        "url" : "https:\/\/t.co\/ygMtIx6ZZi",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856929013033570309\/pu\/img\/z3Vu-KgSxULVjkLS.jpg",
+        "id_str" : "856929013033570309",
+        "id" : 856929013033570309,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856929013033570309\/pu\/img\/z3Vu-KgSxULVjkLS.jpg",
+        "sizes" : [ {
+          "h" : 0,
+          "resize" : "fit",
+          "w" : 0
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 338,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 191,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/ygMtIx6ZZi"
+      } ],
+      "hashtags" : [ {
+        "text" : "EuSou",
+        "indices" : [ 62, 68 ]
+      }, {
+        "text" : "NemMeViu",
+        "indices" : [ 70, 79 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "856930514527244288",
+    "text" : "Bate no peito. Fecha com o Manto que ele \u00E9 brabo. At\u00E9 morrer. #EuSou. #NemMeViu @adidasbrasil https:\/\/t.co\/ygMtIx6ZZi",
+    "id" : 856930514527244288,
+    "created_at" : "2017-04-25 17:58:50 +0000",
+    "user" : {
+      "name" : "Flamengo",
+      "screen_name" : "Flamengo",
+      "protected" : false,
+      "id_str" : "59591856",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
+      "id" : 59591856,
+      "verified" : true
+    }
+  },
+  "id" : 856965462906810369,
+  "created_at" : "2017-04-25 20:17:42 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Luma Theodoro",
+      "screen_name" : "lumatheodoro",
+      "indices" : [ 3, 16 ],
+      "id_str" : "71315210",
+      "id" : 71315210
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/lumatheodoro\/status\/856179682697412613\/video\/1",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/pHEe8AXIuS",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
+      "id_str" : "856179464509702144",
+      "id" : 856179464509702144,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
+      "sizes" : [ {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 0,
+        "resize" : "fit",
+        "w" : 0
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/pHEe8AXIuS"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "856575113159901185",
+  "text" : "RT @lumatheodoro: Here you have a panel of clocks, which together form a clock https:\/\/t.co\/pHEe8AXIuS",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/lumatheodoro\/status\/856179682697412613\/video\/1",
+        "indices" : [ 61, 84 ],
+        "url" : "https:\/\/t.co\/pHEe8AXIuS",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
+        "id_str" : "856179464509702144",
+        "id" : 856179464509702144,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
+        "sizes" : [ {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 0,
+          "resize" : "fit",
+          "w" : 0
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
+        } ],
+        "display_url" : "pic.twitter.com\/pHEe8AXIuS"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "856179682697412613",
+    "text" : "Here you have a panel of clocks, which together form a clock https:\/\/t.co\/pHEe8AXIuS",
+    "id" : 856179682697412613,
+    "created_at" : "2017-04-23 16:15:18 +0000",
+    "user" : {
+      "name" : "Luma Theodoro",
+      "screen_name" : "lumatheodoro",
+      "protected" : false,
+      "id_str" : "71315210",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551792221864099841\/KMZjgLyR_normal.jpeg",
+      "id" : 71315210,
+      "verified" : false
+    }
+  },
+  "id" : 856575113159901185,
+  "created_at" : "2017-04-24 18:26:36 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -71,11 +1145,11 @@ Grailbird.data.tweets_2017_04 =
     "id" : 855437644796497922,
     "created_at" : "2017-04-21 15:06:42 +0000",
     "user" : {
-      "name" : "Larry Hryb \uD83D\uDCAC",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809812482197884928\/YFn4gsla_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916121322551353345\/bqHbQKWD_normal.jpg",
       "id" : 15913,
       "verified" : true
     }
@@ -219,7 +1293,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -239,7 +1313,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83D\uDCAC",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 0, 12 ],
       "id_str" : "15913",
@@ -396,7 +1470,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -433,11 +1507,11 @@ Grailbird.data.tweets_2017_04 =
     "id" : 851894986044047361,
     "created_at" : "2017-04-11 20:29:26 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1273,7 +2347,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842992378960986112\/Yd1Z53jW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -1509,7 +2583,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -1556,11 +2630,11 @@ Grailbird.data.tweets_2017_04 =
     "id" : 849742643089289217,
     "created_at" : "2017-04-05 21:56:48 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }

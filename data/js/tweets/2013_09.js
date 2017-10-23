@@ -417,9 +417,9 @@ Grailbird.data.tweets_2013_09 =
       "id" : 382520857949532161,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
       "sizes" : [ {
-        "h" : 514,
+        "h" : 583,
         "resize" : "fit",
-        "w" : 600
+        "w" : 680
       }, {
         "h" : 878,
         "resize" : "fit",
@@ -433,9 +433,9 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 292,
+        "h" : 878,
         "resize" : "fit",
-        "w" : 340
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/u2u42yM2hk"
     } ],
@@ -461,9 +461,9 @@ Grailbird.data.tweets_2013_09 =
         "id" : 382520857949532161,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
         "sizes" : [ {
-          "h" : 514,
+          "h" : 583,
           "resize" : "fit",
-          "w" : 600
+          "w" : 680
         }, {
           "h" : 878,
           "resize" : "fit",
@@ -477,9 +477,9 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 292,
+          "h" : 878,
           "resize" : "fit",
-          "w" : 340
+          "w" : 1024
         } ],
         "display_url" : "pic.twitter.com\/u2u42yM2hk"
       } ],
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910224832473661440\/Ojg9ZaWp_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615392662233808896\/EtxjSSKk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -1838,9 +1838,9 @@ Grailbird.data.tweets_2013_09 =
       "id" : 377301207900889089,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
       "sizes" : [ {
-        "h" : 332,
+        "h" : 663,
         "resize" : "fit",
-        "w" : 600
+        "w" : 1200
       }, {
         "h" : 745,
         "resize" : "fit",
@@ -1850,13 +1850,13 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 188,
+        "h" : 745,
         "resize" : "fit",
-        "w" : 340
+        "w" : 1348
       }, {
-        "h" : 566,
+        "h" : 376,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/RN2yLLoikU"
     } ],
@@ -1879,9 +1879,9 @@ Grailbird.data.tweets_2013_09 =
         "id" : 377301207900889089,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
         "sizes" : [ {
-          "h" : 332,
+          "h" : 663,
           "resize" : "fit",
-          "w" : 600
+          "w" : 1200
         }, {
           "h" : 745,
           "resize" : "fit",
@@ -1891,13 +1891,13 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 188,
+          "h" : 745,
           "resize" : "fit",
-          "w" : 340
+          "w" : 1348
         }, {
-          "h" : 566,
+          "h" : 376,
           "resize" : "fit",
-          "w" : 1024
+          "w" : 680
         } ],
         "display_url" : "pic.twitter.com\/RN2yLLoikU"
       } ],
@@ -1914,7 +1914,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "samknight1",
       "protected" : false,
       "id_str" : "38460804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706644032311554049\/jkJ9wfbt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864499782533783554\/n7-9wIN4_normal.jpg",
       "id" : 38460804,
       "verified" : false
     }

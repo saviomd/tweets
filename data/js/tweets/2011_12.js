@@ -98,7 +98,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "AndersonThinks",
       "protected" : false,
       "id_str" : "24926317",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719651021987840001\/fB5fxnZB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/911368370028781568\/M_QNdVuj_normal.jpg",
       "id" : 24926317,
       "verified" : false
     }
@@ -379,9 +379,9 @@ Grailbird.data.tweets_2011_12 =
       "id" : 149095268535644160,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AhGxW1bCMAAlh9q.jpg",
       "sizes" : [ {
-        "h" : 255,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 340
+        "w" : 480
       }, {
         "h" : 360,
         "resize" : "fit",
@@ -1222,11 +1222,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eduardo Derbli",
+      "name" : "rosa derbli schicors",
       "screen_name" : "derbli",
       "indices" : [ 56, 63 ],
-      "id_str" : "15312063",
-      "id" : 15312063
+      "id_str" : "911279304591454208",
+      "id" : 911279304591454208
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1247,11 +1247,11 @@ Grailbird.data.tweets_2011_12 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Eduardo Derbli",
+        "name" : "rosa derbli schicors",
         "screen_name" : "derbli",
         "indices" : [ 35, 42 ],
-        "id_str" : "15312063",
-        "id" : 15312063
+        "id_str" : "911279304591454208",
+        "id" : 911279304591454208
       } ],
       "media" : [ ],
       "hashtags" : [ {

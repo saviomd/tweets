@@ -689,7 +689,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "32136120",
       "id" : 32136120
     }, {
-      "name" : "cineclick",
+      "name" : "Cineclick",
       "screen_name" : "cineclick",
       "indices" : [ 39, 49 ],
       "id_str" : "16120585",

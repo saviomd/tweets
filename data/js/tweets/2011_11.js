@@ -56,7 +56,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "AllianzParque",
       "protected" : false,
       "id_str" : "272102958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666354070014328832\/mKg_Kdxy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900108324351488000\/rltrh2wt_normal.jpg",
       "id" : 272102958,
       "verified" : true
     }
@@ -494,7 +494,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Edwards \uD83D\uDCCE",
+      "name" : "Marc Edwards",
       "screen_name" : "marcedwards",
       "indices" : [ 3, 15 ],
       "id_str" : "18865450",
@@ -531,7 +531,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 140165774001180672,
     "created_at" : "2011-11-25 20:31:39 +0000",
     "user" : {
-      "name" : "Marc Edwards \uD83D\uDCCE",
+      "name" : "Marc Edwards",
       "screen_name" : "marcedwards",
       "protected" : false,
       "id_str" : "18865450",
@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

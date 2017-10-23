@@ -412,11 +412,11 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "16256918",
       "id" : 16256918
     }, {
-      "name" : "Bia Motta",
+      "name" : "bia",
       "screen_name" : "biamotta",
       "indices" : [ 39, 48 ],
-      "id_str" : "15520015",
-      "id" : 15520015
+      "id_str" : "912404219939958785",
+      "id" : 912404219939958785
     }, {
       "name" : "PH Peixoto",
       "screen_name" : "ph_peixoto",
@@ -435,11 +435,11 @@ Grailbird.data.tweets_2010_11 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Bia Motta",
+        "name" : "bia",
         "screen_name" : "biamotta",
         "indices" : [ 24, 33 ],
-        "id_str" : "15520015",
-        "id" : 15520015
+        "id_str" : "912404219939958785",
+        "id" : 912404219939958785
       }, {
         "name" : "PH Peixoto",
         "screen_name" : "ph_peixoto",
@@ -922,7 +922,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804003173723738112\/xQSJHsG5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914880341302824960\/LGnGwdi0_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -1243,7 +1243,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "DaniloGentili",
       "protected" : false,
       "id_str" : "14213711",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744243863620063232\/8R_7yl1s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918848973552607232\/VBo3KkS1_normal.jpg",
       "id" : 14213711,
       "verified" : true
     }

@@ -269,7 +269,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "nowthisnews",
       "protected" : false,
       "id_str" : "701725963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783053831844298754\/p8H7pdtz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882991320104652800\/F81CBrAK_normal.jpg",
       "id" : 701725963,
       "verified" : true
     }
@@ -356,7 +356,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "SpiderManMovie",
       "protected" : false,
       "id_str" : "281217033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846857106359672834\/TMW0BJBJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/905179336550092802\/uWGEArJ-_normal.jpg",
       "id" : 281217033,
       "verified" : true
     }
@@ -726,7 +726,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "SpiderManMovie",
       "protected" : false,
       "id_str" : "281217033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846857106359672834\/TMW0BJBJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/905179336550092802\/uWGEArJ-_normal.jpg",
       "id" : 281217033,
       "verified" : true
     }
@@ -1431,7 +1431,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "Podolski10",
       "protected" : false,
       "id_str" : "19596687",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844595771458699264\/6KqglHKP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885127291629477888\/TVkGD2c6_normal.jpg",
       "id" : 19596687,
       "verified" : true
     }
@@ -1998,7 +1998,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "ThisDayInMETAL",
       "protected" : false,
       "id_str" : "743472216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855598114186702849\/8MP1_PDA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913470939433783300\/JR0P5hO0_normal.jpg",
       "id" : 743472216,
       "verified" : false
     }
@@ -2045,7 +2045,7 @@ Grailbird.data.tweets_2017_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -2112,11 +2112,11 @@ Grailbird.data.tweets_2017_03 =
     "id" : 843840153789616129,
     "created_at" : "2017-03-20 15:02:25 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2583,7 +2583,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2721,7 +2721,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "TheGhibliMuseum",
       "protected" : false,
       "id_str" : "705831338725740544",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829951842725527553\/w0X3UiOU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907600810342744072\/N_QLxWd7_normal.jpg",
       "id" : 705831338725740544,
       "verified" : false
     }
@@ -3193,7 +3193,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

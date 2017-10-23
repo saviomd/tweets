@@ -1502,13 +1502,7 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "David Braz",
-      "screen_name" : "DavidBraz_14",
-      "indices" : [ 0, 13 ],
-      "id_str" : "72883379",
-      "id" : 72883379
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1521,7 +1515,7 @@ Grailbird.data.tweets_2011_02 =
   "id" : 35671071290179584,
   "in_reply_to_status_id" : 35668206156775425,
   "created_at" : "2011-02-10 12:07:00 +0000",
-  "in_reply_to_screen_name" : "DavidBraz_14",
+  "in_reply_to_screen_name" : "David_Braz",
   "in_reply_to_user_id_str" : "72883379",
   "user" : {
     "name" : "S\u00E1vio Mendes",
@@ -2199,12 +2193,6 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 3, 14 ],
       "id_str" : "41194626",
       "id" : 41194626
-    }, {
-      "name" : "SeoCruz\u262D",
-      "screen_name" : "SeoCruz",
-      "indices" : [ 20, 28 ],
-      "id_str" : "17140789",
-      "id" : 17140789
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2216,13 +2204,7 @@ Grailbird.data.tweets_2011_02 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "SeoCruz\u262D",
-        "screen_name" : "SeoCruz",
-        "indices" : [ 4, 12 ],
-        "id_str" : "17140789",
-        "id" : 17140789
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -2416,7 +2398,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

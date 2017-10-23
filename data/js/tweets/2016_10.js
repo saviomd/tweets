@@ -3,7 +3,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -58,11 +58,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 793149829971005440,
     "created_at" : "2016-10-31 17:57:10 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -189,7 +189,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910224832473661440\/Ojg9ZaWp_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -653,154 +653,13 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "urgh",
       "protected" : false,
       "id_str" : "32898954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824822091228835840\/BGDogGg-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866108546894761984\/3s4Ltehx_normal.jpg",
       "id" : 32898954,
       "verified" : true
     }
   },
   "id" : 791845300239466496,
   "created_at" : "2016-10-28 03:33:26 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Apple Support",
-      "screen_name" : "AppleSupport",
-      "indices" : [ 3, 16 ],
-      "id_str" : "3309375033",
-      "id" : 3309375033
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "791467613834645504",
-  "text" : "RT @AppleSupport: Two views are better than one. With iOS 10, use Split View in Safari on iPad to see two browser tabs at the same time. ht\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/AppleSupport\/status\/791455288801001472\/photo\/1",
-        "indices" : [ 119, 142 ],
-        "url" : "https:\/\/t.co\/cPzKYHautE",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CvvQYkEWEAEHi34.jpg",
-        "id_str" : "791455279950991361",
-        "id" : 791455279950991361,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvvQYkEWEAEHi34.jpg",
-        "sizes" : [ {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        }, {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        }, {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        } ],
-        "display_url" : "pic.twitter.com\/cPzKYHautE"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/AppleSupport\/status\/791455288801001472\/photo\/1",
-        "indices" : [ 119, 142 ],
-        "url" : "https:\/\/t.co\/cPzKYHautE",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CvvQY0nWcAAdCTm.jpg",
-        "id_str" : "791455284392783872",
-        "id" : 791455284392783872,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvvQY0nWcAAdCTm.jpg",
-        "sizes" : [ {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        }, {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        } ],
-        "display_url" : "pic.twitter.com\/cPzKYHautE"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/AppleSupport\/status\/791455288801001472\/photo\/1",
-        "indices" : [ 119, 142 ],
-        "url" : "https:\/\/t.co\/cPzKYHautE",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CvvQY9eXEAAIAp6.jpg",
-        "id_str" : "791455286770995200",
-        "id" : 791455286770995200,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvvQY9eXEAAIAp6.jpg",
-        "sizes" : [ {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        }, {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 957,
-          "resize" : "fit",
-          "w" : 957
-        } ],
-        "display_url" : "pic.twitter.com\/cPzKYHautE"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "791455288801001472",
-    "text" : "Two views are better than one. With iOS 10, use Split View in Safari on iPad to see two browser tabs at the same time. https:\/\/t.co\/cPzKYHautE",
-    "id" : 791455288801001472,
-    "created_at" : "2016-10-27 01:43:40 +0000",
-    "user" : {
-      "name" : "Apple Support",
-      "screen_name" : "AppleSupport",
-      "protected" : false,
-      "id_str" : "3309375033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826558134906929157\/NkPLMpA4_normal.jpg",
-      "id" : 3309375033,
-      "verified" : true
-    }
-  },
-  "id" : 791467613834645504,
-  "created_at" : "2016-10-27 02:32:38 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -845,7 +704,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "biz",
       "protected" : false,
       "id_str" : "13",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679561536243761153\/Hbf3WwO6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883363968256884736\/daA8d7Hw_normal.jpg",
       "id" : 13,
       "verified" : true
     }
@@ -1038,44 +897,8 @@ Grailbird.data.tweets_2016_10 =
       "indices" : [ 3, 9 ],
       "id_str" : "13889622",
       "id" : 13889622
-    }, {
-      "name" : "Tesla",
-      "screen_name" : "TeslaMotors",
-      "indices" : [ 20, 32 ],
-      "id_str" : "13298072",
-      "id" : 13298072
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/789208568310267904\/photo\/1",
-      "indices" : [ 58, 81 ],
-      "url" : "https:\/\/t.co\/8l6r0ocv3C",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CvPVAfKUkAQq3T_.jpg",
-      "id_str" : "789208564061474820",
-      "id" : 789208564061474820,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvPVAfKUkAQq3T_.jpg",
-      "sizes" : [ {
-        "h" : 910,
-        "resize" : "fit",
-        "w" : 2048
-      }, {
-        "h" : 302,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 533,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1278,
-        "resize" : "fit",
-        "w" : 2876
-      } ],
-      "display_url" : "pic.twitter.com\/8l6r0ocv3C"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -1085,13 +908,7 @@ Grailbird.data.tweets_2016_10 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Tesla",
-        "screen_name" : "TeslaMotors",
-        "indices" : [ 9, 21 ],
-        "id_str" : "13298072",
-        "id" : 13298072
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/789208568310267904\/photo\/1",
         "indices" : [ 47, 70 ],
@@ -1514,7 +1331,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1533,13 +1350,7 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Katie",
-      "screen_name" : "druggedondolans",
-      "indices" : [ 3, 19 ],
-      "id_str" : "4195273163",
-      "id" : 4195273163
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1622,10 +1433,10 @@ Grailbird.data.tweets_2016_10 =
     "created_at" : "2016-10-16 16:49:33 +0000",
     "user" : {
       "name" : "Katie",
-      "screen_name" : "druggedondolans",
+      "screen_name" : "bonjourkatt",
       "protected" : false,
       "id_str" : "4195273163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856084183453773824\/llEn0nfP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/921509109454835712\/5pN5QzMG_normal.jpg",
       "id" : 4195273163,
       "verified" : false
     }
@@ -1833,7 +1644,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756933122772525056\/FwG8UYtj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/886742416224432128\/WeD9JH37_normal.jpg",
       "id" : 17768307,
       "verified" : true
     }
@@ -1961,7 +1772,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Playlist",
+      "name" : "The Playlist \uD83C\uDFAC",
       "screen_name" : "ThePlaylist",
       "indices" : [ 3, 15 ],
       "id_str" : "13986352",
@@ -2058,7 +1869,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 780485777260097536,
     "created_at" : "2016-09-26 19:14:44 +0000",
     "user" : {
-      "name" : "The Playlist",
+      "name" : "The Playlist \uD83C\uDFAC",
       "screen_name" : "ThePlaylist",
       "protected" : false,
       "id_str" : "13986352",
@@ -2201,7 +2012,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3120453980\/1cc6abe8c19a71cb1e3b9f9865c2cb2b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }

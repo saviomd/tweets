@@ -30,7 +30,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -80,9 +80,9 @@ Grailbird.data.tweets_2013_07 =
         "id" : 362220543786774528,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQbdqlrCcAAjBDp.jpg",
         "sizes" : [ {
-          "h" : 900,
+          "h" : 960,
           "resize" : "fit",
-          "w" : 600
+          "w" : 640
         }, {
           "h" : 150,
           "resize" : "crop",
@@ -92,9 +92,9 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 640
         }, {
-          "h" : 510,
+          "h" : 680,
           "resize" : "fit",
-          "w" : 340
+          "w" : 453
         }, {
           "h" : 960,
           "resize" : "fit",
@@ -111,11 +111,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 362220543778385920,
     "created_at" : "2013-07-30 14:38:02 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -917,7 +917,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Enns \uD83D\uDCBE",
+      "name" : "\uD835\uDD6E\uD835\uDD8D\uD835\uDD97\uD835\uDD8E\uD835\uDD98 \uD835\uDD70\uD835\uDD93\uD835\uDD93\uD835\uDD98  \uD83D\uDCBE",
       "screen_name" : "iChris",
       "indices" : [ 3, 10 ],
       "id_str" : "58323",
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357632767720304640,
     "created_at" : "2013-07-17 22:47:50 +0000",
     "user" : {
-      "name" : "Chris Enns \uD83D\uDCBE",
+      "name" : "\uD835\uDD6E\uD835\uDD8D\uD835\uDD97\uD835\uDD8E\uD835\uDD98 \uD835\uDD70\uD835\uDD93\uD835\uDD93\uD835\uDD98  \uD83D\uDCBE",
       "screen_name" : "iChris",
       "protected" : false,
       "id_str" : "58323",
@@ -995,7 +995,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -1007,7 +1007,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "414277639",
       "id" : 414277639
     }, {
-      "name" : "Matt Schwabenbauer",
+      "name" : "bat schwabby",
       "screen_name" : "schwabby",
       "indices" : [ 129, 138 ],
       "id_str" : "15534137",
@@ -1035,7 +1035,7 @@ Grailbird.data.tweets_2013_07 =
         "id_str" : "414277639",
         "id" : 414277639
       }, {
-        "name" : "Matt Schwabenbauer",
+        "name" : "bat schwabby",
         "screen_name" : "schwabby",
         "indices" : [ 113, 122 ],
         "id_str" : "15534137",
@@ -1056,11 +1056,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357486134621765632,
     "created_at" : "2013-07-17 13:05:10 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }
@@ -1101,13 +1101,13 @@ Grailbird.data.tweets_2013_07 =
       "id" : 357219030974746624,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPUY0OhCUAAUtgs.jpg",
       "sizes" : [ {
-        "h" : 272,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 480,
         "resize" : "fit",
@@ -1154,13 +1154,13 @@ Grailbird.data.tweets_2013_07 =
         "id" : 357219030974746624,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPUY0OhCUAAUtgs.jpg",
         "sizes" : [ {
-          "h" : 272,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 600
         }, {
           "h" : 480,
           "resize" : "fit",
@@ -1330,11 +1330,11 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "Urublog",
     "in_reply_to_user_id_str" : "26618823",
     "user" : {
-      "name" : "Violino eterno",
-      "screen_name" : "HexaOlavo",
+      "name" : "Respeitem o Manto!",
+      "screen_name" : "1981Olavo",
       "protected" : false,
       "id_str" : "33029356",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847969470090006528\/fLJ_kB65_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913403133107326976\/JWz2pa6w_normal.jpg",
       "id" : 33029356,
       "verified" : false
     }
@@ -1387,9 +1387,9 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 578
       }, {
-        "h" : 305,
+        "h" : 519,
         "resize" : "fit",
-        "w" : 340
+        "w" : 578
       }, {
         "h" : 519,
         "resize" : "fit",
@@ -1434,9 +1434,9 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 578
         }, {
-          "h" : 305,
+          "h" : 519,
           "resize" : "fit",
-          "w" : 340
+          "w" : 578
         }, {
           "h" : 519,
           "resize" : "fit",

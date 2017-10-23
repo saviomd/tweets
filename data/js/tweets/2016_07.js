@@ -320,7 +320,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "ZackSnyder",
       "protected" : false,
       "id_str" : "17768307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756933122772525056\/FwG8UYtj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/886742416224432128\/WeD9JH37_normal.jpg",
       "id" : 17768307,
       "verified" : true
     }
@@ -431,7 +431,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "krisajenkins",
       "protected" : false,
       "id_str" : "18505708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820990046350307328\/XkInw47V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899022201260838912\/WUjXRTgX_normal.jpg",
       "id" : 18505708,
       "verified" : false
     }
@@ -616,7 +616,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910224832473661440\/Ojg9ZaWp_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }

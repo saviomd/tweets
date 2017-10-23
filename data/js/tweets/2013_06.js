@@ -104,7 +104,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804003173723738112\/xQSJHsG5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914880341302824960\/LGnGwdi0_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -165,7 +165,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "sublimehq",
       "protected" : false,
       "id_str" : "138034438",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1845211191\/SublimeText_Master_012312_icon_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907960213814239232\/w628Yrnl_normal.jpg",
       "id" : 138034438,
       "verified" : false
     }
@@ -271,7 +271,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "robertnyman",
       "protected" : false,
       "id_str" : "8414132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760791351969587204\/zFHv9T1e_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856503504789286914\/X9rN_1xI_normal.jpg",
       "id" : 8414132,
       "verified" : false
     }
@@ -1032,9 +1032,9 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 526
       }, {
-        "h" : 388,
+        "h" : 600,
         "resize" : "fit",
-        "w" : 340
+        "w" : 526
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -1073,9 +1073,9 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 526
         }, {
-          "h" : 388,
+          "h" : 600,
           "resize" : "fit",
-          "w" : 340
+          "w" : 526
         }, {
           "h" : 150,
           "resize" : "crop",
@@ -1677,7 +1677,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785901285417463808\/KTKj5giM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875390678200573952\/l0q5k995_normal.jpg",
       "id" : 14724725,
       "verified" : true
     }

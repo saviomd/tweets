@@ -333,12 +333,12 @@ Grailbird.data.tweets_2011_03 =
     "created_at" : "2011-03-29 20:04:40 +0000",
     "user" : {
       "name" : "Fabio Azevedo",
-      "screen_name" : "_fabioazevedo",
+      "screen_name" : "fabioazevedotv",
       "protected" : false,
       "id_str" : "62381861",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789096599758770176\/uwVTJ6HA_normal.jpg",
       "id" : 62381861,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 52850507907211264,
@@ -378,12 +378,12 @@ Grailbird.data.tweets_2011_03 =
     "created_at" : "2011-03-29 17:09:43 +0000",
     "user" : {
       "name" : "Fabio Azevedo",
-      "screen_name" : "_fabioazevedo",
+      "screen_name" : "fabioazevedotv",
       "protected" : false,
       "id_str" : "62381861",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789096599758770176\/uwVTJ6HA_normal.jpg",
       "id" : 62381861,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 52781729752158208,
@@ -1001,12 +1001,12 @@ Grailbird.data.tweets_2011_03 =
     "created_at" : "2011-03-23 14:02:05 +0000",
     "user" : {
       "name" : "Fabio Azevedo",
-      "screen_name" : "_fabioazevedo",
+      "screen_name" : "fabioazevedotv",
       "protected" : false,
       "id_str" : "62381861",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789096599758770176\/uwVTJ6HA_normal.jpg",
       "id" : 62381861,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 50571160135548928,
@@ -2144,12 +2144,6 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 3, 15 ],
       "id_str" : "223622368",
       "id" : 223622368
-    }, {
-      "name" : "Yahoo Movies",
-      "screen_name" : "YahooMovies",
-      "indices" : [ 92, 104 ],
-      "id_str" : "17852343",
-      "id" : 17852343
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2161,13 +2155,7 @@ Grailbird.data.tweets_2011_03 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/tap11.com\" rel=\"nofollow\"\u003ETap11\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Yahoo Movies",
-        "screen_name" : "YahooMovies",
-        "indices" : [ 75, 87 ],
-        "id_str" : "17852343",
-        "id" : 17852343
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]

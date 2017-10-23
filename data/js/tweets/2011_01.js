@@ -1742,12 +1742,12 @@ Grailbird.data.tweets_2011_01 =
     "created_at" : "2011-01-08 01:23:14 +0000",
     "user" : {
       "name" : "Fabio Azevedo",
-      "screen_name" : "_fabioazevedo",
+      "screen_name" : "fabioazevedotv",
       "protected" : false,
       "id_str" : "62381861",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789096599758770176\/uwVTJ6HA_normal.jpg",
       "id" : 62381861,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 23552379882307585,
@@ -1880,7 +1880,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804003173723738112\/xQSJHsG5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914880341302824960\/LGnGwdi0_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }

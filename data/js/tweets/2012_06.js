@@ -967,13 +967,7 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tyler Smith",
-      "screen_name" : "mbmufffin",
-      "indices" : [ 3, 13 ],
-      "id_str" : "74859085",
-      "id" : 74859085
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1006,7 +1000,7 @@ Grailbird.data.tweets_2012_06 =
     "created_at" : "2012-06-18 07:59:17 +0000",
     "user" : {
       "name" : "Tyler Smith",
-      "screen_name" : "mbmufffin",
+      "screen_name" : "heytylerxo",
       "protected" : false,
       "id_str" : "74859085",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000699043658\/b3fd707ede20f03ca0ad29b46f206e01_normal.jpeg",
@@ -1564,7 +1558,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749684601707229184\/ND7M3yJx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873476708497838080\/rdwukUAR_normal.jpg",
       "id" : 48903,
       "verified" : false
     }

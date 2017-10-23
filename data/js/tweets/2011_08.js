@@ -723,7 +723,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luis Di Vasca",
+      "name" : "Lu\u00EDsa Di Vasca",
       "screen_name" : "DiVasca",
       "indices" : [ 3, 11 ],
       "id_str" : "327569702",
@@ -760,11 +760,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 103886086329204736,
     "created_at" : "2011-08-17 17:49:07 +0000",
     "user" : {
-      "name" : "Luis Di Vasca",
+      "name" : "Lu\u00EDsa Di Vasca",
       "screen_name" : "DiVasca",
       "protected" : false,
       "id_str" : "327569702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596289850413817857\/8w6mgTIj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/919353902012751876\/ieW6c-DK_normal.jpg",
       "id" : 327569702,
       "verified" : false
     }
@@ -937,7 +937,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806314739630424064\/R_Ju2ljg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910224832473661440\/Ojg9ZaWp_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }

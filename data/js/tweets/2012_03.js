@@ -346,10 +346,6 @@ Grailbird.data.tweets_2012_03 =
       "id" : 183420358207094784,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Aouj2A-CQAALdAt.jpg",
       "sizes" : [ {
-        "h" : 325,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -358,9 +354,13 @@ Grailbird.data.tweets_2012_03 =
         "resize" : "fit",
         "w" : 795
       }, {
-        "h" : 184,
+        "h" : 368,
         "resize" : "fit",
-        "w" : 340
+        "w" : 680
+      }, {
+        "h" : 430,
+        "resize" : "fit",
+        "w" : 795
       }, {
         "h" : 430,
         "resize" : "fit",

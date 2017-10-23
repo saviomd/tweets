@@ -232,7 +232,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "alextriplex",
       "protected" : false,
       "id_str" : "53943891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3116655738\/edd7e230ec8ceb6301d933248b4aae63_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913263726266077184\/Oc2wX1eH_normal.jpg",
       "id" : 53943891,
       "verified" : false
     }
@@ -1368,7 +1368,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GetGlue",
+      "name" : "GetGlue (now Telfie)",
       "screen_name" : "getglue",
       "indices" : [ 12, 20 ],
       "id_str" : "1571579137",
@@ -1706,7 +1706,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

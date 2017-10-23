@@ -132,7 +132,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Cut_The_Rope",
       "protected" : false,
       "id_str" : "206348770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852913844930400257\/EnQueSVZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918821210833666048\/1tFdMZ6h_normal.jpg",
       "id" : 206348770,
       "verified" : true
     }
@@ -292,7 +292,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "5639932",
       "id" : 5639932
     }, {
-      "name" : "Flavio Albuquerque",
+      "name" : "Flavio",
       "screen_name" : "flaviocobain",
       "indices" : [ 25, 38 ],
       "id_str" : "24831336",
@@ -356,13 +356,13 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 448,
+        "h" : 507,
         "resize" : "fit",
-        "w" : 600
+        "w" : 680
       }, {
-        "h" : 254,
+        "h" : 764,
         "resize" : "fit",
-        "w" : 340
+        "w" : 1024
       }, {
         "h" : 764,
         "resize" : "fit",
@@ -747,7 +747,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842992378960986112\/Yd1Z53jW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -1602,7 +1602,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "indices" : [ 3, 14 ],
       "id_str" : "11855482",
@@ -1639,11 +1639,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 366063810680864768,
     "created_at" : "2013-08-10 05:09:48 +0000",
     "user" : {
-      "name" : "Brad Frost \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Brad Frost",
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831544618097451008\/7xJOQ0Xg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907811115459125248\/i8AzK6gR_normal.jpg",
       "id" : 11855482,
       "verified" : false
     }

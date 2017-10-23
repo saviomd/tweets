@@ -656,7 +656,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -813,7 +813,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "sarah_edo",
       "protected" : false,
       "id_str" : "813333008",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825582368907931648\/oaLvwS7y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856249108885110784\/97cssCek_normal.jpg",
       "id" : 813333008,
       "verified" : false
     }
@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duo-me",
+      "name" : "duo.me",
       "screen_name" : "agenciaduome",
       "indices" : [ 3, 16 ],
       "id_str" : "2810571892",
@@ -1094,7 +1094,7 @@ Grailbird.data.tweets_2016_12 =
     "id" : 807209839126605824,
     "created_at" : "2016-12-09 13:06:37 +0000",
     "user" : {
-      "name" : "Duo-me",
+      "name" : "duo.me",
       "screen_name" : "agenciaduome",
       "protected" : false,
       "id_str" : "2810571892",
@@ -1579,7 +1579,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1696,7 +1696,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1793,7 +1793,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "CONMEBOL",
       "protected" : false,
       "id_str" : "1265260098",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839852527868854273\/gx4LmW0d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875389912606007297\/-crBhaEl_normal.jpg",
       "id" : 1265260098,
       "verified" : true
     }
@@ -2006,7 +2006,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823624556594204673\/uFBTv1m__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
