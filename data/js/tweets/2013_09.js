@@ -121,7 +121,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "234306919",
       "id" : 234306919
     }, {
-      "name" : "christina",
+      "name" : "~c",
       "screen_name" : "cwodtke",
       "indices" : [ 63, 71 ],
       "id_str" : "1763261",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "christina",
+        "name" : "~c",
         "screen_name" : "cwodtke",
         "indices" : [ 46, 54 ],
         "id_str" : "1763261",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "smash_it_on",
       "protected" : false,
       "id_str" : "234306919",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802911519084343296\/4dDCDFtn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946353367932121093\/QxEhMqkq_normal.jpg",
       "id" : 234306919,
       "verified" : false
     }
@@ -417,14 +417,6 @@ Grailbird.data.tweets_2013_09 =
       "id" : 382520857949532161,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
       "sizes" : [ {
-        "h" : 583,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 878,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
         "h" : 878,
         "resize" : "fit",
         "w" : 1024
@@ -432,6 +424,14 @@ Grailbird.data.tweets_2013_09 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 583,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 878,
+        "resize" : "fit",
+        "w" : 1024
       }, {
         "h" : 878,
         "resize" : "fit",
@@ -461,14 +461,6 @@ Grailbird.data.tweets_2013_09 =
         "id" : 382520857949532161,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU78sZFCcAEdjfQ.jpg",
         "sizes" : [ {
-          "h" : 583,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 878,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
           "h" : 878,
           "resize" : "fit",
           "w" : 1024
@@ -476,6 +468,14 @@ Grailbird.data.tweets_2013_09 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 583,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 878,
+          "resize" : "fit",
+          "w" : 1024
         }, {
           "h" : 878,
           "resize" : "fit",
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910224832473661440\/Ojg9ZaWp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941404148188061696\/w25-myxT_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -1366,7 +1366,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1654,7 +1654,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "JBrasilrj",
       "protected" : false,
       "id_str" : "475016622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821133471817015296\/GUZeUUOR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948377178231668736\/AF71Nc0U_normal.jpg",
       "id" : 475016622,
       "verified" : false
     }
@@ -1810,117 +1810,6 @@ Grailbird.data.tweets_2013_09 =
   },
   "id" : 377606353872617472,
   "created_at" : "2013-09-11 01:35:45 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "sick transit, gloria",
-      "screen_name" : "samknight1",
-      "indices" : [ 3, 14 ],
-      "id_str" : "38460804",
-      "id" : 38460804
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/samknight1\/status\/377301207896694784\/photo\/1",
-      "indices" : [ 93, 115 ],
-      "url" : "http:\/\/t.co\/RN2yLLoikU",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
-      "id_str" : "377301207900889089",
-      "id" : 377301207900889089,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
-      "sizes" : [ {
-        "h" : 663,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 745,
-        "resize" : "fit",
-        "w" : 1348
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 745,
-        "resize" : "fit",
-        "w" : 1348
-      }, {
-        "h" : 376,
-        "resize" : "fit",
-        "w" : 680
-      } ],
-      "display_url" : "pic.twitter.com\/RN2yLLoikU"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "377541626349907969",
-  "text" : "RT @samknight1: Brazilian hackers take down NASA web page. Did they confuse it with the NSA? http:\/\/t.co\/RN2yLLoikU",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/samknight1\/status\/377301207896694784\/photo\/1",
-        "indices" : [ 77, 99 ],
-        "url" : "http:\/\/t.co\/RN2yLLoikU",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
-        "id_str" : "377301207900889089",
-        "id" : 377301207900889089,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BTxxcxZCIAEIImO.jpg",
-        "sizes" : [ {
-          "h" : 663,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 745,
-          "resize" : "fit",
-          "w" : 1348
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 745,
-          "resize" : "fit",
-          "w" : 1348
-        }, {
-          "h" : 376,
-          "resize" : "fit",
-          "w" : 680
-        } ],
-        "display_url" : "pic.twitter.com\/RN2yLLoikU"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "377301207896694784",
-    "text" : "Brazilian hackers take down NASA web page. Did they confuse it with the NSA? http:\/\/t.co\/RN2yLLoikU",
-    "id" : 377301207896694784,
-    "created_at" : "2013-09-10 05:23:12 +0000",
-    "user" : {
-      "name" : "sick transit, gloria",
-      "screen_name" : "samknight1",
-      "protected" : false,
-      "id_str" : "38460804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864499782533783554\/n7-9wIN4_normal.jpg",
-      "id" : 38460804,
-      "verified" : false
-    }
-  },
-  "id" : 377541626349907969,
-  "created_at" : "2013-09-10 21:18:32 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

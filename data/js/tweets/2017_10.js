@@ -1,5 +1,1271 @@
 Grailbird.data.tweets_2017_10 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justice League Movie",
+      "screen_name" : "justiceleaguewb",
+      "indices" : [ 3, 19 ],
+      "id_str" : "4754523444",
+      "id" : 4754523444
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/justiceleaguewb\/status\/925391954275266560\/video\/1",
+      "indices" : [ 69, 92 ],
+      "url" : "https:\/\/t.co\/FRf1fzZNmB",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DNblaqlVQAATt5a.jpg",
+      "id_str" : "925178864115990528",
+      "id" : 925178864115990528,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNblaqlVQAATt5a.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 939,
+        "resize" : "fit",
+        "w" : 523
+      }, {
+        "h" : 939,
+        "resize" : "fit",
+        "w" : 523
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 379
+      }, {
+        "h" : 939,
+        "resize" : "fit",
+        "w" : 523
+      } ],
+      "display_url" : "pic.twitter.com\/FRf1fzZNmB"
+    } ],
+    "hashtags" : [ {
+      "text" : "Batman",
+      "indices" : [ 46, 53 ]
+    }, {
+      "text" : "JusticeLeague",
+      "indices" : [ 54, 68 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "925424523750522880",
+  "text" : "RT @justiceleaguewb: Gotham's Caped Crusader. #Batman #JusticeLeague https:\/\/t.co\/FRf1fzZNmB",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/justiceleaguewb\/status\/925391954275266560\/video\/1",
+        "indices" : [ 48, 71 ],
+        "url" : "https:\/\/t.co\/FRf1fzZNmB",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DNblaqlVQAATt5a.jpg",
+        "id_str" : "925178864115990528",
+        "id" : 925178864115990528,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNblaqlVQAATt5a.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 939,
+          "resize" : "fit",
+          "w" : 523
+        }, {
+          "h" : 939,
+          "resize" : "fit",
+          "w" : 523
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 379
+        }, {
+          "h" : 939,
+          "resize" : "fit",
+          "w" : 523
+        } ],
+        "display_url" : "pic.twitter.com\/FRf1fzZNmB"
+      } ],
+      "hashtags" : [ {
+        "text" : "Batman",
+        "indices" : [ 25, 32 ]
+      }, {
+        "text" : "JusticeLeague",
+        "indices" : [ 33, 47 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "925391954275266560",
+    "text" : "Gotham's Caped Crusader. #Batman #JusticeLeague https:\/\/t.co\/FRf1fzZNmB",
+    "id" : 925391954275266560,
+    "created_at" : "2017-10-31 16:00:09 +0000",
+    "user" : {
+      "name" : "Justice League Movie",
+      "screen_name" : "justiceleaguewb",
+      "protected" : false,
+      "id_str" : "4754523444",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "id" : 4754523444,
+      "verified" : true
+    }
+  },
+  "id" : 925424523750522880,
+  "created_at" : "2017-10-31 18:09:34 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "SimonNRicketts",
+      "screen_name" : "SimonNRicketts",
+      "indices" : [ 3, 18 ],
+      "id_str" : "18991263",
+      "id" : 18991263
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "925321215191015425",
+  "text" : "RT @SimonNRicketts: A museum in Washington DC has a virtual shark tank, telling you to touch the glass if you dare. So, this guy did. https\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/SimonNRicketts\/status\/924771850604941312\/photo\/1",
+        "indices" : [ 114, 137 ],
+        "url" : "https:\/\/t.co\/m7vKb07uWR",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DNVy8U7WkAAgJsQ.jpg",
+        "id_str" : "924771679229874176",
+        "id" : 924771679229874176,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DNVy8U7WkAAgJsQ.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 384,
+          "resize" : "fit",
+          "w" : 366
+        }, {
+          "h" : 384,
+          "resize" : "fit",
+          "w" : 366
+        }, {
+          "h" : 384,
+          "resize" : "fit",
+          "w" : 366
+        }, {
+          "h" : 384,
+          "resize" : "fit",
+          "w" : 366
+        } ],
+        "display_url" : "pic.twitter.com\/m7vKb07uWR"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "924771850604941312",
+    "text" : "A museum in Washington DC has a virtual shark tank, telling you to touch the glass if you dare. So, this guy did. https:\/\/t.co\/m7vKb07uWR",
+    "id" : 924771850604941312,
+    "created_at" : "2017-10-29 22:56:05 +0000",
+    "user" : {
+      "name" : "SimonNRicketts",
+      "screen_name" : "SimonNRicketts",
+      "protected" : false,
+      "id_str" : "18991263",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000759409678\/0f9477b787db017cfb2c0c4aac78cbf3_normal.jpeg",
+      "id" : 18991263,
+      "verified" : false
+    }
+  },
+  "id" : 925321215191015425,
+  "created_at" : "2017-10-31 11:19:03 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Skeleton Claw",
+      "screen_name" : "skeleton_claw",
+      "indices" : [ 3, 17 ],
+      "id_str" : "3194635094",
+      "id" : 3194635094
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/skeleton_claw\/status\/924107615453421568\/photo\/1",
+      "indices" : [ 46, 69 ],
+      "url" : "https:\/\/t.co\/MlLQ2yNLFw",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DNMW-K4U8AEDj0j.jpg",
+      "id_str" : "924107605869391873",
+      "id" : 924107605869391873,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNMW-K4U8AEDj0j.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 764,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 649,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 764,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 764,
+        "resize" : "fit",
+        "w" : 800
+      } ],
+      "display_url" : "pic.twitter.com\/MlLQ2yNLFw"
+    } ],
+    "hashtags" : [ {
+      "text" : "Comic",
+      "indices" : [ 39, 45 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "925074900901158912",
+  "text" : "RT @skeleton_claw: Rock Star Developer #Comic https:\/\/t.co\/MlLQ2yNLFw",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/skeleton_claw\/status\/924107615453421568\/photo\/1",
+        "indices" : [ 27, 50 ],
+        "url" : "https:\/\/t.co\/MlLQ2yNLFw",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DNMW-K4U8AEDj0j.jpg",
+        "id_str" : "924107605869391873",
+        "id" : 924107605869391873,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNMW-K4U8AEDj0j.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 764,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 649,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 764,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 764,
+          "resize" : "fit",
+          "w" : 800
+        } ],
+        "display_url" : "pic.twitter.com\/MlLQ2yNLFw"
+      } ],
+      "hashtags" : [ {
+        "text" : "Comic",
+        "indices" : [ 20, 26 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "924107615453421568",
+    "text" : "Rock Star Developer #Comic https:\/\/t.co\/MlLQ2yNLFw",
+    "id" : 924107615453421568,
+    "created_at" : "2017-10-28 02:56:39 +0000",
+    "user" : {
+      "name" : "Skeleton Claw",
+      "screen_name" : "skeleton_claw",
+      "protected" : false,
+      "id_str" : "3194635094",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/932020456911093760\/iV8dsLhj_normal.jpg",
+      "id" : 3194635094,
+      "verified" : false
+    }
+  },
+  "id" : 925074900901158912,
+  "created_at" : "2017-10-30 19:00:18 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Conor Shanley",
+      "screen_name" : "ConorS",
+      "indices" : [ 3, 10 ],
+      "id_str" : "221154505",
+      "id" : 221154505
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/ConorS\/status\/924566689622130688\/photo\/1",
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/nL0mSpxWfg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DNS4er5XkAAJ8Ys.jpg",
+      "id_str" : "924566660836724736",
+      "id" : 924566660836724736,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNS4er5XkAAJ8Ys.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 503
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1515
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1515
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 888
+      } ],
+      "display_url" : "pic.twitter.com\/nL0mSpxWfg"
+    } ],
+    "hashtags" : [ {
+      "text" : "PartyOnWayne",
+      "indices" : [ 63, 76 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "925073831718473729",
+  "text" : "RT @ConorS: A definite contender for best Halloween costume... #PartyOnWayne https:\/\/t.co\/nL0mSpxWfg",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ConorS\/status\/924566689622130688\/photo\/1",
+        "indices" : [ 65, 88 ],
+        "url" : "https:\/\/t.co\/nL0mSpxWfg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DNS4er5XkAAJ8Ys.jpg",
+        "id_str" : "924566660836724736",
+        "id" : 924566660836724736,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNS4er5XkAAJ8Ys.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 503
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1515
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1515
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 888
+        } ],
+        "display_url" : "pic.twitter.com\/nL0mSpxWfg"
+      } ],
+      "hashtags" : [ {
+        "text" : "PartyOnWayne",
+        "indices" : [ 51, 64 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "924566689622130688",
+    "text" : "A definite contender for best Halloween costume... #PartyOnWayne https:\/\/t.co\/nL0mSpxWfg",
+    "id" : 924566689622130688,
+    "created_at" : "2017-10-29 09:20:51 +0000",
+    "user" : {
+      "name" : "Conor Shanley",
+      "screen_name" : "ConorS",
+      "protected" : false,
+      "id_str" : "221154505",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918833932036116480\/mbCZ-_fz_normal.jpg",
+      "id" : 221154505,
+      "verified" : true
+    }
+  },
+  "id" : 925073831718473729,
+  "created_at" : "2017-10-30 18:56:03 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15736190",
+      "id" : 15736190
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "923626677707722753",
+  "text" : "RT @smashingmag: Studying and trying to understand regressions happening during rendering. * \u007B outline: 4px solid yellow; \u007D helps. https:\/\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/smashingmag\/status\/923613654733541376\/photo\/1",
+        "indices" : [ 114, 137 ],
+        "url" : "https:\/\/t.co\/pSXCmQNof9",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DNFVrZTXkAEXGwy.jpg",
+        "id_str" : "923613602602520577",
+        "id" : 923613602602520577,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DNFVrZTXkAEXGwy.jpg",
+        "sizes" : [ {
+          "h" : 489,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 878,
+          "resize" : "fit",
+          "w" : 1220
+        }, {
+          "h" : 878,
+          "resize" : "fit",
+          "w" : 1220
+        }, {
+          "h" : 864,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "display_url" : "pic.twitter.com\/pSXCmQNof9"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "923613654733541376",
+    "text" : "Studying and trying to understand regressions happening during rendering. * \u007B outline: 4px solid yellow; \u007D helps. https:\/\/t.co\/pSXCmQNof9",
+    "id" : 923613654733541376,
+    "created_at" : "2017-10-26 18:13:49 +0000",
+    "user" : {
+      "name" : "Smashing Magazine",
+      "screen_name" : "smashingmag",
+      "protected" : false,
+      "id_str" : "15736190",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "id" : 15736190,
+      "verified" : true
+    }
+  },
+  "id" : 923626677707722753,
+  "created_at" : "2017-10-26 19:05:34 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Larry Hryb \uD83C\uDF86",
+      "screen_name" : "majornelson",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15913",
+      "id" : 15913
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "GamesWithGold",
+      "indices" : [ 28, 42 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 109, 132 ],
+      "url" : "https:\/\/t.co\/isJNT4ABnp",
+      "expanded_url" : "http:\/\/mjr.mn\/WPBr",
+      "display_url" : "mjr.mn\/WPBr"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "923621727703388160",
+  "text" : "RT @majornelson: November's #GamesWithGold starts the month off with Trackmania Turbo and NiGHTS into dreams https:\/\/t.co\/isJNT4ABnp https:\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/prod2.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr Prod2\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/majornelson\/status\/923565364793036800\/photo\/1",
+        "indices" : [ 116, 139 ],
+        "url" : "https:\/\/t.co\/oPQGgQmJSa",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DNEpzcmW4AAYiOT.jpg",
+        "id_str" : "923565362414804992",
+        "id" : 923565362414804992,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DNEpzcmW4AAYiOT.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 575,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 575,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 382,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 575,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/oPQGgQmJSa"
+      } ],
+      "hashtags" : [ {
+        "text" : "GamesWithGold",
+        "indices" : [ 11, 25 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 92, 115 ],
+        "url" : "https:\/\/t.co\/isJNT4ABnp",
+        "expanded_url" : "http:\/\/mjr.mn\/WPBr",
+        "display_url" : "mjr.mn\/WPBr"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "923565364793036800",
+    "text" : "November's #GamesWithGold starts the month off with Trackmania Turbo and NiGHTS into dreams https:\/\/t.co\/isJNT4ABnp https:\/\/t.co\/oPQGgQmJSa",
+    "id" : 923565364793036800,
+    "created_at" : "2017-10-26 15:01:56 +0000",
+    "user" : {
+      "name" : "Larry Hryb \uD83C\uDF86",
+      "screen_name" : "majornelson",
+      "protected" : false,
+      "id_str" : "15913",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933478080349384704\/QdBOKzb__normal.jpg",
+      "id" : 15913,
+      "verified" : true
+    }
+  },
+  "id" : 923621727703388160,
+  "created_at" : "2017-10-26 18:45:54 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Royal Blood",
+      "screen_name" : "royalblooduk",
+      "indices" : [ 3, 16 ],
+      "id_str" : "309787017",
+      "id" : 309787017
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "923217543074115587",
+  "text" : "RT @royalblooduk: Our video for How Did We Get So Dark? is out now. Check out the trailer below and watch the full video on Youtube.\nhttps:\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/royalblooduk\/status\/923209170727424000\/video\/1",
+        "indices" : [ 139, 162 ],
+        "url" : "https:\/\/t.co\/AEOIeKqbwB",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/923209117279424512\/pu\/img\/jXBT0Y6_i7gjutgM.jpg",
+        "id_str" : "923209117279424512",
+        "id" : 923209117279424512,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/923209117279424512\/pu\/img\/jXBT0Y6_i7gjutgM.jpg",
+        "sizes" : [ {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "display_url" : "pic.twitter.com\/AEOIeKqbwB"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 115, 138 ],
+        "url" : "https:\/\/t.co\/zdmefxTZC5",
+        "expanded_url" : "https:\/\/r-oy.al\/blood\/hdwgsd_yt",
+        "display_url" : "r-oy.al\/blood\/hdwgsd_yt"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "923209170727424000",
+    "text" : "Our video for How Did We Get So Dark? is out now. Check out the trailer below and watch the full video on Youtube.\nhttps:\/\/t.co\/zdmefxTZC5 https:\/\/t.co\/AEOIeKqbwB",
+    "id" : 923209170727424000,
+    "created_at" : "2017-10-25 15:26:33 +0000",
+    "user" : {
+      "name" : "Royal Blood",
+      "screen_name" : "royalblooduk",
+      "protected" : false,
+      "id_str" : "309787017",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852477643538796544\/xWDfOr07_normal.jpg",
+      "id" : 309787017,
+      "verified" : true
+    }
+  },
+  "id" : 923217543074115587,
+  "created_at" : "2017-10-25 15:59:49 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "indices" : [ 3, 9 ],
+      "id_str" : "13889622",
+      "id" : 13889622
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922593387449958400\/photo\/1",
+      "indices" : [ 96, 119 ],
+      "url" : "https:\/\/t.co\/gM3SWHaP1i",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DM21dfjVwAAQ1_E.jpg",
+      "id_str" : "922593016971378688",
+      "id" : 922593016971378688,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DM21dfjVwAAQ1_E.jpg",
+      "sizes" : [ {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 677,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1122,
+        "resize" : "fit",
+        "w" : 1990
+      }, {
+        "h" : 1122,
+        "resize" : "fit",
+        "w" : 1990
+      } ],
+      "display_url" : "pic.twitter.com\/gM3SWHaP1i"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922593387449958400\/photo\/1",
+      "indices" : [ 96, 119 ],
+      "url" : "https:\/\/t.co\/gM3SWHaP1i",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DM21jABVoAApUop.jpg",
+      "id_str" : "922593111586480128",
+      "id" : 922593111586480128,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DM21jABVoAApUop.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 1992
+      }, {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 1992
+      }, {
+        "h" : 382,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/gM3SWHaP1i"
+    } ],
+    "hashtags" : [ {
+      "text" : "ChromeDevSummit",
+      "indices" : [ 79, 95 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "922603416811134976",
+  "text" : "RT @lukew: comparing Progressive Web App (PWA) size to native mobile app size.\n#ChromeDevSummit https:\/\/t.co\/gM3SWHaP1i",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922593387449958400\/photo\/1",
+        "indices" : [ 85, 108 ],
+        "url" : "https:\/\/t.co\/gM3SWHaP1i",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DM21dfjVwAAQ1_E.jpg",
+        "id_str" : "922593016971378688",
+        "id" : 922593016971378688,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DM21dfjVwAAQ1_E.jpg",
+        "sizes" : [ {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 677,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1122,
+          "resize" : "fit",
+          "w" : 1990
+        }, {
+          "h" : 1122,
+          "resize" : "fit",
+          "w" : 1990
+        } ],
+        "display_url" : "pic.twitter.com\/gM3SWHaP1i"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922593387449958400\/photo\/1",
+        "indices" : [ 85, 108 ],
+        "url" : "https:\/\/t.co\/gM3SWHaP1i",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DM21jABVoAApUop.jpg",
+        "id_str" : "922593111586480128",
+        "id" : 922593111586480128,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DM21jABVoAApUop.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1120,
+          "resize" : "fit",
+          "w" : 1992
+        }, {
+          "h" : 1120,
+          "resize" : "fit",
+          "w" : 1992
+        }, {
+          "h" : 382,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "display_url" : "pic.twitter.com\/gM3SWHaP1i"
+      } ],
+      "hashtags" : [ {
+        "text" : "ChromeDevSummit",
+        "indices" : [ 68, 84 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "922593387449958400",
+    "text" : "comparing Progressive Web App (PWA) size to native mobile app size.\n#ChromeDevSummit https:\/\/t.co\/gM3SWHaP1i",
+    "id" : 922593387449958400,
+    "created_at" : "2017-10-23 22:39:39 +0000",
+    "user" : {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "protected" : false,
+      "id_str" : "13889622",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477610446917103616\/_cjU3_ga_normal.png",
+      "id" : 13889622,
+      "verified" : false
+    }
+  },
+  "id" : 922603416811134976,
+  "created_at" : "2017-10-23 23:19:30 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "indices" : [ 3, 9 ],
+      "id_str" : "13889622",
+      "id" : 13889622
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ChromeDevSummit",
+      "indices" : [ 109, 125 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "922603371197898752",
+  "text" : "RT @lukew: Pinterest:\ncomparing their new Progressive Web App (PWA) to old Web site &amp; native mobile app.\n#ChromeDevSummit https:\/\/t.co\/sYBL\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922588369879572480\/photo\/1",
+        "indices" : [ 115, 138 ],
+        "url" : "https:\/\/t.co\/sYBLdwgCwl",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DM2xOx9VAAAKxdn.jpg",
+        "id_str" : "922588366167670784",
+        "id" : 922588366167670784,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DM2xOx9VAAAKxdn.jpg",
+        "sizes" : [ {
+          "h" : 1120,
+          "resize" : "fit",
+          "w" : 1990
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1120,
+          "resize" : "fit",
+          "w" : 1990
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "display_url" : "pic.twitter.com\/sYBLdwgCwl"
+      } ],
+      "hashtags" : [ {
+        "text" : "ChromeDevSummit",
+        "indices" : [ 98, 114 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "922588369879572480",
+    "text" : "Pinterest:\ncomparing their new Progressive Web App (PWA) to old Web site &amp; native mobile app.\n#ChromeDevSummit https:\/\/t.co\/sYBLdwgCwl",
+    "id" : 922588369879572480,
+    "created_at" : "2017-10-23 22:19:42 +0000",
+    "user" : {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "protected" : false,
+      "id_str" : "13889622",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477610446917103616\/_cjU3_ga_normal.png",
+      "id" : 13889622,
+      "verified" : false
+    }
+  },
+  "id" : 922603371197898752,
+  "created_at" : "2017-10-23 23:19:19 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "indices" : [ 3, 9 ],
+      "id_str" : "13889622",
+      "id" : 13889622
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "chromedevsummit",
+      "indices" : [ 109, 125 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "922601367969124352",
+  "text" : "RT @lukew: many case studies w\/stats of new Web technologies increasing conversion, revenue, speed, etc from #chromedevsummit\nhttps:\/\/t.co\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "chromedevsummit",
+        "indices" : [ 98, 114 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 115, 138 ],
+        "url" : "https:\/\/t.co\/xLMi8BbN1u",
+        "expanded_url" : "https:\/\/www.lukew.com\/ff\/entry.asp?1975",
+        "display_url" : "lukew.com\/ff\/entry.asp?1\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "922572238896824322",
+    "text" : "many case studies w\/stats of new Web technologies increasing conversion, revenue, speed, etc from #chromedevsummit\nhttps:\/\/t.co\/xLMi8BbN1u",
+    "id" : 922572238896824322,
+    "created_at" : "2017-10-23 21:15:36 +0000",
+    "user" : {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "protected" : false,
+      "id_str" : "13889622",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477610446917103616\/_cjU3_ga_normal.png",
+      "id" : 13889622,
+      "verified" : false
+    }
+  },
+  "id" : 922601367969124352,
+  "created_at" : "2017-10-23 23:11:21 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Arsenal FC",
+      "screen_name" : "Arsenal",
+      "indices" : [ 3, 11 ],
+      "id_str" : "34613288",
+      "id" : 34613288
+    }, {
+      "name" : "Olivier Giroud",
+      "screen_name" : "_OlivierGiroud_",
+      "indices" : [ 44, 60 ],
+      "id_str" : "620034505",
+      "id" : 620034505
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "TheBest",
+      "indices" : [ 112, 120 ]
+    }, {
+      "text" : "NaNaNaNaa",
+      "indices" : [ 122, 132 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "922553547656482819",
+  "text" : "RT @Arsenal: FIFA Puskas Award winner 2017: @_OlivierGiroud_ \uD83D\uDC4F\uD83D\uDC4F\uD83D\uDC4F\n\nCongratulations Oli, we're all proud of you \uD83D\uDE4C #TheBest\n\n#NaNaNaNaa \uD83E\uDD82\uD83D\uDC51 htt\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Olivier Giroud",
+        "screen_name" : "_OlivierGiroud_",
+        "indices" : [ 31, 47 ],
+        "id_str" : "620034505",
+        "id" : 620034505
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Arsenal\/status\/922538889671331840\/video\/1",
+        "indices" : [ 123, 146 ],
+        "url" : "https:\/\/t.co\/JZfuTf9NOC",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DBvgfbuW0AAwwAu.jpg",
+        "id_str" : "819517956765822977",
+        "id" : 819517956765822977,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBvgfbuW0AAwwAu.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
+        } ],
+        "display_url" : "pic.twitter.com\/JZfuTf9NOC"
+      } ],
+      "hashtags" : [ {
+        "text" : "TheBest",
+        "indices" : [ 99, 107 ]
+      }, {
+        "text" : "NaNaNaNaa",
+        "indices" : [ 109, 119 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "922538889671331840",
+    "text" : "FIFA Puskas Award winner 2017: @_OlivierGiroud_ \uD83D\uDC4F\uD83D\uDC4F\uD83D\uDC4F\n\nCongratulations Oli, we're all proud of you \uD83D\uDE4C #TheBest\n\n#NaNaNaNaa \uD83E\uDD82\uD83D\uDC51 https:\/\/t.co\/JZfuTf9NOC",
+    "id" : 922538889671331840,
+    "created_at" : "2017-10-23 19:03:05 +0000",
+    "user" : {
+      "name" : "Arsenal FC",
+      "screen_name" : "Arsenal",
+      "protected" : false,
+      "id_str" : "34613288",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935074994165637121\/TOXV4nn7_normal.jpg",
+      "id" : 34613288,
+      "verified" : true
+    }
+  },
+  "id" : 922553547656482819,
+  "created_at" : "2017-10-23 20:01:20 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "indices" : [ 3, 9 ],
+      "id_str" : "13889622",
+      "id" : 13889622
+    }, {
+      "name" : "trivago",
+      "screen_name" : "trivago",
+      "indices" : [ 76, 84 ],
+      "id_str" : "417927225",
+      "id" : 417927225
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922510240754499584\/photo\/1",
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/S5U9wA7tlV",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DM1qLGSU8AAlPh7.jpg",
+      "id_str" : "922510237579407360",
+      "id" : 922510237579407360,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DM1qLGSU8AAlPh7.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1128,
+        "resize" : "fit",
+        "w" : 2010
+      }, {
+        "h" : 1128,
+        "resize" : "fit",
+        "w" : 2010
+      }, {
+        "h" : 382,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 673,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "display_url" : "pic.twitter.com\/S5U9wA7tlV"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/1z8jDUSmjQ",
+      "expanded_url" : "https:\/\/developer.chrome.com\/devsummit\/",
+      "display_url" : "developer.chrome.com\/devsummit\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "922529097510805505",
+  "text" : "RT @lukew: moving to a progressive Web application (PWA) had big impact for @trivago \nhttps:\/\/t.co\/1z8jDUSmjQ https:\/\/t.co\/S5U9wA7tlV",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "trivago",
+        "screen_name" : "trivago",
+        "indices" : [ 65, 73 ],
+        "id_str" : "417927225",
+        "id" : 417927225
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922510240754499584\/photo\/1",
+        "indices" : [ 99, 122 ],
+        "url" : "https:\/\/t.co\/S5U9wA7tlV",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DM1qLGSU8AAlPh7.jpg",
+        "id_str" : "922510237579407360",
+        "id" : 922510237579407360,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DM1qLGSU8AAlPh7.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1128,
+          "resize" : "fit",
+          "w" : 2010
+        }, {
+          "h" : 1128,
+          "resize" : "fit",
+          "w" : 2010
+        }, {
+          "h" : 382,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 673,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "display_url" : "pic.twitter.com\/S5U9wA7tlV"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 75, 98 ],
+        "url" : "https:\/\/t.co\/1z8jDUSmjQ",
+        "expanded_url" : "https:\/\/developer.chrome.com\/devsummit\/",
+        "display_url" : "developer.chrome.com\/devsummit\/"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "922510240754499584",
+    "text" : "moving to a progressive Web application (PWA) had big impact for @trivago \nhttps:\/\/t.co\/1z8jDUSmjQ https:\/\/t.co\/S5U9wA7tlV",
+    "id" : 922510240754499584,
+    "created_at" : "2017-10-23 17:09:15 +0000",
+    "user" : {
+      "name" : "Luke Wroblewski",
+      "screen_name" : "lukew",
+      "protected" : false,
+      "id_str" : "13889622",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477610446917103616\/_cjU3_ga_normal.png",
+      "id" : 13889622,
+      "verified" : false
+    }
+  },
+  "id" : 922529097510805505,
+  "created_at" : "2017-10-23 18:24:11 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -206,25 +1472,25 @@ Grailbird.data.tweets_2017_10 =
       "id" : 920318847684452352,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DMWhHaxUIAAyjZL.jpg",
       "sizes" : [ {
-        "h" : 1098,
+        "h" : 1544,
         "resize" : "fit",
-        "w" : 2048
-      }, {
-        "h" : 365,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 643,
-        "resize" : "fit",
-        "w" : 1200
+        "w" : 2880
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 1544,
+        "h" : 365,
         "resize" : "fit",
-        "w" : 2880
+        "w" : 680
+      }, {
+        "h" : 1098,
+        "resize" : "fit",
+        "w" : 2048
+      }, {
+        "h" : 643,
+        "resize" : "fit",
+        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/Almcfn9haR"
     } ],
@@ -252,25 +1518,25 @@ Grailbird.data.tweets_2017_10 =
         "id" : 920318847684452352,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DMWhHaxUIAAyjZL.jpg",
         "sizes" : [ {
-          "h" : 1098,
+          "h" : 1544,
           "resize" : "fit",
-          "w" : 2048
-        }, {
-          "h" : 365,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 643,
-          "resize" : "fit",
-          "w" : 1200
+          "w" : 2880
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 1544,
+          "h" : 365,
           "resize" : "fit",
-          "w" : 2880
+          "w" : 680
+        }, {
+          "h" : 1098,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
+          "h" : 643,
+          "resize" : "fit",
+          "w" : 1200
         } ],
         "display_url" : "pic.twitter.com\/Almcfn9haR"
       } ],
@@ -292,7 +1558,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "googlecalendar",
       "protected" : false,
       "id_str" : "38267947",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/575321922721853442\/Dlsaakfm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940690597622398976\/SkuQdoXv_normal.jpg",
       "id" : 38267947,
       "verified" : true
     }
@@ -343,14 +1609,6 @@ Grailbird.data.tweets_2017_10 =
         "id" : 872139637216628736,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBp2YRbV0AAX1S_.png",
         "sizes" : [ {
-          "h" : 500,
-          "resize" : "fit",
-          "w" : 1117
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 304,
           "resize" : "fit",
           "w" : 680
@@ -358,6 +1616,14 @@ Grailbird.data.tweets_2017_10 =
           "h" : 500,
           "resize" : "fit",
           "w" : 1117
+        }, {
+          "h" : 500,
+          "resize" : "fit",
+          "w" : 1117
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 500,
           "resize" : "fit",
@@ -403,7 +1669,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb",
+      "name" : "Larry Hryb \uD83C\uDF86",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -429,25 +1695,25 @@ Grailbird.data.tweets_2017_10 =
         "id" : 920002467152109568,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DMSBj2QUMAAK1zC.jpg",
         "sizes" : [ {
-          "h" : 383,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 0,
-          "resize" : "fit",
-          "w" : 0
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 675,
           "resize" : "fit",
           "w" : 1200
         }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
           "h" : 720,
           "resize" : "fit",
           "w" : 1280
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
         } ],
         "display_url" : "pic.twitter.com\/gSlkDNq526"
       } ],
@@ -465,11 +1731,11 @@ Grailbird.data.tweets_2017_10 =
     "id" : 920003128165937152,
     "created_at" : "2017-10-16 19:06:53 +0000",
     "user" : {
-      "name" : "Larry Hryb",
+      "name" : "Larry Hryb \uD83C\uDF86",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916121322551353345\/bqHbQKWD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933478080349384704\/QdBOKzb__normal.jpg",
       "id" : 15913,
       "verified" : true
     }
@@ -489,7 +1755,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Soueidan \uD83D\uDC26",
+      "name" : "Sara Soueidan",
       "screen_name" : "SaraSoueidan",
       "indices" : [ 3, 16 ],
       "id_str" : "717654410",
@@ -521,11 +1787,11 @@ Grailbird.data.tweets_2017_10 =
     "id" : 919216687177707520,
     "created_at" : "2017-10-14 15:01:51 +0000",
     "user" : {
-      "name" : "Sara Soueidan \uD83D\uDC26",
+      "name" : "Sara Soueidan",
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/903537944320987136\/wB28L8qd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938495182563086336\/x42XXmRg_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }
@@ -633,9 +1899,17 @@ Grailbird.data.tweets_2017_10 =
       "id" : 918495751549861888,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DL8nBQbVwAA8IVr.jpg",
       "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
         "h" : 1078,
         "resize" : "fit",
         "w" : 1918
+      }, {
+        "h" : 382,
+        "resize" : "fit",
+        "w" : 680
       }, {
         "h" : 674,
         "resize" : "fit",
@@ -644,14 +1918,6 @@ Grailbird.data.tweets_2017_10 =
         "h" : 1078,
         "resize" : "fit",
         "w" : 1918
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 382,
-        "resize" : "fit",
-        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/QMZUC3CxSI"
     } ],
@@ -674,9 +1940,17 @@ Grailbird.data.tweets_2017_10 =
         "id" : 918495751549861888,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DL8nBQbVwAA8IVr.jpg",
         "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
           "h" : 1078,
           "resize" : "fit",
           "w" : 1918
+        }, {
+          "h" : 382,
+          "resize" : "fit",
+          "w" : 680
         }, {
           "h" : 674,
           "resize" : "fit",
@@ -685,14 +1959,6 @@ Grailbird.data.tweets_2017_10 =
           "h" : 1078,
           "resize" : "fit",
           "w" : 1918
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 382,
-          "resize" : "fit",
-          "w" : 680
         } ],
         "display_url" : "pic.twitter.com\/QMZUC3CxSI"
       } ],
@@ -777,7 +2043,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "edgarwright",
       "protected" : false,
       "id_str" : "18671559",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889931372806127616\/k4NUvToy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939596465608966144\/lZGugWGo_normal.jpg",
       "id" : 18671559,
       "verified" : true
     }
@@ -838,7 +2104,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -902,9 +2168,9 @@ Grailbird.data.tweets_2017_10 =
         "id" : 918137996666396672,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DL3hpLoW4AAwGDT.jpg",
         "sizes" : [ {
-          "h" : 680,
+          "h" : 2048,
           "resize" : "fit",
-          "w" : 374
+          "w" : 1126
         }, {
           "h" : 2048,
           "resize" : "fit",
@@ -914,13 +2180,13 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 2048,
-          "resize" : "fit",
-          "w" : 1126
-        }, {
           "h" : 1200,
           "resize" : "fit",
           "w" : 660
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 374
         } ],
         "display_url" : "pic.twitter.com\/WnzUEXWpHu"
       } ],
@@ -986,6 +2252,14 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917588912821948419,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLvuQS6W0AM8P_w.jpg",
         "sizes" : [ {
+          "h" : 361,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
           "h" : 638,
           "resize" : "fit",
           "w" : 1200
@@ -997,14 +2271,6 @@ Grailbird.data.tweets_2017_10 =
           "h" : 954,
           "resize" : "fit",
           "w" : 1795
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 361,
-          "resize" : "fit",
-          "w" : 680
         } ],
         "display_url" : "pic.twitter.com\/ObCotvvYlm"
       } ],
@@ -1061,9 +2327,13 @@ Grailbird.data.tweets_2017_10 =
       "id" : 917865101696397312,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLzpcmpXcAAVoar.jpg",
       "sizes" : [ {
-        "h" : 453,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1066,
         "resize" : "fit",
-        "w" : 680
+        "w" : 1600
       }, {
         "h" : 800,
         "resize" : "fit",
@@ -1073,13 +2343,9 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1600
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1066,
+        "h" : 453,
         "resize" : "fit",
-        "w" : 1600
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     }, {
@@ -1091,9 +2357,13 @@ Grailbird.data.tweets_2017_10 =
       "id" : 917865101692194818,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLzpcmoXUAIRTj1.jpg",
       "sizes" : [ {
-        "h" : 800,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1066,
         "resize" : "fit",
-        "w" : 1200
+        "w" : 1600
       }, {
         "h" : 453,
         "resize" : "fit",
@@ -1103,13 +2373,9 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1600
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1066,
+        "h" : 800,
         "resize" : "fit",
-        "w" : 1600
+        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     }, {
@@ -1121,9 +2387,13 @@ Grailbird.data.tweets_2017_10 =
       "id" : 917865101688033282,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLzpcmnX0AIhaPM.jpg",
       "sizes" : [ {
-        "h" : 800,
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1066,
         "resize" : "fit",
-        "w" : 1200
+        "w" : 1600
       }, {
         "h" : 453,
         "resize" : "fit",
@@ -1133,13 +2403,9 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1600
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1066,
+        "h" : 800,
         "resize" : "fit",
-        "w" : 1600
+        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     }, {
@@ -1155,10 +2421,6 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       }, {
-        "h" : 1066,
-        "resize" : "fit",
-        "w" : 1600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -1170,6 +2432,10 @@ Grailbird.data.tweets_2017_10 =
         "h" : 453,
         "resize" : "fit",
         "w" : 680
+      }, {
+        "h" : 1066,
+        "resize" : "fit",
+        "w" : 1600
       } ],
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     } ],
@@ -1195,9 +2461,13 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917865101696397312,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLzpcmpXcAAVoar.jpg",
         "sizes" : [ {
-          "h" : 453,
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1066,
           "resize" : "fit",
-          "w" : 680
+          "w" : 1600
         }, {
           "h" : 800,
           "resize" : "fit",
@@ -1207,13 +2477,9 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1600
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1066,
+          "h" : 453,
           "resize" : "fit",
-          "w" : 1600
+          "w" : 680
         } ],
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       }, {
@@ -1225,9 +2491,13 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917865101692194818,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLzpcmoXUAIRTj1.jpg",
         "sizes" : [ {
-          "h" : 800,
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1066,
           "resize" : "fit",
-          "w" : 1200
+          "w" : 1600
         }, {
           "h" : 453,
           "resize" : "fit",
@@ -1237,13 +2507,9 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1600
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1066,
+          "h" : 800,
           "resize" : "fit",
-          "w" : 1600
+          "w" : 1200
         } ],
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       }, {
@@ -1255,9 +2521,13 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917865101688033282,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLzpcmnX0AIhaPM.jpg",
         "sizes" : [ {
-          "h" : 800,
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1066,
           "resize" : "fit",
-          "w" : 1200
+          "w" : 1600
         }, {
           "h" : 453,
           "resize" : "fit",
@@ -1267,13 +2537,9 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1600
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1066,
+          "h" : 800,
           "resize" : "fit",
-          "w" : 1600
+          "w" : 1200
         } ],
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       }, {
@@ -1289,10 +2555,6 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1200
         }, {
-          "h" : 1066,
-          "resize" : "fit",
-          "w" : 1600
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -1304,6 +2566,10 @@ Grailbird.data.tweets_2017_10 =
           "h" : 453,
           "resize" : "fit",
           "w" : 680
+        }, {
+          "h" : 1066,
+          "resize" : "fit",
+          "w" : 1600
         } ],
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       } ],
@@ -1358,21 +2624,21 @@ Grailbird.data.tweets_2017_10 =
       "id" : 917755219672432641,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLyGB1NWAAAaP-Z.jpg",
       "sizes" : [ {
-        "h" : 383,
-        "resize" : "fit",
-        "w" : 680
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
-        "h" : 0,
+        "h" : 1080,
         "resize" : "fit",
-        "w" : 0
+        "w" : 1920
       }, {
         "h" : 675,
         "resize" : "fit",
         "w" : 1200
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
       }, {
         "h" : 1080,
         "resize" : "fit",
@@ -1407,21 +2673,21 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917755219672432641,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLyGB1NWAAAaP-Z.jpg",
         "sizes" : [ {
-          "h" : 383,
-          "resize" : "fit",
-          "w" : 680
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
-          "h" : 0,
+          "h" : 1080,
           "resize" : "fit",
-          "w" : 0
+          "w" : 1920
         }, {
           "h" : 675,
           "resize" : "fit",
           "w" : 1200
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
         }, {
           "h" : 1080,
           "resize" : "fit",
@@ -1485,17 +2751,17 @@ Grailbird.data.tweets_2017_10 =
       "id" : 917787224720146432,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLyinkTWAAAHbFo.jpg",
       "sizes" : [ {
-        "h" : 469,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 469,
-        "resize" : "fit",
-        "w" : 640
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 469,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 469,
+        "resize" : "fit",
+        "w" : 640
       }, {
         "h" : 469,
         "resize" : "fit",
@@ -1526,17 +2792,17 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917787224720146432,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLyinkTWAAAHbFo.jpg",
         "sizes" : [ {
-          "h" : 469,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 469,
-          "resize" : "fit",
-          "w" : 640
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 469,
+          "resize" : "fit",
+          "w" : 640
+        }, {
+          "h" : 469,
+          "resize" : "fit",
+          "w" : 640
         }, {
           "h" : 469,
           "resize" : "fit",
@@ -1596,21 +2862,21 @@ Grailbird.data.tweets_2017_10 =
       "id" : 917516411823579136,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLutW1eV4AATWTF.jpg",
       "sizes" : [ {
-        "h" : 934,
-        "resize" : "fit",
-        "w" : 938
-      }, {
-        "h" : 0,
-        "resize" : "fit",
-        "w" : 0
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 677,
         "resize" : "fit",
         "w" : 680
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 934,
+        "resize" : "fit",
+        "w" : 938
+      }, {
+        "h" : 934,
+        "resize" : "fit",
+        "w" : 938
       }, {
         "h" : 934,
         "resize" : "fit",
@@ -1640,21 +2906,21 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917516411823579136,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLutW1eV4AATWTF.jpg",
         "sizes" : [ {
-          "h" : 934,
-          "resize" : "fit",
-          "w" : 938
-        }, {
-          "h" : 0,
-          "resize" : "fit",
-          "w" : 0
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 677,
           "resize" : "fit",
           "w" : 680
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
+          "h" : 934,
+          "resize" : "fit",
+          "w" : 938
+        }, {
+          "h" : 934,
+          "resize" : "fit",
+          "w" : 938
         }, {
           "h" : 934,
           "resize" : "fit",
@@ -1678,7 +2944,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845379947837341696\/5G25ylMW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -1713,14 +2979,6 @@ Grailbird.data.tweets_2017_10 =
       "id" : 917010922018807808,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLnhlF9VwAATjL2.jpg",
       "sizes" : [ {
-        "h" : 0,
-        "resize" : "fit",
-        "w" : 0
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 680
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -1728,6 +2986,14 @@ Grailbird.data.tweets_2017_10 =
         "h" : 1083,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1522,
+        "resize" : "fit",
+        "w" : 2878
       }, {
         "h" : 635,
         "resize" : "fit",
@@ -1757,14 +3023,6 @@ Grailbird.data.tweets_2017_10 =
         "id" : 917010922018807808,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLnhlF9VwAATjL2.jpg",
         "sizes" : [ {
-          "h" : 0,
-          "resize" : "fit",
-          "w" : 0
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 680
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -1772,6 +3030,14 @@ Grailbird.data.tweets_2017_10 =
           "h" : 1083,
           "resize" : "fit",
           "w" : 2048
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1522,
+          "resize" : "fit",
+          "w" : 2878
         }, {
           "h" : 635,
           "resize" : "fit",
@@ -1795,13 +3061,124 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845379947837341696\/5G25ylMW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
   },
   "id" : 917027521899761665,
   "created_at" : "2017-10-08 14:02:53 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Futmais",
+      "screen_name" : "futtmais",
+      "indices" : [ 3, 12 ],
+      "id_str" : "887489515501342721",
+      "id" : 887489515501342721
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/futtmais\/status\/916405926726459392\/video\/1",
+      "indices" : [ 70, 93 ],
+      "url" : "https:\/\/t.co\/VfByu6ognZ",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/916405827279482880\/pu\/img\/nNgFcJiCbgwQwXig.jpg",
+      "id_str" : "916405827279482880",
+      "id" : 916405827279482880,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/916405827279482880\/pu\/img\/nNgFcJiCbgwQwXig.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 224,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 224,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 224,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 224,
+        "resize" : "fit",
+        "w" : 400
+      } ],
+      "display_url" : "pic.twitter.com\/VfByu6ognZ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "916763986607132672",
+  "text" : "RT @futtmais: Quando voc\u00EA vai jogar o chiclete fora mas se arrepende. https:\/\/t.co\/VfByu6ognZ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/futtmais\/status\/916405926726459392\/video\/1",
+        "indices" : [ 56, 79 ],
+        "url" : "https:\/\/t.co\/VfByu6ognZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/916405827279482880\/pu\/img\/nNgFcJiCbgwQwXig.jpg",
+        "id_str" : "916405827279482880",
+        "id" : 916405827279482880,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/916405827279482880\/pu\/img\/nNgFcJiCbgwQwXig.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 224,
+          "resize" : "fit",
+          "w" : 400
+        }, {
+          "h" : 224,
+          "resize" : "fit",
+          "w" : 400
+        }, {
+          "h" : 224,
+          "resize" : "fit",
+          "w" : 400
+        }, {
+          "h" : 224,
+          "resize" : "fit",
+          "w" : 400
+        } ],
+        "display_url" : "pic.twitter.com\/VfByu6ognZ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "916405926726459392",
+    "text" : "Quando voc\u00EA vai jogar o chiclete fora mas se arrepende. https:\/\/t.co\/VfByu6ognZ",
+    "id" : 916405926726459392,
+    "created_at" : "2017-10-06 20:52:53 +0000",
+    "user" : {
+      "name" : "Futmais",
+      "screen_name" : "futtmais",
+      "protected" : false,
+      "id_str" : "887489515501342721",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945630374054514689\/6Z_h3Rwk_normal.jpg",
+      "id" : 887489515501342721,
+      "verified" : false
+    }
+  },
+  "id" : 916763986607132672,
+  "created_at" : "2017-10-07 20:35:41 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1830,6 +3207,10 @@ Grailbird.data.tweets_2017_10 =
       "id" : 915609982212620288,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLTmbX6VwAAsDOB.jpg",
       "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
         "h" : 2048,
         "resize" : "fit",
         "w" : 1350
@@ -1837,10 +3218,6 @@ Grailbird.data.tweets_2017_10 =
         "h" : 680,
         "resize" : "fit",
         "w" : 448
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 2048,
         "resize" : "fit",
@@ -1877,6 +3254,10 @@ Grailbird.data.tweets_2017_10 =
         "id" : 915609982212620288,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLTmbX6VwAAsDOB.jpg",
         "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
           "h" : 2048,
           "resize" : "fit",
           "w" : 1350
@@ -1884,10 +3265,6 @@ Grailbird.data.tweets_2017_10 =
           "h" : 680,
           "resize" : "fit",
           "w" : 448
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
         }, {
           "h" : 2048,
           "resize" : "fit",
@@ -1918,7 +3295,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845379947837341696\/5G25ylMW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -1957,6 +3334,10 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
         "h" : 675,
         "resize" : "fit",
         "w" : 1200
@@ -1964,10 +3345,6 @@ Grailbird.data.tweets_2017_10 =
         "h" : 383,
         "resize" : "fit",
         "w" : 680
-      }, {
-        "h" : 1080,
-        "resize" : "fit",
-        "w" : 1920
       }, {
         "h" : 1080,
         "resize" : "fit",
@@ -1998,6 +3375,10 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "crop",
           "w" : 150
         }, {
+          "h" : 1080,
+          "resize" : "fit",
+          "w" : 1920
+        }, {
           "h" : 675,
           "resize" : "fit",
           "w" : 1200
@@ -2005,10 +3386,6 @@ Grailbird.data.tweets_2017_10 =
           "h" : 383,
           "resize" : "fit",
           "w" : 680
-        }, {
-          "h" : 1080,
-          "resize" : "fit",
-          "w" : 1920
         }, {
           "h" : 1080,
           "resize" : "fit",
@@ -2110,7 +3487,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave SPOOPY Rupert",
+      "name" : "Dave Rupert",
       "screen_name" : "davatron5000",
       "indices" : [ 3, 16 ],
       "id_str" : "14839862",
@@ -2142,7 +3519,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 914958419114823681,
     "created_at" : "2017-10-02 21:01:00 +0000",
     "user" : {
-      "name" : "Dave SPOOPY Rupert",
+      "name" : "Dave Rupert",
       "screen_name" : "davatron5000",
       "protected" : false,
       "id_str" : "14839862",
@@ -2181,14 +3558,6 @@ Grailbird.data.tweets_2017_10 =
       "id" : 914871855688962048,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLJHGwVX0AAGDka.jpg",
       "sizes" : [ {
-        "h" : 1078,
-        "resize" : "fit",
-        "w" : 1918
-      }, {
-        "h" : 1078,
-        "resize" : "fit",
-        "w" : 1918
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -2196,6 +3565,14 @@ Grailbird.data.tweets_2017_10 =
         "h" : 674,
         "resize" : "fit",
         "w" : 1200
+      }, {
+        "h" : 1078,
+        "resize" : "fit",
+        "w" : 1918
+      }, {
+        "h" : 1078,
+        "resize" : "fit",
+        "w" : 1918
       }, {
         "h" : 382,
         "resize" : "fit",
@@ -2222,14 +3599,6 @@ Grailbird.data.tweets_2017_10 =
         "id" : 914871855688962048,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLJHGwVX0AAGDka.jpg",
         "sizes" : [ {
-          "h" : 1078,
-          "resize" : "fit",
-          "w" : 1918
-        }, {
-          "h" : 1078,
-          "resize" : "fit",
-          "w" : 1918
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -2237,6 +3606,14 @@ Grailbird.data.tweets_2017_10 =
           "h" : 674,
           "resize" : "fit",
           "w" : 1200
+        }, {
+          "h" : 1078,
+          "resize" : "fit",
+          "w" : 1918
+        }, {
+          "h" : 1078,
+          "resize" : "fit",
+          "w" : 1918
         }, {
           "h" : 382,
           "resize" : "fit",

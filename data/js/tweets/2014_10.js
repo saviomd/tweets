@@ -104,6 +104,10 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 768
       }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
         "h" : 790,
         "resize" : "fit",
         "w" : 768
@@ -111,10 +115,6 @@ Grailbird.data.tweets_2014_10 =
         "h" : 680,
         "resize" : "fit",
         "w" : 661
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 790,
         "resize" : "fit",
@@ -145,6 +145,10 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 768
         }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
           "h" : 790,
           "resize" : "fit",
           "w" : 768
@@ -152,10 +156,6 @@ Grailbird.data.tweets_2014_10 =
           "h" : 680,
           "resize" : "fit",
           "w" : 661
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
         }, {
           "h" : 790,
           "resize" : "fit",
@@ -381,6 +381,10 @@ Grailbird.data.tweets_2014_10 =
         "id" : 477749071881728000,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BqFOP-lIcAAZtbM.jpg",
         "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
           "h" : 1075,
           "resize" : "fit",
           "w" : 1000
@@ -396,10 +400,6 @@ Grailbird.data.tweets_2014_10 =
           "h" : 1075,
           "resize" : "fit",
           "w" : 1000
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
         } ],
         "display_url" : "pic.twitter.com\/0clZqUzu6x"
       } ],
@@ -503,13 +503,13 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 598,
-          "resize" : "fit",
-          "w" : 680
-        }, {
           "h" : 879,
           "resize" : "fit",
           "w" : 1000
+        }, {
+          "h" : 598,
+          "resize" : "fit",
+          "w" : 680
         } ],
         "display_url" : "pic.twitter.com\/DDTXrBWSnV"
       } ],
@@ -626,6 +626,123 @@ Grailbird.data.tweets_2014_10 =
   "created_at" : "2014-10-15 02:16:40 +0000",
   "in_reply_to_screen_name" : "danielcmarques",
   "in_reply_to_user_id_str" : "5639932",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Gore",
+      "screen_name" : "ThatChrisGore",
+      "indices" : [ 3, 17 ],
+      "id_str" : "23161445",
+      "id" : 23161445
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/ThatChrisGore\/status\/520975986851340288\/photo\/1",
+      "indices" : [ 79, 101 ],
+      "url" : "http:\/\/t.co\/pkJLf7O7RZ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
+      "id_str" : "520975964285988864",
+      "id" : 520975964285988864,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 550,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 365,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 550,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 550,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "display_url" : "pic.twitter.com\/pkJLf7O7RZ"
+    } ],
+    "hashtags" : [ {
+      "text" : "fonts",
+      "indices" : [ 72, 78 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "521429986247704576",
+  "text" : "RT @ThatChrisGore: I hope one of them is Comic Sans. I hate Comic Sans. #fonts http:\/\/t.co\/pkJLf7O7RZ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ThatChrisGore\/status\/520975986851340288\/photo\/1",
+        "indices" : [ 60, 82 ],
+        "url" : "http:\/\/t.co\/pkJLf7O7RZ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
+        "id_str" : "520975964285988864",
+        "id" : 520975964285988864,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bzrg4RfIcAACX9H.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 550,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 365,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 550,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 550,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "display_url" : "pic.twitter.com\/pkJLf7O7RZ"
+      } ],
+      "hashtags" : [ {
+        "text" : "fonts",
+        "indices" : [ 53, 59 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "520975986851340288",
+    "text" : "I hope one of them is Comic Sans. I hate Comic Sans. #fonts http:\/\/t.co\/pkJLf7O7RZ",
+    "id" : 520975986851340288,
+    "created_at" : "2014-10-11 16:35:29 +0000",
+    "user" : {
+      "name" : "Chris Gore",
+      "screen_name" : "ThatChrisGore",
+      "protected" : false,
+      "id_str" : "23161445",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879799672440627201\/quvoRBpL_normal.jpg",
+      "id" : 23161445,
+      "verified" : true
+    }
+  },
+  "id" : 521429986247704576,
+  "created_at" : "2014-10-12 22:39:31 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -818,6 +935,10 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 576
       }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
         "h" : 1024,
         "resize" : "fit",
         "w" : 576
@@ -825,10 +946,6 @@ Grailbird.data.tweets_2014_10 =
         "h" : 680,
         "resize" : "fit",
         "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -859,6 +976,10 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 576
         }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
           "h" : 1024,
           "resize" : "fit",
           "w" : 576
@@ -866,10 +987,6 @@ Grailbird.data.tweets_2014_10 =
           "h" : 680,
           "resize" : "fit",
           "w" : 383
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
         }, {
           "h" : 1024,
           "resize" : "fit",
@@ -986,21 +1103,21 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 415
       }, {
+        "h" : 291,
+        "resize" : "fit",
+        "w" : 415
+      }, {
+        "h" : 291,
+        "resize" : "fit",
+        "w" : 415
+      }, {
+        "h" : 291,
+        "resize" : "fit",
+        "w" : 415
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 291,
-        "resize" : "fit",
-        "w" : 415
-      }, {
-        "h" : 291,
-        "resize" : "fit",
-        "w" : 415
-      }, {
-        "h" : 291,
-        "resize" : "fit",
-        "w" : 415
       } ],
       "display_url" : "pic.twitter.com\/NvJzTU71Fm"
     } ],
@@ -1033,21 +1150,21 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 415
         }, {
+          "h" : 291,
+          "resize" : "fit",
+          "w" : 415
+        }, {
+          "h" : 291,
+          "resize" : "fit",
+          "w" : 415
+        }, {
+          "h" : 291,
+          "resize" : "fit",
+          "w" : 415
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 291,
-          "resize" : "fit",
-          "w" : 415
-        }, {
-          "h" : 291,
-          "resize" : "fit",
-          "w" : 415
-        }, {
-          "h" : 291,
-          "resize" : "fit",
-          "w" : 415
         } ],
         "display_url" : "pic.twitter.com\/NvJzTU71Fm"
       } ],

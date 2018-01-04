@@ -323,7 +323,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -568,7 +568,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -732,14 +732,6 @@ Grailbird.data.tweets_2013_02 =
       "id" : 297481516898983936,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCDd3Q4CIAAoBru.jpg",
       "sizes" : [ {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 797
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 797
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -747,6 +739,14 @@ Grailbird.data.tweets_2013_02 =
         "h" : 680,
         "resize" : "fit",
         "w" : 452
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 797
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 797
       }, {
         "h" : 1200,
         "resize" : "fit",
@@ -773,14 +773,6 @@ Grailbird.data.tweets_2013_02 =
         "id" : 297481516898983936,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BCDd3Q4CIAAoBru.jpg",
         "sizes" : [ {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 797
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 797
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -788,6 +780,14 @@ Grailbird.data.tweets_2013_02 =
           "h" : 680,
           "resize" : "fit",
           "w" : 452
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 797
+        }, {
+          "h" : 1200,
+          "resize" : "fit",
+          "w" : 797
         }, {
           "h" : 1200,
           "resize" : "fit",
@@ -872,7 +872,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "15601887",
       "id" : 15601887
     }, {
-      "name" : "julia com fritas",
+      "name" : "O jipe do padre tem um furo no pneu.",
       "screen_name" : "jujubas",
       "indices" : [ 9, 17 ],
       "id_str" : "9143722",

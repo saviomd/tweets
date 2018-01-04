@@ -266,7 +266,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "32441865",
       "id" : 32441865
     }, {
-      "name" : "Carille Jr\u2122",
+      "name" : "Hepta P\u00E3o\u2122",
       "screen_name" : "aureasouto",
       "indices" : [ 10, 21 ],
       "id_str" : "78987936",
@@ -548,7 +548,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "NETFLU",
       "protected" : false,
       "id_str" : "43372176",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892890371767779328\/iYs8cvvA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948170040070889473\/1B9SxLEP_normal.jpg",
       "id" : 43372176,
       "verified" : false
     }
@@ -840,7 +840,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1000,7 +1000,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910224832473661440\/Ojg9ZaWp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941404148188061696\/w25-myxT_normal.jpg",
       "id" : 74594552,
       "verified" : true
     }
@@ -1294,7 +1294,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "Estadao",
       "protected" : false,
       "id_str" : "9317502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813865317638217728\/XjUysuTF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930054894731579392\/WGqwI8XJ_normal.jpg",
       "id" : 9317502,
       "verified" : true
     }

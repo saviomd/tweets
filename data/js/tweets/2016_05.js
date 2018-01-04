@@ -76,8 +76,8 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "59591856",
       "id" : 59591856
     }, {
-      "name" : "Moments Brasil",
-      "screen_name" : "momentsbrasil",
+      "name" : "Twitter Moments Brasil",
+      "screen_name" : "MomentsBrasil",
       "indices" : [ 69, 83 ],
       "id_str" : "4172587277",
       "id" : 4172587277
@@ -107,8 +107,8 @@ Grailbird.data.tweets_2016_05 =
         "id_str" : "59591856",
         "id" : 59591856
       }, {
-        "name" : "Moments Brasil",
-        "screen_name" : "momentsbrasil",
+        "name" : "Twitter Moments Brasil",
+        "screen_name" : "MomentsBrasil",
         "indices" : [ 55, 69 ],
         "id_str" : "4172587277",
         "id" : 4172587277
@@ -135,7 +135,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -446,17 +446,17 @@ Grailbird.data.tweets_2016_05 =
         "id" : 731513494110130177,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CibbpazW0AEJ2sJ.jpg",
         "sizes" : [ {
-          "h" : 352,
-          "resize" : "fit",
-          "w" : 1163
-        }, {
-          "h" : 352,
-          "resize" : "fit",
-          "w" : 1163
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 352,
+          "resize" : "fit",
+          "w" : 1163
+        }, {
+          "h" : 352,
+          "resize" : "fit",
+          "w" : 1163
         }, {
           "h" : 206,
           "resize" : "fit",
@@ -601,7 +601,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

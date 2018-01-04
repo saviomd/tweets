@@ -829,7 +829,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "14652452",
       "id" : 14652452
     }, {
-      "name" : "Guy Kawasaki",
+      "name" : "Alltop",
       "screen_name" : "Alltop",
       "indices" : [ 83, 90 ],
       "id_str" : "17583639",
@@ -852,7 +852,7 @@ Grailbird.data.tweets_2010_04 =
         "id_str" : "14652452",
         "id" : 14652452
       }, {
-        "name" : "Guy Kawasaki",
+        "name" : "Alltop",
         "screen_name" : "Alltop",
         "indices" : [ 70, 77 ],
         "id_str" : "17583639",

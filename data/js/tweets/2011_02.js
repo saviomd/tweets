@@ -2193,6 +2193,12 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 3, 14 ],
       "id_str" : "41194626",
       "id" : 41194626
+    }, {
+      "name" : "SeoCruz\u262D",
+      "screen_name" : "SeoCruz",
+      "indices" : [ 20, 28 ],
+      "id_str" : "17140789",
+      "id" : 17140789
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2204,7 +2210,13 @@ Grailbird.data.tweets_2011_02 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ ],
+      "user_mentions" : [ {
+        "name" : "SeoCruz\u262D",
+        "screen_name" : "SeoCruz",
+        "indices" : [ 4, 12 ],
+        "id_str" : "17140789",
+        "id" : 17140789
+      } ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -2398,7 +2410,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

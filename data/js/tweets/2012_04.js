@@ -355,7 +355,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "flapravaler",
       "protected" : false,
       "id_str" : "235964540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/673916457269329920\/9SBZI1iD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948633087403061248\/MsMcaqr5_normal.jpg",
       "id" : 235964540,
       "verified" : false
     }
@@ -417,17 +417,17 @@ Grailbird.data.tweets_2012_04 =
       "id" : 193760661388541953,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ArBgS4GCQAEdiso.jpg",
       "sizes" : [ {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 960
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 960
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 960
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 960
       }, {
         "h" : 720,
         "resize" : "fit",
@@ -1053,17 +1053,17 @@ Grailbird.data.tweets_2012_04 =
       "id" : 190938666338746368,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AqZZtJUCAAAtXZj.jpg",
       "sizes" : [ {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 960
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 960
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 960
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 960
       }, {
         "h" : 720,
         "resize" : "fit",
@@ -1311,7 +1311,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "RubruNegru",
       "protected" : false,
       "id_str" : "352248873",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813490595301834752\/4ulXQqoQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930956172227743746\/s09PSSu-_normal.jpg",
       "id" : 352248873,
       "verified" : false
     }
@@ -1635,7 +1635,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }

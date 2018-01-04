@@ -137,117 +137,6 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fragmenturco",
-      "screen_name" : "ChrisTurco010",
-      "indices" : [ 3, 17 ],
-      "id_str" : "107113834",
-      "id" : 107113834
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/ChrisTurco010\/status\/413418731910754304\/photo\/1",
-      "indices" : [ 95, 117 ],
-      "url" : "http:\/\/t.co\/tMXkdro7IW",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
-      "id_str" : "413418731768119298",
-      "id" : 413418731768119298,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
-      "sizes" : [ {
-        "h" : 280,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 280,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 280,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 280,
-        "resize" : "fit",
-        "w" : 500
-      } ],
-      "display_url" : "pic.twitter.com\/tMXkdro7IW"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "413505365897408512",
-  "text" : "RT @ChrisTurco010: FLAGRA: IMAGEM REGISTRA A REA\u00C7\u00C3O DE CUCA AO TERCEIRO GOL DO RAJA CASABLANCA http:\/\/t.co\/tMXkdro7IW",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ChrisTurco010\/status\/413418731910754304\/photo\/1",
-        "indices" : [ 76, 98 ],
-        "url" : "http:\/\/t.co\/tMXkdro7IW",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
-        "id_str" : "413418731768119298",
-        "id" : 413418731768119298,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbzCJWqIAAIDqms.png",
-        "sizes" : [ {
-          "h" : 280,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 280,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 280,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 280,
-          "resize" : "fit",
-          "w" : 500
-        } ],
-        "display_url" : "pic.twitter.com\/tMXkdro7IW"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "413418731910754304",
-    "text" : "FLAGRA: IMAGEM REGISTRA A REA\u00C7\u00C3O DE CUCA AO TERCEIRO GOL DO RAJA CASABLANCA http:\/\/t.co\/tMXkdro7IW",
-    "id" : 413418731910754304,
-    "created_at" : "2013-12-18 21:21:21 +0000",
-    "user" : {
-      "name" : "Fragmenturco",
-      "screen_name" : "ChrisTurco010",
-      "protected" : false,
-      "id_str" : "107113834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653733285953146880\/dcAZsghh_normal.jpg",
-      "id" : 107113834,
-      "verified" : false
-    }
-  },
-  "id" : 413505365897408512,
-  "created_at" : "2013-12-19 03:05:36 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -906,17 +795,17 @@ Grailbird.data.tweets_2013_12 =
       "id" : 409007545286549506,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba0WMgdCYAIAmK0.jpg",
       "sizes" : [ {
-        "h" : 718,
-        "resize" : "fit",
-        "w" : 700
-      }, {
-        "h" : 718,
-        "resize" : "fit",
-        "w" : 700
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 718,
+        "resize" : "fit",
+        "w" : 700
+      }, {
+        "h" : 718,
+        "resize" : "fit",
+        "w" : 700
       }, {
         "h" : 718,
         "resize" : "fit",
@@ -947,17 +836,17 @@ Grailbird.data.tweets_2013_12 =
         "id" : 409007545286549506,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ba0WMgdCYAIAmK0.jpg",
         "sizes" : [ {
-          "h" : 718,
-          "resize" : "fit",
-          "w" : 700
-        }, {
-          "h" : 718,
-          "resize" : "fit",
-          "w" : 700
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 718,
+          "resize" : "fit",
+          "w" : 700
+        }, {
+          "h" : 718,
+          "resize" : "fit",
+          "w" : 700
         }, {
           "h" : 718,
           "resize" : "fit",

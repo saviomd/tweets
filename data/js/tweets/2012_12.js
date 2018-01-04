@@ -141,13 +141,13 @@ Grailbird.data.tweets_2012_12 =
         "resize" : "fit",
         "w" : 568
       }, {
-        "h" : 424,
-        "resize" : "fit",
-        "w" : 568
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 424,
+        "resize" : "fit",
+        "w" : 568
       }, {
         "h" : 424,
         "resize" : "fit",
@@ -375,10 +375,6 @@ Grailbird.data.tweets_2012_12 =
       "id" : 281210860767162368,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A-cPybcCMAA67PZ.jpg",
       "sizes" : [ {
-        "h" : 848,
-        "resize" : "fit",
-        "w" : 1136
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -387,13 +383,17 @@ Grailbird.data.tweets_2012_12 =
         "resize" : "fit",
         "w" : 1136
       }, {
-        "h" : 508,
+        "h" : 848,
         "resize" : "fit",
-        "w" : 680
+        "w" : 1136
       }, {
         "h" : 848,
         "resize" : "fit",
         "w" : 1136
+      }, {
+        "h" : 508,
+        "resize" : "fit",
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/LOYwEIQI"
     } ],
@@ -857,7 +857,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jacob",
+      "name" : "fat",
       "screen_name" : "fat",
       "indices" : [ 3, 7 ],
       "id_str" : "16521996",
@@ -894,7 +894,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 278264821110149120,
     "created_at" : "2012-12-10 22:27:57 +0000",
     "user" : {
-      "name" : "jacob",
+      "name" : "fat",
       "screen_name" : "fat",
       "protected" : false,
       "id_str" : "16521996",

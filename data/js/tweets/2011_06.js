@@ -565,7 +565,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842380736393056257\/7-L2mPCM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1369,7 +1369,7 @@ Grailbird.data.tweets_2011_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "GetGlue (now Telfie)",
-      "screen_name" : "getglue",
+      "screen_name" : "GetGlue",
       "indices" : [ 12, 20 ],
       "id_str" : "1571579137",
       "id" : 1571579137
@@ -1706,7 +1706,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914862467305570304\/Y_22Nr84_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

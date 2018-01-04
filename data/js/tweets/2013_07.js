@@ -80,21 +80,21 @@ Grailbird.data.tweets_2013_07 =
         "id" : 362220543786774528,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQbdqlrCcAAjBDp.jpg",
         "sizes" : [ {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 640
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 453
+        }, {
           "h" : 960,
           "resize" : "fit",
           "w" : 640
         }, {
-          "h" : 680,
+          "h" : 960,
           "resize" : "fit",
-          "w" : 453
+          "w" : 640
         }, {
           "h" : 960,
           "resize" : "fit",
@@ -917,7 +917,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDD6E\uD835\uDD8D\uD835\uDD97\uD835\uDD8E\uD835\uDD98 \uD835\uDD70\uD835\uDD93\uD835\uDD93\uD835\uDD98  \uD83D\uDCBE",
+      "name" : "Chris Enns \uD83D\uDCBE",
       "screen_name" : "iChris",
       "indices" : [ 3, 10 ],
       "id_str" : "58323",
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357632767720304640,
     "created_at" : "2013-07-17 22:47:50 +0000",
     "user" : {
-      "name" : "\uD835\uDD6E\uD835\uDD8D\uD835\uDD97\uD835\uDD8E\uD835\uDD98 \uD835\uDD70\uD835\uDD93\uD835\uDD93\uD835\uDD98  \uD83D\uDCBE",
+      "name" : "Chris Enns \uD83D\uDCBE",
       "screen_name" : "iChris",
       "protected" : false,
       "id_str" : "58323",
@@ -1007,7 +1007,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "414277639",
       "id" : 414277639
     }, {
-      "name" : "bat schwabby",
+      "name" : "cartier schwabby in a \u2018rari",
       "screen_name" : "schwabby",
       "indices" : [ 129, 138 ],
       "id_str" : "15534137",
@@ -1035,7 +1035,7 @@ Grailbird.data.tweets_2013_07 =
         "id_str" : "414277639",
         "id" : 414277639
       }, {
-        "name" : "bat schwabby",
+        "name" : "cartier schwabby in a \u2018rari",
         "screen_name" : "schwabby",
         "indices" : [ 113, 122 ],
         "id_str" : "15534137",
@@ -1101,13 +1101,13 @@ Grailbird.data.tweets_2013_07 =
       "id" : 357219030974746624,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPUY0OhCUAAUtgs.jpg",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 480,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 480,
         "resize" : "fit",
@@ -1154,13 +1154,13 @@ Grailbird.data.tweets_2013_07 =
         "id" : 357219030974746624,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPUY0OhCUAAUtgs.jpg",
         "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 480,
           "resize" : "fit",
           "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 480,
           "resize" : "fit",
@@ -1375,13 +1375,13 @@ Grailbird.data.tweets_2013_07 =
       "id" : 355083875606728705,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BO2C508CEAE6FZq.jpg",
       "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 519,
         "resize" : "fit",
         "w" : 578
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 519,
         "resize" : "fit",
@@ -1422,13 +1422,13 @@ Grailbird.data.tweets_2013_07 =
         "id" : 355083875606728705,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BO2C508CEAE6FZq.jpg",
         "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 519,
           "resize" : "fit",
           "w" : 578
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 519,
           "resize" : "fit",
