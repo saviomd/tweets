@@ -132,7 +132,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Cut_The_Rope",
       "protected" : false,
       "id_str" : "206348770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941325077685178368\/aUmZORqO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001082379417604096\/NJ-xYIK0_normal.jpg",
       "id" : 206348770,
       "verified" : true
     }
@@ -372,6 +372,7 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/h2ebyeifV1"
     } ],
     "hashtags" : [ ],
@@ -1518,7 +1519,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1545,7 +1546,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 366617324511432704,
     "created_at" : "2013-08-11 17:49:16 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1920,7 +1921,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "364199470528868352",
   "text" : "RT @pingdom: 27 things only developers will find funny http:\/\/t.co\/vroBnPltJc",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1942,7 +1943,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "pingdom",
       "protected" : false,
       "id_str" : "15674759",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939128676284862465\/xqGYaAsA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982318908383178752\/wQyfejhd_normal.jpg",
       "id" : 15674759,
       "verified" : true
     }
@@ -2025,7 +2026,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "363701304759042050",
   "text" : "RT @almirfilho: Let\u2019s stop customizing form elements http:\/\/t.co\/kGjBp710jH",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

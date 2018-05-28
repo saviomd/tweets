@@ -1080,7 +1080,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "14278629",
       "id" : 14278629
     }, {
-      "name" : "Naiara",
+      "name" : "Lucille Bluth",
       "screen_name" : "maquillage",
       "indices" : [ 21, 32 ],
       "id_str" : "8407322",
@@ -1097,7 +1097,7 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Naiara",
+        "name" : "Lucille Bluth",
         "screen_name" : "maquillage",
         "indices" : [ 9, 20 ],
         "id_str" : "8407322",

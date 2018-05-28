@@ -193,7 +193,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -236,7 +236,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 74013895639056384,
     "created_at" : "2011-05-27 07:27:42 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

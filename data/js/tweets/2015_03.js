@@ -64,6 +64,7 @@ Grailbird.data.tweets_2015_03 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/xsC4fqwrW7"
       } ],
       "hashtags" : [ {
@@ -187,7 +188,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -292,7 +293,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -363,6 +364,7 @@ Grailbird.data.tweets_2015_03 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/51SFPKnVfU"
       } ],
       "hashtags" : [ ],
@@ -465,6 +467,7 @@ Grailbird.data.tweets_2015_03 =
         "resize" : "fit",
         "w" : 960
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/C00fwuhcj8"
     } ],
     "hashtags" : [ ],
@@ -506,6 +509,7 @@ Grailbird.data.tweets_2015_03 =
           "resize" : "fit",
           "w" : 960
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/C00fwuhcj8"
       } ],
       "hashtags" : [ ],
@@ -691,6 +695,7 @@ Grailbird.data.tweets_2015_03 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9Ex62TRQJL"
     } ],
     "hashtags" : [ ],
@@ -737,6 +742,7 @@ Grailbird.data.tweets_2015_03 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9Ex62TRQJL"
       } ],
       "hashtags" : [ ],
@@ -812,6 +818,7 @@ Grailbird.data.tweets_2015_03 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/GAiX0TPAHm"
     } ],
     "hashtags" : [ ],
@@ -853,6 +860,7 @@ Grailbird.data.tweets_2015_03 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/GAiX0TPAHm"
       } ],
       "hashtags" : [ ],
@@ -1175,6 +1183,7 @@ Grailbird.data.tweets_2015_03 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/th4M8aBwkS"
     } ],
     "hashtags" : [ {
@@ -1225,6 +1234,7 @@ Grailbird.data.tweets_2015_03 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/th4M8aBwkS"
       } ],
       "hashtags" : [ {
@@ -1243,7 +1253,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913752125322272769\/tqc-KL72_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999661540419690498\/4Pq10ueS_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -1312,6 +1322,7 @@ Grailbird.data.tweets_2015_03 =
           "resize" : "fit",
           "w" : 547
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/80SgqMyW7U"
       } ],
       "hashtags" : [ {
@@ -1330,7 +1341,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

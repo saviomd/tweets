@@ -104,6 +104,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sU2dgZv9s8"
     } ],
     "hashtags" : [ ],
@@ -145,6 +146,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sU2dgZv9s8"
       } ],
       "hashtags" : [ ],
@@ -221,6 +223,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 1430
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DHUbrYKExm"
     } ],
     "hashtags" : [ ],
@@ -268,6 +271,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1430
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DHUbrYKExm"
       } ],
       "hashtags" : [ ],
@@ -283,74 +287,13 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "GMA",
       "protected" : false,
       "id_str" : "22650211",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877857561600512000\/C01UPLUd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986719394590932992\/D7uC5Dnm_normal.jpg",
       "id" : 22650211,
       "verified" : true
     }
   },
   "id" : 878018809289953280,
   "created_at" : "2017-06-22 22:36:11 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Max \u201CTim Van Damme\u201D Voltar",
-      "screen_name" : "maxvoltar",
-      "indices" : [ 3, 13 ],
-      "id_str" : "2727051",
-      "id" : 2727051
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 71, 94 ],
-      "url" : "https:\/\/t.co\/rcgBXASqMm",
-      "expanded_url" : "http:\/\/www.sphero.com\/pixar\/lmq",
-      "display_url" : "sphero.com\/pixar\/lmq"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "877864386240454657",
-  "text" : "RT @maxvoltar: Holy crap, RC cars just got taken to a whole new level. https:\/\/t.co\/rcgBXASqMm",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 56, 79 ],
-        "url" : "https:\/\/t.co\/rcgBXASqMm",
-        "expanded_url" : "http:\/\/www.sphero.com\/pixar\/lmq",
-        "display_url" : "sphero.com\/pixar\/lmq"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "877654695455539200",
-    "text" : "Holy crap, RC cars just got taken to a whole new level. https:\/\/t.co\/rcgBXASqMm",
-    "id" : 877654695455539200,
-    "created_at" : "2017-06-21 22:29:20 +0000",
-    "user" : {
-      "name" : "Max \u201CTim Van Damme\u201D Voltar",
-      "screen_name" : "maxvoltar",
-      "protected" : false,
-      "id_str" : "2727051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/910375769666461699\/To9Kqyc9_normal.jpg",
-      "id" : 2727051,
-      "verified" : true
-    }
-  },
-  "id" : 877864386240454657,
-  "created_at" : "2017-06-22 12:22:34 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -405,6 +348,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lATMxGVyAc"
     } ],
     "hashtags" : [ ],
@@ -452,6 +396,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lATMxGVyAc"
       } ],
       "hashtags" : [ ],
@@ -594,6 +539,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SdWekG16S5"
       } ],
       "hashtags" : [ ],
@@ -609,7 +555,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "Hitman",
       "protected" : false,
       "id_str" : "67306920",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942739404019429377\/_DwT6Dbc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956195132902166528\/bQeeyX_S_normal.jpg",
       "id" : 67306920,
       "verified" : true
     }
@@ -687,6 +633,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PNxgyq9Dm5"
       } ],
       "hashtags" : [ ],
@@ -816,6 +763,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3MpySu0NBf"
     } ],
     "hashtags" : [ {
@@ -860,6 +808,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3MpySu0NBf"
       } ],
       "hashtags" : [ {
@@ -966,6 +915,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nR27POQkEi"
     } ],
     "hashtags" : [ ],
@@ -1012,6 +962,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nR27POQkEi"
       } ],
       "hashtags" : [ ],
@@ -1087,6 +1038,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 1560
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pxGizgXEKu"
     } ],
     "hashtags" : [ ],
@@ -1133,6 +1085,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1560
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pxGizgXEKu"
       } ],
       "hashtags" : [ ],
@@ -1255,6 +1208,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/95U3GUTfhv"
       } ],
       "hashtags" : [ ],
@@ -1422,6 +1376,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1piLJ0Kftc"
       } ],
       "hashtags" : [ {
@@ -1518,6 +1473,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ju63vDblAO"
       } ],
       "hashtags" : [ ],
@@ -1628,6 +1584,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/8aC0mJub0k"
       } ],
       "hashtags" : [ ],
@@ -1833,6 +1790,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HuT43VGJ6R"
       } ],
       "hashtags" : [ {
@@ -1985,7 +1943,7 @@ Grailbird.data.tweets_2017_06 =
       "id_str" : "558797310",
       "id" : 558797310
     }, {
-      "name" : "Real Madrid C.F.",
+      "name" : "#CHAMP13NS \uD83C\uDFC6\u26BD\uFE0F",
       "screen_name" : "realmadrid",
       "indices" : [ 34, 45 ],
       "id_str" : "14872237",
@@ -2022,7 +1980,7 @@ Grailbird.data.tweets_2017_06 =
         "id_str" : "558797310",
         "id" : 558797310
       }, {
-        "name" : "Real Madrid C.F.",
+        "name" : "#CHAMP13NS \uD83C\uDFC6\u26BD\uFE0F",
         "screen_name" : "realmadrid",
         "indices" : [ 22, 33 ],
         "id_str" : "14872237",
@@ -2063,6 +2021,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 2047
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Wc4mxjrT1U"
       } ],
       "hashtags" : [ {
@@ -2163,6 +2122,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vvFiIiACGT"
       } ],
       "hashtags" : [ {
@@ -2297,6 +2257,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Rt4SBHXfyj"
     } ],
     "hashtags" : [ ],
@@ -2338,6 +2299,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Rt4SBHXfyj"
       } ],
       "hashtags" : [ ],
@@ -2422,6 +2384,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 720
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lWdhXT4FeA"
       } ],
       "hashtags" : [ {
@@ -2602,6 +2565,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nqbJ7fSx0B"
     } ],
     "hashtags" : [ ],
@@ -2643,6 +2607,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nqbJ7fSx0B"
       } ],
       "hashtags" : [ ],
@@ -2658,7 +2623,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2746,6 +2711,7 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 1858
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pwxCOwaVbH"
     } ],
     "hashtags" : [ ],
@@ -2787,6 +2753,7 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 1858
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pwxCOwaVbH"
       } ],
       "hashtags" : [ ],

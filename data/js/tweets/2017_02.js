@@ -95,6 +95,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 1800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JsB4sGGux2"
     } ],
     "hashtags" : [ ],
@@ -142,6 +143,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 1800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/JsB4sGGux2"
       } ],
       "hashtags" : [ ],
@@ -258,6 +260,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rgEjho2xFL"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/FUTBOX\/status\/835528701655810048\/photo\/1",
@@ -288,6 +291,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rgEjho2xFL"
       } ],
       "hashtags" : [ {
@@ -443,6 +447,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 1916
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RpNGeOWqsk"
     } ],
     "hashtags" : [ ],
@@ -489,6 +494,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 1916
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RpNGeOWqsk"
       } ],
       "hashtags" : [ ],
@@ -602,7 +608,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2603\uFE0FSusan Fowler\uD83C\uDF84",
+      "name" : "Susan Fowler",
       "screen_name" : "susanthesquark",
       "indices" : [ 3, 18 ],
       "id_str" : "4625037762",
@@ -639,11 +645,11 @@ Grailbird.data.tweets_2017_02 =
     "id" : 833415550638313472,
     "created_at" : "2017-02-19 20:38:46 +0000",
     "user" : {
-      "name" : "\u2603\uFE0FSusan Fowler\uD83C\uDF84",
+      "name" : "Susan Fowler",
       "screen_name" : "susanthesquark",
       "protected" : false,
       "id_str" : "4625037762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930869118751739905\/JKth8as5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994749220702732288\/2UEeAk_a_normal.jpg",
       "id" : 4625037762,
       "verified" : true
     }
@@ -724,6 +730,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/hNzb8iOEUF"
       } ],
       "hashtags" : [ {
@@ -886,6 +893,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 460
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BQa63rrjYh"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/LeaVerou\/status\/832364488842149888\/photo\/1",
@@ -916,6 +924,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BQa63rrjYh"
       } ],
       "hashtags" : [ ],
@@ -956,7 +965,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FC  Bayern US",
+      "name" : "FC Bayern US",
       "screen_name" : "FCBayernUS",
       "indices" : [ 3, 14 ],
       "id_str" : "2968303511",
@@ -991,6 +1000,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 2500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/n3GjjA06Kv"
     } ],
     "hashtags" : [ {
@@ -1035,6 +1045,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 2500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/n3GjjA06Kv"
       } ],
       "hashtags" : [ {
@@ -1049,11 +1060,11 @@ Grailbird.data.tweets_2017_02 =
     "id" : 831955472441868288,
     "created_at" : "2017-02-15 19:56:56 +0000",
     "user" : {
-      "name" : "FC  Bayern US",
+      "name" : "FC Bayern US",
       "screen_name" : "FCBayernUS",
       "protected" : false,
       "id_str" : "2968303511",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874310503446835201\/1z6rMWGb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969185426371211264\/Qu_9fZ7U_normal.jpg",
       "id" : 2968303511,
       "verified" : true
     }
@@ -1108,6 +1119,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 448
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/u1S6eLfYoe"
     } ],
     "hashtags" : [ ],
@@ -1149,6 +1161,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 448
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/u1S6eLfYoe"
       } ],
       "hashtags" : [ ],
@@ -1245,7 +1258,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Flamengo - English",
+      "name" : "Flamengo",
       "screen_name" : "Flamengo_en",
       "indices" : [ 3, 15 ],
       "id_str" : "2308951530",
@@ -1288,11 +1301,11 @@ Grailbird.data.tweets_2017_02 =
     "id" : 831910415638601728,
     "created_at" : "2017-02-15 16:57:53 +0000",
     "user" : {
-      "name" : "Flamengo - English",
+      "name" : "Flamengo",
       "screen_name" : "Flamengo_en",
       "protected" : false,
       "id_str" : "2308951530",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263765285437440\/BWTXPGGD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990932824839606273\/Hel4o1ex_normal.jpg",
       "id" : 2308951530,
       "verified" : true
     }
@@ -1347,6 +1360,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 665
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/b2KG7NN3xA"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/comedysavage\/status\/831305585777901568\/photo\/1",
@@ -1377,6 +1391,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 1741
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/b2KG7NN3xA"
     } ],
     "hashtags" : [ ],
@@ -1418,6 +1433,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 665
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/b2KG7NN3xA"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/comedysavage\/status\/831305585777901568\/photo\/1",
@@ -1448,6 +1464,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 1741
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/b2KG7NN3xA"
       } ],
       "hashtags" : [ ],
@@ -1518,6 +1535,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EzPzv5gysR"
     } ],
     "hashtags" : [ ],
@@ -1559,6 +1577,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EzPzv5gysR"
       } ],
       "hashtags" : [ ],
@@ -1574,7 +1593,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1667,6 +1686,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/zM5STtFaKE"
       } ],
       "hashtags" : [ ],
@@ -1743,6 +1763,7 @@ Grailbird.data.tweets_2017_02 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KHo8wlNVZc"
     } ],
     "hashtags" : [ {
@@ -1793,6 +1814,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KHo8wlNVZc"
       } ],
       "hashtags" : [ {
@@ -1877,6 +1899,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nHgMqPr3jJ"
       } ],
       "hashtags" : [ ],
@@ -1897,7 +1920,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -2005,6 +2028,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FZLn9nyapW"
       } ],
       "hashtags" : [ {
@@ -2273,8 +2297,8 @@ Grailbird.data.tweets_2017_02 =
       "name" : "Linda Holmes",
       "screen_name" : "nprmonkeysee",
       "indices" : [ 30, 43 ],
-      "id_str" : "15638615",
-      "id" : 15638615
+      "id_str" : "979094635388850176",
+      "id" : 979094635388850176
     }, {
       "name" : "Connie Britton",
       "screen_name" : "conniebritton",
@@ -2296,8 +2320,8 @@ Grailbird.data.tweets_2017_02 =
         "name" : "Linda Holmes",
         "screen_name" : "nprmonkeysee",
         "indices" : [ 15, 28 ],
-        "id_str" : "15638615",
-        "id" : 15638615
+        "id_str" : "979094635388850176",
+        "id" : 979094635388850176
       }, {
         "name" : "Connie Britton",
         "screen_name" : "conniebritton",
@@ -2334,6 +2358,7 @@ Grailbird.data.tweets_2017_02 =
           "resize" : "fit",
           "w" : 514
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/A59Q3mCkve"
       } ],
       "hashtags" : [ ],

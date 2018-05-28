@@ -366,6 +366,7 @@ Grailbird.data.tweets_2012_03 =
         "resize" : "fit",
         "w" : 795
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/q3gKXNJZ"
     } ],
     "hashtags" : [ ],
@@ -783,7 +784,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -810,7 +811,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 181464489579909120,
     "created_at" : "2012-03-18 19:38:00 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1804,7 +1805,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1831,7 +1832,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 177968932131581952,
     "created_at" : "2012-03-09 04:07:54 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1896,7 +1897,7 @@ Grailbird.data.tweets_2012_03 =
   "id_str" : "177835951505158144",
   "text" : "RT @tableless: Custom scrollbars Jquery Plugin (full of features) - http:\/\/t.co\/QudBXHae",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

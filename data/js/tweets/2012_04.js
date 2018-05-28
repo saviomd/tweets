@@ -437,6 +437,7 @@ Grailbird.data.tweets_2012_04 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UUMhvJ8u"
     } ],
     "hashtags" : [ ],
@@ -1073,6 +1074,7 @@ Grailbird.data.tweets_2012_04 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cGktCc6l"
     } ],
     "hashtags" : [ ],
@@ -1181,7 +1183,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }
@@ -1261,7 +1263,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "352248873",
       "id" : 352248873
     }, {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 16, 24 ],
       "id_str" : "26618823",
@@ -1283,7 +1285,7 @@ Grailbird.data.tweets_2012_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg\u262E",
+        "name" : "\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",

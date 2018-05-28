@@ -2,117 +2,6 @@ Grailbird.data.tweets_2017_11 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "banksy",
-      "screen_name" : "thereaIbanksy",
-      "indices" : [ 3, 17 ],
-      "id_str" : "1542533869",
-      "id" : 1542533869
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/thereaIbanksy\/status\/935631392142254080\/photo\/1",
-      "indices" : [ 92, 115 ],
-      "url" : "https:\/\/t.co\/kavW9SBvpg",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DPwHyokWkAACAxX.jpg",
-      "id_str" : "935631389050966016",
-      "id" : 935631389050966016,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DPwHyokWkAACAxX.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1593,
-        "resize" : "fit",
-        "w" : 1062
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 800
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 453
-      }, {
-        "h" : 1593,
-        "resize" : "fit",
-        "w" : 1062
-      } ],
-      "display_url" : "pic.twitter.com\/kavW9SBvpg"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "936284097047072769",
-  "text" : "RT @thereaIbanksy: This photo is from 1955, it was called \"a few seconds before happiness\". https:\/\/t.co\/kavW9SBvpg",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/thereaIbanksy\/status\/935631392142254080\/photo\/1",
-        "indices" : [ 73, 96 ],
-        "url" : "https:\/\/t.co\/kavW9SBvpg",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DPwHyokWkAACAxX.jpg",
-        "id_str" : "935631389050966016",
-        "id" : 935631389050966016,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DPwHyokWkAACAxX.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1593,
-          "resize" : "fit",
-          "w" : 1062
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 800
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 453
-        }, {
-          "h" : 1593,
-          "resize" : "fit",
-          "w" : 1062
-        } ],
-        "display_url" : "pic.twitter.com\/kavW9SBvpg"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "935631392142254080",
-    "text" : "This photo is from 1955, it was called \"a few seconds before happiness\". https:\/\/t.co\/kavW9SBvpg",
-    "id" : 935631392142254080,
-    "created_at" : "2017-11-28 22:08:01 +0000",
-    "user" : {
-      "name" : "banksy",
-      "screen_name" : "thereaIbanksy",
-      "protected" : false,
-      "id_str" : "1542533869",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000643505271\/80c2ea605ed52d7996f4146bf4c7481f_normal.jpeg",
-      "id" : 1542533869,
-      "verified" : false
-    }
-  },
-  "id" : 936284097047072769,
-  "created_at" : "2017-11-30 17:21:38 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -237,6 +126,7 @@ Grailbird.data.tweets_2017_11 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BlbryvSn6E"
     } ],
     "hashtags" : [ ],
@@ -278,6 +168,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 1080
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BlbryvSn6E"
       } ],
       "hashtags" : [ ],
@@ -293,7 +184,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "eliistender10",
       "protected" : false,
       "id_str" : "23483816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940906753595793408\/YIy1SA2I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970408850175287296\/Z-as6wfb_normal.jpg",
       "id" : 23483816,
       "verified" : true
     }
@@ -367,6 +258,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4puXypGVV9"
       } ],
       "hashtags" : [ {
@@ -390,7 +282,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -456,6 +348,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Jh1g7OmGeu"
       } ],
       "hashtags" : [ ],
@@ -471,7 +364,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -543,6 +436,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LA0cXpC7oX"
       } ],
       "hashtags" : [ ],
@@ -685,6 +579,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/wFkpsWnRBu"
       } ],
       "hashtags" : [ {
@@ -703,7 +598,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -723,7 +618,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Teddy Dief",
+      "name" : "Teddy Dief \u2708\uFE0E\uD83C\uDDEF\uD83C\uDDF5",
       "screen_name" : "TeddyDief",
       "indices" : [ 3, 13 ],
       "id_str" : "188668717",
@@ -761,11 +656,11 @@ Grailbird.data.tweets_2017_11 =
     "id" : 928700293537239040,
     "created_at" : "2017-11-09 19:06:19 +0000",
     "user" : {
-      "name" : "Teddy Dief",
+      "name" : "Teddy Dief \u2708\uFE0E\uD83C\uDDEF\uD83C\uDDF5",
       "screen_name" : "TeddyDief",
       "protected" : false,
       "id_str" : "188668717",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899897312130068480\/Lo-kAlsb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/989798112423100416\/WPfgw6j6_normal.jpg",
       "id" : 188668717,
       "verified" : true
     }
@@ -963,6 +858,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 1080
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DVCSTGlGGc"
       } ],
       "hashtags" : [ {
@@ -1073,13 +969,13 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "11250",
       "id" : 11250
     }, {
-      "name" : "Owen CM @ London",
+      "name" : "Owen Campbell-Moore",
       "screen_name" : "owencm",
       "indices" : [ 34, 41 ],
       "id_str" : "14114731",
       "id" : 14114731
     }, {
-      "name" : "Ada Rose Cannon ada@mastodon.social",
+      "name" : "Ada Rose Cannon",
       "screen_name" : "Lady_Ada_King",
       "indices" : [ 43, 57 ],
       "id_str" : "216348755",
@@ -1119,13 +1015,13 @@ Grailbird.data.tweets_2017_11 =
     "source" : "\u003Ca href=\"http:\/\/adactio.com\/\" rel=\"nofollow\"\u003Eadactio.com\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Owen CM @ London",
+        "name" : "Owen Campbell-Moore",
         "screen_name" : "owencm",
         "indices" : [ 21, 28 ],
         "id_str" : "14114731",
         "id" : 14114731
       }, {
-        "name" : "Ada Rose Cannon ada@mastodon.social",
+        "name" : "Ada Rose Cannon",
         "screen_name" : "Lady_Ada_King",
         "indices" : [ 30, 44 ],
         "id_str" : "216348755",
@@ -1252,6 +1148,7 @@ Grailbird.data.tweets_2017_11 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4TBBg6qQKS"
       } ],
       "hashtags" : [ {
@@ -1282,7 +1179,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "ManxomeMia",
       "protected" : false,
       "id_str" : "2459340186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853110722141630465\/60r9Q9Eg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/963161517205045248\/ziUa9RP9_normal.jpg",
       "id" : 2459340186,
       "verified" : false
     }

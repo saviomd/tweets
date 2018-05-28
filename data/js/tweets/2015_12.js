@@ -38,6 +38,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 620
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XbJpW4q3P4"
     } ],
     "hashtags" : [ ],
@@ -84,6 +85,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/XbJpW4q3P4"
       } ],
       "hashtags" : [ ],
@@ -236,6 +238,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Tm92AuKkur"
     } ],
     "hashtags" : [ ],
@@ -282,6 +285,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Tm92AuKkur"
       } ],
       "hashtags" : [ ],
@@ -382,6 +386,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PNhVp4ueHQ"
       } ],
       "hashtags" : [ {
@@ -472,6 +477,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sCMBNaw7xU"
     } ],
     "hashtags" : [ {
@@ -522,6 +528,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sCMBNaw7xU"
       } ],
       "hashtags" : [ {
@@ -595,6 +602,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 612
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jjUJtgQZz8"
     } ],
     "hashtags" : [ ],
@@ -636,6 +644,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 612
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jjUJtgQZz8"
       } ],
       "hashtags" : [ ],
@@ -706,6 +715,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 810
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oHCkTSSZfz"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/ZackSnyder\/status\/677214082378911744\/photo\/1",
@@ -736,6 +746,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 810
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oHCkTSSZfz"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/ZackSnyder\/status\/677214082378911744\/photo\/1",
@@ -766,6 +777,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 810
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oHCkTSSZfz"
     } ],
     "hashtags" : [ ],
@@ -807,6 +819,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 810
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oHCkTSSZfz"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ZackSnyder\/status\/677214082378911744\/photo\/1",
@@ -837,6 +850,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 810
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oHCkTSSZfz"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ZackSnyder\/status\/677214082378911744\/photo\/1",
@@ -867,6 +881,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 810
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oHCkTSSZfz"
       } ],
       "hashtags" : [ ],
@@ -1076,6 +1091,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 421
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/xdPfRq7GaW"
     } ],
     "hashtags" : [ ],
@@ -1117,6 +1133,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 421
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/xdPfRq7GaW"
       } ],
       "hashtags" : [ ],
@@ -1187,6 +1204,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AAytk3Tdoo"
     } ],
     "hashtags" : [ ],
@@ -1233,6 +1251,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/AAytk3Tdoo"
       } ],
       "hashtags" : [ ],
@@ -1364,6 +1383,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RODmw0l2xq"
     } ],
     "hashtags" : [ {
@@ -1408,6 +1428,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RODmw0l2xq"
       } ],
       "hashtags" : [ {
@@ -1481,6 +1502,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KDZUGBsaVc"
     } ],
     "hashtags" : [ ],
@@ -1527,6 +1549,7 @@ Grailbird.data.tweets_2015_12 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KDZUGBsaVc"
       } ],
       "hashtags" : [ ],
@@ -1818,6 +1841,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EfODVQN8Vg"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/672231988628201472\/photo\/1",
@@ -1848,6 +1872,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EfODVQN8Vg"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/saviomd\/status\/672231988628201472\/photo\/1",
@@ -1878,6 +1903,7 @@ Grailbird.data.tweets_2015_12 =
         "resize" : "fit",
         "w" : 1530
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EfODVQN8Vg"
     } ],
     "hashtags" : [ ],

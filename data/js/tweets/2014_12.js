@@ -65,6 +65,7 @@ Grailbird.data.tweets_2014_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JBc9KeQCWp"
     } ],
     "hashtags" : [ ],
@@ -111,6 +112,7 @@ Grailbird.data.tweets_2014_12 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/JBc9KeQCWp"
       } ],
       "hashtags" : [ ],
@@ -326,6 +328,7 @@ Grailbird.data.tweets_2014_12 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/cJhrIGNBrB"
       } ],
       "hashtags" : [ ],
@@ -401,6 +404,7 @@ Grailbird.data.tweets_2014_12 =
         "resize" : "fit",
         "w" : 550
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jIZ0Oj5dtH"
     } ],
     "hashtags" : [ ],
@@ -447,6 +451,7 @@ Grailbird.data.tweets_2014_12 =
           "resize" : "fit",
           "w" : 550
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jIZ0Oj5dtH"
       } ],
       "hashtags" : [ ],
@@ -501,7 +506,7 @@ Grailbird.data.tweets_2014_12 =
   "id_str" : "544471849141542912",
   "text" : "RT @shiota: Commits where deletions &gt; insertions: the best commits.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -573,6 +578,7 @@ Grailbird.data.tweets_2014_12 =
         "resize" : "fit",
         "w" : 690
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HIHnBy1HRg"
     } ],
     "hashtags" : [ ],
@@ -619,6 +625,7 @@ Grailbird.data.tweets_2014_12 =
           "resize" : "fit",
           "w" : 690
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HIHnBy1HRg"
       } ],
       "hashtags" : [ ],
@@ -806,6 +813,7 @@ Grailbird.data.tweets_2014_12 =
           "resize" : "fit",
           "w" : 940
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/v2x7HzAKyK"
       } ],
       "hashtags" : [ {

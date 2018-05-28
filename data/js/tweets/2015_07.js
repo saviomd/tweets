@@ -38,6 +38,7 @@ Grailbird.data.tweets_2015_07 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Vg7UIZ2voq"
     } ],
     "hashtags" : [ ],
@@ -84,6 +85,7 @@ Grailbird.data.tweets_2015_07 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Vg7UIZ2voq"
       } ],
       "hashtags" : [ ],
@@ -186,6 +188,7 @@ Grailbird.data.tweets_2015_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VEoCQhO2Ie"
     } ],
     "hashtags" : [ {
@@ -233,6 +236,7 @@ Grailbird.data.tweets_2015_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VEoCQhO2Ie"
       } ],
       "hashtags" : [ {
@@ -536,6 +540,7 @@ Grailbird.data.tweets_2015_07 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/M0Kytx5oYJ"
     } ],
     "hashtags" : [ {
@@ -583,6 +588,7 @@ Grailbird.data.tweets_2015_07 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/M0Kytx5oYJ"
       } ],
       "hashtags" : [ {
@@ -682,6 +688,7 @@ Grailbird.data.tweets_2015_07 =
           "resize" : "fit",
           "w" : 639
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/iPmXQZ3Fyn"
       } ],
       "hashtags" : [ {
@@ -830,6 +837,7 @@ Grailbird.data.tweets_2015_07 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QHGC33eo9M"
     } ],
     "hashtags" : [ ],
@@ -876,6 +884,7 @@ Grailbird.data.tweets_2015_07 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/QHGC33eo9M"
       } ],
       "hashtags" : [ ],

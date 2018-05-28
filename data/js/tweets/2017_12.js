@@ -61,6 +61,7 @@ Grailbird.data.tweets_2017_12 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/dnHKBOfCGl"
       } ],
       "hashtags" : [ {
@@ -152,6 +153,7 @@ Grailbird.data.tweets_2017_12 =
         "resize" : "fit",
         "w" : 388
       } ],
+      "media_alt" : "Screenshot of 4 tweets in my twitter feed, all commenting on Safari having service worker support",
       "display_url" : "pic.twitter.com\/prhFA7QakD"
     } ],
     "hashtags" : [ ],
@@ -193,6 +195,7 @@ Grailbird.data.tweets_2017_12 =
           "resize" : "fit",
           "w" : 388
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/prhFA7QakD"
       } ],
       "hashtags" : [ ],
@@ -365,6 +368,7 @@ Grailbird.data.tweets_2017_12 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/TX6pSWYqWq"
       } ],
       "hashtags" : [ {
@@ -383,75 +387,13 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "StreetFighter",
       "protected" : false,
       "id_str" : "356745883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943235225001246720\/co9lG8E3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999727021776351237\/j-rxNC2S_normal.jpg",
       "id" : 356745883,
       "verified" : true
     }
   },
   "id" : 940025248749043712,
   "created_at" : "2017-12-11 01:07:38 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Charlotte Alter",
-      "screen_name" : "CharlotteAlter",
-      "indices" : [ 3, 18 ],
-      "id_str" : "774510134",
-      "id" : 774510134
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "938589838470627328",
-  "text" : "RT @CharlotteAlter: This was conceived, reported and written by women. It was fact-checked by women. The video was shot and edited by women\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "TIME",
-        "screen_name" : "TIME",
-        "indices" : [ 218, 223 ],
-        "id_str" : "14293310",
-        "id" : 14293310
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 225, 248 ],
-        "url" : "https:\/\/t.co\/ekMMIBV0Vc",
-        "expanded_url" : "https:\/\/twitter.com\/TIME\/status\/938386081795502080",
-        "display_url" : "twitter.com\/TIME\/status\/93\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "938388795342323712",
-    "text" : "This was conceived, reported and written by women. It was fact-checked by women. The video was shot and edited by women. The layout and photo spread were designed by women. It's one of the reasons I'm proud to work at @time  https:\/\/t.co\/ekMMIBV0Vc",
-    "id" : 938388795342323712,
-    "created_at" : "2017-12-06 12:44:57 +0000",
-    "user" : {
-      "name" : "Charlotte Alter",
-      "screen_name" : "CharlotteAlter",
-      "protected" : false,
-      "id_str" : "774510134",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857121267098537985\/qCsOifXX_normal.jpg",
-      "id" : 774510134,
-      "verified" : true
-    }
-  },
-  "id" : 938589838470627328,
-  "created_at" : "2017-12-07 02:03:50 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -500,6 +442,7 @@ Grailbird.data.tweets_2017_12 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VWKT1eXuYd"
     } ],
     "hashtags" : [ ],
@@ -541,6 +484,7 @@ Grailbird.data.tweets_2017_12 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VWKT1eXuYd"
       } ],
       "hashtags" : [ ],
@@ -670,6 +614,7 @@ Grailbird.data.tweets_2017_12 =
         "resize" : "fit",
         "w" : 720
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/liwoVZepLK"
     } ],
     "hashtags" : [ {
@@ -717,6 +662,7 @@ Grailbird.data.tweets_2017_12 =
           "resize" : "fit",
           "w" : 720
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/liwoVZepLK"
       } ],
       "hashtags" : [ {

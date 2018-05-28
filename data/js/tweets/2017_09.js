@@ -38,6 +38,7 @@ Grailbird.data.tweets_2017_09 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8VI12NHTEO"
     } ],
     "hashtags" : [ ],
@@ -79,6 +80,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/8VI12NHTEO"
       } ],
       "hashtags" : [ ],
@@ -183,6 +185,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 629
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lZfZ8XKTRe"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/FUTBOX\/status\/914163109803282432\/photo\/1",
@@ -213,6 +216,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 629
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lZfZ8XKTRe"
       } ],
       "hashtags" : [ {
@@ -311,7 +315,7 @@ Grailbird.data.tweets_2017_09 =
   "id_str" : "913155799635169285",
   "text" : "RT @chriscoyier: Along these lines: https:\/\/t.co\/OyfA0HqER6\n\nHave you ever DevTool'd your way to success on some hanky site?",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -449,6 +453,7 @@ Grailbird.data.tweets_2017_09 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AAhVGFqDgj"
     } ],
     "hashtags" : [ {
@@ -496,6 +501,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/AAhVGFqDgj"
       } ],
       "hashtags" : [ {
@@ -795,6 +801,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ibDEa3rE4V"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/910474045757542401\/photo\/1",
@@ -825,6 +832,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 990
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ibDEa3rE4V"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/910474045757542401\/photo\/1",
@@ -855,6 +863,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 990
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ibDEa3rE4V"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/IronMaiden\/status\/910474045757542401\/photo\/1",
@@ -885,6 +894,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 990
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ibDEa3rE4V"
       } ],
       "hashtags" : [ ],
@@ -960,6 +970,7 @@ Grailbird.data.tweets_2017_09 =
         "resize" : "fit",
         "w" : 720
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Kk3mGjL1Qq"
     } ],
     "hashtags" : [ ],
@@ -1001,6 +1012,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 720
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Kk3mGjL1Qq"
       } ],
       "hashtags" : [ ],
@@ -1016,7 +1028,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "satherax",
       "protected" : false,
       "id_str" : "1271379486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947612326152335361\/1yT5PsxL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985285122202226688\/hk-xB5vA_normal.jpg",
       "id" : 1271379486,
       "verified" : false
     }
@@ -1134,7 +1146,7 @@ Grailbird.data.tweets_2017_09 =
   "id_str" : "910271590939725824",
   "text" : "RT @github: Thank you for helping us fix bugs, add new features, and get GitHub Desktop 1.0 ready for launch! https:\/\/t.co\/2FSS3j8K4P",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1225,6 +1237,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/B010AykvoH"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/910163562219413504\/photo\/1",
@@ -1255,6 +1268,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/B010AykvoH"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/910163562219413504\/photo\/1",
@@ -1285,6 +1299,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/B010AykvoH"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/910163562219413504\/photo\/1",
@@ -1315,6 +1330,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/B010AykvoH"
       } ],
       "hashtags" : [ {
@@ -1404,6 +1420,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1918
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KDGqNz0DaF"
       } ],
       "hashtags" : [ ],
@@ -1479,6 +1496,7 @@ Grailbird.data.tweets_2017_09 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/a6W6C3PNV9"
     } ],
     "hashtags" : [ ],
@@ -1525,6 +1543,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/a6W6C3PNV9"
       } ],
       "hashtags" : [ ],
@@ -1661,6 +1680,7 @@ Grailbird.data.tweets_2017_09 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iNxXQXx1Pn"
     } ],
     "hashtags" : [ ],
@@ -1675,7 +1695,7 @@ Grailbird.data.tweets_2017_09 =
   "id_str" : "908001255439695872",
   "text" : "RT @superhi_: We have a new blog post! How to add web design elements that fade on scroll \u2013 https:\/\/t.co\/J1qAnlifHL https:\/\/t.co\/iNxXQXx1Pn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1707,6 +1727,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/iNxXQXx1Pn"
       } ],
       "hashtags" : [ ],
@@ -1959,7 +1980,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eiji Kitamura",
+      "name" : "Eiji Kitamura \/ \u3048\u30FC\u3058",
       "screen_name" : "agektmr",
       "indices" : [ 3, 11 ],
       "id_str" : "3837171",
@@ -1994,6 +2015,7 @@ Grailbird.data.tweets_2017_09 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oyS0Kj27i9"
     } ],
     "hashtags" : [ {
@@ -2038,6 +2060,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oyS0Kj27i9"
       } ],
       "hashtags" : [ {
@@ -2052,7 +2075,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 905289098365210625,
     "created_at" : "2017-09-06 04:38:35 +0000",
     "user" : {
-      "name" : "Eiji Kitamura",
+      "name" : "Eiji Kitamura \/ \u3048\u30FC\u3058",
       "screen_name" : "agektmr",
       "protected" : false,
       "id_str" : "3837171",
@@ -2203,6 +2226,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1080
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bQ5Rr9j90w"
       } ],
       "hashtags" : [ {
@@ -2292,6 +2316,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Zpih5wcLuc"
       } ],
       "hashtags" : [ {
@@ -2370,6 +2395,7 @@ Grailbird.data.tweets_2017_09 =
         "resize" : "fit",
         "w" : 1196
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ywVJwokaCg"
     } ],
     "hashtags" : [ ],
@@ -2411,6 +2437,7 @@ Grailbird.data.tweets_2017_09 =
           "resize" : "fit",
           "w" : 1196
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ywVJwokaCg"
       } ],
       "hashtags" : [ ],
@@ -2487,7 +2514,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "apbattman",
       "protected" : false,
       "id_str" : "2595766728",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928804020180922369\/EvMj2sJ8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982752385897558016\/zga7fAvb_normal.jpg",
       "id" : 2595766728,
       "verified" : false
     }
@@ -2548,7 +2575,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "johnthebeeler",
       "protected" : false,
       "id_str" : "25069445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899820814069108736\/nZt17YXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996844925948870657\/wHYTkHkJ_normal.jpg",
       "id" : 25069445,
       "verified" : false
     }

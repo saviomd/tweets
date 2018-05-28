@@ -56,7 +56,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -117,7 +117,7 @@ Grailbird.data.tweets_2015_01 =
   "id_str" : "560786857739702272",
   "text" : "RT @shiota: Microsoft\u2019s IE11 (Spartan) shows its team\u2019s respect for the web, for developers, and for the users. Impressive. http:\/\/t.co\/02Y\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -159,7 +159,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marido da Zendaya",
+      "name" : "lost boy",
       "screen_name" : "DeDeTex",
       "indices" : [ 3, 11 ],
       "id_str" : "156700775",
@@ -235,6 +235,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 441
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rnQdxy8KUu"
       } ],
       "hashtags" : [ ],
@@ -249,7 +250,7 @@ Grailbird.data.tweets_2015_01 =
     "in_reply_to_screen_name" : "TvColunaFla",
     "in_reply_to_user_id_str" : "829084044",
     "user" : {
-      "name" : "Marido da Zendaya",
+      "name" : "lost boy",
       "screen_name" : "DeDeTex",
       "protected" : false,
       "id_str" : "156700775",
@@ -324,6 +325,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 896
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oA03EGXHoD"
       } ],
       "hashtags" : [ ],
@@ -344,7 +346,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -437,6 +439,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 1028
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/atMlCjUD9U"
       } ],
       "hashtags" : [ ],
@@ -534,6 +537,7 @@ Grailbird.data.tweets_2015_01 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TzFNJV9Qtb"
     } ],
     "hashtags" : [ ],
@@ -575,6 +579,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/TzFNJV9Qtb"
       } ],
       "hashtags" : [ ],
@@ -600,117 +605,6 @@ Grailbird.data.tweets_2015_01 =
   },
   "id" : 558599033628139521,
   "created_at" : "2015-01-23 12:16:02 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uD83C\uDDF9\uD83C\uDDED charlotte \uD83C\uDDF9\uD83C\uDDED",
-      "screen_name" : "idiot",
-      "indices" : [ 3, 9 ],
-      "id_str" : "202571491",
-      "id" : 202571491
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/idiot\/status\/558258044069756929\/photo\/1",
-      "indices" : [ 11, 33 ],
-      "url" : "http:\/\/t.co\/3uh5xo8GiK",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B79Uux3IMAA8zgW.jpg",
-      "id_str" : "558258041452507136",
-      "id" : 558258041452507136,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B79Uux3IMAA8zgW.jpg",
-      "sizes" : [ {
-        "h" : 396,
-        "resize" : "fit",
-        "w" : 620
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 396,
-        "resize" : "fit",
-        "w" : 620
-      }, {
-        "h" : 396,
-        "resize" : "fit",
-        "w" : 620
-      }, {
-        "h" : 396,
-        "resize" : "fit",
-        "w" : 620
-      } ],
-      "display_url" : "pic.twitter.com\/3uh5xo8GiK"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "558396968129794048",
-  "text" : "RT @idiot: http:\/\/t.co\/3uh5xo8GiK",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/idiot\/status\/558258044069756929\/photo\/1",
-        "indices" : [ 0, 22 ],
-        "url" : "http:\/\/t.co\/3uh5xo8GiK",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B79Uux3IMAA8zgW.jpg",
-        "id_str" : "558258041452507136",
-        "id" : 558258041452507136,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B79Uux3IMAA8zgW.jpg",
-        "sizes" : [ {
-          "h" : 396,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 396,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 396,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 396,
-          "resize" : "fit",
-          "w" : 620
-        } ],
-        "display_url" : "pic.twitter.com\/3uh5xo8GiK"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "558258044069756929",
-    "text" : "http:\/\/t.co\/3uh5xo8GiK",
-    "id" : 558258044069756929,
-    "created_at" : "2015-01-22 13:41:04 +0000",
-    "user" : {
-      "name" : "\uD83C\uDDF9\uD83C\uDDED charlotte \uD83C\uDDF9\uD83C\uDDED",
-      "screen_name" : "idiot",
-      "protected" : false,
-      "id_str" : "202571491",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947674249497534464\/rhxVuFjy_normal.jpg",
-      "id" : 202571491,
-      "verified" : false
-    }
-  },
-  "id" : 558396968129794048,
-  "created_at" : "2015-01-22 22:53:06 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -794,6 +688,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/W1tPL3AsiC"
       } ],
       "hashtags" : [ ],
@@ -982,6 +877,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/eRRlzlXfvy"
       } ],
       "hashtags" : [ ],
@@ -1112,6 +1008,7 @@ Grailbird.data.tweets_2015_01 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7EQNVKljkT"
     } ],
     "hashtags" : [ ],
@@ -1158,6 +1055,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/7EQNVKljkT"
       } ],
       "hashtags" : [ ],
@@ -1345,6 +1243,7 @@ Grailbird.data.tweets_2015_01 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ca5XEgH3a8"
     } ],
     "hashtags" : [ {
@@ -1401,6 +1300,7 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ca5XEgH3a8"
       } ],
       "hashtags" : [ {
@@ -1531,7 +1431,7 @@ Grailbird.data.tweets_2015_01 =
   "id_str" : "552991816849817601",
   "text" : "RT @letterboxd: Ladies and gentlemen, the Letterboxd 2014 Year in Review\u2014 http:\/\/t.co\/vZd2gYzBi6\n\nPlease tell your friends.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1666,7 +1566,7 @@ Grailbird.data.tweets_2015_01 =
   "id_str" : "552858069949251584",
   "text" : "RT @karenmcgrane: I would suggest starting your day with a @gadgetopia rant about how we broke HTTP because we are stupid narcissists: http\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Deane Barker",
@@ -1747,7 +1647,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "12815",
       "id" : 12815
     }, {
-      "name" : "Aaron Gustafson \uD83D\uDE80\uD83D\uDD78",
+      "name" : "Aaron Gustafson",
       "screen_name" : "AaronGustafson",
       "indices" : [ 37, 52 ],
       "id_str" : "12028",
@@ -1766,10 +1666,10 @@ Grailbird.data.tweets_2015_01 =
   "id_str" : "552444242887720960",
   "text" : "RT @vpieters: Adaptive Web Design by @AaronGustafson now available for free as an HTML book. http:\/\/t.co\/WHTt6wFMpg",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Aaron Gustafson \uD83D\uDE80\uD83D\uDD78",
+        "name" : "Aaron Gustafson",
         "screen_name" : "AaronGustafson",
         "indices" : [ 23, 38 ],
         "id_str" : "12028",
@@ -1855,7 +1755,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

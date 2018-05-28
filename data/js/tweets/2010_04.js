@@ -97,7 +97,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -124,7 +124,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 13021196818,
     "created_at" : "2010-04-28 18:30:20 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

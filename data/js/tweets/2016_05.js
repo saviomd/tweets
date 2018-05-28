@@ -135,7 +135,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -217,6 +217,7 @@ Grailbird.data.tweets_2016_05 =
         "resize" : "fit",
         "w" : 421
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/joeeydYzCl"
     } ],
     "hashtags" : [ ],
@@ -258,6 +259,7 @@ Grailbird.data.tweets_2016_05 =
           "resize" : "fit",
           "w" : 421
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/joeeydYzCl"
       } ],
       "hashtags" : [ ],
@@ -312,7 +314,7 @@ Grailbird.data.tweets_2016_05 =
   "id_str" : "734940235847634944",
   "text" : "RT @tableless: Estat\u00EDsticas para ajudar a provar a import\u00E2ncia de UX https:\/\/t.co\/B7RCJoJP7L",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -466,6 +468,7 @@ Grailbird.data.tweets_2016_05 =
           "resize" : "fit",
           "w" : 1163
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bvsIowmsoC"
       } ],
       "hashtags" : [ ],
@@ -601,7 +604,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -635,7 +638,7 @@ Grailbird.data.tweets_2016_05 =
   "id_str" : "728289862001037312",
   "text" : "RT @chriscoyier: I like the sentiment \u201Cif a button doesn\u2019t have a meaningful href, it\u2019s a &lt;button&gt;\u201D",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

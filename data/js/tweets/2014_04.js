@@ -38,6 +38,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/yD7fGppbX8"
     } ],
     "hashtags" : [ {
@@ -82,6 +83,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/yD7fGppbX8"
       } ],
       "hashtags" : [ {
@@ -188,6 +190,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/T9QgcZ75cG"
     } ],
     "hashtags" : [ ],
@@ -235,6 +238,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/T9QgcZ75cG"
       } ],
       "hashtags" : [ ],
@@ -684,7 +688,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938495182563086336\/x42XXmRg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990908832162467841\/jkEmG2NT_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }
@@ -887,7 +891,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 16, 24 ],
       "id_str" : "26618823",
@@ -904,7 +908,7 @@ Grailbird.data.tweets_2014_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg\u262E",
+        "name" : "\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -925,11 +929,11 @@ Grailbird.data.tweets_2014_04 =
     "in_reply_to_screen_name" : "Urublog",
     "in_reply_to_user_id_str" : "26618823",
     "user" : {
-      "name" : "Dizico",
-      "screen_name" : "MulamboRaiz",
+      "name" : "Sidnei",
+      "screen_name" : "SFGM_1976",
       "protected" : false,
       "id_str" : "170704309",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883866207937585152\/YQDz5200_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972800908332601344\/yzGiq8RX_normal.jpg",
       "id" : 170704309,
       "verified" : false
     }
@@ -949,7 +953,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -976,7 +980,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456611637730897920,
     "created_at" : "2014-04-17 01:54:32 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1035,6 +1039,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 1536
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0Cy8ba50J1"
     } ],
     "hashtags" : [ ],
@@ -1076,6 +1081,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 1536
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/0Cy8ba50J1"
       } ],
       "hashtags" : [ ],
@@ -1171,7 +1177,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1206,6 +1212,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YtOOhW4x9p"
     } ],
     "hashtags" : [ ],
@@ -1247,6 +1254,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/YtOOhW4x9p"
       } ],
       "hashtags" : [ ],
@@ -1258,7 +1266,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 455511026956369920,
     "created_at" : "2014-04-14 01:01:06 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1470,6 +1478,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 653
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Wi9QuhWD5D"
     } ],
     "hashtags" : [ ],
@@ -1522,6 +1531,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 653
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Wi9QuhWD5D"
       } ],
       "hashtags" : [ ],
@@ -1620,6 +1630,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 450
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/yLz2WNLdrH"
       } ],
       "hashtags" : [ ],
@@ -1674,7 +1685,7 @@ Grailbird.data.tweets_2014_04 =
   "id_str" : "454656271711756288",
   "text" : "RT @shiota: Maslow\u2019s pyramid of needs, updated version http:\/\/t.co\/suqKbmJJbT",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2030,7 +2041,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -2145,6 +2156,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8GGgs0fBRQ"
     } ],
     "hashtags" : [ ],
@@ -2197,6 +2209,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/8GGgs0fBRQ"
       } ],
       "hashtags" : [ ],
@@ -2341,6 +2354,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 578
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/94vQhY26yy"
     } ],
     "hashtags" : [ ],
@@ -2382,6 +2396,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 578
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/94vQhY26yy"
       } ],
       "hashtags" : [ ],
@@ -2918,6 +2933,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 900
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/7JxjtQa2wa"
       } ],
       "hashtags" : [ ],
@@ -3031,6 +3047,7 @@ Grailbird.data.tweets_2014_04 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ykV91Pn1SU"
     } ],
     "hashtags" : [ ],
@@ -3072,6 +3089,7 @@ Grailbird.data.tweets_2014_04 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ykV91Pn1SU"
       } ],
       "hashtags" : [ ],

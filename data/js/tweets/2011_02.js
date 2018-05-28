@@ -1738,57 +1738,6 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John D. Rowell",
-      "screen_name" : "jdrowell",
-      "indices" : [ 3, 12 ],
-      "id_str" : "5880112",
-      "id" : 5880112
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "35032978052620288",
-  "text" : "RT @jdrowell: Kindle no Brasil R$800. Kindle fora R$250. Solu\u00E7\u00E3o da Dilma: R$1000 nos dois. E vc votou.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "35022557488877569",
-    "text" : "Kindle no Brasil R$800. Kindle fora R$250. Solu\u00E7\u00E3o da Dilma: R$1000 nos dois. E vc votou.",
-    "id" : 35022557488877569,
-    "created_at" : "2011-02-08 17:10:03 +0000",
-    "user" : {
-      "name" : "John D. Rowell",
-      "screen_name" : "jdrowell",
-      "protected" : false,
-      "id_str" : "5880112",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/120890542\/me_normal.png",
-      "id" : 5880112,
-      "verified" : false
-    }
-  },
-  "id" : 35032978052620288,
-  "created_at" : "2011-02-08 17:51:27 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Maria Santos",
       "screen_name" : "mariafesantos",
       "indices" : [ 0, 14 ],
@@ -2194,7 +2143,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "41194626",
       "id" : 41194626
     }, {
-      "name" : "SeoCruz\u262D",
+      "name" : "SeoCruz LULA DA SILVA\u262D",
       "screen_name" : "SeoCruz",
       "indices" : [ 20, 28 ],
       "id_str" : "17140789",
@@ -2211,7 +2160,7 @@ Grailbird.data.tweets_2011_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "SeoCruz\u262D",
+        "name" : "SeoCruz LULA DA SILVA\u262D",
         "screen_name" : "SeoCruz",
         "indices" : [ 4, 12 ],
         "id_str" : "17140789",
@@ -2304,7 +2253,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "posgraduando",
       "protected" : false,
       "id_str" : "110347191",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1333180036\/mascote1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975056478196428802\/zbszZRke_normal.jpg",
       "id" : 110347191,
       "verified" : false
     }
@@ -2410,7 +2359,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

@@ -854,7 +854,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vanissa Wanick",
+      "name" : "vanissa wanick (\u25B0\u02D8\u25E1\u02D8\u25B0)",
       "screen_name" : "vanissa",
       "indices" : [ 3, 11 ],
       "id_str" : "18245240",
@@ -903,7 +903,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 117640548470370305,
     "created_at" : "2011-09-24 16:44:27 +0000",
     "user" : {
-      "name" : "Vanissa Wanick",
+      "name" : "vanissa wanick (\u25B0\u02D8\u25E1\u02D8\u25B0)",
       "screen_name" : "vanissa",
       "protected" : false,
       "id_str" : "18245240",
@@ -1344,7 +1344,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1371,7 +1371,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 116647160249982976,
     "created_at" : "2011-09-21 22:57:04 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

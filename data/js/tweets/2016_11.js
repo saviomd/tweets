@@ -54,6 +54,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 666
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/mUjAvQRL6y"
       } ],
       "hashtags" : [ ],
@@ -129,6 +130,7 @@ Grailbird.data.tweets_2016_11 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/35GfAl2k7J"
     } ],
     "hashtags" : [ {
@@ -173,6 +175,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/35GfAl2k7J"
       } ],
       "hashtags" : [ {
@@ -191,7 +194,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "LFC",
       "protected" : false,
       "id_str" : "19583545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935113210235183104\/6Lv8Zi4X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985865116821458945\/eZHXSXSG_normal.jpg",
       "id" : 19583545,
       "verified" : true
     }
@@ -211,7 +214,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "indices" : [ 3, 19 ],
       "id_str" : "287690539",
@@ -254,7 +257,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 803717864226074624,
     "created_at" : "2016-11-29 21:50:45 +0000",
     "user" : {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
@@ -324,6 +327,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/2cfXrroVFd"
       } ],
       "hashtags" : [ ],
@@ -359,7 +363,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "indices" : [ 3, 19 ],
       "id_str" : "287690539",
@@ -394,6 +398,7 @@ Grailbird.data.tweets_2016_11 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Q1ZxF5h4sV"
     } ],
     "hashtags" : [ {
@@ -438,6 +443,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Q1ZxF5h4sV"
       } ],
       "hashtags" : [ {
@@ -452,7 +458,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 803587792588722176,
     "created_at" : "2016-11-29 13:13:54 +0000",
     "user" : {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
@@ -513,7 +519,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -580,7 +586,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -606,7 +612,7 @@ Grailbird.data.tweets_2016_11 =
       "id_str" : "59591856",
       "id" : 59591856
     }, {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "indices" : [ 21, 37 ],
       "id_str" : "287690539",
@@ -626,7 +632,7 @@ Grailbird.data.tweets_2016_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Chapecoense #PraSempreChape",
+        "name" : "Chapecoense",
         "screen_name" : "ChapecoenseReal",
         "indices" : [ 7, 23 ],
         "id_str" : "287690539",
@@ -649,7 +655,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -704,6 +710,7 @@ Grailbird.data.tweets_2016_11 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aPPPCoyuBc"
     } ],
     "hashtags" : [ ],
@@ -755,6 +762,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/aPPPCoyuBc"
       } ],
       "hashtags" : [ ],
@@ -902,6 +910,7 @@ Grailbird.data.tweets_2016_11 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KgnoUBdZik"
     } ],
     "hashtags" : [ ],
@@ -954,6 +963,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KgnoUBdZik"
       } ],
       "hashtags" : [ ],
@@ -1056,6 +1066,7 @@ Grailbird.data.tweets_2016_11 =
         "resize" : "fit",
         "w" : 516
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pPq6HHvHpl"
     } ],
     "hashtags" : [ ],
@@ -1070,7 +1081,7 @@ Grailbird.data.tweets_2016_11 =
   "id_str" : "801122790770376704",
   "text" : "RT @Tecnoblog: A intelig\u00EAncia artificial j\u00E1 faz leitura labial bem melhor que os humanos \u00BB\u00A0https:\/\/t.co\/JwToYfbVPn https:\/\/t.co\/pPq6HHvHpl",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1102,6 +1113,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 516
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pPq6HHvHpl"
       } ],
       "hashtags" : [ ],
@@ -1281,6 +1293,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 554
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/aCkd9KPCPq"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/FUTBOX\/status\/798905445343784960\/photo\/1",
@@ -1311,6 +1324,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 559
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/aCkd9KPCPq"
       } ],
       "hashtags" : [ {
@@ -1520,6 +1534,7 @@ Grailbird.data.tweets_2016_11 =
         "resize" : "fit",
         "w" : 2870
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oTPA9HR6Wp"
     } ],
     "hashtags" : [ ],
@@ -1561,6 +1576,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 2870
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oTPA9HR6Wp"
       } ],
       "hashtags" : [ ],
@@ -1737,7 +1753,7 @@ Grailbird.data.tweets_2016_11 =
   "id_str" : "796380741022187520",
   "text" : "RT @tableless: A Quick Guide For Designing Better Buttons https:\/\/t.co\/zoxamQZSHV",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1810,7 +1826,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "perlmutations",
       "protected" : false,
       "id_str" : "926620369",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873624313953345536\/kTWEOMhG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957040672686526464\/OQruHKT4_normal.jpg",
       "id" : 926620369,
       "verified" : true
     }
@@ -2049,6 +2065,7 @@ Grailbird.data.tweets_2016_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/raUMgEr7CM"
       } ],
       "hashtags" : [ ],

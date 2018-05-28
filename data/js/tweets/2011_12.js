@@ -399,6 +399,7 @@ Grailbird.data.tweets_2011_12 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KMUe8ZbJ"
     } ],
     "hashtags" : [ ],

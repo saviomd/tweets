@@ -68,13 +68,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
-      "indices" : [ 3, 14 ],
-      "id_str" : "42459293",
-      "id" : 42459293
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -96,13 +90,13 @@ Grailbird.data.tweets_2010_05 =
     "id" : 15071527241,
     "created_at" : "2010-05-30 23:42:02 +0000",
     "user" : {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
+      "name" : "Canal Zico 10",
+      "screen_name" : "canalzico10",
       "protected" : false,
       "id_str" : "42459293",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946165230983417856\/Cpph0P82_normal.jpg",
       "id" : 42459293,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 15071753261,

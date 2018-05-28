@@ -38,6 +38,7 @@ Grailbird.data.tweets_2014_03 =
         "resize" : "fit",
         "w" : 577
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fbk0pn5E34"
     } ],
     "hashtags" : [ ],
@@ -79,6 +80,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "fit",
           "w" : 577
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fbk0pn5E34"
       } ],
       "hashtags" : [ ],
@@ -199,6 +201,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nWDI8E0ClX"
       } ],
       "hashtags" : [ ],
@@ -219,7 +222,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "anttilk",
       "protected" : false,
       "id_str" : "54530515",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/896688180468092928\/SDAVQGfk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/967451218313404416\/N-4GwMNx_normal.jpg",
       "id" : 54530515,
       "verified" : false
     }
@@ -274,6 +277,7 @@ Grailbird.data.tweets_2014_03 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Y5JBmwjRCF"
     } ],
     "hashtags" : [ ],
@@ -315,6 +319,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Y5JBmwjRCF"
       } ],
       "hashtags" : [ ],
@@ -356,7 +361,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "56498973",
       "id" : 56498973
     }, {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 20, 28 ],
       "id_str" : "26618823",
@@ -391,6 +396,7 @@ Grailbird.data.tweets_2014_03 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KAIzcOyYX3"
     } ],
     "hashtags" : [ ],
@@ -403,7 +409,7 @@ Grailbird.data.tweets_2014_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg\u262E",
+        "name" : "\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -438,6 +444,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KAIzcOyYX3"
       } ],
       "hashtags" : [ ],
@@ -524,7 +531,7 @@ Grailbird.data.tweets_2014_03 =
   "id_str" : "448871962631491584",
   "text" : "RT @nessamaia: Finalmente coloquei no ar o blog novo: http:\/\/t.co\/TC0JPOb4eo :)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -593,7 +600,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thomas \"Kick Nazis out, @jack\" Fuchs",
+      "name" : "Thomas Fuchs \uD83D\uDCBE",
       "screen_name" : "thomasfuchs",
       "indices" : [ 3, 15 ],
       "id_str" : "6927562",
@@ -634,6 +641,7 @@ Grailbird.data.tweets_2014_03 =
         "resize" : "fit",
         "w" : 852
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rmTptCr26r"
     } ],
     "hashtags" : [ ],
@@ -643,7 +651,7 @@ Grailbird.data.tweets_2014_03 =
   "id_str" : "448094257027751936",
   "text" : "RT @thomasfuchs: \u201C@thijs: Chrome on iOS now adds what looks like a per-device GUID to its User-Agent string. http:\/\/t.co\/rmTptCr26r\u201D \n\nDon\u2019\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Thijs",
@@ -681,6 +689,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "fit",
           "w" : 852
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rmTptCr26r"
       } ],
       "hashtags" : [ ],
@@ -692,11 +701,11 @@ Grailbird.data.tweets_2014_03 =
     "id" : 448067902475096064,
     "created_at" : "2014-03-24 12:04:47 +0000",
     "user" : {
-      "name" : "Thomas \"Kick Nazis out, @jack\" Fuchs",
+      "name" : "Thomas Fuchs \uD83D\uDCBE",
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/934619752768647168\/4ixrnv8S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995501313101361152\/RBHPHFCU_normal.jpg",
       "id" : 6927562,
       "verified" : true
     }
@@ -1189,7 +1198,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "PaulAdamDavis",
       "protected" : false,
       "id_str" : "17090569",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937021732564725760\/X1SxfdBN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993246799413633025\/Dg_SEE0n_normal.jpg",
       "id" : 17090569,
       "verified" : false
     }
@@ -1209,7 +1218,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin Suttle",
+      "name" : "\u1D0B\u1D07\u1D20\u026A\u0274 s\u1D1C\u1D1B\u1D1B\u029F\u1D07",
       "screen_name" : "kevinSuttle",
       "indices" : [ 3, 15 ],
       "id_str" : "14859608",
@@ -1250,6 +1259,7 @@ Grailbird.data.tweets_2014_03 =
         "resize" : "fit",
         "w" : 1292
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/y2RdJReVyu"
     } ],
     "hashtags" : [ ],
@@ -1264,7 +1274,7 @@ Grailbird.data.tweets_2014_03 =
   "id_str" : "444863115436761089",
   "text" : "RT @kevinSuttle: I request the highest of fives from @heydonworks. http:\/\/t.co\/uCvsL4DKUf http:\/\/t.co\/y2RdJReVyu",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Large Heydon Collider",
@@ -1302,6 +1312,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "fit",
           "w" : 1292
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/y2RdJReVyu"
       } ],
       "hashtags" : [ ],
@@ -1318,7 +1329,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 444675175385030656,
     "created_at" : "2014-03-15 03:23:18 +0000",
     "user" : {
-      "name" : "Kevin Suttle",
+      "name" : "\u1D0B\u1D07\u1D20\u026A\u0274 s\u1D1C\u1D1B\u1D1B\u029F\u1D07",
       "screen_name" : "kevinSuttle",
       "protected" : false,
       "id_str" : "14859608",
@@ -1461,6 +1472,7 @@ Grailbird.data.tweets_2014_03 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ApyRlC4niw"
     } ],
     "hashtags" : [ ],
@@ -1502,6 +1514,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ApyRlC4niw"
       } ],
       "hashtags" : [ ],
@@ -1741,7 +1754,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1796,6 +1809,7 @@ Grailbird.data.tweets_2014_03 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nIf9JUEJpi"
     } ],
     "hashtags" : [ ],
@@ -1842,6 +1856,7 @@ Grailbird.data.tweets_2014_03 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nIf9JUEJpi"
       } ],
       "hashtags" : [ ],
@@ -1901,7 +1916,7 @@ Grailbird.data.tweets_2014_03 =
   "id_str" : "442865411038904320",
   "text" : "RT @mattbrett: I\u2019ve never been a Bruce Springsteen fan, but this song rules something fierce - http:\/\/t.co\/iaiYcLqJXc That pause at 3:20, t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2016,7 +2031,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "WilliamHPerkins",
       "protected" : false,
       "id_str" : "14654485",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948408221592584192\/ShOBzwA7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984628019108163584\/x1_m9C_3_normal.jpg",
       "id" : 14654485,
       "verified" : false
     }
@@ -2155,7 +2170,7 @@ Grailbird.data.tweets_2014_03 =
   "id_str" : "441790593216548864",
   "text" : "RT @mattbrett: Tomorrow will mark a year since Facebook\u2019s \u201Cfresh, new look for News Feed\u201D was announced. I still don\u2019t have it. https:\/\/t.c\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

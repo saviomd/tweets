@@ -291,6 +291,7 @@ Grailbird.data.tweets_2012_10 =
           "resize" : "fit",
           "w" : 651
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/V7ONMXMd"
       } ],
       "hashtags" : [ ],

@@ -732,7 +732,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "534635687",
       "id" : 534635687
     }, {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 16, 24 ],
       "id_str" : "26618823",
@@ -749,7 +749,7 @@ Grailbird.data.tweets_2012_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg\u262E",
+        "name" : "\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -1101,7 +1101,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 0, 8 ],
       "id_str" : "26618823",
@@ -1502,7 +1502,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }
@@ -1759,7 +1759,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1803,7 +1803,7 @@ Grailbird.data.tweets_2012_06 =
     "in_reply_to_screen_name" : "CocotasOnFire",
     "in_reply_to_user_id_str" : "435983866",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2294,7 +2294,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 209750907620036609,
     "created_at" : "2012-06-04 20:58:08 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

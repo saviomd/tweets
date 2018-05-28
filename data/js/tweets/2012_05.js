@@ -266,7 +266,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "32441865",
       "id" : 32441865
     }, {
-      "name" : "Hepta P\u00E3o\u2122",
+      "name" : "Pedro Victor Delmino da Silva\u2122",
       "screen_name" : "aureasouto",
       "indices" : [ 10, 21 ],
       "id_str" : "78987936",
@@ -419,7 +419,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 207799450972860416,
     "created_at" : "2012-05-30 11:43:44 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -548,7 +548,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "NETFLU",
       "protected" : false,
       "id_str" : "43372176",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948170040070889473\/1B9SxLEP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964097555348049920\/exeVSD10_normal.jpg",
       "id" : 43372176,
       "verified" : false
     }
@@ -568,7 +568,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 0, 8 ],
       "id_str" : "26618823",
@@ -2838,7 +2838,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2875,7 +2875,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 199264030500724736,
     "created_at" : "2012-05-06 22:27:01 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

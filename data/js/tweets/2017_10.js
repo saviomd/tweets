@@ -38,6 +38,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 523
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FRf1fzZNmB"
     } ],
     "hashtags" : [ {
@@ -85,6 +86,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 523
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FRf1fzZNmB"
       } ],
       "hashtags" : [ {
@@ -106,7 +108,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -172,6 +174,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 366
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/m7vKb07uWR"
       } ],
       "hashtags" : [ ],
@@ -242,6 +245,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MlLQ2yNLFw"
     } ],
     "hashtags" : [ {
@@ -286,6 +290,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/MlLQ2yNLFw"
       } ],
       "hashtags" : [ {
@@ -304,7 +309,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "skeleton_claw",
       "protected" : false,
       "id_str" : "3194635094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/932020456911093760\/iV8dsLhj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976563992532414464\/zN9T4wpd_normal.jpg",
       "id" : 3194635094,
       "verified" : false
     }
@@ -359,6 +364,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 888
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nL0mSpxWfg"
     } ],
     "hashtags" : [ {
@@ -403,6 +409,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 888
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nL0mSpxWfg"
       } ],
       "hashtags" : [ {
@@ -487,6 +494,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pSXCmQNof9"
       } ],
       "hashtags" : [ ],
@@ -522,7 +530,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -576,6 +584,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oPQGgQmJSa"
       } ],
       "hashtags" : [ {
@@ -595,7 +604,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 923565364793036800,
     "created_at" : "2017-10-26 15:01:56 +0000",
     "user" : {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -665,6 +674,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/AEOIeKqbwB"
       } ],
       "hashtags" : [ ],
@@ -740,6 +750,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1990
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gM3SWHaP1i"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922593387449958400\/photo\/1",
@@ -770,6 +781,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gM3SWHaP1i"
     } ],
     "hashtags" : [ {
@@ -814,6 +826,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1990
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gM3SWHaP1i"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/lukew\/status\/922593387449958400\/photo\/1",
@@ -844,6 +857,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gM3SWHaP1i"
       } ],
       "hashtags" : [ {
@@ -931,6 +945,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sYBLdwgCwl"
       } ],
       "hashtags" : [ {
@@ -1095,6 +1110,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/JZfuTf9NOC"
       } ],
       "hashtags" : [ {
@@ -1177,6 +1193,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/S5U9wA7tlV"
     } ],
     "hashtags" : [ ],
@@ -1229,6 +1246,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/S5U9wA7tlV"
       } ],
       "hashtags" : [ ],
@@ -1492,6 +1510,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Almcfn9haR"
     } ],
     "hashtags" : [ ],
@@ -1538,6 +1557,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Almcfn9haR"
       } ],
       "hashtags" : [ ],
@@ -1597,7 +1617,7 @@ Grailbird.data.tweets_2017_10 =
   "id_str" : "920324770155171841",
   "text" : "RT @notwaldorf: I wrote an introduction to web components for absolute beginners (and otters!)\n\n\uD83D\uDE4A https:\/\/t.co\/So4TwZY6SU https:\/\/t.co\/BpGA\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1629,6 +1649,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1117
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BpGAARjmhQ"
       } ],
       "hashtags" : [ ],
@@ -1669,7 +1690,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -1715,6 +1736,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gSlkDNq526"
       } ],
       "hashtags" : [ ],
@@ -1731,7 +1753,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 920003128165937152,
     "created_at" : "2017-10-16 19:06:53 +0000",
     "user" : {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -1791,7 +1813,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938495182563086336\/x42XXmRg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990908832162467841\/jkEmG2NT_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }
@@ -1919,6 +1941,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1918
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QMZUC3CxSI"
     } ],
     "hashtags" : [ ],
@@ -1960,6 +1983,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1918
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/QMZUC3CxSI"
       } ],
       "hashtags" : [ ],
@@ -2104,7 +2128,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2188,6 +2212,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 374
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WnzUEXWpHu"
       } ],
       "hashtags" : [ {
@@ -2272,6 +2297,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1795
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ObCotvvYlm"
       } ],
       "hashtags" : [ ],
@@ -2347,6 +2373,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/OnsOranje\/status\/917865299520688128\/photo\/1",
@@ -2377,6 +2404,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/OnsOranje\/status\/917865299520688128\/photo\/1",
@@ -2407,6 +2435,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/OnsOranje\/status\/917865299520688128\/photo\/1",
@@ -2437,6 +2466,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WkgmU31fCW"
     } ],
     "hashtags" : [ {
@@ -2481,6 +2511,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/OnsOranje\/status\/917865299520688128\/photo\/1",
@@ -2511,6 +2542,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/OnsOranje\/status\/917865299520688128\/photo\/1",
@@ -2541,6 +2573,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/OnsOranje\/status\/917865299520688128\/photo\/1",
@@ -2571,6 +2604,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WkgmU31fCW"
       } ],
       "hashtags" : [ {
@@ -2644,6 +2678,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DCJN4ayf9z"
     } ],
     "hashtags" : [ {
@@ -2693,6 +2728,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DCJN4ayf9z"
       } ],
       "hashtags" : [ {
@@ -2771,6 +2807,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/f5AgemRXds"
     } ],
     "hashtags" : [ ],
@@ -2812,6 +2849,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/f5AgemRXds"
       } ],
       "hashtags" : [ ],
@@ -2882,6 +2920,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 938
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Vx5iE0y7Aj"
     } ],
     "hashtags" : [ {
@@ -2926,6 +2965,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 938
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Vx5iE0y7Aj"
       } ],
       "hashtags" : [ {
@@ -2944,7 +2984,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -2999,6 +3039,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oGqsLN3U4X"
     } ],
     "hashtags" : [ {
@@ -3043,6 +3084,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oGqsLN3U4X"
       } ],
       "hashtags" : [ {
@@ -3061,7 +3103,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -3116,6 +3158,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 400
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/VfByu6ognZ"
     } ],
     "hashtags" : [ ],
@@ -3157,6 +3200,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 400
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VfByu6ognZ"
       } ],
       "hashtags" : [ ],
@@ -3227,6 +3271,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 791
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/31O3VOlVCa"
     } ],
     "hashtags" : [ {
@@ -3274,6 +3319,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 791
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/31O3VOlVCa"
       } ],
       "hashtags" : [ {
@@ -3295,7 +3341,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -3350,6 +3396,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "Network waterfall chart showing severe effects of tag managers on web performance.",
       "display_url" : "pic.twitter.com\/jVkM363Cde"
     } ],
     "hashtags" : [ ],
@@ -3391,6 +3438,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jVkM363Cde"
       } ],
       "hashtags" : [ ],
@@ -3578,6 +3626,7 @@ Grailbird.data.tweets_2017_10 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1hpEq3BKI0"
     } ],
     "hashtags" : [ ],
@@ -3619,6 +3668,7 @@ Grailbird.data.tweets_2017_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1hpEq3BKI0"
       } ],
       "hashtags" : [ ],

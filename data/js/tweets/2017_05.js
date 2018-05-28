@@ -38,6 +38,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/R3WINKxlAp"
     } ],
     "hashtags" : [ ],
@@ -79,6 +80,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/R3WINKxlAp"
       } ],
       "hashtags" : [ ],
@@ -134,7 +136,7 @@ Grailbird.data.tweets_2017_05 =
   "id_str" : "869203491130159105",
   "text" : "RT @letterboxd: \u201CEven though a film like The Social Network has more effects shots than Godzilla.\u201D \u2014@kaptainkristian \uD83D\uDC4C\uD83C\uDFFC\n\nhttps:\/\/t.co\/B46ak\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Kristian Williams",
@@ -217,6 +219,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qKFj4JEKRq"
     } ],
     "hashtags" : [ {
@@ -261,6 +264,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qKFj4JEKRq"
       } ],
       "hashtags" : [ {
@@ -279,7 +283,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -414,6 +418,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 986
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DM7zhybLrs"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MrKenShabby\/status\/867036448037511169\/photo\/1",
@@ -444,6 +449,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 978
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DM7zhybLrs"
     } ],
     "hashtags" : [ ],
@@ -491,6 +497,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 986
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DM7zhybLrs"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/MrKenShabby\/status\/867036448037511169\/photo\/1",
@@ -521,6 +528,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 978
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DM7zhybLrs"
       } ],
       "hashtags" : [ ],
@@ -536,7 +544,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "MrKenShabby",
       "protected" : false,
       "id_str" : "49031126",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945263041154879488\/YuhZ-7Bo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997501336726859777\/XMrsbl2P_normal.jpg",
       "id" : 49031126,
       "verified" : false
     }
@@ -663,6 +671,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/A0sAumk8kd"
       } ],
       "hashtags" : [ ],
@@ -733,6 +742,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lWeE9D9GlG"
     } ],
     "hashtags" : [ ],
@@ -774,6 +784,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lWeE9D9GlG"
       } ],
       "hashtags" : [ ],
@@ -871,6 +882,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 956
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lpPTM4Gl2b"
     } ],
     "hashtags" : [ {
@@ -915,6 +927,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 956
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lpPTM4Gl2b"
       } ],
       "hashtags" : [ {
@@ -938,7 +951,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1004,6 +1017,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/5lwUWqxFml"
       } ],
       "hashtags" : [ ],
@@ -1019,7 +1033,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "spencerchen",
       "protected" : false,
       "id_str" : "14213734",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940828480757026827\/ZjLQdLOp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/978047297362698241\/NMXpErpR_normal.jpg",
       "id" : 14213734,
       "verified" : false
     }
@@ -1449,6 +1463,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sM4XDoULa2"
       } ],
       "hashtags" : [ {
@@ -1621,6 +1636,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 620
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ynjDvwcppV"
     } ],
     "hashtags" : [ ],
@@ -1667,6 +1683,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ynjDvwcppV"
       } ],
       "hashtags" : [ ],
@@ -1742,6 +1759,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cjADi69FBw"
     } ],
     "hashtags" : [ ],
@@ -1793,6 +1811,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/cjADi69FBw"
       } ],
       "hashtags" : [ ],
@@ -1884,6 +1903,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/httqbv2871"
       } ],
       "hashtags" : [ ],
@@ -1985,7 +2005,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -2034,6 +2054,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PMFtm7UP2a"
       } ],
       "hashtags" : [ {
@@ -2053,7 +2074,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 864523596827435009,
     "created_at" : "2017-05-16 16:51:02 +0000",
     "user" : {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -2135,6 +2156,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/CivFVZNVuq"
       } ],
       "hashtags" : [ {
@@ -2188,7 +2210,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "indices" : [ 0, 12 ],
       "id_str" : "15913",
@@ -2270,6 +2292,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LcU6c6EFpA"
       } ],
       "hashtags" : [ ],
@@ -2324,7 +2347,7 @@ Grailbird.data.tweets_2017_05 =
   "id_str" : "862660668813709312",
   "text" : "RT @letterboxd: We saw Alien:Covenant last night and we highly recommend watching the official prologue if you plan to see it\u2014\n\nhttps:\/\/t.c\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2356,6 +2379,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lm4AUeL6xI"
       } ],
       "hashtags" : [ ],
@@ -2464,6 +2488,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OyeRzak5YF"
     } ],
     "hashtags" : [ ],
@@ -2511,6 +2536,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/OyeRzak5YF"
       } ],
       "hashtags" : [ ],
@@ -2595,6 +2621,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pz0bTE4slC"
       } ],
       "hashtags" : [ {
@@ -2673,6 +2700,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 300
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qj2xSjdtQK"
     } ],
     "hashtags" : [ ],
@@ -2714,6 +2742,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 300
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qj2xSjdtQK"
       } ],
       "hashtags" : [ ],
@@ -2796,7 +2825,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2851,6 +2880,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1bbv20NF3a"
     } ],
     "hashtags" : [ {
@@ -2895,6 +2925,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1bbv20NF3a"
       } ],
       "hashtags" : [ {
@@ -2913,7 +2944,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2968,6 +2999,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 690
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/heqyWzOol4"
     } ],
     "hashtags" : [ {
@@ -3020,6 +3052,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 690
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/heqyWzOol4"
       } ],
       "hashtags" : [ {
@@ -3101,6 +3134,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 632
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ug2crhTFtK"
     } ],
     "hashtags" : [ {
@@ -3145,6 +3179,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 632
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ug2crhTFtK"
       } ],
       "hashtags" : [ {
@@ -3245,6 +3280,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 900
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/PmZMTFo0Tu"
     } ],
     "hashtags" : [ ],
@@ -3291,6 +3327,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 900
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PmZMTFo0Tu"
       } ],
       "hashtags" : [ ],
@@ -3350,7 +3387,7 @@ Grailbird.data.tweets_2017_05 =
   "id_str" : "860675713682333696",
   "text" : "RT @LWLies: The official main trailer for Christopher Nolan\u2019s Dunkirk has just dropped. Watch it here: https:\/\/t.co\/fTJAiEIi79 https:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -3382,6 +3419,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VzYecCJoyB"
       } ],
       "hashtags" : [ ],
@@ -3457,6 +3495,7 @@ Grailbird.data.tweets_2017_05 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QIlupi1bL5"
     } ],
     "hashtags" : [ ],
@@ -3503,6 +3542,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/QIlupi1bL5"
       } ],
       "hashtags" : [ ],
@@ -3543,7 +3583,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Gaynor, your online buddy",
+      "name" : "Steve Gaynor *slams a Dew* hell yeah",
       "screen_name" : "fullbright",
       "indices" : [ 3, 14 ],
       "id_str" : "15078306",
@@ -3594,6 +3634,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ncZbTaucJx"
       } ],
       "hashtags" : [ ],
@@ -3610,11 +3651,11 @@ Grailbird.data.tweets_2017_05 =
     "id" : 859777968914153473,
     "created_at" : "2017-05-03 14:33:36 +0000",
     "user" : {
-      "name" : "Steve Gaynor, your online buddy",
+      "name" : "Steve Gaynor *slams a Dew* hell yeah",
       "screen_name" : "fullbright",
       "protected" : false,
       "id_str" : "15078306",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728604412847882241\/9EN5Pb_5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949776225349787648\/QA8km5HO_normal.jpg",
       "id" : 15078306,
       "verified" : true
     }
@@ -3870,6 +3911,7 @@ Grailbird.data.tweets_2017_05 =
           "resize" : "fit",
           "w" : 1571
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/D81qybZS0z"
       } ],
       "hashtags" : [ ],

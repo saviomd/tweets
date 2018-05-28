@@ -118,6 +118,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 768
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9IjyTCis8H"
       } ],
       "hashtags" : [ ],
@@ -358,6 +359,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bXy4DPrlHF"
     } ],
     "hashtags" : [ {
@@ -448,7 +450,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -483,6 +485,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OPLYURaULN"
     } ],
     "hashtags" : [ ],
@@ -524,6 +527,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/OPLYURaULN"
       } ],
       "hashtags" : [ ],
@@ -535,7 +539,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 482529847462608897,
     "created_at" : "2014-06-27 14:24:15 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -654,6 +658,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jinYLHnupD"
     } ],
     "hashtags" : [ {
@@ -698,6 +703,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jinYLHnupD"
       } ],
       "hashtags" : [ {
@@ -741,63 +747,9 @@ Grailbird.data.tweets_2014_06 =
       "indices" : [ 3, 16 ],
       "id_str" : "455667047",
       "id" : 455667047
-    }, {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
-      "indices" : [ 31, 42 ],
-      "id_str" : "42459293",
-      "id" : 42459293
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/KJ_Huntelaar\/status\/482229860765822976\/photo\/1",
-      "indices" : [ 102, 124 ],
-      "url" : "http:\/\/t.co\/3zExEBIQpy",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BrE5gH6IIAAsrJS.jpg",
-      "id_str" : "482229859146801152",
-      "id" : 482229859146801152,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrE5gH6IIAAsrJS.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/3zExEBIQpy"
-    } ],
-    "hashtags" : [ {
-      "text" : "mengo",
-      "indices" : [ 43, 49 ]
-    }, {
-      "text" : "galo",
-      "indices" : [ 50, 55 ]
-    }, {
-      "text" : "WhitePele",
-      "indices" : [ 56, 66 ]
-    }, {
-      "text" : "Camisa10daG\u00E1vea",
-      "indices" : [ 67, 83 ]
-    }, {
-      "text" : "WC2014",
-      "indices" : [ 84, 91 ]
-    }, {
-      "text" : "flamengo",
-      "indices" : [ 92, 101 ]
-    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -806,13 +758,7 @@ Grailbird.data.tweets_2014_06 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Zico na Rede",
-        "screen_name" : "ziconarede",
-        "indices" : [ 13, 24 ],
-        "id_str" : "42459293",
-        "id" : 42459293
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/KJ_Huntelaar\/status\/482229860765822976\/photo\/1",
         "indices" : [ 84, 106 ],
@@ -842,6 +788,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3zExEBIQpy"
       } ],
       "hashtags" : [ {
@@ -875,7 +822,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "KJ_Huntelaar",
       "protected" : false,
       "id_str" : "455667047",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899344190055821312\/s9Kx0Sd5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981513134853754880\/E6Z03DfQ_normal.jpg",
       "id" : 455667047,
       "verified" : true
     }
@@ -930,6 +877,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 510
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3UiP53QRdN"
     } ],
     "hashtags" : [ ],
@@ -971,6 +919,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 510
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3UiP53QRdN"
       } ],
       "hashtags" : [ ],
@@ -1037,7 +986,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }
@@ -1104,7 +1053,7 @@ Grailbird.data.tweets_2014_06 =
   "id_str" : "481994157637238784",
   "text" : "RT @szechuan: @letterboxd https:\/\/t.co\/MYGcLp1jyd",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Letterboxd",
@@ -1184,6 +1133,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Vk2nNLalf1"
     } ],
     "hashtags" : [ {
@@ -1358,6 +1308,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FPThgxlmAu"
       } ],
       "hashtags" : [ {
@@ -1381,7 +1332,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -1436,6 +1387,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AaWVj41DHF"
     } ],
     "hashtags" : [ ],
@@ -1477,6 +1429,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/AaWVj41DHF"
       } ],
       "hashtags" : [ ],
@@ -1492,7 +1445,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "Signalnoise",
       "protected" : false,
       "id_str" : "22792833",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/932973496912760832\/bUS03ZPk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981256343913934848\/tWdEmfI4_normal.jpg",
       "id" : 22792833,
       "verified" : false
     }
@@ -1676,6 +1629,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vGR79N4X4N"
     } ],
     "hashtags" : [ {
@@ -1719,6 +1673,113 @@ Grailbird.data.tweets_2014_06 =
   "text" : "\"\u00C9 muito boa a cerveja brasileira, voc\u00EA bebe e n\u00E3o fica b\u00EAbado\" http:\/\/t.co\/1AekOCrAOB",
   "id" : 480474289184186368,
   "created_at" : "2014-06-21 22:16:11 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/antsgardiner\/status\/479785505731538944\/photo\/1",
+      "indices" : [ 66, 88 ],
+      "url" : "http:\/\/t.co\/pYY4O8sic0",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
+      "id_str" : "479785492569800705",
+      "id" : 479785492569800705,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
+      "sizes" : [ {
+        "h" : 122,
+        "resize" : "fit",
+        "w" : 234
+      }, {
+        "h" : 122,
+        "resize" : "fit",
+        "w" : 234
+      }, {
+        "h" : 122,
+        "resize" : "fit",
+        "w" : 234
+      }, {
+        "h" : 122,
+        "resize" : "fit",
+        "w" : 234
+      }, {
+        "h" : 122,
+        "resize" : "crop",
+        "w" : 122
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/pYY4O8sic0"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480403956292931584",
+  "text" : "RT @antsgardiner: Why isn't China at the World Cup? Because this: http:\/\/t.co\/pYY4O8sic0",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/antsgardiner\/status\/479785505731538944\/photo\/1",
+        "indices" : [ 48, 70 ],
+        "url" : "http:\/\/t.co\/pYY4O8sic0",
+        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
+        "id_str" : "479785492569800705",
+        "id" : 479785492569800705,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/BqiKXQ0CQAEXpcz.png",
+        "sizes" : [ {
+          "h" : 122,
+          "resize" : "fit",
+          "w" : 234
+        }, {
+          "h" : 122,
+          "resize" : "fit",
+          "w" : 234
+        }, {
+          "h" : 122,
+          "resize" : "fit",
+          "w" : 234
+        }, {
+          "h" : 122,
+          "resize" : "fit",
+          "w" : 234
+        }, {
+          "h" : 122,
+          "resize" : "crop",
+          "w" : 122
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/pYY4O8sic0"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "479785505731538944",
+    "text" : "Why isn't China at the World Cup? Because this: http:\/\/t.co\/pYY4O8sic0",
+    "id" : 479785505731538944,
+    "created_at" : "2014-06-20 00:39:13 +0000",
+    "user" : {
+      "name" : "Cashew & Pistachio",
+      "screen_name" : "NutsForNZ",
+      "protected" : false,
+      "id_str" : "29534960",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953179617669431297\/io_QX8gi_normal.jpg",
+      "id" : 29534960,
+      "verified" : false
+    }
+  },
+  "id" : 480403956292931584,
+  "created_at" : "2014-06-21 17:36:43 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1821,6 +1882,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/PXJ7MlDgpg"
     } ],
     "hashtags" : [ ],
@@ -1862,6 +1924,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PXJ7MlDgpg"
       } ],
       "hashtags" : [ ],
@@ -2063,7 +2126,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2090,7 +2153,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 479363576772448256,
     "created_at" : "2014-06-18 20:42:37 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2176,6 +2239,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ItXqCITI8d"
     } ],
     "hashtags" : [ {
@@ -2240,6 +2304,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/aHwkEew8Zs"
     } ],
     "hashtags" : [ {
@@ -2284,6 +2349,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 768
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/aHwkEew8Zs"
       } ],
       "hashtags" : [ {
@@ -2432,6 +2498,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4Dh4OILDeX"
     } ],
     "hashtags" : [ {
@@ -3261,6 +3328,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IDOvypl4xS"
     } ],
     "hashtags" : [ ],
@@ -3405,6 +3473,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 511
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ZoapLtgom1"
     } ],
     "hashtags" : [ ],
@@ -3414,7 +3483,7 @@ Grailbird.data.tweets_2014_06 =
   "id_str" : "473938656000888833",
   "text" : "RT @kaelig: Nicely done, Apple!\nIn Safari 8 \/ OSX Yosemite, text underlines do not strike through the baseline \u2014 http:\/\/t.co\/ZoapLtgom1",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -3446,6 +3515,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 511
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ZoapLtgom1"
       } ],
       "hashtags" : [ ],
@@ -3672,124 +3742,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "L\u00E9o Moura",
-      "screen_name" : "leomoura2",
-      "indices" : [ 29, 39 ],
-      "id_str" : "67134249",
-      "id" : 67134249
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/DirceuJuniorFla\/status\/473206683746193408\/photo\/1",
-      "indices" : [ 78, 100 ],
-      "url" : "http:\/\/t.co\/0N9eCozDY9",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BpEq-IZIUAAh_ua.jpg",
-      "id_str" : "473206682743754752",
-      "id" : 473206682743754752,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BpEq-IZIUAAh_ua.jpg",
-      "sizes" : [ {
-        "h" : 254,
-        "resize" : "fit",
-        "w" : 199
-      }, {
-        "h" : 254,
-        "resize" : "fit",
-        "w" : 199
-      }, {
-        "h" : 254,
-        "resize" : "fit",
-        "w" : 199
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 254,
-        "resize" : "fit",
-        "w" : 199
-      } ],
-      "display_url" : "pic.twitter.com\/0N9eCozDY9"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "473207015515619328",
-  "text" : "RT @DirceuJuniorFla: Fala ai @leomoura2 , em quantos gols tu deu mole hoje??? http:\/\/t.co\/0N9eCozDY9",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "L\u00E9o Moura",
-        "screen_name" : "leomoura2",
-        "indices" : [ 8, 18 ],
-        "id_str" : "67134249",
-        "id" : 67134249
-      } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/DirceuJuniorFla\/status\/473206683746193408\/photo\/1",
-        "indices" : [ 57, 79 ],
-        "url" : "http:\/\/t.co\/0N9eCozDY9",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BpEq-IZIUAAh_ua.jpg",
-        "id_str" : "473206682743754752",
-        "id" : 473206682743754752,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BpEq-IZIUAAh_ua.jpg",
-        "sizes" : [ {
-          "h" : 254,
-          "resize" : "fit",
-          "w" : 199
-        }, {
-          "h" : 254,
-          "resize" : "fit",
-          "w" : 199
-        }, {
-          "h" : 254,
-          "resize" : "fit",
-          "w" : 199
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 254,
-          "resize" : "fit",
-          "w" : 199
-        } ],
-        "display_url" : "pic.twitter.com\/0N9eCozDY9"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "473206683746193408",
-    "text" : "Fala ai @leomoura2 , em quantos gols tu deu mole hoje??? http:\/\/t.co\/0N9eCozDY9",
-    "id" : 473206683746193408,
-    "created_at" : "2014-06-01 20:57:19 +0000",
-    "user" : {
-      "name" : "Dirceu Junior",
-      "screen_name" : "Dirceujr1803",
-      "protected" : false,
-      "id_str" : "71916313",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913526132481384448\/4WLRq7mi_normal.jpg",
-      "id" : 71916313,
-      "verified" : false
-    }
-  },
-  "id" : 473207015515619328,
-  "created_at" : "2014-06-01 20:58:38 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -3816,7 +3769,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473192385791660032,
     "created_at" : "2014-06-01 20:00:30 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -3840,7 +3793,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -3867,7 +3820,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473193950741008385,
     "created_at" : "2014-06-01 20:06:44 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -3891,7 +3844,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "indices" : [ 3, 16 ],
       "id_str" : "15629200",
@@ -3932,6 +3885,7 @@ Grailbird.data.tweets_2014_06 =
         "resize" : "fit",
         "w" : 510
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TcJaXB88l3"
     } ],
     "hashtags" : [ ],
@@ -3979,6 +3933,7 @@ Grailbird.data.tweets_2014_06 =
           "resize" : "fit",
           "w" : 510
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/TcJaXB88l3"
       } ],
       "hashtags" : [ ],
@@ -3990,7 +3945,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 471402689444999168,
     "created_at" : "2014-05-27 21:28:54 +0000",
     "user" : {
-      "name" : "Nicole Sullivan",
+      "name" : "Nicole Sullivan \uD83D\uDC8E",
       "screen_name" : "stubbornella",
       "protected" : false,
       "id_str" : "15629200",

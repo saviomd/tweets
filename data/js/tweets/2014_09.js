@@ -69,6 +69,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RKYoINdM5b"
       } ],
       "hashtags" : [ {
@@ -92,7 +93,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -290,6 +291,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FeFlofBqM3"
     } ],
     "hashtags" : [ ],
@@ -331,6 +333,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FeFlofBqM3"
       } ],
       "hashtags" : [ ],
@@ -589,6 +592,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/JF3ZkPJiNX"
       } ],
       "hashtags" : [ ],
@@ -609,7 +613,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "tomstandage",
       "protected" : false,
       "id_str" : "17062849",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947477085668495360\/YTRast02_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988495822601052160\/d0bVYO9M_normal.jpg",
       "id" : 17062849,
       "verified" : true
     }
@@ -781,6 +785,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 260
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/K1qqbXWIWh"
       } ],
       "hashtags" : [ ],
@@ -851,6 +856,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 510
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jBSCP0Ot9N"
     } ],
     "hashtags" : [ ],
@@ -892,6 +898,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 510
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jBSCP0Ot9N"
       } ],
       "hashtags" : [ ],
@@ -907,7 +914,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -956,6 +963,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BL4nFIsnW6"
     } ],
     "hashtags" : [ {
@@ -1009,7 +1017,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Top Lad",
+      "name" : "\uD835\uDDBE \uD835\uDDCB\uD835\uDDC2\uD835\uDDBC",
       "screen_name" : "eric_robinson",
       "indices" : [ 3, 17 ],
       "id_str" : "7275542",
@@ -1044,6 +1052,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ix2N7QJEiw"
     } ],
     "hashtags" : [ ],
@@ -1053,7 +1062,7 @@ Grailbird.data.tweets_2014_09 =
   "id_str" : "513341737344196608",
   "text" : "RT @Eric_Robinson: brb gonna stare at this Apple Watch transition for the rest of my life http:\/\/t.co\/Ix2N7QJEiw",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1085,6 +1094,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ix2N7QJEiw"
       } ],
       "hashtags" : [ ],
@@ -1096,7 +1106,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 513040669020266496,
     "created_at" : "2014-09-19 19:03:21 +0000",
     "user" : {
-      "name" : "Top Lad",
+      "name" : "\uD835\uDDBE \uD835\uDDCB\uD835\uDDC2\uD835\uDDBC",
       "screen_name" : "eric_robinson",
       "protected" : false,
       "id_str" : "7275542",
@@ -1166,7 +1176,7 @@ Grailbird.data.tweets_2014_09 =
   "id_str" : "512356299221118979",
   "text" : "RT @shiota: iOS 8 Safari has WebGL, IndexDB, SVG fragments, CSS blends, ES6 promises, iterators, maps &amp; more http:\/\/t.co\/iqmR2xyiyc (no get\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1305,7 +1315,7 @@ Grailbird.data.tweets_2014_09 =
   "id_str" : "511727687111802880",
   "text" : "RT @mattbrett: The Guardians of the Galaxy intro recreated in Destiny. Hilarious! http:\/\/t.co\/Db9jQoi36t",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1581,6 +1591,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 1258
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/U77jcAbo1m"
       } ],
       "hashtags" : [ ],
@@ -1661,6 +1672,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 647
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1ws8Y9gQq1"
     } ],
     "hashtags" : [ ],
@@ -1707,6 +1719,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 647
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1ws8Y9gQq1"
       } ],
       "hashtags" : [ ],
@@ -1782,6 +1795,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 960
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ClR1F6Uq8l"
     } ],
     "hashtags" : [ {
@@ -1831,6 +1845,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 960
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ClR1F6Uq8l"
       } ],
       "hashtags" : [ {
@@ -1909,6 +1924,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ez1ILa8JeE"
     } ],
     "hashtags" : [ {
@@ -1958,6 +1974,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ez1ILa8JeE"
       } ],
       "hashtags" : [ {
@@ -2090,6 +2107,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 592
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5C3zdYCKoN"
     } ],
     "hashtags" : [ ],
@@ -2131,6 +2149,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 592
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/5C3zdYCKoN"
       } ],
       "hashtags" : [ ],
@@ -2261,6 +2280,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 974
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qzFjxbLJkq"
     } ],
     "hashtags" : [ ],
@@ -2307,6 +2327,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 974
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qzFjxbLJkq"
       } ],
       "hashtags" : [ ],
@@ -2382,6 +2403,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lb8Gz3X3rt"
     } ],
     "hashtags" : [ ],
@@ -2423,6 +2445,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lb8Gz3X3rt"
       } ],
       "hashtags" : [ ],
@@ -2539,6 +2562,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 639
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jhnoFUTNE9"
       } ],
       "hashtags" : [ {
@@ -2565,7 +2589,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }

@@ -38,6 +38,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/NLRG4U01UA"
     } ],
     "hashtags" : [ ],
@@ -84,6 +85,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/NLRG4U01UA"
       } ],
       "hashtags" : [ ],
@@ -151,7 +153,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -198,7 +200,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 567775228483612673,
     "created_at" : "2015-02-17 19:58:57 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -290,6 +292,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8iAGZVOmFU"
     } ],
     "hashtags" : [ ],
@@ -337,6 +340,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/8iAGZVOmFU"
       } ],
       "hashtags" : [ ],
@@ -407,6 +411,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gIYAOwoa43"
     } ],
     "hashtags" : [ ],
@@ -448,6 +453,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gIYAOwoa43"
       } ],
       "hashtags" : [ ],
@@ -518,6 +524,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 700
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ni8R75bLuK"
     } ],
     "hashtags" : [ ],
@@ -564,6 +571,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 700
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ni8R75bLuK"
       } ],
       "hashtags" : [ ],
@@ -609,51 +617,10 @@ Grailbird.data.tweets_2015_02 =
       "indices" : [ 3, 12 ],
       "id_str" : "59591856",
       "id" : 59591856
-    }, {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
-      "indices" : [ 28, 39 ],
-      "id_str" : "42459293",
-      "id" : 42459293
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/Flamengo\/status\/563792176245907456\/photo\/1",
-      "indices" : [ 88, 110 ],
-      "url" : "http:\/\/t.co\/42nAWw57gn",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B9L9_xGIQAAIsfJ.jpg",
-      "id_str" : "563792175327363072",
-      "id" : 563792175327363072,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B9L9_xGIQAAIsfJ.jpg",
-      "sizes" : [ {
-        "h" : 880,
-        "resize" : "fit",
-        "w" : 880
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 880,
-        "resize" : "fit",
-        "w" : 880
-      }, {
-        "h" : 880,
-        "resize" : "fit",
-        "w" : 880
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 680
-      } ],
-      "display_url" : "pic.twitter.com\/42nAWw57gn"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 65, 87 ],
-      "url" : "http:\/\/t.co\/zKkyIVLkxh",
-      "expanded_url" : "http:\/\/migre.me\/oweGM",
-      "display_url" : "migre.me\/oweGM"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "563807878801534976",
@@ -661,13 +628,7 @@ Grailbird.data.tweets_2015_02 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Zico na Rede",
-        "screen_name" : "ziconarede",
-        "indices" : [ 14, 25 ],
-        "id_str" : "42459293",
-        "id" : 42459293
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/Flamengo\/status\/563792176245907456\/photo\/1",
         "indices" : [ 74, 96 ],
@@ -697,6 +658,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/42nAWw57gn"
       } ],
       "hashtags" : [ ],
@@ -717,7 +679,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -860,6 +822,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 758
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QMeTVf2v3V"
     } ],
     "hashtags" : [ ],
@@ -901,6 +864,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 758
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/QMeTVf2v3V"
       } ],
       "hashtags" : [ ],
@@ -916,7 +880,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -971,6 +935,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 620
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Qe7FTkzRuo"
     } ],
     "hashtags" : [ ],
@@ -1017,6 +982,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Qe7FTkzRuo"
       } ],
       "hashtags" : [ ],
@@ -1104,7 +1070,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -1187,6 +1153,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 905
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jxyUvgMlby"
       } ],
       "hashtags" : [ ],
@@ -1227,7 +1194,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 0, 8 ],
       "id_str" : "26618823",
@@ -1295,6 +1262,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 880
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tEdwRX3bsN"
     } ],
     "hashtags" : [ ],
@@ -1336,6 +1304,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 880
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/tEdwRX3bsN"
       } ],
       "hashtags" : [ ],
@@ -1351,7 +1320,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1406,6 +1375,7 @@ Grailbird.data.tweets_2015_02 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pRQO8CYVRT"
     } ],
     "hashtags" : [ ],
@@ -1452,6 +1422,7 @@ Grailbird.data.tweets_2015_02 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pRQO8CYVRT"
       } ],
       "hashtags" : [ ],

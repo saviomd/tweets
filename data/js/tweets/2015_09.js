@@ -237,6 +237,7 @@ Grailbird.data.tweets_2015_09 =
           "resize" : "fit",
           "w" : 588
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/y9JM8mUXTJ"
       } ],
       "hashtags" : [ ],
@@ -424,7 +425,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "644504189222174720",
   "text" : "RT @letterboxd: Tarantino\u2019s original cast wishlist for Pulp Fiction, via @flicksnz\u2014 http:\/\/t.co\/QVhzLkPgBx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Flicks.co.nz",
@@ -634,6 +635,7 @@ Grailbird.data.tweets_2015_09 =
         "resize" : "fit",
         "w" : 620
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7WSF8iHcwg"
     } ],
     "hashtags" : [ ],
@@ -680,6 +682,7 @@ Grailbird.data.tweets_2015_09 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/7WSF8iHcwg"
       } ],
       "hashtags" : [ ],
@@ -883,6 +886,7 @@ Grailbird.data.tweets_2015_09 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MTPOvnfR5P"
     } ],
     "hashtags" : [ {
@@ -941,6 +945,7 @@ Grailbird.data.tweets_2015_09 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/MTPOvnfR5P"
       } ],
       "hashtags" : [ {
@@ -1084,6 +1089,7 @@ Grailbird.data.tweets_2015_09 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sPJs7bnE3g"
       } ],
       "hashtags" : [ {
@@ -1105,7 +1111,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1248,6 +1254,7 @@ Grailbird.data.tweets_2015_09 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/r0lcYkrFV2"
     } ],
     "hashtags" : [ {
@@ -1292,6 +1299,7 @@ Grailbird.data.tweets_2015_09 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/r0lcYkrFV2"
       } ],
       "hashtags" : [ {

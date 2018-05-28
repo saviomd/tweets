@@ -120,6 +120,7 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9lrNUnUVcO"
     } ],
     "hashtags" : [ ],
@@ -129,7 +130,7 @@ Grailbird.data.tweets_2014_10 =
   "id_str" : "525102672064811008",
   "text" : "RT @4tea2: Has anyone seen the new Back to the Future trailer? http:\/\/t.co\/9lrNUnUVcO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -161,6 +162,7 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 768
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9lrNUnUVcO"
       } ],
       "hashtags" : [ ],
@@ -196,12 +198,6 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carol Grant Runyon",
-      "screen_name" : "CGRunyon",
-      "indices" : [ 3, 12 ],
-      "id_str" : "172066483",
-      "id" : 172066483
-    }, {
       "name" : "Letterboxd",
       "screen_name" : "letterboxd",
       "indices" : [ 58, 69 ],
@@ -245,11 +241,11 @@ Grailbird.data.tweets_2014_10 =
     "id" : 524773709500805121,
     "created_at" : "2014-10-22 04:06:16 +0000",
     "user" : {
-      "name" : "Carol Grant Runyon",
-      "screen_name" : "CGRunyon",
+      "name" : "Carol Grant",
+      "screen_name" : "carolaverygrant",
       "protected" : false,
       "id_str" : "172066483",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916769258524131328\/-Kg5oyBy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957701601958903808\/a6hu7kQB_normal.jpg",
       "id" : 172066483,
       "verified" : false
     }
@@ -401,6 +397,7 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/0clZqUzu6x"
       } ],
       "hashtags" : [ {
@@ -511,6 +508,7 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DDTXrBWSnV"
       } ],
       "hashtags" : [ {
@@ -536,57 +534,6 @@ Grailbird.data.tweets_2014_10 =
   },
   "id" : 522415808207937536,
   "created_at" : "2014-10-15 15:56:49 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lulu Genro Sincera",
-      "screen_name" : "EulucianaGenro",
-      "indices" : [ 3, 18 ],
-      "id_str" : "2571094290",
-      "id" : 2571094290
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "522209478595579905",
-  "text" : "RT @EuLucianaGenro: Quem t\u00E1 sentindo minha falta no debate da RT!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "522197962488025088",
-    "text" : "Quem t\u00E1 sentindo minha falta no debate da RT!",
-    "id" : 522197962488025088,
-    "created_at" : "2014-10-15 01:31:10 +0000",
-    "user" : {
-      "name" : "Lulu Genro Sincera",
-      "screen_name" : "EulucianaGenro",
-      "protected" : false,
-      "id_str" : "2571094290",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591474784002646017\/UlwrLSO8_normal.jpg",
-      "id" : 2571094290,
-      "verified" : false
-    }
-  },
-  "id" : 522209478595579905,
-  "created_at" : "2014-10-15 02:16:56 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -674,6 +621,7 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pkJLf7O7RZ"
     } ],
     "hashtags" : [ {
@@ -718,6 +666,7 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pkJLf7O7RZ"
       } ],
       "hashtags" : [ {
@@ -791,6 +740,7 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 549
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QBDGnSHeEk"
     } ],
     "hashtags" : [ ],
@@ -837,6 +787,7 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 549
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/QBDGnSHeEk"
       } ],
       "hashtags" : [ ],
@@ -857,7 +808,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -951,6 +902,7 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Y4efVID2Hy"
     } ],
     "hashtags" : [ ],
@@ -992,6 +944,7 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "fit",
           "w" : 576
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Y4efVID2Hy"
       } ],
       "hashtags" : [ ],
@@ -1119,6 +1072,7 @@ Grailbird.data.tweets_2014_10 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/NvJzTU71Fm"
     } ],
     "hashtags" : [ ],
@@ -1166,6 +1120,7 @@ Grailbird.data.tweets_2014_10 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/NvJzTU71Fm"
       } ],
       "hashtags" : [ ],

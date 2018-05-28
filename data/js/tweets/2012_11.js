@@ -9,11 +9,11 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "87532773",
       "id" : 87532773
     }, {
-      "name" : "Pie",
+      "name" : "Reply Anocugs",
       "screen_name" : "reply",
       "indices" : [ 30, 36 ],
-      "id_str" : "917867148978081792",
-      "id" : 917867148978081792
+      "id_str" : "961127107727327233",
+      "id" : 961127107727327233
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -31,11 +31,11 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Pie",
+        "name" : "Reply Anocugs",
         "screen_name" : "reply",
         "indices" : [ 18, 24 ],
-        "id_str" : "917867148978081792",
-        "id" : 917867148978081792
+        "id_str" : "961127107727327233",
+        "id" : 961127107727327233
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -182,7 +182,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "273597266349154304",
   "text" : "RT @jschuller: Wrote a little post about dogs today, and some other stuff\u2026 http:\/\/t.co\/2oWdtOuT",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -204,7 +204,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "jasonpatricksc",
       "protected" : false,
       "id_str" : "11584132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941786564853579776\/soXK51YV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976309789037707265\/ghJoVZIQ_normal.jpg",
       "id" : 11584132,
       "verified" : false
     }
@@ -250,13 +250,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
-      "indices" : [ 3, 14 ],
-      "id_str" : "42459293",
-      "id" : 42459293
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -288,13 +282,13 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273417449779650560,
     "created_at" : "2012-11-27 13:26:14 +0000",
     "user" : {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
+      "name" : "Canal Zico 10",
+      "screen_name" : "canalzico10",
       "protected" : false,
       "id_str" : "42459293",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946165230983417856\/Cpph0P82_normal.jpg",
       "id" : 42459293,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 273420152635281410,
@@ -312,7 +306,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -349,7 +343,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273255092403179520,
     "created_at" : "2012-11-27 02:41:05 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1667,13 +1661,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
-      "indices" : [ 3, 14 ],
-      "id_str" : "42459293",
-      "id" : 42459293
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1705,13 +1693,13 @@ Grailbird.data.tweets_2012_11 =
     "id" : 268351312461189121,
     "created_at" : "2012-11-13 13:55:13 +0000",
     "user" : {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
+      "name" : "Canal Zico 10",
+      "screen_name" : "canalzico10",
       "protected" : false,
       "id_str" : "42459293",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946165230983417856\/Cpph0P82_normal.jpg",
       "id" : 42459293,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 268367672780152832,
@@ -2462,7 +2450,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "265602615998558209",
   "text" : "RT @twbootstrap: Redonkulously stoked for @fat, @dhg, and @connors for releasing @GoRatchet, the new mobile prototyping toolkit hotness. ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "fat",
@@ -2693,6 +2681,7 @@ Grailbird.data.tweets_2012_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vWvSmLPZ"
       } ],
       "hashtags" : [ ],

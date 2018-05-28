@@ -92,6 +92,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ULcGH0Uz6W"
     } ],
     "hashtags" : [ ],
@@ -138,6 +139,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ULcGH0Uz6W"
       } ],
       "hashtags" : [ ],
@@ -213,6 +215,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 720
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/h1bOk40cbS"
     } ],
     "hashtags" : [ ],
@@ -254,6 +257,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 720
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/h1bOk40cbS"
       } ],
       "hashtags" : [ ],
@@ -269,7 +273,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "nowthisnews",
       "protected" : false,
       "id_str" : "701725963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/932634427385176064\/g6E1AlsF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971789860548866049\/LCponVal_normal.jpg",
       "id" : 701725963,
       "verified" : true
     }
@@ -338,6 +342,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EYXsw5M1hz"
       } ],
       "hashtags" : [ {
@@ -356,7 +361,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "SpiderManMovie",
       "protected" : false,
       "id_str" : "281217033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937740302999216128\/1spqTSD7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948965064572256256\/xO5c8pLt_normal.jpg",
       "id" : 281217033,
       "verified" : true
     }
@@ -411,6 +416,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 517
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FksZ0Mtces"
     } ],
     "hashtags" : [ ],
@@ -452,6 +458,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 517
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FksZ0Mtces"
       } ],
       "hashtags" : [ ],
@@ -467,7 +474,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "rosstmiller",
       "protected" : false,
       "id_str" : "15933879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945447994366840832\/yz7Hn9ZS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951267625732100096\/RoxbjdXj_normal.jpg",
       "id" : 15933879,
       "verified" : false
     }
@@ -538,6 +545,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DpDmlNIedO"
       } ],
       "hashtags" : [ ],
@@ -609,7 +617,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "jensimmons",
       "protected" : false,
       "id_str" : "975691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765902179660161024\/zCC2yj_R_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992737619632164864\/gcGa0a00_normal.jpg",
       "id" : 975691,
       "verified" : false
     }
@@ -664,6 +672,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 619
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AZQwodJUE6"
     } ],
     "hashtags" : [ {
@@ -708,6 +717,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 619
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/AZQwodJUE6"
       } ],
       "hashtags" : [ {
@@ -726,7 +736,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "SpiderManMovie",
       "protected" : false,
       "id_str" : "281217033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937740302999216128\/1spqTSD7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948965064572256256\/xO5c8pLt_normal.jpg",
       "id" : 281217033,
       "verified" : true
     }
@@ -781,6 +791,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/p01PMDzAsM"
     } ],
     "hashtags" : [ {
@@ -825,6 +836,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/p01PMDzAsM"
       } ],
       "hashtags" : [ {
@@ -843,7 +855,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -898,6 +910,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1650
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/a9xrAVZHJb"
     } ],
     "hashtags" : [ {
@@ -948,6 +961,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1650
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/a9xrAVZHJb"
       } ],
       "hashtags" : [ {
@@ -972,7 +986,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -1027,6 +1041,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fPOgXGKbov"
     } ],
     "hashtags" : [ {
@@ -1077,6 +1092,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fPOgXGKbov"
       } ],
       "hashtags" : [ {
@@ -1101,7 +1117,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -1173,6 +1189,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1189
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EtUrrKI98N"
       } ],
       "hashtags" : [ {
@@ -1197,7 +1214,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "MengoForum",
       "protected" : false,
       "id_str" : "312836631",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2535724774\/4kunzpepzfu21b3vowar_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954355483695026178\/PNq4ZV3b_normal.jpg",
       "id" : 312836631,
       "verified" : false
     }
@@ -1252,6 +1269,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 678
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hTygiPYa5o"
     } ],
     "hashtags" : [ {
@@ -1302,6 +1320,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 678
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/hTygiPYa5o"
       } ],
       "hashtags" : [ {
@@ -1326,7 +1345,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -1404,6 +1423,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/trsRK2sRT1"
       } ],
       "hashtags" : [ {
@@ -1486,6 +1506,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 459
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IPzchyRKg4"
     } ],
     "hashtags" : [ {
@@ -1530,6 +1551,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 459
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/IPzchyRKg4"
       } ],
       "hashtags" : [ {
@@ -1614,6 +1636,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 300
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Lem0ZzMwsv"
       } ],
       "hashtags" : [ ],
@@ -1684,6 +1707,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1660
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5852pENuuO"
     } ],
     "hashtags" : [ {
@@ -1734,6 +1758,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1660
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/5852pENuuO"
       } ],
       "hashtags" : [ {
@@ -1758,7 +1783,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -1813,6 +1838,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1292
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7i7057WgbB"
     } ],
     "hashtags" : [ {
@@ -1863,6 +1889,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1292
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/7i7057WgbB"
       } ],
       "hashtags" : [ {
@@ -1887,7 +1914,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "justiceleaguewb",
       "protected" : false,
       "id_str" : "4754523444",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933016487773618176\/wPeV7GMD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954064224245882881\/hH_AuCD1_normal.jpg",
       "id" : 4754523444,
       "verified" : true
     }
@@ -1971,6 +1998,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 300
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/luEzLWYV0m"
       } ],
       "hashtags" : [ {
@@ -2096,6 +2124,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/xjJcS5OHLN"
       } ],
       "hashtags" : [ ],
@@ -2123,67 +2152,6 @@ Grailbird.data.tweets_2017_03 =
   },
   "id" : 843847089142620160,
   "created_at" : "2017-03-20 15:29:58 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Swearing Sports News",
-      "screen_name" : "SwearingSport",
-      "indices" : [ 3, 17 ],
-      "id_str" : "637318580",
-      "id" : 637318580
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 71, 94 ],
-      "url" : "https:\/\/t.co\/0zH2F93MyC",
-      "expanded_url" : "https:\/\/twitter.com\/VFoot_\/status\/736859749455650816\/video\/1",
-      "display_url" : "twitter.com\/VFoot_\/status\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "843623963448299520",
-  "text" : "RT @SwearingSport: The best Sunday league goal you'll ever fucking see https:\/\/t.co\/0zH2F93MyC",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 52, 75 ],
-        "url" : "https:\/\/t.co\/0zH2F93MyC",
-        "expanded_url" : "https:\/\/twitter.com\/VFoot_\/status\/736859749455650816\/video\/1",
-        "display_url" : "twitter.com\/VFoot_\/status\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "843499773663592450",
-    "text" : "The best Sunday league goal you'll ever fucking see https:\/\/t.co\/0zH2F93MyC",
-    "id" : 843499773663592450,
-    "created_at" : "2017-03-19 16:29:52 +0000",
-    "user" : {
-      "name" : "Swearing Sports News",
-      "screen_name" : "SwearingSport",
-      "protected" : false,
-      "id_str" : "637318580",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815587321462525953\/v0yIoLR3_normal.jpg",
-      "id" : 637318580,
-      "verified" : false
-    }
-  },
-  "id" : 843623963448299520,
-  "created_at" : "2017-03-20 00:43:21 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -2243,7 +2211,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "843083124670128129",
   "text" : "RT @nessamaia: Mais uma p\u00E1gina que vale a pena seguir: https:\/\/t.co\/lLviC1kJL4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2380,6 +2348,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1037
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/H9DTjJC4AH"
     } ],
     "hashtags" : [ ],
@@ -2426,6 +2395,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1037
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/H9DTjJC4AH"
       } ],
       "hashtags" : [ ],
@@ -2515,6 +2485,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BqmIJEAwHs"
       } ],
       "hashtags" : [ {
@@ -2533,7 +2504,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2567,117 +2538,6 @@ Grailbird.data.tweets_2017_03 =
   "text" : "Eu! kkkk https:\/\/t.co\/UL9E12tZ8e",
   "id" : 839929807274147841,
   "created_at" : "2017-03-09 20:04:05 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ghibli Museum",
-      "screen_name" : "TheGhibliMuseum",
-      "indices" : [ 3, 19 ],
-      "id_str" : "705831338725740544",
-      "id" : 705831338725740544
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/TheGhibliMuseum\/status\/838407858152681472\/video\/1",
-      "indices" : [ 71, 94 ],
-      "url" : "https:\/\/t.co\/0wL9XUyipU",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/838406959850205184\/pu\/img\/w0m4uy_v1eWWt_Lp.jpg",
-      "id_str" : "838406959850205184",
-      "id" : 838406959850205184,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/838406959850205184\/pu\/img\/w0m4uy_v1eWWt_Lp.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 720
-      } ],
-      "display_url" : "pic.twitter.com\/0wL9XUyipU"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "838935814017015809",
-  "text" : "RT @TheGhibliMuseum: The female protagonists in Miyazaki\u2019s imagination https:\/\/t.co\/0wL9XUyipU",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/TheGhibliMuseum\/status\/838407858152681472\/video\/1",
-        "indices" : [ 50, 73 ],
-        "url" : "https:\/\/t.co\/0wL9XUyipU",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/838406959850205184\/pu\/img\/w0m4uy_v1eWWt_Lp.jpg",
-        "id_str" : "838406959850205184",
-        "id" : 838406959850205184,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/838406959850205184\/pu\/img\/w0m4uy_v1eWWt_Lp.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        } ],
-        "display_url" : "pic.twitter.com\/0wL9XUyipU"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "838407858152681472",
-    "text" : "The female protagonists in Miyazaki\u2019s imagination https:\/\/t.co\/0wL9XUyipU",
-    "id" : 838407858152681472,
-    "created_at" : "2017-03-05 15:16:24 +0000",
-    "user" : {
-      "name" : "Ghibli Museum",
-      "screen_name" : "TheGhibliMuseum",
-      "protected" : false,
-      "id_str" : "705831338725740544",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907600810342744072\/N_QLxWd7_normal.jpg",
-      "id" : 705831338725740544,
-      "verified" : false
-    }
-  },
-  "id" : 838935814017015809,
-  "created_at" : "2017-03-07 02:14:19 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -2814,6 +2674,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 994
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/M3aFNqrbK9"
     } ],
     "hashtags" : [ ],
@@ -2855,6 +2716,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 994
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/M3aFNqrbK9"
       } ],
       "hashtags" : [ ],
@@ -2958,6 +2820,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/E1oKoNWRtQ"
     } ],
     "hashtags" : [ {
@@ -3008,6 +2871,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/E1oKoNWRtQ"
       } ],
       "hashtags" : [ {
@@ -3026,7 +2890,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "jimmykimmel",
       "protected" : false,
       "id_str" : "26053643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836673015374987264\/BFOVLxBr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979404042240630785\/AcHnkDGC_normal.jpg",
       "id" : 26053643,
       "verified" : true
     }
@@ -3081,6 +2945,7 @@ Grailbird.data.tweets_2017_03 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RwVp5ZkJ42"
     } ],
     "hashtags" : [ {
@@ -3125,6 +2990,7 @@ Grailbird.data.tweets_2017_03 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RwVp5ZkJ42"
       } ],
       "hashtags" : [ {
@@ -3143,7 +3009,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

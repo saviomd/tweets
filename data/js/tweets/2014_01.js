@@ -192,7 +192,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -241,7 +241,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 426855415473664000,
     "created_at" : "2014-01-24 23:13:56 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -265,7 +265,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anna Debenham",
+      "name" : "Anna Debenham \uD83E\uDD94",
       "screen_name" : "anna_debenham",
       "indices" : [ 3, 17 ],
       "id_str" : "9655342",
@@ -300,6 +300,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 236
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/21vQs9RKdH"
     } ],
     "hashtags" : [ ],
@@ -341,6 +342,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 236
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/21vQs9RKdH"
       } ],
       "hashtags" : [ ],
@@ -352,7 +354,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 426831053638995968,
     "created_at" : "2014-01-24 21:37:07 +0000",
     "user" : {
-      "name" : "Anna Debenham",
+      "name" : "Anna Debenham \uD83E\uDD94",
       "screen_name" : "anna_debenham",
       "protected" : false,
       "id_str" : "9655342",
@@ -478,7 +480,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }
@@ -533,6 +535,7 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 1616
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9TRTBg8hhI"
     } ],
     "hashtags" : [ {
@@ -577,6 +580,7 @@ Grailbird.data.tweets_2014_01 =
           "resize" : "fit",
           "w" : 1616
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9TRTBg8hhI"
       } ],
       "hashtags" : [ {
@@ -1347,13 +1351,7 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
-      "indices" : [ 3, 14 ],
-      "id_str" : "42459293",
-      "id" : 42459293
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1390,13 +1388,13 @@ Grailbird.data.tweets_2014_01 =
     "id" : 421757361427329024,
     "created_at" : "2014-01-10 21:36:05 +0000",
     "user" : {
-      "name" : "Zico na Rede",
-      "screen_name" : "ziconarede",
+      "name" : "Canal Zico 10",
+      "screen_name" : "canalzico10",
       "protected" : false,
       "id_str" : "42459293",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946165230983417856\/Cpph0P82_normal.jpg",
       "id" : 42459293,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 421782466383581184,

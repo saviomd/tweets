@@ -38,6 +38,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 700
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nmfnp7luhn"
     } ],
     "hashtags" : [ ],
@@ -52,7 +53,7 @@ Grailbird.data.tweets_2016_12 =
   "id_str" : "814675111122964486",
   "text" : "RT @Tecnoblog: Piloto autom\u00E1tico da Tesla freia sozinho antes de acidente \u00E0 frente ocorrer \u00BB\u00A0https:\/\/t.co\/k2S1nBWPw6 https:\/\/t.co\/nmfnp7luhn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -84,6 +85,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 700
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nmfnp7luhn"
       } ],
       "hashtags" : [ ],
@@ -262,6 +264,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 905
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RwxjxZNvMh"
       } ],
       "hashtags" : [ {
@@ -373,6 +376,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/wSTNL6akL5"
     } ],
     "hashtags" : [ ],
@@ -414,6 +418,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/wSTNL6akL5"
       } ],
       "hashtags" : [ ],
@@ -482,7 +487,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "indices" : [ 3, 19 ],
       "id_str" : "287690539",
@@ -531,7 +536,7 @@ Grailbird.data.tweets_2016_12 =
     "id" : 811288609647161344,
     "created_at" : "2016-12-20 19:14:12 +0000",
     "user" : {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
@@ -590,6 +595,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 3000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Z6rTGyVHXu"
     } ],
     "hashtags" : [ ],
@@ -636,6 +642,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 3000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Z6rTGyVHXu"
       } ],
       "hashtags" : [ ],
@@ -656,7 +663,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -727,6 +734,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/7T9gIK2zJ9"
       } ],
       "hashtags" : [ ],
@@ -813,7 +821,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "sarah_edo",
       "protected" : false,
       "id_str" : "813333008",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856249108885110784\/97cssCek_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982796605425303552\/phhp5grt_normal.jpg",
       "id" : 813333008,
       "verified" : false
     }
@@ -932,6 +940,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ddwnm8i6LA"
     } ],
     "hashtags" : [ ],
@@ -973,6 +982,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ddwnm8i6LA"
       } ],
       "hashtags" : [ ],
@@ -1145,7 +1155,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "indices" : [ 3, 19 ],
       "id_str" : "287690539",
@@ -1180,6 +1190,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SgjBjzrdVy"
     } ],
     "hashtags" : [ {
@@ -1224,6 +1235,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SgjBjzrdVy"
       } ],
       "hashtags" : [ {
@@ -1238,7 +1250,7 @@ Grailbird.data.tweets_2016_12 =
     "id" : 806921501970604032,
     "created_at" : "2016-12-08 18:00:52 +0000",
     "user" : {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
@@ -1323,6 +1335,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Uw3IGXlNHC"
       } ],
       "hashtags" : [ {
@@ -1396,6 +1409,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kfMAJWrMFQ"
     } ],
     "hashtags" : [ ],
@@ -1442,6 +1456,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/kfMAJWrMFQ"
       } ],
       "hashtags" : [ ],
@@ -1517,6 +1532,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/33x7n4qtkk"
     } ],
     "hashtags" : [ {
@@ -1561,6 +1577,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/33x7n4qtkk"
       } ],
       "hashtags" : [ {
@@ -1579,7 +1596,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1696,7 +1713,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1770,6 +1787,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1064
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/reUCoRUXQu"
       } ],
       "hashtags" : [ {
@@ -1874,6 +1892,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/7ZnftZhPwm"
       } ],
       "hashtags" : [ {
@@ -1958,6 +1977,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LsyBBLopvu"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/Flamengo\/status\/804428957928062976\/photo\/1",
@@ -1988,6 +2008,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LsyBBLopvu"
       } ],
       "hashtags" : [ {
@@ -2006,7 +2027,7 @@ Grailbird.data.tweets_2016_12 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2045,7 +2066,7 @@ Grailbird.data.tweets_2016_12 =
   "id_str" : "804373589336145920",
   "text" : "RT @24ways: We rebuilt our entire site this year, and the CSS and JS is compiled directly from our pattern library https:\/\/t.co\/rBmZIH3H3F",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2087,7 +2108,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "indices" : [ 3, 19 ],
       "id_str" : "287690539",
@@ -2145,6 +2166,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/wAMLJT8Yz1"
       } ],
       "hashtags" : [ {
@@ -2159,7 +2181,7 @@ Grailbird.data.tweets_2016_12 =
     "id" : 804286615833219072,
     "created_at" : "2016-12-01 11:30:46 +0000",
     "user" : {
-      "name" : "Chapecoense #PraSempreChape",
+      "name" : "Chapecoense",
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
@@ -2218,6 +2240,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Y7pvzyW5Gd"
     } ],
     "hashtags" : [ ],
@@ -2264,6 +2287,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Y7pvzyW5Gd"
       } ],
       "hashtags" : [ ],
@@ -2345,6 +2369,7 @@ Grailbird.data.tweets_2016_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vLrzGoMHyo"
     } ],
     "hashtags" : [ {
@@ -2395,6 +2420,7 @@ Grailbird.data.tweets_2016_12 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vLrzGoMHyo"
       } ],
       "hashtags" : [ {

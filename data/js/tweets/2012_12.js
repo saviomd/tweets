@@ -153,6 +153,7 @@ Grailbird.data.tweets_2012_12 =
         "resize" : "fit",
         "w" : 568
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/NBy1bjkX"
     } ],
     "hashtags" : [ ],
@@ -288,7 +289,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "AlexandreLalas",
       "protected" : false,
       "id_str" : "100303883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000637982897\/71f14d49e636b57953690ce9bba01602_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950733838640209920\/mL3FG3Zq_normal.jpg",
       "id" : 100303883,
       "verified" : false
     }
@@ -308,7 +309,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 0, 8 ],
       "id_str" : "26618823",
@@ -395,6 +396,7 @@ Grailbird.data.tweets_2012_12 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LOYwEIQI"
     } ],
     "hashtags" : [ ],
@@ -508,7 +510,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }
@@ -898,7 +900,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "fat",
       "protected" : false,
       "id_str" : "16521996",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892560196324573185\/fNHQpBpd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/961379278112702464\/yUVuhagd_normal.jpg",
       "id" : 16521996,
       "verified" : true
     }
@@ -1130,7 +1132,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "276110036143583232",
   "text" : "RT @nessamaia: Gafes da arquibancada 4: \u201Cpoooorra, ningu\u00E9m passa pra ele tocar\u201D - Ibsonzete reclamando ap\u00F3s Ibson errar seu 7323\u00BA passe  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

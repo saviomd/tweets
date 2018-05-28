@@ -115,6 +115,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 700
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/y62tMAJWnC"
       } ],
       "hashtags" : [ ],
@@ -185,6 +186,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pvHdz3D8uB"
     } ],
     "hashtags" : [ ],
@@ -226,6 +228,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pvHdz3D8uB"
       } ],
       "hashtags" : [ ],
@@ -241,7 +244,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "VGFGamers",
       "protected" : false,
       "id_str" : "784892570",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876607652448665602\/uviBf4dF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956258375301509131\/K_eUnk3f_normal.jpg",
       "id" : 784892570,
       "verified" : false
     }
@@ -334,6 +337,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9qYPQUM34L"
       } ],
       "hashtags" : [ ],
@@ -349,13 +353,126 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "mulegirl",
       "protected" : false,
       "id_str" : "2391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/741453032399867905\/1EV8JUJY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997904169125085184\/yrIkD-wq_normal.jpg",
       "id" : 2391,
       "verified" : false
     }
   },
   "id" : 746463220316110848,
   "created_at" : "2016-06-24 22:01:14 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sylvie",
+      "screen_name" : "u_sylvie",
+      "indices" : [ 3, 12 ],
+      "id_str" : "1861568029",
+      "id" : 1861568029
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/u_sylvie\/status\/742507648738721793\/video\/1",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/gQ3abVpcDu",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
+      "id_str" : "742507435789713409",
+      "id" : 742507435789713409,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 360,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/gQ3abVpcDu"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "745078604569128960",
+  "text" : "RT @u_sylvie: Ben Affleck should do DVD commentaries more often. What a ledge. https:\/\/t.co\/gQ3abVpcDu",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/u_sylvie\/status\/742507648738721793\/video\/1",
+        "indices" : [ 65, 88 ],
+        "url" : "https:\/\/t.co\/gQ3abVpcDu",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
+        "id_str" : "742507435789713409",
+        "id" : 742507435789713409,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 360,
+          "resize" : "fit",
+          "w" : 480
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/gQ3abVpcDu"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "742507648738721793",
+    "text" : "Ben Affleck should do DVD commentaries more often. What a ledge. https:\/\/t.co\/gQ3abVpcDu",
+    "id" : 742507648738721793,
+    "created_at" : "2016-06-14 00:03:13 +0000",
+    "user" : {
+      "name" : "Sylvie",
+      "screen_name" : "u_sylvie",
+      "protected" : false,
+      "id_str" : "1861568029",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/962896900419547136\/W9eUEhgz_normal.jpg",
+      "id" : 1861568029,
+      "verified" : false
+    }
+  },
+  "id" : 745078604569128960,
+  "created_at" : "2016-06-21 02:19:16 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -555,6 +672,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 530
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/e1qTphE49E"
     } ],
     "hashtags" : [ ],
@@ -601,6 +719,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 530
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/e1qTphE49E"
       } ],
       "hashtags" : [ ],
@@ -682,6 +801,7 @@ Grailbird.data.tweets_2016_06 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5wdEu2jhDz"
     } ],
     "hashtags" : [ {
@@ -732,6 +852,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/5wdEu2jhDz"
       } ],
       "hashtags" : [ {
@@ -750,7 +871,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913752125322272769\/tqc-KL72_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999661540419690498\/4Pq10ueS_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -974,6 +1095,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/6fsdyKSb1I"
       } ],
       "hashtags" : [ {
@@ -1072,6 +1194,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oA5W7mJtjC"
       } ],
       "hashtags" : [ {
@@ -1171,6 +1294,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 792
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3QSeCV7cPk"
       } ],
       "hashtags" : [ ],
@@ -1398,6 +1522,7 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/2qQeG7mboK"
       } ],
       "hashtags" : [ ],

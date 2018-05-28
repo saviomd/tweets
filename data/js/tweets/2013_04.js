@@ -240,7 +240,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "327176162856022017",
   "text" : "RT @jasonsantamaria: All the Calvin and Hobbes comics for free?! And more: http:\/\/t.co\/SY1CJZE7ra",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -434,7 +434,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -760,6 +760,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 851
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ef3V4HABEN"
     } ],
     "hashtags" : [ {
@@ -804,6 +805,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 851
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ef3V4HABEN"
       } ],
       "hashtags" : [ {
@@ -891,7 +893,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -969,7 +971,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -996,7 +998,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 323568157711286272,
     "created_at" : "2013-04-14 22:47:15 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1094,6 +1096,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 535
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LRSGzFapoN"
     } ],
     "hashtags" : [ ],
@@ -1147,6 +1150,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 535
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LRSGzFapoN"
       } ],
       "hashtags" : [ ],
@@ -1229,6 +1233,7 @@ Grailbird.data.tweets_2013_04 =
         "resize" : "fit",
         "w" : 467
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bDqqubYUr3"
     } ],
     "hashtags" : [ ],
@@ -1282,6 +1287,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 467
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bDqqubYUr3"
       } ],
       "hashtags" : [ ],
@@ -1753,6 +1759,7 @@ Grailbird.data.tweets_2013_04 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ndm2WIAv26"
       } ],
       "hashtags" : [ ],
@@ -1907,7 +1914,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }

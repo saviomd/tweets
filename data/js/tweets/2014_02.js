@@ -3,7 +3,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -38,6 +38,7 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SMcTf8M7QZ"
     } ],
     "hashtags" : [ ],
@@ -79,6 +80,7 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "fit",
           "w" : 675
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SMcTf8M7QZ"
       } ],
       "hashtags" : [ ],
@@ -90,7 +92,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 439061238585126912,
     "created_at" : "2014-02-27 15:35:31 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -216,7 +218,7 @@ Grailbird.data.tweets_2014_02 =
   "id_str" : "438904689770635264",
   "text" : "RT @letterboxd: \u201C\u2026 two decades after he last sent Calvin &amp; Hobbes exploring, Bill Watterson got an offer he decided not to refuse.\u201D http:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -293,6 +295,7 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ca0AWNWAB8"
     } ],
     "hashtags" : [ ],
@@ -339,6 +342,7 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ca0AWNWAB8"
       } ],
       "hashtags" : [ ],
@@ -564,6 +568,7 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pfqBxoqe9R"
       } ],
       "hashtags" : [ ],
@@ -599,7 +604,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -637,7 +642,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 436972670786105344,
     "created_at" : "2014-02-21 21:16:17 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1116,6 +1121,7 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 300
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Yk3Hre9gDV"
     } ],
     "hashtags" : [ ],
@@ -1259,7 +1265,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1292,7 +1298,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 433762648048799744,
     "created_at" : "2014-02-13 00:40:48 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1316,7 +1322,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Henrique",
+      "name" : "Henri",
       "screen_name" : "rhesuhs",
       "indices" : [ 3, 11 ],
       "id_str" : "22381318",
@@ -1353,11 +1359,11 @@ Grailbird.data.tweets_2014_02 =
     "id" : 433576706905874432,
     "created_at" : "2014-02-12 12:21:57 +0000",
     "user" : {
-      "name" : "Henrique",
+      "name" : "Henri",
       "screen_name" : "rhesuhs",
       "protected" : false,
       "id_str" : "22381318",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939624544683294722\/J3Z8PKKK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995747348734148609\/QMWcMl-r_normal.jpg",
       "id" : 22381318,
       "verified" : false
     }
@@ -1604,7 +1610,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "paul_irish",
       "protected" : false,
       "id_str" : "1671811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420826194083213312\/CP1RmLa3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972186419274776576\/LaJS_MKO_normal.jpg",
       "id" : 1671811,
       "verified" : false
     }
@@ -1842,6 +1848,7 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oOaMMbVy4g"
     } ],
     "hashtags" : [ ],
@@ -1950,6 +1957,7 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/b2Cvs9nTzb"
       } ],
       "hashtags" : [ {
@@ -1974,7 +1982,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2278,7 +2286,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "cesarotti",
       "protected" : false,
       "id_str" : "14629347",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931916642560430086\/i6h60WAs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993162652519206912\/hyvfLsc1_normal.jpg",
       "id" : 14629347,
       "verified" : false
     }

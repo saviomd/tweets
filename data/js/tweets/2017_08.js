@@ -92,6 +92,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4unelugRxI"
     } ],
     "hashtags" : [ ],
@@ -133,6 +134,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 576
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4unelugRxI"
       } ],
       "hashtags" : [ ],
@@ -203,6 +205,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/u5KSAzT51Q"
     } ],
     "hashtags" : [ ],
@@ -217,7 +220,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "902514059303690240",
   "text" : "RT @letterboxd: It\u2019s here. \uD83E\uDD16\n\nhttps:\/\/t.co\/EXK5cbQt34 https:\/\/t.co\/u5KSAzT51Q",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -249,6 +252,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/u5KSAzT51Q"
       } ],
       "hashtags" : [ ],
@@ -335,6 +339,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/iRLh1kfYkd"
       } ],
       "hashtags" : [ ],
@@ -410,6 +415,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 620
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/92617Y0PIp"
     } ],
     "hashtags" : [ ],
@@ -456,6 +462,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/92617Y0PIp"
       } ],
       "hashtags" : [ ],
@@ -531,6 +538,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kXqiC8uMpo"
     } ],
     "hashtags" : [ ],
@@ -577,6 +585,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/kXqiC8uMpo"
       } ],
       "hashtags" : [ ],
@@ -617,7 +626,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -666,6 +675,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EkWxiVv62x"
       } ],
       "hashtags" : [ {
@@ -685,7 +695,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 900734903624617985,
     "created_at" : "2017-08-24 15:01:50 +0000",
     "user" : {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -767,6 +777,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Sw9v4pMBxj"
       } ],
       "hashtags" : [ ],
@@ -854,7 +865,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "biz",
       "protected" : false,
       "id_str" : "13",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/938329470489862144\/hWco_aAc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000572120223465472\/PyCBhJxQ_normal.jpg",
       "id" : 13,
       "verified" : true
     }
@@ -915,7 +926,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "GuardianUS",
       "protected" : false,
       "id_str" : "16042794",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888149953008156673\/-jwMr5r3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952866548867387392\/nqu9ZGxL_normal.jpg",
       "id" : 16042794,
       "verified" : true
     }
@@ -1042,6 +1053,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 450
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sUnQXYcwhc"
       } ],
       "hashtags" : [ ],
@@ -1197,6 +1209,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1080
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Pu6tUS3q8H"
       } ],
       "hashtags" : [ {
@@ -1291,6 +1304,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1170
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bovjlu3Lvz"
       } ],
       "hashtags" : [ ],
@@ -1331,7 +1345,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fruitburger",
+      "name" : "BINGPOT!",
       "screen_name" : "emotionalpedant",
       "indices" : [ 3, 19 ],
       "id_str" : "18484343",
@@ -1366,6 +1380,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1078
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0eAiBpE3zG"
     } ],
     "hashtags" : [ ],
@@ -1407,6 +1422,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1078
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/0eAiBpE3zG"
       } ],
       "hashtags" : [ ],
@@ -1418,11 +1434,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 898970692783415297,
     "created_at" : "2017-08-19 18:11:29 +0000",
     "user" : {
-      "name" : "Fruitburger",
+      "name" : "BINGPOT!",
       "screen_name" : "emotionalpedant",
       "protected" : false,
       "id_str" : "18484343",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948268903167418368\/bb_Qvpwu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994676657125511168\/85N3uCq1_normal.jpg",
       "id" : 18484343,
       "verified" : true
     }
@@ -1477,6 +1493,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/701EZzaCFa"
     } ],
     "hashtags" : [ ],
@@ -1518,6 +1535,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/701EZzaCFa"
       } ],
       "hashtags" : [ ],
@@ -1588,6 +1606,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 750
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1EBSazbnmS"
     } ],
     "hashtags" : [ ],
@@ -1629,6 +1648,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 750
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1EBSazbnmS"
       } ],
       "hashtags" : [ ],
@@ -1833,6 +1853,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 162
       } ],
+      "media_alt" : "An icon showing the world being hugged by Hobbes from the comic strip \u201CCalvin & Hobbes\u201D.",
       "display_url" : "pic.twitter.com\/fOhYth4nLS"
     } ],
     "hashtags" : [ ],
@@ -1874,6 +1895,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 162
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fOhYth4nLS"
       } ],
       "hashtags" : [ ],
@@ -2005,6 +2027,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5xFpvHTuI2"
     } ],
     "hashtags" : [ ],
@@ -2046,6 +2069,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/5xFpvHTuI2"
       } ],
       "hashtags" : [ ],
@@ -2061,7 +2085,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "discordapp",
       "protected" : false,
       "id_str" : "3065618342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942834619702902784\/-YkaO0Te_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993601333058940928\/aqpGURs9_normal.jpg",
       "id" : 3065618342,
       "verified" : true
     }
@@ -2116,6 +2140,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/q90rCSY4yr"
     } ],
     "hashtags" : [ ],
@@ -2162,6 +2187,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/q90rCSY4yr"
       } ],
       "hashtags" : [ ],
@@ -2242,6 +2268,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 750
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DmcEo513qB"
     } ],
     "hashtags" : [ ],
@@ -2283,6 +2310,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 750
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DmcEo513qB"
       } ],
       "hashtags" : [ ],
@@ -2387,6 +2415,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rHZbnuCE8E"
       } ],
       "hashtags" : [ {
@@ -2479,6 +2508,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1560
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oaFzPJHGZ8"
       } ],
       "hashtags" : [ ],
@@ -2593,6 +2623,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 883
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ZQxP6ZTW9T"
     } ],
     "hashtags" : [ {
@@ -2640,6 +2671,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 883
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ZQxP6ZTW9T"
       } ],
       "hashtags" : [ {
@@ -2716,6 +2748,7 @@ Grailbird.data.tweets_2017_08 =
         "resize" : "fit",
         "w" : 2000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/GrNBk6paBQ"
     } ],
     "hashtags" : [ ],
@@ -2730,7 +2763,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "894396499429380096",
   "text" : "RT @LWLies: The curious phenomenon of ghost directing \u2013 Hollywood\u2019s best worst kept secret: https:\/\/t.co\/7EACwShKv0 https:\/\/t.co\/GrNBk6paBQ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2762,6 +2795,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 2000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/GrNBk6paBQ"
       } ],
       "hashtags" : [ ],
@@ -2965,6 +2999,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VY32W7Na9p"
       } ],
       "hashtags" : [ ],
@@ -3057,6 +3092,7 @@ Grailbird.data.tweets_2017_08 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PfeVupnFi7"
       } ],
       "hashtags" : [ {

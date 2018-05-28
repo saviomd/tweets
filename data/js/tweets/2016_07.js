@@ -65,6 +65,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 627
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qanB43SUrs"
     } ],
     "hashtags" : [ ],
@@ -111,6 +112,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 627
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qanB43SUrs"
       } ],
       "hashtags" : [ ],
@@ -375,6 +377,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3JnS9X7HKz"
     } ],
     "hashtags" : [ ],
@@ -416,6 +419,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3JnS9X7HKz"
       } ],
       "hashtags" : [ ],
@@ -431,7 +435,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "krisajenkins",
       "protected" : false,
       "id_str" : "18505708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/899022201260838912\/WUjXRTgX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983356928586854400\/bNw6aMkM_normal.jpg",
       "id" : 18505708,
       "verified" : false
     }
@@ -596,6 +600,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BdPVhmtZER"
       } ],
       "hashtags" : [ ],
@@ -704,6 +709,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WVwiMjHIAe"
     } ],
     "hashtags" : [ ],
@@ -750,6 +756,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WVwiMjHIAe"
       } ],
       "hashtags" : [ ],
@@ -907,6 +914,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/8umVsgxlH8"
       } ],
       "hashtags" : [ ],

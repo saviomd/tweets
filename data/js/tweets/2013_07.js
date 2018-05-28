@@ -100,6 +100,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ZjY64KMeNH"
       } ],
       "hashtags" : [ ],
@@ -488,7 +489,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359496395419418624",
   "text" : "RT @mattbrett: Hehehe, bottom! http:\/\/t.co\/Z7IcfsVMIF #minions",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -931,7 +932,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "357672863480176640",
   "text" : "RT @iChris: \u201CSo phpMyAdmin is how can you manage your MySQL database.\u201D\n\n\u201CHow do I manage PHP?\u201D\n\n\u201CSQLMyAdmin?\u201D",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -948,7 +949,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "iChris",
       "protected" : false,
       "id_str" : "58323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802364293542866944\/tgPj8_EH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000256969574375424\/Dj1NRXC6_normal.jpg",
       "id" : 58323,
       "verified" : false
     }
@@ -1007,7 +1008,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "414277639",
       "id" : 414277639
     }, {
-      "name" : "cartier schwabby in a \u2018rari",
+      "name" : "one-punch matt",
       "screen_name" : "schwabby",
       "indices" : [ 129, 138 ],
       "id_str" : "15534137",
@@ -1035,7 +1036,7 @@ Grailbird.data.tweets_2013_07 =
         "id_str" : "414277639",
         "id" : 414277639
       }, {
-        "name" : "cartier schwabby in a \u2018rari",
+        "name" : "one-punch matt",
         "screen_name" : "schwabby",
         "indices" : [ 113, 122 ],
         "id_str" : "15534137",
@@ -1121,6 +1122,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/67zHqOOcVC"
     } ],
     "hashtags" : [ {
@@ -1174,6 +1176,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/67zHqOOcVC"
       } ],
       "hashtags" : [ {
@@ -1229,7 +1232,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "357209690771439618",
   "text" : "RT @mattbrett: Scale an image to 286px (by entering dimensions) in Photoshop, ends up being 287px. Undo and try again, ends up at 285px. Ca\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1294,7 +1297,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "3367477695",
       "id" : 3367477695
     }, {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 13, 21 ],
       "id_str" : "26618823",
@@ -1311,7 +1314,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg\u262E",
+        "name" : "\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -1330,7 +1333,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "Urublog",
     "in_reply_to_user_id_str" : "26618823",
     "user" : {
-      "name" : "Respeitem o Manto!",
+      "name" : "Renuncia, EBM !",
       "screen_name" : "1981Olavo",
       "protected" : false,
       "id_str" : "33029356",
@@ -1395,6 +1398,7 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 578
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HWwBVKqycI"
     } ],
     "hashtags" : [ ],
@@ -1442,6 +1446,7 @@ Grailbird.data.tweets_2013_07 =
           "resize" : "fit",
           "w" : 578
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HWwBVKqycI"
       } ],
       "hashtags" : [ ],
@@ -1895,7 +1900,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1932,7 +1937,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 352264868197445632,
     "created_at" : "2013-07-03 03:17:44 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2062,7 +2067,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "351817925340045314",
   "text" : "RT @nessamaia: Portfolio atualizado: http:\/\/t.co\/H1ajaN00n6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

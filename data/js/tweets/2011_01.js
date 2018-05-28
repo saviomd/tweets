@@ -205,7 +205,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "fabioazevedotv",
       "protected" : false,
       "id_str" : "62381861",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789096599758770176\/uwVTJ6HA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998966600114950144\/y3j0G643_normal.jpg",
       "id" : 62381861,
       "verified" : true
     }
@@ -2283,7 +2283,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Renato Cozta",
+      "name" : "O pai te ama!",
       "screen_name" : "Evidente",
       "indices" : [ 3, 12 ],
       "id_str" : "13241972",
@@ -2310,7 +2310,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 22282742943191040,
     "created_at" : "2011-01-04 13:26:34 +0000",
     "user" : {
-      "name" : "Renato Cozta",
+      "name" : "O pai te ama!",
       "screen_name" : "Evidente",
       "protected" : false,
       "id_str" : "13241972",

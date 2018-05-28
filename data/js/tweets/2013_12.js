@@ -272,7 +272,7 @@ Grailbird.data.tweets_2013_12 =
   "id_str" : "413099622543142912",
   "text" : "RT @alistapart: Myth lets you write pure CSS without worrying about slow browser support, or even slow spec approval. http:\/\/t.co\/5OC7dgWcLo",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "thneves10",
       "protected" : false,
       "id_str" : "1336870566",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543511631158718464\/oY2F4SDo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971459951339110401\/YxHRPxO5_normal.jpg",
       "id" : 1336870566,
       "verified" : true
     }
@@ -815,6 +815,7 @@ Grailbird.data.tweets_2013_12 =
         "resize" : "fit",
         "w" : 663
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1s1XngA4FP"
     } ],
     "hashtags" : [ ],
@@ -856,6 +857,7 @@ Grailbird.data.tweets_2013_12 =
           "resize" : "fit",
           "w" : 663
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1s1XngA4FP"
       } ],
       "hashtags" : [ ],
@@ -1467,7 +1469,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }

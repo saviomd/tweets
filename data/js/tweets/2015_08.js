@@ -87,6 +87,7 @@ Grailbird.data.tweets_2015_08 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/MAaNjQWaF9"
       } ],
       "hashtags" : [ {
@@ -418,6 +419,7 @@ Grailbird.data.tweets_2015_08 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/I7Hau9vsSh"
     } ],
     "hashtags" : [ ],
@@ -464,6 +466,7 @@ Grailbird.data.tweets_2015_08 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/I7Hau9vsSh"
       } ],
       "hashtags" : [ ],
@@ -611,6 +614,7 @@ Grailbird.data.tweets_2015_08 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8X1BdJYDBb"
     } ],
     "hashtags" : [ {
@@ -661,6 +665,7 @@ Grailbird.data.tweets_2015_08 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/8X1BdJYDBb"
       } ],
       "hashtags" : [ {
@@ -910,6 +915,7 @@ Grailbird.data.tweets_2015_08 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SGoCXajBHV"
     } ],
     "hashtags" : [ {
@@ -959,6 +965,7 @@ Grailbird.data.tweets_2015_08 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SGoCXajBHV"
       } ],
       "hashtags" : [ {
@@ -982,7 +989,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "YouTube",
       "protected" : false,
       "id_str" : "10228272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940256618108788736\/uEhO7c_r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985908628329771008\/QGaAYux6_normal.jpg",
       "id" : 10228272,
       "verified" : true
     }
@@ -1249,6 +1256,7 @@ Grailbird.data.tweets_2015_08 =
         "resize" : "fit",
         "w" : 550
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/x2G425NSmu"
     } ],
     "hashtags" : [ {
@@ -1304,6 +1312,7 @@ Grailbird.data.tweets_2015_08 =
           "resize" : "fit",
           "w" : 550
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/x2G425NSmu"
       } ],
       "hashtags" : [ {

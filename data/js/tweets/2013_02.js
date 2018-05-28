@@ -110,7 +110,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "306869976697024512",
   "text" : "RT @mattbrett: I make 6 figures and work from home, writing code. Totally self taught. I absolutely endorse this message. http:\/\/t.co\/aL ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -752,6 +752,7 @@ Grailbird.data.tweets_2013_02 =
         "resize" : "fit",
         "w" : 797
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lYspZV4Y"
     } ],
     "hashtags" : [ ],
@@ -793,6 +794,7 @@ Grailbird.data.tweets_2013_02 =
           "resize" : "fit",
           "w" : 797
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lYspZV4Y"
       } ],
       "hashtags" : [ ],
@@ -872,7 +874,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "15601887",
       "id" : 15601887
     }, {
-      "name" : "O jipe do padre tem um furo no pneu.",
+      "name" : "Julia",
       "screen_name" : "jujubas",
       "indices" : [ 9, 17 ],
       "id_str" : "9143722",

@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 395632536006565888,
     "created_at" : "2013-10-30 19:25:21 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

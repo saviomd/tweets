@@ -271,7 +271,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "robertnyman",
       "protected" : false,
       "id_str" : "8414132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856503504789286914\/X9rN_1xI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976798565711441921\/B2Fk-c6v_normal.jpg",
       "id" : 8414132,
       "verified" : false
     }
@@ -1044,6 +1044,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 526
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hogJq8KwhU"
     } ],
     "hashtags" : [ ],
@@ -1085,6 +1086,7 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 526
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/hogJq8KwhU"
       } ],
       "hashtags" : [ ],
@@ -1161,7 +1163,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }
@@ -1181,7 +1183,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1208,7 +1210,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 345504854946504704,
     "created_at" : "2013-06-14 11:35:51 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1232,7 +1234,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1269,7 +1271,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 345295487030661120,
     "created_at" : "2013-06-13 21:43:54 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1312,7 +1314,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "345332605660569601",
   "text" : "RT @mattbrett: Holy shit, I\u2019m dying over here. This is absolutely hysterical! http:\/\/t.co\/5e8VWo0pL1",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1616,7 +1618,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711688191338610688\/DE537Vri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }

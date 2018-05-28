@@ -316,6 +316,7 @@ Grailbird.data.tweets_2015_11 =
           "resize" : "fit",
           "w" : 958
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/hFNBuVwZVc"
       } ],
       "hashtags" : [ {
@@ -459,6 +460,7 @@ Grailbird.data.tweets_2015_11 =
           "resize" : "fit",
           "w" : 700
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RMwRRmQr0L"
       } ],
       "hashtags" : [ ],

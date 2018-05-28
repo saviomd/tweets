@@ -60,6 +60,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gV4xyyZ4n5"
       } ],
       "hashtags" : [ {
@@ -86,7 +87,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -152,6 +153,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 510
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/6RBFE7aHbd"
       } ],
       "hashtags" : [ ],
@@ -262,7 +264,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "472196735016906752",
   "text" : "RT @respimg: Ladies and gentlemen, we are enormously proud to present: the native `picture` element, running in Chrome Canary 37.\nhttp:\/\/t.\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -365,7 +367,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -400,6 +402,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "fit",
         "w" : 950
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/it7kMsT8Hn"
     } ],
     "hashtags" : [ ],
@@ -441,6 +444,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 950
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/it7kMsT8Hn"
       } ],
       "hashtags" : [ ],
@@ -452,7 +456,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 471327979302580224,
     "created_at" : "2014-05-27 16:32:01 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -655,6 +659,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/89KUVztWpg"
     } ],
     "hashtags" : [ {
@@ -704,6 +709,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/89KUVztWpg"
       } ],
       "hashtags" : [ {
@@ -727,7 +733,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -782,6 +788,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qF9h6Xjoc2"
     } ],
     "hashtags" : [ {
@@ -834,6 +841,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qF9h6Xjoc2"
       } ],
       "hashtags" : [ {
@@ -860,7 +868,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811034417850220544\/NDVQTlyz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -915,6 +923,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "fit",
         "w" : 460
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dH5GIY1D5G"
     } ],
     "hashtags" : [ ],
@@ -956,6 +965,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 460
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/dH5GIY1D5G"
       } ],
       "hashtags" : [ ],
@@ -1135,7 +1145,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1308,6 +1318,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "fit",
         "w" : 2500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/p5DEf6fLzJ"
     } ],
     "hashtags" : [ {
@@ -1369,6 +1380,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 2500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/p5DEf6fLzJ"
       } ],
       "hashtags" : [ {
@@ -1653,6 +1665,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BBh8xKECm3"
     } ],
     "hashtags" : [ ],
@@ -1694,6 +1707,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BBh8xKECm3"
       } ],
       "hashtags" : [ ],
@@ -1709,7 +1723,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "VGFGamers",
       "protected" : false,
       "id_str" : "784892570",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876607652448665602\/uviBf4dF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956258375301509131\/K_eUnk3f_normal.jpg",
       "id" : 784892570,
       "verified" : false
     }
@@ -1830,6 +1844,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/wKn5hYGfqN"
     } ],
     "hashtags" : [ ],
@@ -1871,6 +1886,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/wKn5hYGfqN"
       } ],
       "hashtags" : [ ],
@@ -1947,7 +1963,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "464733237152337920",
   "text" : "RT @shiota: If you\u2019re looking for \u201Cninja\u201D devs, be aware that ninjas are mercenaries hired for sabotaging\/assassination, that flee when shi\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2332,6 +2348,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 510
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/OKftx5MBx2"
       } ],
       "hashtags" : [ ],
@@ -2529,6 +2546,7 @@ Grailbird.data.tweets_2014_05 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MG9Fu7hOZS"
     } ],
     "hashtags" : [ ],
@@ -2570,6 +2588,7 @@ Grailbird.data.tweets_2014_05 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/MG9Fu7hOZS"
       } ],
       "hashtags" : [ ],
@@ -2659,7 +2678,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jim",
+      "name" : "The Deep State Prince",
       "screen_name" : "jim_unwin",
       "indices" : [ 3, 13 ],
       "id_str" : "265479915",
@@ -2696,7 +2715,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 462081829139279872,
     "created_at" : "2014-05-02 04:11:07 +0000",
     "user" : {
-      "name" : "jim",
+      "name" : "The Deep State Prince",
       "screen_name" : "jim_unwin",
       "protected" : false,
       "id_str" : "265479915",

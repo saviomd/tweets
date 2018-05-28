@@ -168,7 +168,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "smash_it_on",
       "protected" : false,
       "id_str" : "234306919",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946353367932121093\/QxEhMqkq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981877749525700608\/wTY99K1R_normal.jpg",
       "id" : 234306919,
       "verified" : false
     }
@@ -437,6 +437,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/u2u42yM2hk"
     } ],
     "hashtags" : [ {
@@ -481,6 +482,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/u2u42yM2hk"
       } ],
       "hashtags" : [ {
@@ -1033,7 +1035,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -1070,7 +1072,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "380324787060359168",
   "text" : "RT @MacMagazine: Mais uma vez, pessoal: o mais *prov\u00E1vel* \u00E9 que o #iOS7 seja liberado \u00E0s 14h. Avisaremos a todos voc\u00EAs assim que estiver di\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1612,7 +1614,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "475016622",
       "id" : 475016622
     }, {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 15, 23 ],
       "id_str" : "26618823",
@@ -1629,7 +1631,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg\u262E",
+        "name" : "\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -2009,7 +2011,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anna Debenham",
+      "name" : "Anna Debenham \uD83E\uDD94",
       "screen_name" : "anna_debenham",
       "indices" : [ 3, 17 ],
       "id_str" : "9655342",
@@ -2036,7 +2038,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377018915613712384,
     "created_at" : "2013-09-09 10:41:28 +0000",
     "user" : {
-      "name" : "Anna Debenham",
+      "name" : "Anna Debenham \uD83E\uDD94",
       "screen_name" : "anna_debenham",
       "protected" : false,
       "id_str" : "9655342",

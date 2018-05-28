@@ -57,7 +57,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -92,6 +92,7 @@ Grailbird.data.tweets_2015_04 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ENuMLClKY1"
     } ],
     "hashtags" : [ ],
@@ -133,6 +134,7 @@ Grailbird.data.tweets_2015_04 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ENuMLClKY1"
       } ],
       "hashtags" : [ ],
@@ -144,7 +146,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 593103169510584320,
     "created_at" : "2015-04-28 17:23:09 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -203,6 +205,7 @@ Grailbird.data.tweets_2015_04 =
         "resize" : "fit",
         "w" : 700
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/83HwAsxMyP"
     } ],
     "hashtags" : [ ],
@@ -249,6 +252,7 @@ Grailbird.data.tweets_2015_04 =
           "resize" : "fit",
           "w" : 700
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/83HwAsxMyP"
       } ],
       "hashtags" : [ ],
@@ -575,6 +579,7 @@ Grailbird.data.tweets_2015_04 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FjH5wwnWWG"
     } ],
     "hashtags" : [ ],
@@ -622,6 +627,7 @@ Grailbird.data.tweets_2015_04 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FjH5wwnWWG"
       } ],
       "hashtags" : [ ],
@@ -637,7 +643,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "FastFurious",
       "protected" : false,
       "id_str" : "223622368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837791487303700480\/J1fibxfN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984492992751845376\/WwQHuVFq_normal.jpg",
       "id" : 223622368,
       "verified" : true
     }
@@ -692,6 +698,7 @@ Grailbird.data.tweets_2015_04 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/L3l5ZvgmyU"
     } ],
     "hashtags" : [ ],
@@ -733,6 +740,7 @@ Grailbird.data.tweets_2015_04 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/L3l5ZvgmyU"
       } ],
       "hashtags" : [ ],
@@ -846,6 +854,7 @@ Grailbird.data.tweets_2015_04 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gSWWiaPLFA"
       } ],
       "hashtags" : [ {
@@ -1243,7 +1252,7 @@ Grailbird.data.tweets_2015_04 =
   "id_str" : "586942310849634304",
   "text" : "RT @shiota: Read jQuery\u2019s original 2006 code, with @jeresig\u2019s annotations on interesting lines and bits. A history lesson! http:\/\/t.co\/Hnah\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "John Resig",
@@ -1353,6 +1362,7 @@ Grailbird.data.tweets_2015_04 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UinT8khF3S"
     } ],
     "hashtags" : [ ],
@@ -1399,6 +1409,7 @@ Grailbird.data.tweets_2015_04 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/UinT8khF3S"
       } ],
       "hashtags" : [ ],

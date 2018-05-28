@@ -56,7 +56,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -710,7 +710,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "324748518",
       "id" : 324748518
     }, {
-      "name" : "\uAC15\uC9C0\uC544",
+      "name" : "Alex",
       "screen_name" : "tassia_monteiro",
       "indices" : [ 45, 61 ],
       "id_str" : "18391036",
@@ -787,7 +787,13 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Juvenil Luiz",
+      "screen_name" : "LuizJuvenil",
+      "indices" : [ 4, 16 ],
+      "id_str" : "963975999888199680",
+      "id" : 963975999888199680
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

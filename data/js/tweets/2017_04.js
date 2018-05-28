@@ -38,6 +38,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9zZJkTVDXy"
     } ],
     "hashtags" : [ ],
@@ -79,6 +80,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9zZJkTVDXy"
       } ],
       "hashtags" : [ ],
@@ -149,6 +151,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nuUCMTq5et"
     } ],
     "hashtags" : [ ],
@@ -195,6 +198,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nuUCMTq5et"
       } ],
       "hashtags" : [ ],
@@ -276,6 +280,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 631
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/430Cnp2lpX"
     } ],
     "hashtags" : [ ],
@@ -323,6 +328,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 631
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/430Cnp2lpX"
       } ],
       "hashtags" : [ ],
@@ -396,6 +402,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 498
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XBMiH26eYo"
     } ],
     "hashtags" : [ ],
@@ -437,6 +444,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 498
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/XBMiH26eYo"
       } ],
       "hashtags" : [ ],
@@ -534,6 +542,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 700
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tL04IN5syQ"
     } ],
     "hashtags" : [ ],
@@ -575,6 +584,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 700
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/tL04IN5syQ"
       } ],
       "hashtags" : [ ],
@@ -671,6 +681,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3rA11492sZ"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/857250087961071619\/photo\/1",
@@ -701,6 +712,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3rA11492sZ"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/857250087961071619\/photo\/1",
@@ -731,6 +743,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3rA11492sZ"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/ForzaMotorsport\/status\/857250087961071619\/photo\/1",
@@ -761,6 +774,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3rA11492sZ"
       } ],
       "hashtags" : [ {
@@ -872,6 +886,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ygMtIx6ZZi"
     } ],
     "hashtags" : [ {
@@ -925,6 +940,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ygMtIx6ZZi"
       } ],
       "hashtags" : [ {
@@ -946,7 +962,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1001,6 +1017,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pHEe8AXIuS"
     } ],
     "hashtags" : [ ],
@@ -1042,6 +1059,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pHEe8AXIuS"
       } ],
       "hashtags" : [ ],
@@ -1077,7 +1095,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -1126,6 +1144,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/mfYXdv9UHO"
       } ],
       "hashtags" : [ {
@@ -1145,7 +1164,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 855437644796497922,
     "created_at" : "2017-04-21 15:06:42 +0000",
     "user" : {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -1231,6 +1250,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 1433
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o2oOwiVmAR"
     } ],
     "hashtags" : [ {
@@ -1275,6 +1295,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1433
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/o2oOwiVmAR"
       } ],
       "hashtags" : [ {
@@ -1293,7 +1314,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1313,7 +1334,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Larry Hryb \uD83C\uDF86",
+      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
       "screen_name" : "majornelson",
       "indices" : [ 0, 12 ],
       "id_str" : "15913",
@@ -1384,6 +1405,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 720
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3jyoDtK1lj"
     } ],
     "hashtags" : [ ],
@@ -1430,6 +1452,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 720
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3jyoDtK1lj"
       } ],
       "hashtags" : [ ],
@@ -1566,6 +1589,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/74hKD75vJ0"
     } ],
     "hashtags" : [ ],
@@ -1607,6 +1631,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/74hKD75vJ0"
       } ],
       "hashtags" : [ ],
@@ -1779,6 +1804,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uJOIY4gVM3"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/googledevbr\/status\/850797111323099141\/photo\/1",
@@ -1809,6 +1835,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uJOIY4gVM3"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/googledevbr\/status\/850797111323099141\/photo\/1",
@@ -1839,6 +1866,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uJOIY4gVM3"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/googledevbr\/status\/850797111323099141\/photo\/1",
@@ -1869,6 +1897,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uJOIY4gVM3"
     } ],
     "hashtags" : [ {
@@ -1913,6 +1942,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/uJOIY4gVM3"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/googledevbr\/status\/850797111323099141\/photo\/1",
@@ -1943,6 +1973,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/uJOIY4gVM3"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/googledevbr\/status\/850797111323099141\/photo\/1",
@@ -1973,6 +2004,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/uJOIY4gVM3"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/googledevbr\/status\/850797111323099141\/photo\/1",
@@ -2003,6 +2035,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/uJOIY4gVM3"
       } ],
       "hashtags" : [ {
@@ -2021,7 +2054,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "googledevbr",
       "protected" : false,
       "id_str" : "182578529",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641610318574059520\/eFtS45vZ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994267018747633664\/bjioty5T_normal.jpg",
       "id" : 182578529,
       "verified" : true
     }
@@ -2076,6 +2109,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 448
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dZYNcfcwy3"
     } ],
     "hashtags" : [ {
@@ -2120,6 +2154,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 448
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/dZYNcfcwy3"
       } ],
       "hashtags" : [ {
@@ -2193,6 +2228,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 1057
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fVqhxMhzZb"
     } ],
     "hashtags" : [ {
@@ -2208,7 +2244,7 @@ Grailbird.data.tweets_2017_04 =
   "id_str" : "850510183826694148",
   "text" : "RT @sesamestreet: It\u2019s FRIDAY, let\u2019s rock \u2019n\u2019 roll! #FridayFunny #ShareTheLaughter https:\/\/t.co\/fVqhxMhzZb",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/percolate.com\" rel=\"nofollow\"\u003EPercolate\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.percolate.com\" rel=\"nofollow\"\u003EPercolate\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2240,6 +2276,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1057
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fVqhxMhzZb"
       } ],
       "hashtags" : [ {
@@ -2327,6 +2364,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/l1n0cYJuPc"
       } ],
       "hashtags" : [ ],
@@ -2402,6 +2440,7 @@ Grailbird.data.tweets_2017_04 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XgxhNdklyd"
     } ],
     "hashtags" : [ {
@@ -2449,6 +2488,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/XgxhNdklyd"
       } ],
       "hashtags" : [ {
@@ -2548,6 +2588,7 @@ Grailbird.data.tweets_2017_04 =
           "resize" : "fit",
           "w" : 593
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Z7K8QXkjXB"
       } ],
       "hashtags" : [ ],

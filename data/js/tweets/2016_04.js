@@ -68,7 +68,7 @@ Grailbird.data.tweets_2016_04 =
         "id_str" : "14724725",
         "id" : 14724725
       }, {
-        "name" : "DAVE PROWSE",
+        "name" : "DARTH VADER",
         "screen_name" : "isDARTHVADER",
         "indices" : [ 101, 114 ],
         "id_str" : "215187970",
@@ -103,6 +103,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 554
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/aq13xFB5Qi"
       } ],
       "hashtags" : [ ],
@@ -189,6 +190,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/UBSwi02Xj9"
       } ],
       "hashtags" : [ ],
@@ -278,6 +280,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/u5KkVdjIAT"
       } ],
       "hashtags" : [ {
@@ -372,6 +375,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/shUuHPGBxc"
       } ],
       "hashtags" : [ ],
@@ -559,7 +563,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "721736936549982209",
   "text" : "RT @letterboxd: Jon Tsuei on the Ghost in the Shell remake\u2014 https:\/\/t.co\/cES0HOGTTM\n\nRT @kissane: this whole thread is fantastic https:\/\/t.\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Erin Kissane",
@@ -732,6 +736,7 @@ Grailbird.data.tweets_2016_04 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1PLUylhXHx"
     } ],
     "hashtags" : [ {
@@ -776,6 +781,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1PLUylhXHx"
       } ],
       "hashtags" : [ {
@@ -794,7 +800,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "LFC",
       "protected" : false,
       "id_str" : "19583545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935113210235183104\/6Lv8Zi4X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985865116821458945\/eZHXSXSG_normal.jpg",
       "id" : 19583545,
       "verified" : true
     }
@@ -849,6 +855,7 @@ Grailbird.data.tweets_2016_04 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6y8uCsbKuJ"
     } ],
     "hashtags" : [ {
@@ -861,7 +868,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "719281665735045120",
   "text" : "RT @BatmanvSuperman: \u201CIt's time you learn what it means to be a man.\u201D #BatmanvSuperman https:\/\/t.co\/6y8uCsbKuJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -893,6 +900,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/6y8uCsbKuJ"
       } ],
       "hashtags" : [ {
@@ -1039,6 +1047,7 @@ Grailbird.data.tweets_2016_04 =
         "resize" : "fit",
         "w" : 386
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fWwohefWhk"
     } ],
     "hashtags" : [ ],
@@ -1080,6 +1089,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 386
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fWwohefWhk"
       } ],
       "hashtags" : [ ],
@@ -1134,7 +1144,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "717167190932332544",
   "text" : "RT @MacMagazine: Utilit\u00E1rio gratuito pra Central de Notifica\u00E7\u00F5es do OS X monitora as informa\u00E7\u00F5es do seu Mac https:\/\/t.co\/tnT7ipv5g7 https:\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1166,6 +1176,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/t9BazE7EWS"
       } ],
       "hashtags" : [ ],
@@ -1241,6 +1252,7 @@ Grailbird.data.tweets_2016_04 =
         "resize" : "fit",
         "w" : 720
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/db1WfAwpEA"
     } ],
     "hashtags" : [ ],
@@ -1282,6 +1294,7 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 720
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/db1WfAwpEA"
       } ],
       "hashtags" : [ ],

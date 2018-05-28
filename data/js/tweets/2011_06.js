@@ -201,7 +201,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Sout",
+      "name" : "Alextriplex, sim, the only one",
       "screen_name" : "alextriplex",
       "indices" : [ 3, 15 ],
       "id_str" : "53943891",
@@ -228,11 +228,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 86259525044285440,
     "created_at" : "2011-06-30 02:27:28 +0000",
     "user" : {
-      "name" : "Alex Sout",
+      "name" : "Alextriplex, sim, the only one",
       "screen_name" : "alextriplex",
       "protected" : false,
       "id_str" : "53943891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913263726266077184\/Oc2wX1eH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979876131787681792\/lccOvnDF_normal.jpg",
       "id" : 53943891,
       "verified" : false
     }
@@ -730,7 +730,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -757,7 +757,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 84282220948365313,
     "created_at" : "2011-06-24 15:30:22 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1706,7 +1706,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943263222496419840\/e4sw-avx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1880,57 +1880,6 @@ Grailbird.data.tweets_2011_06 =
   "text" : "O novo iOS \u00E9 sensacional, mas anunciar hj e s\u00F3 lan\u00E7ar em setembro \u00E9 sacanagem.. http:\/\/www.apple.com\/ios\/ios5\/",
   "id" : 77890945877676033,
   "created_at" : "2011-06-07 00:13:43 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Vasco Depress\u00E3o",
-      "screen_name" : "vascodepressao",
-      "indices" : [ 3, 18 ],
-      "id_str" : "243890904",
-      "id" : 243890904
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "77546896746496000",
-  "text" : "RT @vascodepressao: A camisa do Vasco tem poderes sobrenatuais. Uma m\u00E3ozinha estampada nela j\u00E1 previa quantos gols o time iria levar.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "77484982662201344",
-    "text" : "A camisa do Vasco tem poderes sobrenatuais. Uma m\u00E3ozinha estampada nela j\u00E1 previa quantos gols o time iria levar.",
-    "id" : 77484982662201344,
-    "created_at" : "2011-06-05 21:20:34 +0000",
-    "user" : {
-      "name" : "Vasco Depress\u00E3o",
-      "screen_name" : "vascodepressao",
-      "protected" : false,
-      "id_str" : "243890904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1227724052\/novo-escudo-vasco-submarino_normal.jpg",
-      "id" : 243890904,
-      "verified" : false
-    }
-  },
-  "id" : 77546896746496000,
-  "created_at" : "2011-06-06 01:26:35 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -2187,13 +2136,13 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
       "id" : 26618823
     }, {
-      "name" : "MeiaHora",
+      "name" : "Jornal Meia Hora",
       "screen_name" : "meiahora",
       "indices" : [ 63, 72 ],
       "id_str" : "20766595",
@@ -2210,7 +2159,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MeiaHora",
+        "name" : "Jornal Meia Hora",
         "screen_name" : "meiahora",
         "indices" : [ 50, 59 ],
         "id_str" : "20766595",
@@ -2226,7 +2175,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 76003881422819328,
     "created_at" : "2011-06-01 19:15:12 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

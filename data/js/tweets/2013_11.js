@@ -69,6 +69,7 @@ Grailbird.data.tweets_2013_11 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ZniF9Ovvz2"
       } ],
       "hashtags" : [ {
@@ -153,6 +154,7 @@ Grailbird.data.tweets_2013_11 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/l24li4oE9y"
     } ],
     "hashtags" : [ ],
@@ -200,6 +202,7 @@ Grailbird.data.tweets_2013_11 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/l24li4oE9y"
       } ],
       "hashtags" : [ ],
@@ -215,7 +218,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913752125322272769\/tqc-KL72_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999661540419690498\/4Pq10ueS_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -782,6 +785,7 @@ Grailbird.data.tweets_2013_11 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/B4kJq2f9Dm"
     } ],
     "hashtags" : [ ],
@@ -823,6 +827,7 @@ Grailbird.data.tweets_2013_11 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/B4kJq2f9Dm"
       } ],
       "hashtags" : [ ],
@@ -1057,7 +1062,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 400698632032485376,
     "created_at" : "2013-11-13 18:56:13 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1473,6 +1478,7 @@ Grailbird.data.tweets_2013_11 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Sw1gJGWcJO"
     } ],
     "hashtags" : [ {
@@ -1523,6 +1529,7 @@ Grailbird.data.tweets_2013_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Sw1gJGWcJO"
       } ],
       "hashtags" : [ {
@@ -1642,7 +1649,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 397752911310360576,
     "created_at" : "2013-11-05 15:50:58 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg\u262E",
+      "name" : "\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
