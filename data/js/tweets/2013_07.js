@@ -514,7 +514,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -949,7 +949,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "iChris",
       "protected" : false,
       "id_str" : "58323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000256969574375424\/Dj1NRXC6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008906613372129280\/HLflL7um_normal.jpg",
       "id" : 58323,
       "verified" : false
     }
@@ -1008,7 +1008,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "414277639",
       "id" : 414277639
     }, {
-      "name" : "one-punch matt",
+      "name" : "schwabby",
       "screen_name" : "schwabby",
       "indices" : [ 129, 138 ],
       "id_str" : "15534137",
@@ -1027,7 +1027,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "357496758454075393",
   "text" : "RT @brad_frost: Microsoft Xbox site isn\u2019t available on Microsoft Phone. Microsoft fail. http:\/\/t.co\/cNpFliiodC @wtfmobileweb via @schwabby",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "WTF Mobile Web",
@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2013_07 =
         "id_str" : "414277639",
         "id" : 414277639
       }, {
-        "name" : "one-punch matt",
+        "name" : "schwabby",
         "screen_name" : "schwabby",
         "indices" : [ 113, 122 ],
         "id_str" : "15534137",
@@ -1249,7 +1249,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1297,7 +1297,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "3367477695",
       "id" : 3367477695
     }, {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 13, 21 ],
       "id_str" : "26618823",
@@ -1314,7 +1314,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u262E",
+        "name" : "Arthur Muhlenberg Reloaded \u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -1333,7 +1333,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "Urublog",
     "in_reply_to_user_id_str" : "26618823",
     "user" : {
-      "name" : "Renuncia, EBM !",
+      "name" : "Violino Eterno",
       "screen_name" : "1981Olavo",
       "protected" : false,
       "id_str" : "33029356",
@@ -1900,7 +1900,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1937,7 +1937,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 352264868197445632,
     "created_at" : "2013-07-03 03:17:44 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

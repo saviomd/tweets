@@ -301,7 +301,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013798240683266048\/zRim1x6M_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1622,7 +1622,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2655,7 +2655,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2687,7 +2687,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 232529898277830656,
     "created_at" : "2012-08-06 17:33:42 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

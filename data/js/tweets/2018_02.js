@@ -248,67 +248,6 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "indices" : [ 3, 14 ],
-      "id_str" : "224744107",
-      "id" : 224744107
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 35, 58 ],
-      "url" : "https:\/\/t.co\/Ht7wrhFcMv",
-      "expanded_url" : "https:\/\/www.youtube.com\/watch?v=AMtJBagzTe8",
-      "display_url" : "youtube.com\/watch?v=AMtJBa\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "964174294111653893",
-  "text" : "RT @mrbigmusic: We miss you, Pat!  https:\/\/t.co\/Ht7wrhFcMv",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 19, 42 ],
-        "url" : "https:\/\/t.co\/Ht7wrhFcMv",
-        "expanded_url" : "https:\/\/www.youtube.com\/watch?v=AMtJBagzTe8",
-        "display_url" : "youtube.com\/watch?v=AMtJBa\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "963962619345489920",
-    "text" : "We miss you, Pat!  https:\/\/t.co\/Ht7wrhFcMv",
-    "id" : 963962619345489920,
-    "created_at" : "2018-02-15 02:26:12 +0000",
-    "user" : {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "protected" : false,
-      "id_str" : "224744107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501840055690739712\/dcgf1Vdh_normal.jpeg",
-      "id" : 224744107,
-      "verified" : true
-    }
-  },
-  "id" : 964174294111653893,
-  "created_at" : "2018-02-15 16:27:19 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Robert Kirkman",
       "screen_name" : "RobertKirkman",
       "indices" : [ 3, 17 ],
@@ -606,7 +545,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -767,7 +706,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "MissionFilm",
       "protected" : false,
       "id_str" : "322333960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996012747644063746\/6HXyrLJG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022615611162021888\/5A8qMBIQ_normal.jpg",
       "id" : 322333960,
       "verified" : true
     }

@@ -193,7 +193,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -236,7 +236,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 74013895639056384,
     "created_at" : "2011-05-27 07:27:42 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -525,7 +525,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1590,7 +1590,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "developer",
       "protected" : false,
       "id_str" : "778325",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618224236046348288\/e9zA8jdK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002052718456856576\/lCk43MtL_normal.jpg",
       "id" : 778325,
       "verified" : false
     }

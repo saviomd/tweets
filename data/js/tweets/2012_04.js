@@ -1263,7 +1263,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "352248873",
       "id" : 352248873
     }, {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 16, 24 ],
       "id_str" : "26618823",
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2012_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u262E",
+        "name" : "Arthur Muhlenberg Reloaded \u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -1637,7 +1637,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }

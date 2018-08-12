@@ -98,7 +98,7 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -387,7 +387,7 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "StreetFighter",
       "protected" : false,
       "id_str" : "356745883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999727021776351237\/j-rxNC2S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1026543854692888576\/2ZCamNaw_normal.jpg",
       "id" : 356745883,
       "verified" : true
     }

@@ -184,7 +184,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "eliistender10",
       "protected" : false,
       "id_str" : "23483816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970408850175287296\/Z-as6wfb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013133643768885251\/3oWfOGxG_normal.jpg",
       "id" : 23483816,
       "verified" : true
     }
@@ -618,7 +618,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Teddy Dief \u2708\uFE0E\uD83C\uDDEF\uD83C\uDDF5",
+      "name" : "Teddy Dief",
       "screen_name" : "TeddyDief",
       "indices" : [ 3, 13 ],
       "id_str" : "188668717",
@@ -656,7 +656,7 @@ Grailbird.data.tweets_2017_11 =
     "id" : 928700293537239040,
     "created_at" : "2017-11-09 19:06:19 +0000",
     "user" : {
-      "name" : "Teddy Dief \u2708\uFE0E\uD83C\uDDEF\uD83C\uDDF5",
+      "name" : "Teddy Dief",
       "screen_name" : "TeddyDief",
       "protected" : false,
       "id_str" : "188668717",
@@ -969,13 +969,13 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "11250",
       "id" : 11250
     }, {
-      "name" : "Owen Campbell-Moore",
+      "name" : "Owen Campbell-Moore \u272A",
       "screen_name" : "owencm",
       "indices" : [ 34, 41 ],
       "id_str" : "14114731",
       "id" : 14114731
     }, {
-      "name" : "Ada Rose Cannon",
+      "name" : "Ada Rose Cannon \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "Lady_Ada_King",
       "indices" : [ 43, 57 ],
       "id_str" : "216348755",
@@ -1015,13 +1015,13 @@ Grailbird.data.tweets_2017_11 =
     "source" : "\u003Ca href=\"http:\/\/adactio.com\/\" rel=\"nofollow\"\u003Eadactio.com\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Owen Campbell-Moore",
+        "name" : "Owen Campbell-Moore \u272A",
         "screen_name" : "owencm",
         "indices" : [ 21, 28 ],
         "id_str" : "14114731",
         "id" : 14114731
       }, {
-        "name" : "Ada Rose Cannon",
+        "name" : "Ada Rose Cannon \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
         "screen_name" : "Lady_Ada_King",
         "indices" : [ 30, 44 ],
         "id_str" : "216348755",

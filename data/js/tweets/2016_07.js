@@ -474,7 +474,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "755803662325252096",
   "text" : "RT @papodehomem: 12 melhores fotos do ano pela National Geographic https:\/\/t.co\/V13iprYbeA",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

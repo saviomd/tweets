@@ -102,7 +102,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "902632197982736385",
   "text" : "RT @Brilliant_Ads: Obviously :) https:\/\/t.co\/4unelugRxI",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -626,7 +626,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -695,7 +695,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 900734903624617985,
     "created_at" : "2017-08-24 15:01:50 +0000",
     "user" : {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -1233,7 +1233,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873017784887689216\/kVjv9ZSE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004752782576975874\/vrL21632_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -1345,7 +1345,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BINGPOT!",
+      "name" : "Kirsten Howard",
       "screen_name" : "emotionalpedant",
       "indices" : [ 3, 19 ],
       "id_str" : "18484343",
@@ -1434,11 +1434,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 898970692783415297,
     "created_at" : "2017-08-19 18:11:29 +0000",
     "user" : {
-      "name" : "BINGPOT!",
+      "name" : "Kirsten Howard",
       "screen_name" : "emotionalpedant",
       "protected" : false,
       "id_str" : "18484343",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994676657125511168\/85N3uCq1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027831920808353792\/VqLAsLDD_normal.jpg",
       "id" : 18484343,
       "verified" : true
     }
@@ -2085,7 +2085,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "discordapp",
       "protected" : false,
       "id_str" : "3065618342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993601333058940928\/aqpGURs9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016814904383139840\/2CdaitAm_normal.jpg",
       "id" : 3065618342,
       "verified" : true
     }
@@ -2442,7 +2442,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "EW",
       "protected" : false,
       "id_str" : "16312576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881539688418471937\/lf5NWhm__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013773084505960448\/be0MNSeh_normal.jpg",
       "id" : 16312576,
       "verified" : true
     }
@@ -3122,7 +3122,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }

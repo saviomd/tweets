@@ -732,7 +732,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "felipe_elia",
       "protected" : false,
       "id_str" : "17812072",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639870322766925824\/WvVpiKlc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005440385353682944\/_K8D6pIZ_normal.jpg",
       "id" : 17812072,
       "verified" : false
     }
@@ -872,7 +872,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "shutupmikeginn",
       "protected" : false,
       "id_str" : "246394886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977583097167339521\/WaTS7eCg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020144434413907969\/oF2EzN9P_normal.jpg",
       "id" : 246394886,
       "verified" : true
     }
@@ -933,7 +933,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "github",
       "protected" : false,
       "id_str" : "13334762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616309728688238592\/pBeeJQDQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017516299143041024\/fLFdcGsl_normal.jpg",
       "id" : 13334762,
       "verified" : true
     }
@@ -970,7 +970,7 @@ Grailbird.data.tweets_2016_08 =
   "id_str" : "765728644727705601",
   "text" : "RT @AssassinsMovie: 125 feet. Damien Walters performs the highest free fall by a stuntman in 35 years, on the #AssassinsCreedMovie set. htt\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1037,7 +1037,7 @@ Grailbird.data.tweets_2016_08 =
   "id_str" : "765626861061824512",
   "text" : "RT @EASPORTSFIFA: Football, Powered by Frostbite - #FIFA17 Official Gameplay Trailer https:\/\/t.co\/XVlgb9xu0P",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873017784887689216\/kVjv9ZSE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004752782576975874\/vrL21632_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -1205,7 +1205,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -1275,7 +1275,7 @@ Grailbird.data.tweets_2016_08 =
   "id_str" : "763417324011520000",
   "text" : "RT @digitalspy: The Lost Boys from Hook have reunited 25 years on!\n\nhttps:\/\/t.co\/ciPFr0OQFG https:\/\/t.co\/7zdUGXKXOS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1328,7 +1328,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "digitalspy",
       "protected" : false,
       "id_str" : "14335144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990980107367014401\/c1UAO_aY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019245531502141440\/r_KTf7wq_normal.jpg",
       "id" : 14335144,
       "verified" : true
     }
@@ -1367,7 +1367,7 @@ Grailbird.data.tweets_2016_08 =
   "id_str" : "762834666504073217",
   "text" : "RT @papodehomem: 20 (e nove) cl\u00E1ssicos do cinema moderno para se tornar um cineasta fod\u00E3o https:\/\/t.co\/kO139jvzZv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1501,7 +1501,7 @@ Grailbird.data.tweets_2016_08 =
   "id_str" : "761289301028200449",
   "text" : "RT @papodehomem: Poster de cinema! Mais de 1000 p\u00F4steres em alta e sem t\u00EDtulo para voc\u00EA baixar https:\/\/t.co\/3NDYVJVz2n",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

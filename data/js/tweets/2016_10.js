@@ -570,119 +570,6 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rafa, o Urgh",
-      "screen_name" : "urgh",
-      "indices" : [ 3, 8 ],
-      "id_str" : "32898954",
-      "id" : 32898954
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/urgh\/status\/791758389684625413\/photo\/1",
-      "indices" : [ 37, 60 ],
-      "url" : "https:\/\/t.co\/YaykMHMWrI",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CvzkDZ2WAAQPVPT.jpg",
-      "id_str" : "791758381639925764",
-      "id" : 791758381639925764,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvzkDZ2WAAQPVPT.jpg",
-      "sizes" : [ {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 845
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 845
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 845
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 599
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/YaykMHMWrI"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "791845300239466496",
-  "text" : "RT @urgh: Hahahaha pior que ta certo https:\/\/t.co\/YaykMHMWrI",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/urgh\/status\/791758389684625413\/photo\/1",
-        "indices" : [ 27, 50 ],
-        "url" : "https:\/\/t.co\/YaykMHMWrI",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CvzkDZ2WAAQPVPT.jpg",
-        "id_str" : "791758381639925764",
-        "id" : 791758381639925764,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvzkDZ2WAAQPVPT.jpg",
-        "sizes" : [ {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 845
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 845
-        }, {
-          "h" : 960,
-          "resize" : "fit",
-          "w" : 845
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 599
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/YaykMHMWrI"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "791758389684625413",
-    "text" : "Hahahaha pior que ta certo https:\/\/t.co\/YaykMHMWrI",
-    "id" : 791758389684625413,
-    "created_at" : "2016-10-27 21:48:04 +0000",
-    "user" : {
-      "name" : "Rafa, o Urgh",
-      "screen_name" : "urgh",
-      "protected" : false,
-      "id_str" : "32898954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994754654784442369\/o8K8HmKp_normal.jpg",
-      "id" : 32898954,
-      "verified" : true
-    }
-  },
-  "id" : 791845300239466496,
-  "created_at" : "2016-10-28 03:33:26 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Biz Stone",
       "screen_name" : "biz",
       "indices" : [ 3, 7 ],
@@ -765,7 +652,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "Pelaipedadepre",
       "protected" : false,
       "id_str" : "1119131604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586961721962692609\/lHsDT3x5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015493152898248704\/eZbxcJar_normal.jpg",
       "id" : 1119131604,
       "verified" : false
     }
@@ -1463,7 +1350,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "druggedondolans",
       "protected" : false,
       "id_str" : "4195273163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993502502552326145\/vk23AGD1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028641554506887173\/0mCJtsQk_normal.jpg",
       "id" : 4195273163,
       "verified" : false
     }
@@ -2047,7 +1934,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }

@@ -215,11 +215,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 535955783905980416,
     "created_at" : "2014-11-22 00:39:51 +0000",
     "user" : {
-      "name" : "p\u2605\u262Dme\u262D\u2605",
-      "screen_name" : "ROGERlO__",
+      "name" : "Rog\u00E9rio",
+      "screen_name" : "R0GERlO",
       "protected" : false,
       "id_str" : "91936966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991145748099223553\/-FxgWddA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017960306302181376\/y9ZDgL-3_normal.jpg",
       "id" : 91936966,
       "verified" : false
     }
@@ -906,7 +906,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1042,62 +1042,6 @@ Grailbird.data.tweets_2014_11 =
   },
   "id" : 531896726958116864,
   "created_at" : "2014-11-10 19:50:36 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "indices" : [ 3, 14 ],
-      "id_str" : "224744107",
-      "id" : 224744107
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "530450743980204033",
-  "text" : "RT @mrbigmusic: We're coming to Brazil in February 6-8th 2015! - N\u00F3s estamos vindo para o Brasil em fevereiro 2015!  More details - http:\/\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 116, 138 ],
-        "url" : "http:\/\/t.co\/x1mPNtdxY6",
-        "expanded_url" : "http:\/\/www.mrbigsite.com",
-        "display_url" : "mrbigsite.com"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "530422882871279616",
-    "text" : "We're coming to Brazil in February 6-8th 2015! - N\u00F3s estamos vindo para o Brasil em fevereiro 2015!  More details - http:\/\/t.co\/x1mPNtdxY6",
-    "id" : 530422882871279616,
-    "created_at" : "2014-11-06 18:14:04 +0000",
-    "user" : {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "protected" : false,
-      "id_str" : "224744107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501840055690739712\/dcgf1Vdh_normal.jpeg",
-      "id" : 224744107,
-      "verified" : true
-    }
-  },
-  "id" : 530450743980204033,
-  "created_at" : "2014-11-06 20:04:47 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

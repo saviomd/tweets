@@ -293,7 +293,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -320,7 +320,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 504689911887593472,
     "created_at" : "2014-08-27 18:00:26 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -447,7 +447,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 504070172844773376,
     "created_at" : "2014-08-26 00:57:49 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -691,7 +691,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -780,7 +780,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 502185036842799105,
     "created_at" : "2014-08-20 20:06:57 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -818,7 +818,7 @@ Grailbird.data.tweets_2014_08 =
   "id_str" : "502084347823161344",
   "text" : "RT @papodehomem: Nossas urnas eletr\u00F4nicas podem ser facilmente burladas e voc\u00EA pode ajudar a fiscalizar isso com o seu celular.\n http:\/\/t.c\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -874,98 +874,6 @@ Grailbird.data.tweets_2014_08 =
   "text" : "Sempre na R\u00FAssia http:\/\/t.co\/2thidasBmX",
   "id" : 501916304883077120,
   "created_at" : "2014-08-20 02:19:06 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "indices" : [ 3, 14 ],
-      "id_str" : "224744107",
-      "id" : 224744107
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 115, 137 ],
-      "url" : "http:\/\/t.co\/tbbLZo6fhK",
-      "expanded_url" : "http:\/\/geni.us\/MrBigStoriesAMZ",
-      "display_url" : "geni.us\/MrBigStoriesAMZ"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "501882429930745856",
-  "text" : "RT @mrbigmusic: New album! \"...The Stories We Could Tell\" - Out in Japan 9\/10, Europe 9\/18 &amp; US 9\/23 Presale - http:\/\/t.co\/tbbLZo6fhK http:\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/mrbigmusic\/status\/501842005593702401\/photo\/1",
-        "indices" : [ 122, 144 ],
-        "url" : "http:\/\/t.co\/tjvdSZH3so",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BvbmpOHCUAEBRF5.jpg",
-        "id_str" : "501842004335022081",
-        "id" : 501842004335022081,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BvbmpOHCUAEBRF5.jpg",
-        "sizes" : [ {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 1417,
-          "resize" : "fit",
-          "w" : 1417
-        }, {
-          "h" : 1417,
-          "resize" : "fit",
-          "w" : 1417
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/tjvdSZH3so"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 99, 121 ],
-        "url" : "http:\/\/t.co\/tbbLZo6fhK",
-        "expanded_url" : "http:\/\/geni.us\/MrBigStoriesAMZ",
-        "display_url" : "geni.us\/MrBigStoriesAMZ"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "501842005593702401",
-    "text" : "New album! \"...The Stories We Could Tell\" - Out in Japan 9\/10, Europe 9\/18 &amp; US 9\/23 Presale - http:\/\/t.co\/tbbLZo6fhK http:\/\/t.co\/tjvdSZH3so",
-    "id" : 501842005593702401,
-    "created_at" : "2014-08-19 21:23:52 +0000",
-    "user" : {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "protected" : false,
-      "id_str" : "224744107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501840055690739712\/dcgf1Vdh_normal.jpeg",
-      "id" : 224744107,
-      "verified" : true
-    }
-  },
-  "id" : 501882429930745856,
-  "created_at" : "2014-08-20 00:04:30 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1155,7 +1063,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1244,7 +1152,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 499927219326976003,
     "created_at" : "2014-08-14 14:35:11 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

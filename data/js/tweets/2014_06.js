@@ -42,7 +42,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "129589321",
       "id" : 129589321
     }, {
-      "name" : "Fabiano Baldasso",
+      "name" : "\uD83C\uDDE6\uD83C\uDDF9Baldasso\uD83C\uDDE6\uD83C\uDDF9",
       "screen_name" : "FabianoBaldasso",
       "indices" : [ 86, 102 ],
       "id_str" : "245900668",
@@ -71,7 +71,7 @@ Grailbird.data.tweets_2014_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Fabiano Baldasso",
+        "name" : "\uD83C\uDDE6\uD83C\uDDF9Baldasso\uD83C\uDDE6\uD83C\uDDF9",
         "screen_name" : "FabianoBaldasso",
         "indices" : [ 66, 82 ],
         "id_str" : "245900668",
@@ -450,7 +450,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -539,7 +539,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 482529847462608897,
     "created_at" : "2014-06-27 14:24:15 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2018,7 +2018,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "TvColunaFla",
       "protected" : false,
       "id_str" : "829084044",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915308506265374724\/fy2pkmgt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1024720241149046784\/KBvfJoW6_normal.jpg",
       "id" : 829084044,
       "verified" : false
     }
@@ -2079,7 +2079,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2126,7 +2126,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2153,7 +2153,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 479363576772448256,
     "created_at" : "2014-06-18 20:42:37 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2796,7 +2796,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2869,7 +2869,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3279,7 +3279,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3587,7 +3587,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -3742,7 +3742,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -3769,7 +3769,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473192385791660032,
     "created_at" : "2014-06-01 20:00:30 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -3793,7 +3793,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -3820,7 +3820,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 473193950741008385,
     "created_at" : "2014-06-01 20:06:44 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

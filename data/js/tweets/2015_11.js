@@ -83,7 +83,7 @@ Grailbird.data.tweets_2015_11 =
   "id_str" : "668961966040436737",
   "text" : "RT @papodehomem: Franceses desafiam a gravidade e rendem imagens bel\u00EDssimas https:\/\/t.co\/DizohJaSz9",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -641,7 +641,7 @@ Grailbird.data.tweets_2015_11 =
   "id_str" : "660862888995897344",
   "text" : "RT @papodehomem: Para quem gosta de filmes, os mestres falam.\n\nhttps:\/\/t.co\/mHzOryfbsJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

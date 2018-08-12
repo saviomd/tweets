@@ -85,7 +85,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "703600021757947905",
   "text" : "RT @papodehomem: Bruce Lee | Homens que voc\u00EA deveria conhecer #23 https:\/\/t.co\/bjgxekEh9q",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -146,7 +146,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "703595792238571521",
   "text" : "RT @papodehomem: Scorsese indica 85 filmes para se tornar um cineasta fod\u00E3o https:\/\/t.co\/V9egKg0qXa",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -506,7 +506,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "700473603247112192",
   "text" : "RT @papodehomem: Um menino de 13 anos est\u00E1 ensinando para outros tantos sobre a hist\u00F3ria dos negros no Brasil. N\u00E3o \u00E9 pra qualquer um.\nhttps\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -682,7 +682,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "698908239866523648",
   "text" : "RT @papodehomem: Vida aos c\u00E3es amorais: aqueles despudorados que n\u00E3o t\u00EAm vergonha de pular no nosso colo.\nhttps:\/\/t.co\/FDPLqDRh6j",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -743,7 +743,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "698867809254768640",
   "text" : "RT @papodehomem: 39 Filmes que provam que a vida \u00E9 fant\u00E1stica! https:\/\/t.co\/LmqularZS6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -930,7 +930,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "mattzollerseitz",
       "protected" : false,
       "id_str" : "138416662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997009305839853568\/ON6Go75U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016911029425623040\/VIzxScpn_normal.jpg",
       "id" : 138416662,
       "verified" : false
     }
@@ -969,7 +969,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "696837432474476545",
   "text" : "RT @papodehomem: Poster de cinema! Mais 60 p\u00F4steres em alta e sem t\u00EDtulo para voc\u00EA baixar https:\/\/t.co\/5lAJbNO7xO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

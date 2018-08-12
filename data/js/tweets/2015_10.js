@@ -96,7 +96,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -188,7 +188,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -485,7 +485,7 @@ Grailbird.data.tweets_2015_10 =
   "id_str" : "656285876490805248",
   "text" : "RT @papodehomem: A genialidade do jazz de Snoopy https:\/\/t.co\/YIkLAMfpvK",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -546,7 +546,7 @@ Grailbird.data.tweets_2015_10 =
   "id_str" : "652874351608467456",
   "text" : "RT @papodehomem: 45 filmes pra assistir e pensar duas vezes antes de falar mal do cinema nacional http:\/\/t.co\/4EHuxyEl5c",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

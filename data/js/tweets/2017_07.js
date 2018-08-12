@@ -1225,7 +1225,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "ForzaMotorsport",
       "protected" : false,
       "id_str" : "30942099",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464563521800257536\/-AY8f5yG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005922171103973377\/MEUkyOjN_normal.jpg",
       "id" : 30942099,
       "verified" : true
     }
@@ -1245,7 +1245,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -1313,7 +1313,7 @@ Grailbird.data.tweets_2017_07 =
     "id" : 885529501479907328,
     "created_at" : "2017-07-13 16:01:00 +0000",
     "user" : {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -1409,7 +1409,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "trivela",
       "protected" : false,
       "id_str" : "37136484",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870661897540030465\/vRR9QDJ7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018859773972959232\/qYe8oGfO_normal.jpg",
       "id" : 37136484,
       "verified" : true
     }
@@ -1547,7 +1547,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "lisaneandrade",
       "protected" : false,
       "id_str" : "19855422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665959372300935169\/6N05LR25_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021460226703323136\/VJd7WEEy_normal.jpg",
       "id" : 19855422,
       "verified" : false
     }
@@ -2060,7 +2060,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -2193,12 +2193,6 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AB Film Review & The Last New Wave",
-      "screen_name" : "ABFilmReview",
-      "indices" : [ 0, 13 ],
-      "id_str" : "2821019653",
-      "id" : 2821019653
-    }, {
       "name" : "Letterboxd",
       "screen_name" : "letterboxd",
       "indices" : [ 26, 37 ],
@@ -2217,7 +2211,7 @@ Grailbird.data.tweets_2017_07 =
   "id" : 882791442040729600,
   "in_reply_to_status_id" : 882409456448847872,
   "created_at" : "2017-07-06 02:40:55 +0000",
-  "in_reply_to_screen_name" : "ABFilmReview",
+  "in_reply_to_screen_name" : "TheCurbAU",
   "in_reply_to_user_id_str" : "2821019653",
   "user" : {
     "name" : "S\u00E1vio Mendes",

@@ -168,7 +168,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "smash_it_on",
       "protected" : false,
       "id_str" : "234306919",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981877749525700608\/wTY99K1R_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022783216497897472\/ThHPGLFN_normal.jpg",
       "id" : 234306919,
       "verified" : false
     }
@@ -1368,7 +1368,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1614,7 +1614,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "475016622",
       "id" : 475016622
     }, {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 15, 23 ],
       "id_str" : "26618823",
@@ -1631,7 +1631,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u262E",
+        "name" : "Arthur Muhlenberg Reloaded \u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",

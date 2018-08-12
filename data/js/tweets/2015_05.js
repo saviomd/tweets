@@ -283,7 +283,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "billboard",
       "protected" : false,
       "id_str" : "9695312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876878315256250369\/Zkusf5bc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003669695688560640\/QB0md4v8_normal.jpg",
       "id" : 9695312,
       "verified" : true
     }
@@ -303,7 +303,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nprmusic",
+      "name" : "NPR Music",
       "screen_name" : "nprmusic",
       "indices" : [ 3, 12 ],
       "id_str" : "13784592",
@@ -414,7 +414,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 604095577073131520,
     "created_at" : "2015-05-29 01:23:03 +0000",
     "user" : {
-      "name" : "nprmusic",
+      "name" : "NPR Music",
       "screen_name" : "nprmusic",
       "protected" : false,
       "id_str" : "13784592",
@@ -1057,98 +1057,6 @@ Grailbird.data.tweets_2015_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "omelete",
-      "screen_name" : "omelete",
-      "indices" : [ 3, 11 ],
-      "id_str" : "9612112",
-      "id" : 9612112
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 104, 126 ],
-      "url" : "http:\/\/t.co\/kmddny9ZDJ",
-      "expanded_url" : "http:\/\/bit.ly\/1J5GmcN",
-      "display_url" : "bit.ly\/1J5GmcN"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "603673578026991616",
-  "text" : "RT @omelete: EXCLUSIVO! FIFA 16 ter\u00E1 a volta de clubes brasileiros e futebol feminino pela primeira vez http:\/\/t.co\/kmddny9ZDJ http:\/\/t.co\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/omelete\/status\/603603705972273152\/photo\/1",
-        "indices" : [ 114, 136 ],
-        "url" : "http:\/\/t.co\/cqvYqLQgbf",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CGBuXw5WYAATjMc.jpg",
-        "id_str" : "603603704609136640",
-        "id" : 603603704609136640,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CGBuXw5WYAATjMc.jpg",
-        "sizes" : [ {
-          "h" : 270,
-          "resize" : "fit",
-          "w" : 760
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 270,
-          "resize" : "fit",
-          "w" : 760
-        }, {
-          "h" : 270,
-          "resize" : "fit",
-          "w" : 760
-        }, {
-          "h" : 242,
-          "resize" : "fit",
-          "w" : 680
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/cqvYqLQgbf"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 91, 113 ],
-        "url" : "http:\/\/t.co\/kmddny9ZDJ",
-        "expanded_url" : "http:\/\/bit.ly\/1J5GmcN",
-        "display_url" : "bit.ly\/1J5GmcN"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "603603705972273152",
-    "text" : "EXCLUSIVO! FIFA 16 ter\u00E1 a volta de clubes brasileiros e futebol feminino pela primeira vez http:\/\/t.co\/kmddny9ZDJ http:\/\/t.co\/cqvYqLQgbf",
-    "id" : 603603705972273152,
-    "created_at" : "2015-05-27 16:48:32 +0000",
-    "user" : {
-      "name" : "omelete",
-      "screen_name" : "omelete",
-      "protected" : false,
-      "id_str" : "9612112",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1685317849\/omelete-logo_normal.jpg",
-      "id" : 9612112,
-      "verified" : true
-    }
-  },
-  "id" : 603673578026991616,
-  "created_at" : "2015-05-27 21:26:11 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1292,7 +1200,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "FallonTonight",
       "protected" : false,
       "id_str" : "19777398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785862566836858880\/Rg8zTb_T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011290042197794821\/gnLbbpZl_normal.jpg",
       "id" : 19777398,
       "verified" : true
     }
@@ -1411,7 +1319,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "jurandirfilho",
       "protected" : false,
       "id_str" : "8703862",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902859078581460992\/O_YKnshW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007309568525811712\/7ZAkEqbo_normal.jpg",
       "id" : 8703862,
       "verified" : false
     }
@@ -2174,7 +2082,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814258787330719744\/vG-aJaxd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012135361663963136\/gIOMHpZl_normal.jpg",
       "id" : 4375,
       "verified" : false
     }

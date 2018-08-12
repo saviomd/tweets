@@ -183,7 +183,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013798240683266048\/zRim1x6M_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2015_12 =
   "id_str" : "678695706283130880",
   "text" : "RT @totalfilm: George Lucas nearly wrote a perfect prequel trilogy. He just didn't notice https:\/\/t.co\/WhW4Uym3iN https:\/\/t.co\/Tm92AuKkur",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -416,7 +416,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -547,7 +547,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "FallonTonight",
       "protected" : false,
       "id_str" : "19777398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785862566836858880\/Rg8zTb_T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011290042197794821\/gnLbbpZl_normal.jpg",
       "id" : 19777398,
       "verified" : true
     }
@@ -1570,7 +1570,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "davidehrlich",
       "protected" : false,
       "id_str" : "22452361",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2250575322\/Screen_Shot_2012-05-26_at_12.12.33_AM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015061849321164801\/S527QFnk_normal.jpg",
       "id" : 22452361,
       "verified" : true
     }
@@ -1669,7 +1669,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }

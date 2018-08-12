@@ -57,7 +57,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -146,7 +146,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 593103169510584320,
     "created_at" : "2015-04-28 17:23:09 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -396,7 +396,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "thepixelgrid",
       "protected" : false,
       "id_str" : "24756351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923970482201944065\/9yAdFnbW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006482189029081088\/6eJT75rc_normal.jpg",
       "id" : 24756351,
       "verified" : false
     }
@@ -1157,7 +1157,7 @@ Grailbird.data.tweets_2015_04 =
   "id_str" : "588147677814247424",
   "text" : "RT @getbootstrap: Crikey, @rottentomatoes uses Bootstrap now! http:\/\/t.co\/QHkTNsHQMh",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Rotten Tomatoes",

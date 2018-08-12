@@ -200,57 +200,6 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Alextriplex, sim, the only one",
-      "screen_name" : "alextriplex",
-      "indices" : [ 3, 15 ],
-      "id_str" : "53943891",
-      "id" : 53943891
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "86261232369278976",
-  "text" : "RT @alextriplex: HAHAHAHAHAHAHAHAAHAH http:\/\/www.sensacionalista.com.br\/2011\/06\/29\/cade-analisa-fusao-entre-sadia-e-rogerio-ceni\/",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "86259525044285440",
-    "text" : "HAHAHAHAHAHAHAHAAHAH http:\/\/www.sensacionalista.com.br\/2011\/06\/29\/cade-analisa-fusao-entre-sadia-e-rogerio-ceni\/",
-    "id" : 86259525044285440,
-    "created_at" : "2011-06-30 02:27:28 +0000",
-    "user" : {
-      "name" : "Alextriplex, sim, the only one",
-      "screen_name" : "alextriplex",
-      "protected" : false,
-      "id_str" : "53943891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979876131787681792\/lccOvnDF_normal.jpg",
-      "id" : 53943891,
-      "verified" : false
-    }
-  },
-  "id" : 86261232369278976,
-  "created_at" : "2011-06-30 02:34:15 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -565,7 +514,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -730,7 +679,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -757,7 +706,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 84282220948365313,
     "created_at" : "2011-06-24 15:30:22 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -947,7 +896,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1008,7 +957,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1579,7 +1528,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "79333414737674241",
   "text" : "RT @librianasp: Lan\u00E7amento da nave Endeavour sob a perspectiva das lentes acopladas nela, emocionante! http:\/\/goo.gl\/e7MwV via #NASA_App",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.nasa.gov\/iphone\" rel=\"nofollow\"\u003ENASA App\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/erased75775.com\" rel=\"nofollow\"\u003Eerased75775\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2136,7 +2085,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2175,7 +2124,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 76003881422819328,
     "created_at" : "2011-06-01 19:15:12 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

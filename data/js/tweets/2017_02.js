@@ -191,7 +191,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "59591856",
       "id" : 59591856
     }, {
-      "name" : "Vasco da Gama",
+      "name" : "#Vasco120",
       "screen_name" : "VascodaGama",
       "indices" : [ 64, 76 ],
       "id_str" : "28273230",
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2017_02 =
         "id_str" : "59591856",
         "id" : 59591856
       }, {
-        "name" : "Vasco da Gama",
+        "name" : "#Vasco120",
         "screen_name" : "VascodaGama",
         "indices" : [ 52, 64 ],
         "id_str" : "28273230",
@@ -324,7 +324,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "susanthesquark",
       "protected" : false,
       "id_str" : "4625037762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994749220702732288\/2UEeAk_a_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027738967150489601\/hliworPn_normal.jpg",
       "id" : 4625037762,
       "verified" : true
     }

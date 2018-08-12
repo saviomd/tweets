@@ -412,7 +412,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "eli_schiff",
       "protected" : false,
       "id_str" : "29162709",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935087849937833984\/vj_2Dz_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010363374725550080\/lb8juiVi_normal.jpg",
       "id" : 29162709,
       "verified" : true
     }
@@ -555,7 +555,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "Hitman",
       "protected" : false,
       "id_str" : "67306920",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956195132902166528\/bQeeyX_S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004774308990758912\/-JUFsrKC_normal.jpg",
       "id" : 67306920,
       "verified" : true
     }
@@ -983,7 +983,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013798240683266048\/zRim1x6M_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -1176,7 +1176,7 @@ Grailbird.data.tweets_2017_06 =
   "id_str" : "874785580458143745",
   "text" : "RT @ThingsWork: This is how they filmed Jason Bourne jumping across the alley into the window in The Bourne Ultimatum https:\/\/t.co\/95U3GUTf\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1943,7 +1943,7 @@ Grailbird.data.tweets_2017_06 =
       "id_str" : "558797310",
       "id" : 558797310
     }, {
-      "name" : "#CHAMP13NS \uD83C\uDFC6\u26BD\uFE0F",
+      "name" : "Real Madrid C.F.",
       "screen_name" : "realmadrid",
       "indices" : [ 34, 45 ],
       "id_str" : "14872237",
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2017_06 =
         "id_str" : "558797310",
         "id" : 558797310
       }, {
-        "name" : "#CHAMP13NS \uD83C\uDFC6\u26BD\uFE0F",
+        "name" : "Real Madrid C.F.",
         "screen_name" : "realmadrid",
         "indices" : [ 22, 33 ],
         "id_str" : "14872237",
@@ -2050,7 +2050,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -2406,7 +2406,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "angra_ec",
       "protected" : false,
       "id_str" : "705567119677726720",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/806197258073112576\/g31qW8PU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018207846402609153\/t448pr4U_normal.jpg",
       "id" : 705567119677726720,
       "verified" : false
     }

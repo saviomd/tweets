@@ -102,7 +102,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814258787330719744\/vG-aJaxd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012135361663963136\/gIOMHpZl_normal.jpg",
       "id" : 4375,
       "verified" : false
     }
@@ -310,7 +310,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -609,7 +609,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -688,7 +688,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "SaraSoueidan",
       "protected" : false,
       "id_str" : "717654410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990908832162467841\/jkEmG2NT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010126354078208001\/MpkO7-qK_normal.jpg",
       "id" : 717654410,
       "verified" : false
     }
@@ -744,7 +744,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -891,7 +891,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 16, 24 ],
       "id_str" : "26618823",
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2014_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u262E",
+        "name" : "Arthur Muhlenberg Reloaded \u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -953,7 +953,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -980,7 +980,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456611637730897920,
     "created_at" : "2014-04-17 01:54:32 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 455511026956369920,
     "created_at" : "2014-04-14 01:01:06 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1552,7 +1552,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "UOL",
       "protected" : false,
       "id_str" : "70799317",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848939001419628544\/fhuqbWxL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019988631937798144\/4Q0bhWyl_normal.jpg",
       "id" : 70799317,
       "verified" : true
     }
@@ -1829,7 +1829,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "recborg",
       "protected" : false,
       "id_str" : "232439599",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928634506483044352\/pJVKHtw__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004588920598769666\/ONkLgz0t_normal.jpg",
       "id" : 232439599,
       "verified" : false
     }
@@ -1885,7 +1885,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -2102,141 +2102,6 @@ Grailbird.data.tweets_2014_04 =
   "text" : "Q porra \u00E9 essa?!?! N\u00E3o tem Uma partida de futebol do Skank no CD oficial da Copa?!?! http:\/\/t.co\/YKlwoYC32B",
   "id" : 453640906038472704,
   "created_at" : "2014-04-08 21:09:54 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Khoi Vinh",
-      "screen_name" : "khoi",
-      "indices" : [ 3, 8 ],
-      "id_str" : "78453",
-      "id" : 78453
-    }, {
-      "name" : "Craig Rozynski",
-      "screen_name" : "craigrozynski",
-      "indices" : [ 16, 30 ],
-      "id_str" : "119911555",
-      "id" : 119911555
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/khoi\/status\/453546839166291968\/photo\/1",
-      "indices" : [ 103, 125 ],
-      "url" : "http:\/\/t.co\/8GGgs0fBRQ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BktScmrCcAEONVN.png",
-      "id_str" : "453546838851743745",
-      "id" : 453546838851743745,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BktScmrCcAEONVN.png",
-      "sizes" : [ {
-        "h" : 950,
-        "resize" : "fit",
-        "w" : 921
-      }, {
-        "h" : 950,
-        "resize" : "fit",
-        "w" : 921
-      }, {
-        "h" : 950,
-        "resize" : "fit",
-        "w" : 921
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 659
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/8GGgs0fBRQ"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 80, 102 ],
-      "url" : "http:\/\/t.co\/PxyStFXHdV",
-      "expanded_url" : "http:\/\/bit.ly\/1hyw1El",
-      "display_url" : "bit.ly\/1hyw1El"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "453640797259177984",
-  "text" : "RT @khoi: Post: @craigrozynski redesigns Comic Sans as new typeface COMIC NEUE. http:\/\/t.co\/PxyStFXHdV http:\/\/t.co\/8GGgs0fBRQ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Craig Rozynski",
-        "screen_name" : "craigrozynski",
-        "indices" : [ 6, 20 ],
-        "id_str" : "119911555",
-        "id" : 119911555
-      } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/khoi\/status\/453546839166291968\/photo\/1",
-        "indices" : [ 93, 115 ],
-        "url" : "http:\/\/t.co\/8GGgs0fBRQ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BktScmrCcAEONVN.png",
-        "id_str" : "453546838851743745",
-        "id" : 453546838851743745,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BktScmrCcAEONVN.png",
-        "sizes" : [ {
-          "h" : 950,
-          "resize" : "fit",
-          "w" : 921
-        }, {
-          "h" : 950,
-          "resize" : "fit",
-          "w" : 921
-        }, {
-          "h" : 950,
-          "resize" : "fit",
-          "w" : 921
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 659
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/8GGgs0fBRQ"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 70, 92 ],
-        "url" : "http:\/\/t.co\/PxyStFXHdV",
-        "expanded_url" : "http:\/\/bit.ly\/1hyw1El",
-        "display_url" : "bit.ly\/1hyw1El"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "453546839166291968",
-    "text" : "Post: @craigrozynski redesigns Comic Sans as new typeface COMIC NEUE. http:\/\/t.co\/PxyStFXHdV http:\/\/t.co\/8GGgs0fBRQ",
-    "id" : 453546839166291968,
-    "created_at" : "2014-04-08 14:56:07 +0000",
-    "user" : {
-      "name" : "Khoi Vinh",
-      "screen_name" : "khoi",
-      "protected" : false,
-      "id_str" : "78453",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1775709982\/Adam_West_3_normal.png",
-      "id" : 78453,
-      "verified" : true
-    }
-  },
-  "id" : 453640797259177984,
-  "created_at" : "2014-04-08 21:09:29 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -2517,7 +2382,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2959,7 +2824,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "addyosmani",
       "protected" : false,
       "id_str" : "35432643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/944484726739312640\/LaUJrclA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028519480412884992\/o5vdCry7_normal.jpg",
       "id" : 35432643,
       "verified" : true
     }

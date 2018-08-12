@@ -85,7 +85,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "693896805046730753",
   "text" : "RT @papodehomem: 13 filmes para assistir em fevereiro https:\/\/t.co\/jpEmIAGBJ8",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -180,7 +180,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1235,7 +1235,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "690697258103345152",
   "text" : "RT @papodehomem: As melhores fotos j\u00E1 tiradas de Tokyo e toda a beleza estranha do Jap\u00E3o. https:\/\/t.co\/yJXMs8tQk6 https:\/\/t.co\/ZWQaFHCV96",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1725,7 +1725,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937768180759572480\/AMrh1U14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2292,7 +2292,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "ShortList",
       "protected" : false,
       "id_str" : "20670871",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796712695475171328\/_Qtm86t5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017731130655739906\/Xrt1OFLN_normal.jpg",
       "id" : 20670871,
       "verified" : true
     }

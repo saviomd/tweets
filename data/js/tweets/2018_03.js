@@ -353,7 +353,7 @@ Grailbird.data.tweets_2018_03 =
       "id_str" : "11855482",
       "id" : 11855482
     }, {
-      "name" : "jennvanescence",
+      "name" : "jennmoneydollars",
       "screen_name" : "jennschiffer",
       "indices" : [ 42, 55 ],
       "id_str" : "12524622",
@@ -376,7 +376,7 @@ Grailbird.data.tweets_2018_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "jennvanescence",
+        "name" : "jennmoneydollars",
         "screen_name" : "jennschiffer",
         "indices" : [ 26, 39 ],
         "id_str" : "12524622",
@@ -388,7 +388,7 @@ Grailbird.data.tweets_2018_03 =
         "id_str" : "795717775989833729",
         "id" : 795717775989833729
       }, {
-        "name" : "Allyson \uD83C\uDF31",
+        "name" : "Allyson \uD83C\uDF3C",
         "screen_name" : "whimsicallyson",
         "indices" : [ 138, 153 ],
         "id_str" : "1279981",
@@ -648,7 +648,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873017784887689216\/kVjv9ZSE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004752782576975874\/vrL21632_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -668,7 +668,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach Leatherman @ ParentingConf\u2122",
+      "name" : "Zach Leatherman",
       "screen_name" : "zachleat",
       "indices" : [ 3, 12 ],
       "id_str" : "96383",
@@ -706,7 +706,7 @@ Grailbird.data.tweets_2018_03 =
     "id" : 974775916013514758,
     "created_at" : "2018-03-16 22:34:23 +0000",
     "user" : {
-      "name" : "Zach Leatherman @ ParentingConf\u2122",
+      "name" : "Zach Leatherman",
       "screen_name" : "zachleat",
       "protected" : false,
       "id_str" : "96383",
@@ -850,11 +850,11 @@ Grailbird.data.tweets_2018_03 =
     "id" : 974320227528986626,
     "created_at" : "2018-03-15 16:23:38 +0000",
     "user" : {
-      "name" : "Footstats",
+      "name" : "Footstats Premium",
       "screen_name" : "Footstats",
       "protected" : false,
       "id_str" : "48491604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876894538329202688\/BEoJFHXu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027893161572622337\/T28tFtEd_normal.jpg",
       "id" : 48491604,
       "verified" : false
     }
@@ -992,13 +992,7 @@ Grailbird.data.tweets_2018_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "gaby",
-      "screen_name" : "daisyridleee",
-      "indices" : [ 3, 16 ],
-      "id_str" : "4699552572",
-      "id" : 4699552572
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1051,11 +1045,11 @@ Grailbird.data.tweets_2018_03 =
     "id" : 973666036112347137,
     "created_at" : "2018-03-13 21:04:07 +0000",
     "user" : {
-      "name" : "gaby",
-      "screen_name" : "daisyridleee",
+      "name" : "gabrielle | watch blackkklansman",
+      "screen_name" : "bensreylos",
       "protected" : false,
       "id_str" : "4699552572",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000893597959577600\/IX4COUJ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027980599322128384\/bsLT9q0__normal.jpg",
       "id" : 4699552572,
       "verified" : false
     }
@@ -1414,7 +1408,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }

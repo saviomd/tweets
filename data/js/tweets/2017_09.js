@@ -249,7 +249,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -543,7 +543,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Bos \uD83D\uDD25",
+      "name" : "Wes Bos",
       "screen_name" : "wesbos",
       "indices" : [ 3, 10 ],
       "id_str" : "815246",
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 911355373239586816,
     "created_at" : "2017-09-22 22:23:47 +0000",
     "user" : {
-      "name" : "Wes Bos \uD83D\uDD25",
+      "name" : "Wes Bos",
       "screen_name" : "wesbos",
       "protected" : false,
       "id_str" : "815246",
@@ -1168,7 +1168,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "github",
       "protected" : false,
       "id_str" : "13334762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616309728688238592\/pBeeJQDQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017516299143041024\/fLFdcGsl_normal.jpg",
       "id" : 13334762,
       "verified" : true
     }
@@ -1354,7 +1354,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "ForzaMotorsport",
       "protected" : false,
       "id_str" : "30942099",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464563521800257536\/-AY8f5yG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005922171103973377\/MEUkyOjN_normal.jpg",
       "id" : 30942099,
       "verified" : true
     }
@@ -2157,7 +2157,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "Pa_pai",
       "protected" : false,
       "id_str" : "57798521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857221666262351872\/OW3PC_Bp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015581502111920128\/GsmhsUP3_normal.jpg",
       "id" : 57798521,
       "verified" : false
     }
@@ -2250,7 +2250,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873017784887689216\/kVjv9ZSE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004752782576975874\/vrL21632_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -2514,7 +2514,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "apbattman",
       "protected" : false,
       "id_str" : "2595766728",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982752385897558016\/zga7fAvb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016012145039953921\/hNe2KKbI_normal.jpg",
       "id" : 2595766728,
       "verified" : false
     }

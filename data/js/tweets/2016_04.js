@@ -343,7 +343,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "722602458468507648",
   "text" : "RT @papodehomem: Mais uma estreia: Quando uma torcida renova nossa esperan\u00E7a no futebol | Mais que um jogo #1 https:\/\/t.co\/cqqRksEI6Y https\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -496,7 +496,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "721739614151507970",
   "text" : "RT @papodehomem: Um trabalhador apaixonado pelo que faz. Ser\u00E1 que isso \u00E9 tudo? https:\/\/t.co\/10ri2F9Fmv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "LFC",
       "protected" : false,
       "id_str" : "19583545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985865116821458945\/eZHXSXSG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023911025232494597\/ylQceGYg_normal.jpg",
       "id" : 19583545,
       "verified" : true
     }
@@ -1310,7 +1310,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "andyweirauthor",
       "protected" : false,
       "id_str" : "3230052541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635555617571237888\/tHm7zVXR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025789076673183744\/-46Z_MZ2_normal.jpg",
       "id" : 3230052541,
       "verified" : true
     }

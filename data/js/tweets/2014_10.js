@@ -198,6 +198,12 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "cgrunyon",
+      "screen_name" : "cgrunyon",
+      "indices" : [ 3, 12 ],
+      "id_str" : "1021118572242849792",
+      "id" : 1021118572242849792
+    }, {
       "name" : "Letterboxd",
       "screen_name" : "letterboxd",
       "indices" : [ 58, 69 ],
@@ -245,7 +251,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "carolaverygrant",
       "protected" : false,
       "id_str" : "172066483",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957701601958903808\/a6hu7kQB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019987548016275457\/UR-0nzzf_normal.jpg",
       "id" : 172066483,
       "verified" : false
     }
@@ -960,7 +966,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "euqueirozbrenda",
       "protected" : false,
       "id_str" : "1659909228",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904526084154249216\/x6pDRn7U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015348978513166336\/F9Jd9Nhk_normal.jpg",
       "id" : 1659909228,
       "verified" : false
     }
@@ -1011,7 +1017,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814258787330719744\/vG-aJaxd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012135361663963136\/gIOMHpZl_normal.jpg",
       "id" : 4375,
       "verified" : false
     }

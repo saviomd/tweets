@@ -455,7 +455,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "nannerb",
       "protected" : false,
       "id_str" : "156927285",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946516888351379458\/goxDPhvM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011191888534212609\/bV1eCGaI_normal.jpg",
       "id" : 156927285,
       "verified" : false
     }
@@ -704,7 +704,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "davidwburnett",
       "protected" : false,
       "id_str" : "89043937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601486336349106176\/xL-SIHkn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1024423771602595841\/DHfpxEho_normal.jpg",
       "id" : 89043937,
       "verified" : false
     }
@@ -1023,7 +1023,7 @@ Grailbird.data.tweets_2015_01 =
   "id_str" : "555342353939300352",
   "text" : "RT @tableless: Why and How to Avoid Hamburger Menus: http:\/\/t.co\/M6xYVsVnsh http:\/\/t.co\/7EQNVKljkT",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {

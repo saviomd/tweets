@@ -1200,7 +1200,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Bos \uD83D\uDD25",
+      "name" : "Wes Bos",
       "screen_name" : "wesbos",
       "indices" : [ 3, 10 ],
       "id_str" : "815246",
@@ -1258,7 +1258,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 606144483562913792,
     "created_at" : "2015-06-03 17:04:41 +0000",
     "user" : {
-      "name" : "Wes Bos \uD83D\uDD25",
+      "name" : "Wes Bos",
       "screen_name" : "wesbos",
       "protected" : false,
       "id_str" : "815246",
@@ -1350,7 +1350,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1384,6 +1384,100 @@ Grailbird.data.tweets_2015_06 =
   "text" : "Comemora\u00E7\u00F5es do FIFA na vida real http:\/\/t.co\/2PgJ8Zqg40",
   "id" : 605930641704644608,
   "created_at" : "2015-06-03 02:54:57 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rhys Lister",
+      "screen_name" : "rhyslist",
+      "indices" : [ 3, 12 ],
+      "id_str" : "622902049",
+      "id" : 622902049
+    }, {
+      "name" : "Iron Maiden",
+      "screen_name" : "IronMaiden",
+      "indices" : [ 109, 120 ],
+      "id_str" : "19114743",
+      "id" : 19114743
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "605725510971355137",
+  "text" : "RT @rhyslist: However cool you think you are, you aren't as cool as Dave Murray doing a sick solo in a river @IronMaiden http:\/\/t.co\/lo2v8z\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Iron Maiden",
+        "screen_name" : "IronMaiden",
+        "indices" : [ 95, 106 ],
+        "id_str" : "19114743",
+        "id" : 19114743
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/rhyslist\/status\/605661476477669376\/photo\/1",
+        "indices" : [ 107, 129 ],
+        "url" : "http:\/\/t.co\/lo2v8zeA2h",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CGe95iUW8AA46Mw.jpg",
+        "id_str" : "605661471067009024",
+        "id" : 605661471067009024,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CGe95iUW8AA46Mw.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/lo2v8zeA2h"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "605661476477669376",
+    "text" : "However cool you think you are, you aren't as cool as Dave Murray doing a sick solo in a river @IronMaiden http:\/\/t.co\/lo2v8zeA2h",
+    "id" : 605661476477669376,
+    "created_at" : "2015-06-02 09:05:23 +0000",
+    "user" : {
+      "name" : "Rhys Lister",
+      "screen_name" : "rhyslist",
+      "protected" : false,
+      "id_str" : "622902049",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020609830896185344\/Rkq4xjgJ_normal.jpg",
+      "id" : 622902049,
+      "verified" : false
+    }
+  },
+  "id" : 605725510971355137,
+  "created_at" : "2015-06-02 13:19:50 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

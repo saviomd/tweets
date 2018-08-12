@@ -648,7 +648,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -747,7 +747,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 489499220253372416,
     "created_at" : "2014-07-16 19:58:03 +0000",
     "user" : {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -957,7 +957,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "chrisdeerin",
       "protected" : false,
       "id_str" : "130835710",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/968411821450366976\/JkY6Fr8R_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004789778112499712\/YnkeU-OK_normal.jpg",
       "id" : 130835710,
       "verified" : true
     }
@@ -1072,7 +1072,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1235,13 +1235,13 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "78270570",
       "id" : 78270570
     }, {
-      "name" : "FIFA World Cup \uD83C\uDFC6",
+      "name" : "FIFA World Cup",
       "screen_name" : "FIFAWorldCup",
       "indices" : [ 49, 62 ],
       "id_str" : "138372303",
       "id" : 138372303
     }, {
-      "name" : "Selecci\u00F3n Argentina",
+      "name" : "Selecci\u00F3n Argentina \uD83C\uDDE6\uD83C\uDDF7",
       "screen_name" : "Argentina",
       "indices" : [ 77, 87 ],
       "id_str" : "2495199115",
@@ -1295,13 +1295,13 @@ Grailbird.data.tweets_2014_07 =
         "id_str" : "78270570",
         "id" : 78270570
       }, {
-        "name" : "FIFA World Cup \uD83C\uDFC6",
+        "name" : "FIFA World Cup",
         "screen_name" : "FIFAWorldCup",
         "indices" : [ 31, 44 ],
         "id_str" : "138372303",
         "id" : 138372303
       }, {
-        "name" : "Selecci\u00F3n Argentina",
+        "name" : "Selecci\u00F3n Argentina \uD83C\uDDE6\uD83C\uDDF7",
         "screen_name" : "Argentina",
         "indices" : [ 59, 69 ],
         "id_str" : "2495199115",
@@ -1404,115 +1404,8 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/1dzmrc\/status\/488443297049092096\/photo\/1",
-      "indices" : [ 54, 76 ],
-      "url" : "http:\/\/t.co\/xYDri5Y5g7",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BsdMlttIQAApfgl.jpg",
-      "id_str" : "488443295400738816",
-      "id" : 488443295400738816,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BsdMlttIQAApfgl.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 425,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 720
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/xYDri5Y5g7"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "488488586212540416",
-  "text" : "RT @1dzmrc: BRASILEIRO \u00C9 UMA RA\u00C7A QUE N\u00C3O PERDE TEMPO http:\/\/t.co\/xYDri5Y5g7",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/1dzmrc\/status\/488443297049092096\/photo\/1",
-        "indices" : [ 42, 64 ],
-        "url" : "http:\/\/t.co\/xYDri5Y5g7",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BsdMlttIQAApfgl.jpg",
-        "id_str" : "488443295400738816",
-        "id" : 488443295400738816,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BsdMlttIQAApfgl.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 425,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 720
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/xYDri5Y5g7"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "488443297049092096",
-    "text" : "BRASILEIRO \u00C9 UMA RA\u00C7A QUE N\u00C3O PERDE TEMPO http:\/\/t.co\/xYDri5Y5g7",
-    "id" : 488443297049092096,
-    "created_at" : "2014-07-13 22:02:11 +0000",
-    "user" : {
-      "name" : "c\u00A1ndy \u8F49",
-      "screen_name" : "yourseokjin",
-      "protected" : false,
-      "id_str" : "1611690398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001065856770691072\/8Q3Q15NS_normal.jpg",
-      "id" : 1611690398,
-      "verified" : false
-    }
-  },
-  "id" : 488488586212540416,
-  "created_at" : "2014-07-14 01:02:09 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1601,7 +1494,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 488463503351881728,
     "created_at" : "2014-07-13 23:22:29 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2421,7 +2314,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2448,7 +2341,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 486612427040366592,
     "created_at" : "2014-07-08 20:46:58 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2583,7 +2476,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2620,7 +2513,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 485867528519168000,
     "created_at" : "2014-07-06 19:27:00 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -2683,7 +2576,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "95306144",
       "id" : 95306144
     }, {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 20, 28 ],
       "id_str" : "26618823",
@@ -2700,7 +2593,7 @@ Grailbird.data.tweets_2014_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u262E",
+        "name" : "Arthur Muhlenberg Reloaded \u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -2776,7 +2669,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DeadBool",
+      "name" : "Tio BooBodgers",
       "screen_name" : "TioBooBooDepre",
       "indices" : [ 3, 18 ],
       "id_str" : "1022562488",
@@ -2865,11 +2758,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 485212201138266112,
     "created_at" : "2014-07-05 00:02:58 +0000",
     "user" : {
-      "name" : "DeadBool",
+      "name" : "Tio BooBodgers",
       "screen_name" : "TioBooBooDepre",
       "protected" : false,
       "id_str" : "1022562488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997302107748356106\/ItJuVCFI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027701048427864066\/TaufYRE__normal.jpg",
       "id" : 1022562488,
       "verified" : false
     }
@@ -3220,7 +3113,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "nikefootball",
       "protected" : false,
       "id_str" : "41147159",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960964603113910272\/uARiBTul_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023922047641178115\/zb1KWzkS_normal.jpg",
       "id" : 41147159,
       "verified" : true
     }
@@ -3339,7 +3232,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "nikefootball",
       "protected" : false,
       "id_str" : "41147159",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960964603113910272\/uARiBTul_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023922047641178115\/zb1KWzkS_normal.jpg",
       "id" : 41147159,
       "verified" : true
     }
@@ -3604,7 +3497,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FIFA World Cup \uD83C\uDFC6",
+      "name" : "FIFA World Cup",
       "screen_name" : "FIFAWorldCup",
       "indices" : [ 3, 16 ],
       "id_str" : "138372303",
@@ -3795,11 +3688,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 485163495692828673,
     "created_at" : "2014-07-04 20:49:25 +0000",
     "user" : {
-      "name" : "FIFA World Cup \uD83C\uDFC6",
+      "name" : "FIFA World Cup",
       "screen_name" : "FIFAWorldCup",
       "protected" : false,
       "id_str" : "138372303",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875621877279883264\/sL6GBCf2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018412081677328384\/KqxZyazx_normal.jpg",
       "id" : 138372303,
       "verified" : true
     }
@@ -4414,7 +4307,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }

@@ -196,7 +196,7 @@ Grailbird.data.tweets_2016_06 =
   "id_str" : "747247123700277249",
   "text" : "RT @VGFGamers: Mommy for the win! https:\/\/t.co\/pvHdz3D8uB",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -360,119 +360,6 @@ Grailbird.data.tweets_2016_06 =
   },
   "id" : 746463220316110848,
   "created_at" : "2016-06-24 22:01:14 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sylvie",
-      "screen_name" : "u_sylvie",
-      "indices" : [ 3, 12 ],
-      "id_str" : "1861568029",
-      "id" : 1861568029
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/u_sylvie\/status\/742507648738721793\/video\/1",
-      "indices" : [ 79, 102 ],
-      "url" : "https:\/\/t.co\/gQ3abVpcDu",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
-      "id_str" : "742507435789713409",
-      "id" : 742507435789713409,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 480
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/gQ3abVpcDu"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "745078604569128960",
-  "text" : "RT @u_sylvie: Ben Affleck should do DVD commentaries more often. What a ledge. https:\/\/t.co\/gQ3abVpcDu",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/u_sylvie\/status\/742507648738721793\/video\/1",
-        "indices" : [ 65, 88 ],
-        "url" : "https:\/\/t.co\/gQ3abVpcDu",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
-        "id_str" : "742507435789713409",
-        "id" : 742507435789713409,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/742507435789713409\/pu\/img\/JnvGAOyaQAe6KOSQ.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 360,
-          "resize" : "fit",
-          "w" : 480
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/gQ3abVpcDu"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "742507648738721793",
-    "text" : "Ben Affleck should do DVD commentaries more often. What a ledge. https:\/\/t.co\/gQ3abVpcDu",
-    "id" : 742507648738721793,
-    "created_at" : "2016-06-14 00:03:13 +0000",
-    "user" : {
-      "name" : "Sylvie",
-      "screen_name" : "u_sylvie",
-      "protected" : false,
-      "id_str" : "1861568029",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/962896900419547136\/W9eUEhgz_normal.jpg",
-      "id" : 1861568029,
-      "verified" : false
-    }
-  },
-  "id" : 745078604569128960,
-  "created_at" : "2016-06-21 02:19:16 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -740,7 +627,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "EW",
       "protected" : false,
       "id_str" : "16312576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881539688418471937\/lf5NWhm__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013773084505960448\/be0MNSeh_normal.jpg",
       "id" : 16312576,
       "verified" : true
     }
@@ -1122,7 +1009,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }

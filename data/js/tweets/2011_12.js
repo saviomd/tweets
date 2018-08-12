@@ -1026,7 +1026,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1210,6 +1210,79 @@ Grailbird.data.tweets_2011_12 =
   "created_at" : "2011-12-09 13:05:58 +0000",
   "in_reply_to_screen_name" : "resenna",
   "in_reply_to_user_id_str" : "15601887",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "rosa derbli schicors",
+      "screen_name" : "derbli",
+      "indices" : [ 56, 63 ],
+      "id_str" : "911279304591454208",
+      "id" : 911279304591454208
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "genial",
+      "indices" : [ 42, 49 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 90, 110 ],
+      "url" : "http:\/\/t.co\/wp0mu7Pz",
+      "expanded_url" : "http:\/\/9gag.com\/gag\/948342",
+      "display_url" : "9gag.com\/gag\/948342"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "145124131367698432",
+  "text" : "RT @FabricioMarreco: Tenho que concordar. #genial \/\/ RT @derbli: Will Ferrell \u00E9 um G\u00CANIO: http:\/\/t.co\/wp0mu7Pz",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "rosa derbli schicors",
+        "screen_name" : "derbli",
+        "indices" : [ 35, 42 ],
+        "id_str" : "911279304591454208",
+        "id" : 911279304591454208
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "genial",
+        "indices" : [ 21, 28 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 69, 89 ],
+        "url" : "http:\/\/t.co\/wp0mu7Pz",
+        "expanded_url" : "http:\/\/9gag.com\/gag\/948342",
+        "display_url" : "9gag.com\/gag\/948342"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "145114790476513280",
+    "text" : "Tenho que concordar. #genial \/\/ RT @derbli: Will Ferrell \u00E9 um G\u00CANIO: http:\/\/t.co\/wp0mu7Pz",
+    "id" : 145114790476513280,
+    "created_at" : "2011-12-09 12:17:16 +0000",
+    "user" : {
+      "name" : "m\uF8FFrreco",
+      "screen_name" : "__marreco",
+      "protected" : false,
+      "id_str" : "46164863",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713862116311232512\/4g2vwWlt_normal.jpg",
+      "id" : 46164863,
+      "verified" : false
+    }
+  },
+  "id" : 145124131367698432,
+  "created_at" : "2011-12-09 12:54:23 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

@@ -681,7 +681,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -715,7 +715,7 @@ Grailbird.data.tweets_2012_02 =
   "id_str" : "169814153337376768",
   "text" : "RT @eduardopaes_: Lan\u00E7amos hoje o aplicativo\"Rio Guia Oficial\".Fant\u00E1stico. Foco \u00E9 turistas mas serve tamb\u00E9m para cariocas. Dispon\u00EDvel em ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

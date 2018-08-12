@@ -1,5 +1,86 @@
 Grailbird.data.tweets_2018_05 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 42, 65 ],
+      "url" : "https:\/\/t.co\/AaJKQTUGnJ",
+      "expanded_url" : "https:\/\/twitter.com\/footstats\/status\/1002350091838124032",
+      "display_url" : "twitter.com\/footstats\/stat\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1002367807022157824",
+  "text" : "S\u00F3 faltou ser o 1o em defesas dif\u00EDceis rs https:\/\/t.co\/AaJKQTUGnJ",
+  "id" : 1002367807022157824,
+  "created_at" : "2018-06-01 01:54:42 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 26, 49 ],
+      "url" : "https:\/\/t.co\/Hz8pBgU5OQ",
+      "expanded_url" : "http:\/\/www.bbc.com\/portuguese\/geral-44109810",
+      "display_url" : "bbc.com\/portuguese\/ger\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1001972941670805505",
+  "text" : "Origem do nome dos pa\u00EDses https:\/\/t.co\/Hz8pBgU5OQ",
+  "id" : 1001972941670805505,
+  "created_at" : "2018-05-30 23:45:39 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 38, 61 ],
+      "url" : "https:\/\/t.co\/0OLYRGeMbp",
+      "expanded_url" : "https:\/\/www.youtube.com\/watch?v=HHs4bZVDk6Q",
+      "display_url" : "youtube.com\/watch?v=HHs4bZ\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1001571231450181632",
+  "text" : "Timelapse da montagem do GP de M\u00F4naco https:\/\/t.co\/0OLYRGeMbp",
+  "id" : 1001571231450181632,
+  "created_at" : "2018-05-29 21:09:24 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -147,7 +228,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "MoSalah",
       "protected" : false,
       "id_str" : "2396677714",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878220888654721024\/5WVJC0py_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021914729864945664\/-gPd3WsC_normal.jpg",
       "id" : 2396677714,
       "verified" : true
     }
@@ -208,7 +289,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "lbertozzi",
       "protected" : false,
       "id_str" : "37929603",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979035632336031745\/K6vuRUaZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001268504358735874\/0j8QXisR_normal.jpg",
       "id" : 37929603,
       "verified" : true
     }
@@ -484,7 +565,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -733,67 +814,6 @@ Grailbird.data.tweets_2018_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Footstats",
-      "screen_name" : "Footstats",
-      "indices" : [ 3, 13 ],
-      "id_str" : "48491604",
-      "id" : 48491604
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 63, 86 ],
-      "url" : "https:\/\/t.co\/QHeOSnAloH",
-      "expanded_url" : "https:\/\/twitter.com\/Andersinho_ITA\/status\/999309614566068225",
-      "display_url" : "twitter.com\/Andersinho_ITA\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "999335742965985282",
-  "text" : "RT @Footstats: CBF e clubes, por favor, nunca te pedimos nada! https:\/\/t.co\/QHeOSnAloH",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 48, 71 ],
-        "url" : "https:\/\/t.co\/QHeOSnAloH",
-        "expanded_url" : "https:\/\/twitter.com\/Andersinho_ITA\/status\/999309614566068225",
-        "display_url" : "twitter.com\/Andersinho_ITA\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "999314168061755392",
-    "text" : "CBF e clubes, por favor, nunca te pedimos nada! https:\/\/t.co\/QHeOSnAloH",
-    "id" : 999314168061755392,
-    "created_at" : "2018-05-23 15:40:38 +0000",
-    "user" : {
-      "name" : "Footstats",
-      "screen_name" : "Footstats",
-      "protected" : false,
-      "id_str" : "48491604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876894538329202688\/BEoJFHXu_normal.jpg",
-      "id" : 48491604,
-      "verified" : false
-    }
-  },
-  "id" : 999335742965985282,
-  "created_at" : "2018-05-23 17:06:22 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -937,11 +957,11 @@ Grailbird.data.tweets_2018_05 =
     "id" : 997214788005613568,
     "created_at" : "2018-05-17 20:38:27 +0000",
     "user" : {
-      "name" : "Footstats",
+      "name" : "Footstats Premium",
       "screen_name" : "Footstats",
       "protected" : false,
       "id_str" : "48491604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876894538329202688\/BEoJFHXu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027893161572622337\/T28tFtEd_normal.jpg",
       "id" : 48491604,
       "verified" : false
     }
@@ -1014,64 +1034,13 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "Loudwire",
       "protected" : false,
       "id_str" : "234878051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995983286227775488\/pcbma_TK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013099580475535361\/oN5DwhUG_normal.jpg",
       "id" : 234878051,
       "verified" : true
     }
   },
   "id" : 996779651187007490,
   "created_at" : "2018-05-16 15:49:22 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emile Hirsch",
-      "screen_name" : "EmileHirsch",
-      "indices" : [ 3, 15 ],
-      "id_str" : "466777455",
-      "id" : 466777455
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "996413889549127680",
-  "text" : "RT @EmileHirsch: The Wachowskis said long ago that the sequel to SPEED RACER would be mind blowing.  And the script is written.  Waiting. R\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "996137379609034753",
-    "text" : "The Wachowskis said long ago that the sequel to SPEED RACER would be mind blowing.  And the script is written.  Waiting. RETWEET this to show them just how many people love the movie and want to see the next one.",
-    "id" : 996137379609034753,
-    "created_at" : "2018-05-14 21:17:13 +0000",
-    "user" : {
-      "name" : "Emile Hirsch",
-      "screen_name" : "EmileHirsch",
-      "protected" : false,
-      "id_str" : "466777455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997728719618785281\/M9ffED_F_normal.jpg",
-      "id" : 466777455,
-      "verified" : true
-    }
-  },
-  "id" : 996413889549127680,
-  "created_at" : "2018-05-15 15:35:58 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1227,7 +1196,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "ThisDayInMETAL",
       "protected" : false,
       "id_str" : "743472216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945894126842609664\/gcaonNJf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010826641394692096\/NXb9EIX3_normal.jpg",
       "id" : 743472216,
       "verified" : false
     }
@@ -1531,7 +1500,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "github",
       "protected" : false,
       "id_str" : "13334762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616309728688238592\/pBeeJQDQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017516299143041024\/fLFdcGsl_normal.jpg",
       "id" : 13334762,
       "verified" : true
     }

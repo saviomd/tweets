@@ -677,7 +677,7 @@ Grailbird.data.tweets_2018_01 =
       "screen_name" : "maurocezar",
       "protected" : false,
       "id_str" : "55069015",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991670486202486784\/6Zy55jPs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010731439548174339\/vOkYaL_0_normal.jpg",
       "id" : 55069015,
       "verified" : true
     }
@@ -843,7 +843,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2018_01 =
     "id" : 956558140690108417,
     "created_at" : "2018-01-25 16:03:27 +0000",
     "user" : {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2018_01 =
   "id_str" : "956562550606397440",
   "text" : "RT @braziljs: Mais uma \u00F3tima not\u00EDcia na semana, principalmente para as PWAs \uD83D\uDE4C\nO Safari 11.1 agora conta com suporte a Service Workers e Web\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1091,7 +1091,7 @@ Grailbird.data.tweets_2018_01 =
       "screen_name" : "braziljs",
       "protected" : false,
       "id_str" : "252189668",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904897758678614016\/GRchoWbU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025038696842715137\/8VsHKDkw_normal.jpg",
       "id" : 252189668,
       "verified" : false
     }
@@ -1358,7 +1358,7 @@ Grailbird.data.tweets_2018_01 =
       "id_str" : "252189668",
       "id" : 252189668
     }, {
-      "name" : "Wes Bos \uD83D\uDD25",
+      "name" : "Wes Bos",
       "screen_name" : "wesbos",
       "indices" : [ 41, 48 ],
       "id_str" : "815246",
@@ -1372,10 +1372,10 @@ Grailbird.data.tweets_2018_01 =
   "id_str" : "954099034570059776",
   "text" : "RT @braziljs: Olhem que legal pessoal! O @wesbos lan\u00E7ou um curso de CSS grid de gra\u00E7a!\nS\u00E3o v\u00E1rios v\u00EDdeos que totalizam 4 horas de curso.\nht\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Wes Bos \uD83D\uDD25",
+        "name" : "Wes Bos",
         "screen_name" : "wesbos",
         "indices" : [ 27, 34 ],
         "id_str" : "815246",
@@ -1400,7 +1400,7 @@ Grailbird.data.tweets_2018_01 =
       "screen_name" : "braziljs",
       "protected" : false,
       "id_str" : "252189668",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904897758678614016\/GRchoWbU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025038696842715137\/8VsHKDkw_normal.jpg",
       "id" : 252189668,
       "verified" : false
     }
@@ -1965,7 +1965,7 @@ Grailbird.data.tweets_2018_01 =
       "screen_name" : "stridinstrider",
       "protected" : false,
       "id_str" : "568345906",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827580659661205509\/_nKuo7Tq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012417247971721217\/-6FZLWHg_normal.jpg",
       "id" : 568345906,
       "verified" : false
     }

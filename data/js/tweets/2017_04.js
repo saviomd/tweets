@@ -798,7 +798,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "ForzaMotorsport",
       "protected" : false,
       "id_str" : "30942099",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464563521800257536\/-AY8f5yG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005922171103973377\/MEUkyOjN_normal.jpg",
       "id" : 30942099,
       "verified" : true
     }
@@ -1095,7 +1095,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -1164,7 +1164,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 855437644796497922,
     "created_at" : "2017-04-21 15:06:42 +0000",
     "user" : {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -1334,7 +1334,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 0, 12 ],
       "id_str" : "15913",
@@ -1512,7 +1512,7 @@ Grailbird.data.tweets_2017_04 =
   "id_str" : "852118180692709376",
   "text" : "RT @brad_frost: This Material Design color (&amp; accessibility) tool is pretty dang cool. https:\/\/t.co\/56fIwIMlPa",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2385,7 +2385,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013798240683266048\/zRim1x6M_normal.jpg",
       "id" : 783214,
       "verified" : true
     }

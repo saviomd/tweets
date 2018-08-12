@@ -364,7 +364,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814258787330719744\/vG-aJaxd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012135361663963136\/gIOMHpZl_normal.jpg",
       "id" : 4375,
       "verified" : false
     }
@@ -571,7 +571,7 @@ Grailbird.data.tweets_2016_03 =
   "id_str" : "710098859595276288",
   "text" : "RT @papodehomem: 17 filmes para assistir em mar\u00E7o https:\/\/t.co\/cecrlQ96n0",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1350,7 +1350,7 @@ Grailbird.data.tweets_2016_03 =
   "id_str" : "705858348739108864",
   "text" : "RT @papodehomem: 20 filmes biogr\u00E1ficos sobre gente foda https:\/\/t.co\/sAegwTPBOr",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1688,7 +1688,7 @@ Grailbird.data.tweets_2016_03 =
   "id_str" : "705591944173506560",
   "text" : "RT @papodehomem: Como fazer refrigerante de laranja, passo a passo https:\/\/t.co\/YLvfST01rU",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1846,7 +1846,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013798240683266048\/zRim1x6M_normal.jpg",
       "id" : 783214,
       "verified" : true
     }

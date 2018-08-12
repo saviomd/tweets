@@ -22,7 +22,7 @@ Grailbird.data.tweets_2016_05 =
   "id_str" : "737828448375308288",
   "text" : "RT @papodehomem: J\u00E1 estamos no finalzinho de maio, planejando o pr\u00F3ximo final de semana...\nhttps:\/\/t.co\/W6w4i8jRWk",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

@@ -122,7 +122,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "26981455",
       "id" : 26981455
     }, {
-      "name" : "Kristian Williams",
+      "name" : "Kristian T. Williams",
       "screen_name" : "kaptainkristian",
       "indices" : [ 100, 116 ],
       "id_str" : "4826844366",
@@ -139,7 +139,7 @@ Grailbird.data.tweets_2017_05 =
     "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Kristian Williams",
+        "name" : "Kristian T. Williams",
         "screen_name" : "kaptainkristian",
         "indices" : [ 84, 100 ],
         "id_str" : "4826844366",
@@ -357,7 +357,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "spencerchen",
       "protected" : false,
       "id_str" : "14213734",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/978047297362698241\/NMXpErpR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025517112490483712\/s0rUa7FK_normal.jpg",
       "id" : 14213734,
       "verified" : false
     }
@@ -1305,67 +1305,6 @@ Grailbird.data.tweets_2017_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "indices" : [ 3, 14 ],
-      "id_str" : "224744107",
-      "id" : 224744107
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 29, 52 ],
-      "url" : "https:\/\/t.co\/CmjZDarIyL",
-      "expanded_url" : "http:\/\/teamrock.com\/news\/2017-05-16\/mr-big-return-with-defying-gravity",
-      "display_url" : "teamrock.com\/news\/2017-05-1\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "864928861200535553",
-  "text" : "RT @mrbigmusic: BIG NEWS!!!  https:\/\/t.co\/CmjZDarIyL",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 13, 36 ],
-        "url" : "https:\/\/t.co\/CmjZDarIyL",
-        "expanded_url" : "http:\/\/teamrock.com\/news\/2017-05-16\/mr-big-return-with-defying-gravity",
-        "display_url" : "teamrock.com\/news\/2017-05-1\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "864927096635785216",
-    "text" : "BIG NEWS!!!  https:\/\/t.co\/CmjZDarIyL",
-    "id" : 864927096635785216,
-    "created_at" : "2017-05-17 19:34:24 +0000",
-    "user" : {
-      "name" : "Mr Big",
-      "screen_name" : "mrbigmusic",
-      "protected" : false,
-      "id_str" : "224744107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501840055690739712\/dcgf1Vdh_normal.jpeg",
-      "id" : 224744107,
-      "verified" : true
-    }
-  },
-  "id" : 864928861200535553,
-  "created_at" : "2017-05-17 19:41:24 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1490,7 +1429,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -2005,7 +1944,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 3, 15 ],
       "id_str" : "15913",
@@ -2074,7 +2013,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 864523596827435009,
     "created_at" : "2017-05-16 16:51:02 +0000",
     "user" : {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "protected" : false,
       "id_str" : "15913",
@@ -2210,7 +2149,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ \uD83D\uDCAC Larry Hryb ]",
+      "name" : "Larry Hryb",
       "screen_name" : "majornelson",
       "indices" : [ 0, 12 ],
       "id_str" : "15913",
@@ -3583,7 +3522,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Gaynor *slams a Dew* hell yeah",
+      "name" : "Steve Gaynor",
       "screen_name" : "fullbright",
       "indices" : [ 3, 14 ],
       "id_str" : "15078306",
@@ -3651,7 +3590,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 859777968914153473,
     "created_at" : "2017-05-03 14:33:36 +0000",
     "user" : {
-      "name" : "Steve Gaynor *slams a Dew* hell yeah",
+      "name" : "Steve Gaynor",
       "screen_name" : "fullbright",
       "protected" : false,
       "id_str" : "15078306",

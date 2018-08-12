@@ -2027,7 +2027,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Victor_Lucas",
       "protected" : false,
       "id_str" : "15177163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849354876748533760\/9IlE1riN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014598906661896192\/8Wnh9WBP_normal.jpg",
       "id" : 15177163,
       "verified" : true
     }

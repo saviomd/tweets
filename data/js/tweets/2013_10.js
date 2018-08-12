@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 395632536006565888,
     "created_at" : "2013-10-30 19:25:21 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -355,7 +355,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "392833070325567488",
   "text" : "RT @bitchwhocodes: lol - name that blue http:\/\/t.co\/zzDks5FP8u   oh brands",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

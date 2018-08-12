@@ -22,7 +22,7 @@ Grailbird.data.tweets_2016_11 =
   "id_str" : "804031004050653185",
   "text" : "RT @GitHubEducation: Now available for free download: the GitHub for Robotics comic book for your phone or tablet https:\/\/t.co\/oF5s4bOyL9 h\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -75,7 +75,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "GitHubEducation",
       "protected" : false,
       "id_str" : "1943578656",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000561692042\/a26a14bdfa11b045632e66b05369bc48_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013681965608796160\/kICyCY6t_normal.jpg",
       "id" : 1943578656,
       "verified" : false
     }
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "LFC",
       "protected" : false,
       "id_str" : "19583545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985865116821458945\/eZHXSXSG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023911025232494597\/ylQceGYg_normal.jpg",
       "id" : 19583545,
       "verified" : true
     }
@@ -1359,7 +1359,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "FUTBOX",
       "protected" : false,
       "id_str" : "111996730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908092553739870214\/MQIGTXEm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015575719106240512\/eyhNhOJI_normal.jpg",
       "id" : 111996730,
       "verified" : false
     }
@@ -1826,7 +1826,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "perlmutations",
       "protected" : false,
       "id_str" : "926620369",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957040672686526464\/OQruHKT4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011002760756543488\/9xgxTBkG_normal.jpg",
       "id" : 926620369,
       "verified" : true
     }
@@ -1877,7 +1877,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -2086,7 +2086,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "github",
       "protected" : false,
       "id_str" : "13334762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616309728688238592\/pBeeJQDQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017516299143041024\/fLFdcGsl_normal.jpg",
       "id" : 13334762,
       "verified" : true
     }

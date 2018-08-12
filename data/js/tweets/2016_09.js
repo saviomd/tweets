@@ -3,7 +3,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "aaaaaalequisi",
+      "name" : "aaaalequisi",
       "screen_name" : "meeloalex",
       "indices" : [ 3, 13 ],
       "id_str" : "3416773767",
@@ -92,11 +92,11 @@ Grailbird.data.tweets_2016_09 =
     "id" : 781881581086576641,
     "created_at" : "2016-09-30 15:41:10 +0000",
     "user" : {
-      "name" : "aaaaaalequisi",
+      "name" : "aaaalequisi",
       "screen_name" : "meeloalex",
       "protected" : false,
       "id_str" : "3416773767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000017526749790209\/tR6OToZK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020033312113479680\/mmv8NwFL_normal.jpg",
       "id" : 3416773767,
       "verified" : false
     }
@@ -907,7 +907,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "tmorello",
       "protected" : false,
       "id_str" : "23023236",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774285282921230336\/-DFROTeL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022525495148204032\/o2eHtiCU_normal.jpg",
       "id" : 23023236,
       "verified" : true
     }

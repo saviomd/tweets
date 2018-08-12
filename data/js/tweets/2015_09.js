@@ -22,7 +22,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "649049693620674560",
   "text" : "RT @papodehomem: Um pouco mais de Alta Fidelidade nunca \u00E9 demais.\n\nhttp:\/\/t.co\/iv4ZxzEWpW",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "648273005248798721",
   "text" : "RT @papodehomem: 15 times europeus para torcedores de primeira viagem http:\/\/t.co\/hOdznLhcu6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -144,7 +144,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "647238363653742592",
   "text" : "RT @papodehomem: Quatro sites que v\u00E3o te ajudar a n\u00E3o compartilhar uma not\u00EDcia falsa http:\/\/t.co\/KKXgK5UrtS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -319,7 +319,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "fdvives",
       "protected" : false,
       "id_str" : "19271642",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948353875123294208\/zyLA3JlI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019213311055880193\/_zXPYM_O_normal.jpg",
       "id" : 19271642,
       "verified" : false
     }
@@ -358,7 +358,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "645248027393945600",
   "text" : "RT @papodehomem: Bill Watterson: conselho de um cartunista http:\/\/t.co\/lRwVVMdMrd",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "644352912009916417",
   "text" : "RT @papodehomem: Na Alemanha n\u00E3o tem s\u00F3 futebol foda, mas conte\u00FAdo daora tamb\u00E9m.\n\nhttp:\/\/t.co\/WRslFXTTW8",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1172,7 +1172,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "github",
       "protected" : false,
       "id_str" : "13334762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616309728688238592\/pBeeJQDQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017516299143041024\/fLFdcGsl_normal.jpg",
       "id" : 13334762,
       "verified" : true
     }

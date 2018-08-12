@@ -760,7 +760,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "618820007200485376",
   "text" : "RT @papodehomem: Cole\u00E7\u00E3o de p\u00F4steres com spoilers de grandes filmes do cinema http:\/\/t.co\/afni9tyabM",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

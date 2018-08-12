@@ -325,7 +325,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "471842351619772416",
   "text" : "RT @papodehomem: 40 filmes para passar o tempo, rir, se deliciar com belas hist\u00F3rias e ainda moldar o car\u00E1ter.\n http:\/\/t.co\/aNkuNBkqwJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -367,7 +367,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 471327979302580224,
     "created_at" : "2014-05-27 16:32:01 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -582,7 +582,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "470683150298148864",
   "text" : "RT @papodehomem: Entre mortos e feridos, a Copa \u00E9 um momento precioso que vem de 4 em 4 anos. Veja aqui por que vale a pena esperar.\n http:\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1675,7 +1675,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "465233686078955520",
   "text" : "RT @VideoGamesFacts: What being a game has taught us: http:\/\/t.co\/BBh8xKECm3",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1789,7 +1789,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1854,7 +1854,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "464891784460791808",
   "text" : "RT @Brilliant_Ads: The most reliable weather forecast ever! http:\/\/t.co\/wKn5hYGfqN",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2014,7 +2014,7 @@ Grailbird.data.tweets_2014_05 =
   "id_str" : "464562002934128640",
   "text" : "RT @papodehomem: Tem gente que ainda acha que ler quadrinhos n\u00E3o \u00E9 digno. Aqui algumas boas raz\u00F5es pra mudar de ideia.\n http:\/\/t.co\/Wzim8In\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2604,7 +2604,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "ProfWoodward",
       "protected" : false,
       "id_str" : "419780201",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/922043251309367296\/2Z8m_H7l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028654176165875714\/aAS_HEh3_normal.jpg",
       "id" : 419780201,
       "verified" : true
     }
@@ -2678,7 +2678,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Deep State Prince",
+      "name" : "\uD835\uDE45\uD835\uDE5E\uD835\uDE62 \uD835\uDE50\uD835\uDE63\uD835\uDE6C\uD835\uDE5E\uD835\uDE63",
       "screen_name" : "jim_unwin",
       "indices" : [ 3, 13 ],
       "id_str" : "265479915",
@@ -2715,7 +2715,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 462081829139279872,
     "created_at" : "2014-05-02 04:11:07 +0000",
     "user" : {
-      "name" : "The Deep State Prince",
+      "name" : "\uD835\uDE45\uD835\uDE5E\uD835\uDE62 \uD835\uDE50\uD835\uDE63\uD835\uDE6C\uD835\uDE5E\uD835\uDE63",
       "screen_name" : "jim_unwin",
       "protected" : false,
       "id_str" : "265479915",

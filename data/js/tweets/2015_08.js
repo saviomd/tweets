@@ -209,7 +209,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "diegoeis",
       "protected" : false,
       "id_str" : "4375",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814258787330719744\/vG-aJaxd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012135361663963136\/gIOMHpZl_normal.jpg",
       "id" : 4375,
       "verified" : false
     }
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2015_08 =
   "id_str" : "637075601296334848",
   "text" : "RT @papodehomem: 40 Filmes pra ver e ser algu\u00E9m melhor http:\/\/t.co\/WyAcTbGii4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -989,7 +989,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "YouTube",
       "protected" : false,
       "id_str" : "10228272",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985908628329771008\/QGaAYux6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013436760859299847\/aQltRN9T_normal.jpg",
       "id" : 10228272,
       "verified" : true
     }
@@ -1195,7 +1195,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "github",
       "protected" : false,
       "id_str" : "13334762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616309728688238592\/pBeeJQDQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1017516299143041024\/fLFdcGsl_normal.jpg",
       "id" : 13334762,
       "verified" : true
     }

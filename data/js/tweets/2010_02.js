@@ -710,7 +710,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "324748518",
       "id" : 324748518
     }, {
-      "name" : "Alex",
+      "name" : "T\u00E1ssia Monteiro | \uAC15\uC9C0\uC544",
       "screen_name" : "tassia_monteiro",
       "indices" : [ 45, 61 ],
       "id_str" : "18391036",

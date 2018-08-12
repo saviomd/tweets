@@ -286,7 +286,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "canalzico10",
       "protected" : false,
       "id_str" : "42459293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946165230983417856\/Cpph0P82_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005135380042133505\/BiI0sjrO_normal.jpg",
       "id" : 42459293,
       "verified" : false
     }
@@ -306,7 +306,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273255092403179520,
     "created_at" : "2012-11-27 02:41:05 +0000",
     "user" : {
-      "name" : "\u262E",
+      "name" : "Arthur Muhlenberg Reloaded \u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1413,7 +1413,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "270697069805723648",
   "text" : "RT @kevinspain: Oprah\u2019s attempt to promote the Microsoft Surface backfires: iPad used to send tweet http:\/\/t.co\/d9z7FaVS -&gt; Hilarious",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1697,7 +1697,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "canalzico10",
       "protected" : false,
       "id_str" : "42459293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946165230983417856\/Cpph0P82_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005135380042133505\/BiI0sjrO_normal.jpg",
       "id" : 42459293,
       "verified" : false
     }
@@ -2615,7 +2615,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948150852916862979\/RH6IulDh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -2697,7 +2697,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790618214602452992\/SqsrL6c8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
       "id" : 637373,
       "verified" : false
     }

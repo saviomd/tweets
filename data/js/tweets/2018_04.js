@@ -917,7 +917,7 @@ Grailbird.data.tweets_2018_04 =
       "id_str" : "8183762",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737264849919574017\/VuLpiTrh_normal.jpg",
       "id" : 8183762,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 982621050583347201,
@@ -1084,7 +1084,7 @@ Grailbird.data.tweets_2018_04 =
       "id_str" : "15056952",
       "id" : 15056952
     }, {
-      "name" : "lucascaton.com.br",
+      "name" : "Lucas Caton",
       "screen_name" : "lucascaton",
       "indices" : [ 127, 138 ],
       "id_str" : "12510112",
@@ -1106,7 +1106,7 @@ Grailbird.data.tweets_2018_04 =
     "source" : "\u003Ca href=\"https:\/\/macmagazine.com.br\" rel=\"nofollow\"\u003EMacMagazine\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "lucascaton.com.br",
+        "name" : "Lucas Caton",
         "screen_name" : "lucascaton",
         "indices" : [ 110, 121 ],
         "id_str" : "12510112",
