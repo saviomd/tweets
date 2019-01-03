@@ -273,7 +273,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "adidasbrasil",
       "protected" : false,
       "id_str" : "42894971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999661540419690498\/4Pq10ueS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047541515596095488\/Amm-RmlC_normal.jpg",
       "id" : 42894971,
       "verified" : true
     }
@@ -293,7 +293,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -320,7 +320,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 504689911887593472,
     "created_at" : "2014-08-27 18:00:26 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -447,7 +447,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 504070172844773376,
     "created_at" : "2014-08-26 00:57:49 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -691,7 +691,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -780,7 +780,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 502185036842799105,
     "created_at" : "2014-08-20 20:06:57 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -1063,7 +1063,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -1152,7 +1152,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 499927219326976003,
     "created_at" : "2014-08-14 14:35:11 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

@@ -684,7 +684,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "springsteen",
       "protected" : false,
       "id_str" : "43383705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672644419439362048\/ZGJCdLOK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058210092942811137\/_AodNS0H_normal.jpg",
       "id" : 43383705,
       "verified" : true
     }
@@ -772,7 +772,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "theQuietus",
       "protected" : false,
       "id_str" : "15776837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939560330786738176\/t3LTMDe6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047457464348762112\/Ck3ULL7h_normal.jpg",
       "id" : 15776837,
       "verified" : true
     }

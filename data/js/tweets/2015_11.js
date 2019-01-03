@@ -44,7 +44,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875390678200573952\/l0q5k995_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062516239136841728\/9NR-wJG7_normal.jpg",
       "id" : 14724725,
       "verified" : true
     }
@@ -542,7 +542,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }

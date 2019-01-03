@@ -96,7 +96,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068591775982542848\/MwJJdfDE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -188,7 +188,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068591775982542848\/MwJJdfDE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -925,45 +925,8 @@ Grailbird.data.tweets_2015_10 =
       "indices" : [ 3, 18 ],
       "id_str" : "16958346",
       "id" : 16958346
-    }, {
-      "name" : "Not My Earth",
-      "screen_name" : "EarthsHott",
-      "indices" : [ 102, 113 ],
-      "id_str" : "740903581",
-      "id" : 740903581
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/ClimateReality\/status\/651257319410544640\/photo\/1",
-      "indices" : [ 114, 136 ],
-      "url" : "http:\/\/t.co\/2NvuKqBAh1",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CQm7FM8XAAAM7bu.png",
-      "id_str" : "651257319179878400",
-      "id" : 651257319179878400,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CQm7FM8XAAAM7bu.png",
-      "sizes" : [ {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 1000,
-        "resize" : "fit",
-        "w" : 1000
-      }, {
-        "h" : 1000,
-        "resize" : "fit",
-        "w" : 1000
-      }, {
-        "h" : 1000,
-        "resize" : "fit",
-        "w" : 1000
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/2NvuKqBAh1"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -973,13 +936,7 @@ Grailbird.data.tweets_2015_10 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/www.crowdbooster.com\" rel=\"nofollow\"\u003ECrowdbooster\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Not My Earth",
-        "screen_name" : "EarthsHott",
-        "indices" : [ 82, 93 ],
-        "id_str" : "740903581",
-        "id" : 740903581
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/ClimateReality\/status\/651257319410544640\/photo\/1",
         "indices" : [ 94, 116 ],

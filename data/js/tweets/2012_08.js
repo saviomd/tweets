@@ -301,7 +301,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1622,7 +1622,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068591775982542848\/MwJJdfDE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }
@@ -2655,7 +2655,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2687,7 +2687,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 232529898277830656,
     "created_at" : "2012-08-06 17:33:42 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

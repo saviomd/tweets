@@ -202,7 +202,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Allan Barros",
+      "name" : "\uD83D\uDD34\u26ABFlaBCRJ",
       "screen_name" : "allanbarrosc",
       "indices" : [ 0, 13 ],
       "id_str" : "52707400",
@@ -437,7 +437,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068591775982542848\/MwJJdfDE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }

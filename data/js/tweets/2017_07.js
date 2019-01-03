@@ -163,7 +163,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "ChromiumDev",
       "protected" : false,
       "id_str" : "113713261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1320180647\/chromiumchrome_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065986962467647489\/Qrc3K-jZ_normal.jpg",
       "id" : 113713261,
       "verified" : true
     }
@@ -349,7 +349,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "NacaoCRF",
       "protected" : false,
       "id_str" : "201405310",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/890261510043336704\/trRDELMk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072937962390859776\/N99EDYWy_normal.jpg",
       "id" : 201405310,
       "verified" : true
     }
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -770,7 +770,7 @@ Grailbird.data.tweets_2017_07 =
   "id_str" : "888855702067957760",
   "text" : "RT @justiceleaguewb: Make way for justice. Watch the SDCC Hall H Sneak Peek for #JusticeLeague now. In theaters November 17. #WBSDCC https:\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1465,7 +1465,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "Google",
       "protected" : false,
       "id_str" : "20536157",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972154872261853184\/RnOg6UyU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057899591708753921\/PSpUS-Hp_normal.jpg",
       "id" : 20536157,
       "verified" : true
     }
@@ -1547,7 +1547,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "lisaneandrade",
       "protected" : false,
       "id_str" : "19855422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021460226703323136\/VJd7WEEy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1076983511830220800\/FwM9kFVr_normal.jpg",
       "id" : 19855422,
       "verified" : false
     }
@@ -1962,7 +1962,7 @@ Grailbird.data.tweets_2017_07 =
       "id_str" : "3347856389",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614887237218648064\/Xf1GP--m_normal.jpg",
       "id" : 3347856389,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 884905766485983232,
@@ -2428,126 +2428,13 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
   },
   "id" : 881573910042595328,
   "created_at" : "2017-07-02 18:02:53 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "AFFB",
-      "screen_name" : "antigasfotos_fb",
-      "indices" : [ 3, 19 ],
-      "id_str" : "703431447516995585",
-      "id" : 703431447516995585
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/antigasfotos_fb\/status\/880877510115954689\/photo\/1",
-      "indices" : [ 21, 44 ],
-      "url" : "https:\/\/t.co\/GacIRM1uhP",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DDmBabpXcAAu3dB.jpg",
-      "id_str" : "880877493225484288",
-      "id" : 880877493225484288,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DDmBabpXcAAu3dB.jpg",
-      "sizes" : [ {
-        "h" : 435,
-        "resize" : "fit",
-        "w" : 736
-      }, {
-        "h" : 402,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 435,
-        "resize" : "fit",
-        "w" : 736
-      }, {
-        "h" : 435,
-        "resize" : "fit",
-        "w" : 736
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/GacIRM1uhP"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "881177352402870272",
-  "text" : "RT @antigasfotos_fb: https:\/\/t.co\/GacIRM1uhP",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/antigasfotos_fb\/status\/880877510115954689\/photo\/1",
-        "indices" : [ 0, 23 ],
-        "url" : "https:\/\/t.co\/GacIRM1uhP",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DDmBabpXcAAu3dB.jpg",
-        "id_str" : "880877493225484288",
-        "id" : 880877493225484288,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DDmBabpXcAAu3dB.jpg",
-        "sizes" : [ {
-          "h" : 435,
-          "resize" : "fit",
-          "w" : 736
-        }, {
-          "h" : 402,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 435,
-          "resize" : "fit",
-          "w" : 736
-        }, {
-          "h" : 435,
-          "resize" : "fit",
-          "w" : 736
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/GacIRM1uhP"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "880877510115954689",
-    "text" : "https:\/\/t.co\/GacIRM1uhP",
-    "id" : 880877510115954689,
-    "created_at" : "2017-06-30 19:55:38 +0000",
-    "user" : {
-      "name" : "AFFB",
-      "screen_name" : "antigasfotos_fb",
-      "protected" : false,
-      "id_str" : "703431447516995585",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703432344431104000\/Juf_5LsU_normal.jpg",
-      "id" : 703431447516995585,
-      "verified" : false
-    }
-  },
-  "id" : 881177352402870272,
-  "created_at" : "2017-07-01 15:47:06 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -2660,7 +2547,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -3105,7 +2992,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "tim_cook",
       "protected" : false,
       "id_str" : "1636590253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000483764274\/ebce94fb34c055f3dc238627a576d251_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035649273721847809\/B0f8n_oe_normal.jpg",
       "id" : 1636590253,
       "verified" : true
     }
@@ -3125,7 +3012,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcio Rocha",
+      "name" : "\u00C9 MELHOR JAIR",
       "screen_name" : "marciorochamr",
       "indices" : [ 0, 14 ],
       "id_str" : "186986626",

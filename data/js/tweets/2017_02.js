@@ -191,7 +191,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "59591856",
       "id" : 59591856
     }, {
-      "name" : "#Vasco120",
+      "name" : "CRVG",
       "screen_name" : "VascodaGama",
       "indices" : [ 64, 76 ],
       "id_str" : "28273230",
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2017_02 =
         "id_str" : "59591856",
         "id" : 59591856
       }, {
-        "name" : "#Vasco120",
+        "name" : "CRVG",
         "screen_name" : "VascodaGama",
         "indices" : [ 52, 64 ],
         "id_str" : "28273230",
@@ -392,7 +392,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "susanthesquark",
       "protected" : false,
       "id_str" : "4625037762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027738967150489601\/hliworPn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058586149440999424\/S9GQaBPu_normal.jpg",
       "id" : 4625037762,
       "verified" : true
     }
@@ -754,7 +754,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2017_02 =
   "id_str" : "831286462146560002",
   "text" : "RT @Flamengo: Foi de letra? De chaleira? \"Escorpi\u00E3o\"? Como definir a assist\u00EAncia de Berr\u00EDo? Diz a\u00ED, Na\u00E7\u00E3o! https:\/\/t.co\/EzPzv5gysR",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1593,7 +1593,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2017_02 =
   "id_str" : "830417992496340993",
   "text" : "RT @MarvelStudios: Action...@Avengers #InfinityWar https:\/\/t.co\/KHo8wlNVZc",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "The Avengers",
@@ -2050,7 +2050,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "RomarioOnze",
       "protected" : false,
       "id_str" : "42629261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900038556294447104\/-Eo66A4S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049357568420843520\/DqRJemT7_normal.jpg",
       "id" : 42629261,
       "verified" : true
     }
@@ -2070,7 +2070,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcio Rocha",
+      "name" : "\u00C9 MELHOR JAIR",
       "screen_name" : "marciorochamr",
       "indices" : [ 0, 14 ],
       "id_str" : "186986626",
@@ -2164,7 +2164,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcio Rocha",
+      "name" : "\u00C9 MELHOR JAIR",
       "screen_name" : "marciorochamr",
       "indices" : [ 0, 14 ],
       "id_str" : "186986626",

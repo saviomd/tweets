@@ -93,7 +93,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058038192006356992\/DqZkna23_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -613,7 +613,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "tomstandage",
       "protected" : false,
       "id_str" : "17062849",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988495822601052160\/d0bVYO9M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039229061694935041\/_ec0TA-O_normal.jpg",
       "id" : 17062849,
       "verified" : true
     }
@@ -914,7 +914,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058038192006356992\/DqZkna23_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -1017,7 +1017,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDDBE \uD835\uDDCB\uD835\uDDC2\uD835\uDDBC",
+      "name" : "eric",
       "screen_name" : "eric_robinson",
       "indices" : [ 3, 17 ],
       "id_str" : "7275542",
@@ -1106,7 +1106,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 513040669020266496,
     "created_at" : "2014-09-19 19:03:21 +0000",
     "user" : {
-      "name" : "\uD835\uDDBE \uD835\uDDCB\uD835\uDDC2\uD835\uDDBC",
+      "name" : "eric",
       "screen_name" : "eric_robinson",
       "protected" : false,
       "id_str" : "7275542",
@@ -1337,7 +1337,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032014016577597440\/hu8aaasu_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1410,7 +1410,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -2589,7 +2589,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058038192006356992\/DqZkna23_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -2799,7 +2799,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcio Rocha",
+      "name" : "\u00C9 MELHOR JAIR",
       "screen_name" : "marciorochamr",
       "indices" : [ 0, 14 ],
       "id_str" : "186986626",

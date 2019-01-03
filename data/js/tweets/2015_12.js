@@ -547,7 +547,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "FallonTonight",
       "protected" : false,
       "id_str" : "19777398",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011290042197794821\/gnLbbpZl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036996583701639168\/sUGMA1R-_normal.jpg",
       "id" : 19777398,
       "verified" : true
     }
@@ -1669,7 +1669,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "submarino",
       "protected" : false,
       "id_str" : "17369980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025393683028488192\/MIhiYauE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068591775982542848\/MwJJdfDE_normal.jpg",
       "id" : 17369980,
       "verified" : true
     }

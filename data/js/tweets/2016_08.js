@@ -872,7 +872,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "shutupmikeginn",
       "protected" : false,
       "id_str" : "246394886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020144434413907969\/oF2EzN9P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072265569984868352\/rPfKDwoD_normal.jpg",
       "id" : 246394886,
       "verified" : true
     }
@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004752782576975874\/vrL21632_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080503445491073026\/69n3fXxo_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -1462,7 +1462,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "danmall",
       "protected" : false,
       "id_str" : "799212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947194469111119872\/FAtQFpFA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037410919696019458\/HmEC7sqC_normal.jpg",
       "id" : 799212,
       "verified" : false
     }

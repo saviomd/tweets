@@ -200,6 +200,57 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alextriplex News",
+      "screen_name" : "alextriplex",
+      "indices" : [ 3, 15 ],
+      "id_str" : "53943891",
+      "id" : 53943891
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86261232369278976",
+  "text" : "RT @alextriplex: HAHAHAHAHAHAHAHAAHAH http:\/\/www.sensacionalista.com.br\/2011\/06\/29\/cade-analisa-fusao-entre-sadia-e-rogerio-ceni\/",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "86259525044285440",
+    "text" : "HAHAHAHAHAHAHAHAAHAH http:\/\/www.sensacionalista.com.br\/2011\/06\/29\/cade-analisa-fusao-entre-sadia-e-rogerio-ceni\/",
+    "id" : 86259525044285440,
+    "created_at" : "2011-06-30 02:27:28 +0000",
+    "user" : {
+      "name" : "Alextriplex News",
+      "screen_name" : "alextriplex",
+      "protected" : false,
+      "id_str" : "53943891",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1069392578255220737\/z5Nv1AOu_normal.jpg",
+      "id" : 53943891,
+      "verified" : false
+    }
+  },
+  "id" : 86261232369278976,
+  "created_at" : "2011-06-30 02:34:15 +0000",
+  "user" : {
+    "name" : "S\u00E1vio Mendes",
+    "screen_name" : "saviomd",
+    "protected" : false,
+    "id_str" : "4111071",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
+    "id" : 4111071,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -514,7 +565,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -679,7 +730,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -706,7 +757,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 84282220948365313,
     "created_at" : "2011-06-24 15:30:22 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -896,7 +947,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032014016577597440\/hu8aaasu_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -957,7 +1008,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032014016577597440\/hu8aaasu_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -1018,7 +1069,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "mikegee",
       "protected" : false,
       "id_str" : "704343",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112255145\/208x208_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029863019126317056\/c3WQwJYT_normal.jpg",
       "id" : 704343,
       "verified" : false
     }
@@ -1317,7 +1368,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GetGlue (now Telfie)",
+      "name" : "GetGlue",
       "screen_name" : "GetGlue",
       "indices" : [ 12, 20 ],
       "id_str" : "1571579137",
@@ -1548,7 +1599,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "librianasp",
       "protected" : false,
       "id_str" : "41194626",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497033042792574976\/AJXBodxi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053296419359154177\/_I__FS0__normal.jpg",
       "id" : 41194626,
       "verified" : false
     }
@@ -1655,7 +1706,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2085,7 +2136,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -2124,7 +2175,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 76003881422819328,
     "created_at" : "2011-06-01 19:15:12 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",

@@ -144,88 +144,6 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tony Zhou",
-      "screen_name" : "tonyszhou",
-      "indices" : [ 3, 13 ],
-      "id_str" : "1424721133",
-      "id" : 1424721133
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "723913129311252480",
-  "text" : "RT @tonyszhou: Rewatching CREED, I found myself amused by a detail: this VFX spotlight that hides a cut b\/t two Steadicam takes https:\/\/t.c\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/tonyszhou\/status\/723577353452949504\/photo\/1",
-        "indices" : [ 113, 136 ],
-        "url" : "https:\/\/t.co\/UBSwi02Xj9",
-        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/Cgqpm1_UoAEx5_C.jpg",
-        "id_str" : "723577174939181057",
-        "id" : 723577174939181057,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/Cgqpm1_UoAEx5_C.jpg",
-        "sizes" : [ {
-          "h" : 266,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 266,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 266,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 266,
-          "resize" : "fit",
-          "w" : 640
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/UBSwi02Xj9"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "723577353452949504",
-    "text" : "Rewatching CREED, I found myself amused by a detail: this VFX spotlight that hides a cut b\/t two Steadicam takes https:\/\/t.co\/UBSwi02Xj9",
-    "id" : 723577353452949504,
-    "created_at" : "2016-04-22 18:20:59 +0000",
-    "user" : {
-      "name" : "Tony Zhou",
-      "screen_name" : "tonyszhou",
-      "protected" : false,
-      "id_str" : "1424721133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472583129203355648\/Co_o1uuc_normal.jpeg",
-      "id" : 1424721133,
-      "verified" : false
-    }
-  },
-  "id" : 723913129311252480,
-  "created_at" : "2016-04-23 16:35:14 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "The Walking Dead",
       "screen_name" : "TheWalkingDead",
       "indices" : [ 3, 18 ],
@@ -304,7 +222,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "TheWalkingDead",
       "protected" : false,
       "id_str" : "14724725",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875390678200573952\/l0q5k995_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062516239136841728\/9NR-wJG7_normal.jpg",
       "id" : 14724725,
       "verified" : true
     }
@@ -601,7 +519,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -800,7 +718,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "LFC",
       "protected" : false,
       "id_str" : "19583545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023911025232494597\/ylQceGYg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070253948769054721\/kvHt-oNl_normal.jpg",
       "id" : 19583545,
       "verified" : true
     }
@@ -1371,7 +1289,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "daringfireball",
       "protected" : false,
       "id_str" : "10760422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425948730\/DF-Star-Logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068658191041536001\/q1bHVBDc_normal.jpg",
       "id" : 10760422,
       "verified" : false
     }

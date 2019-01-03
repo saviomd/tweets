@@ -258,7 +258,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "ArtoftheTitle",
       "protected" : false,
       "id_str" : "19261479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929442092878876672\/MWEGx9Qf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064245710181359616\/SrpsupBA_normal.jpg",
       "id" : 19261479,
       "verified" : true
     }
@@ -277,13 +277,7 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "FV",
-      "screen_name" : "fdvives",
-      "indices" : [ 3, 11 ],
-      "id_str" : "19271642",
-      "id" : 19271642
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -315,11 +309,11 @@ Grailbird.data.tweets_2015_09 =
     "id" : 645613952379023360,
     "created_at" : "2015-09-20 15:02:15 +0000",
     "user" : {
-      "name" : "FV",
-      "screen_name" : "fdvives",
+      "name" : "Edgard, o Cont\u00EDnuo",
+      "screen_name" : "edgard_continuo",
       "protected" : false,
       "id_str" : "19271642",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019213311055880193\/_zXPYM_O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062908837932351488\/gr3Hsk6__normal.jpg",
       "id" : 19271642,
       "verified" : false
     }
@@ -453,7 +447,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -1111,7 +1105,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

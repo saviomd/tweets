@@ -287,7 +287,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "GMA",
       "protected" : false,
       "id_str" : "22650211",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986719394590932992\/D7uC5Dnm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057986330129514497\/ZZJdCMM2_normal.jpg",
       "id" : 22650211,
       "verified" : true
     }
@@ -412,7 +412,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "eli_schiff",
       "protected" : false,
       "id_str" : "29162709",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010363374725550080\/lb8juiVi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1051272915415576576\/nGNbNVad_normal.jpg",
       "id" : 29162709,
       "verified" : true
     }
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HITMAN",
+      "name" : "HITMAN 2",
       "screen_name" : "Hitman",
       "indices" : [ 3, 10 ],
       "id_str" : "67306920",
@@ -507,7 +507,7 @@ Grailbird.data.tweets_2017_06 =
   "id_str" : "877289751635787777",
   "text" : "RT @Hitman: Play the beginning of HITMAN for FREE and have fun in the ultimate playground! Download it now on all platforms - and tell your\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -551,7 +551,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 877118858141745153,
     "created_at" : "2017-06-20 11:00:06 +0000",
     "user" : {
-      "name" : "HITMAN",
+      "name" : "HITMAN 2",
       "screen_name" : "Hitman",
       "protected" : false,
       "id_str" : "67306920",
@@ -1126,7 +1126,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcio Rocha",
+      "name" : "\u00C9 MELHOR JAIR",
       "screen_name" : "marciorochamr",
       "indices" : [ 0, 14 ],
       "id_str" : "186986626",
@@ -1540,7 +1540,7 @@ Grailbird.data.tweets_2017_06 =
   "id_str" : "873979027010318336",
   "text" : "RT @DCComics: DC shares its admiration for Adam West with this tribute from @geoffjohns &amp; @JimLee: https:\/\/t.co\/rFhs9hOFlh https:\/\/t.co\/8aC\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Geoff Johns",
@@ -1676,17 +1676,17 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Rupert",
+      "name" : "Old Guard Rupert",
       "screen_name" : "davatron5000",
       "indices" : [ 3, 16 ],
       "id_str" : "14839862",
       "id" : 14839862
     }, {
-      "name" : "CSS-Tricks",
+      "name" : "Chris Coyier",
       "screen_name" : "Real_CSS_Tricks",
       "indices" : [ 18, 34 ],
-      "id_str" : "285019665",
-      "id" : 285019665
+      "id_str" : "1033184462119399426",
+      "id" : 1033184462119399426
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1699,11 +1699,11 @@ Grailbird.data.tweets_2017_06 =
     "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "CSS-Tricks",
+        "name" : "Chris Coyier",
         "screen_name" : "Real_CSS_Tricks",
         "indices" : [ 0, 16 ],
-        "id_str" : "285019665",
-        "id" : 285019665
+        "id_str" : "1033184462119399426",
+        "id" : 1033184462119399426
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1717,10 +1717,10 @@ Grailbird.data.tweets_2017_06 =
     "id" : 873578585394696192,
     "in_reply_to_status_id" : 873578107860647936,
     "created_at" : "2017-06-10 16:32:19 +0000",
-    "in_reply_to_screen_name" : "Real_CSS_Tricks",
+    "in_reply_to_screen_name" : "css",
     "in_reply_to_user_id_str" : "285019665",
     "user" : {
-      "name" : "Dave Rupert",
+      "name" : "Old Guard Rupert",
       "screen_name" : "davatron5000",
       "protected" : false,
       "id_str" : "14839862",
@@ -1911,7 +1911,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -1943,7 +1943,7 @@ Grailbird.data.tweets_2017_06 =
       "id_str" : "558797310",
       "id" : 558797310
     }, {
-      "name" : "Real Madrid C.F.",
+      "name" : "Real Madrid C.F.\u26BD",
       "screen_name" : "realmadrid",
       "indices" : [ 34, 45 ],
       "id_str" : "14872237",
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2017_06 =
         "id_str" : "558797310",
         "id" : 558797310
       }, {
-        "name" : "Real Madrid C.F.",
+        "name" : "Real Madrid C.F.\u26BD",
         "screen_name" : "realmadrid",
         "indices" : [ 22, 33 ],
         "id_str" : "14872237",
@@ -2623,7 +2623,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

@@ -273,7 +273,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -739,7 +739,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "900759343372566529",
   "text" : "RT @TwitterVideo: \u2764\uFE0F your Xbox? \u2764\uFE0F Twitter? Update the Twitter app on @Xbox to login &amp; watch more of what's happening live! \uD83D\uDE4C https:\/\/t.co\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Xbox",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "biz",
       "protected" : false,
       "id_str" : "13",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000572120223465472\/PyCBhJxQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052945328012492801\/6YLVnsz-_normal.jpg",
       "id" : 13,
       "verified" : true
     }
@@ -926,7 +926,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "GuardianUS",
       "protected" : false,
       "id_str" : "16042794",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952866548867387392\/nqu9ZGxL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061908487540744192\/Peys3gmS_normal.jpg",
       "id" : 16042794,
       "verified" : true
     }
@@ -1074,7 +1074,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "ArtoftheTitle",
       "protected" : false,
       "id_str" : "19261479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929442092878876672\/MWEGx9Qf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064245710181359616\/SrpsupBA_normal.jpg",
       "id" : 19261479,
       "verified" : true
     }
@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "899712196179087361",
   "text" : "RT @EASPORTSFIFA: New signings, new stars, new season. Here we go! \n\nPre-order #FIFA18 Ronaldo Edition \uD83D\uDC49 https:\/\/t.co\/ZAszkVqfXx https:\/\/t.\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1233,7 +1233,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004752782576975874\/vrL21632_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080503445491073026\/69n3fXxo_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -1345,7 +1345,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kirsten Howard",
+      "name" : "kirsten howard",
       "screen_name" : "emotionalpedant",
       "indices" : [ 3, 19 ],
       "id_str" : "18484343",
@@ -1434,11 +1434,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 898970692783415297,
     "created_at" : "2017-08-19 18:11:29 +0000",
     "user" : {
-      "name" : "Kirsten Howard",
+      "name" : "kirsten howard",
       "screen_name" : "emotionalpedant",
       "protected" : false,
       "id_str" : "18484343",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027831920808353792\/VqLAsLDD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074368667897475072\/yfRykRA3_normal.jpg",
       "id" : 18484343,
       "verified" : true
     }
@@ -1747,7 +1747,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "springsteen",
       "protected" : false,
       "id_str" : "43383705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672644419439362048\/ZGJCdLOK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058210092942811137\/_AodNS0H_normal.jpg",
       "id" : 43383705,
       "verified" : true
     }
@@ -1972,7 +1972,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -2085,7 +2085,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "discordapp",
       "protected" : false,
       "id_str" : "3065618342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016814904383139840\/2CdaitAm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067109121109852161\/oWWL9D_8_normal.jpg",
       "id" : 3065618342,
       "verified" : true
     }
@@ -2213,7 +2213,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "mdo",
       "protected" : false,
       "id_str" : "8207832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630796572691804161\/kYW5TxUR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032500717825613824\/rO_DBdRA_normal.jpg",
       "id" : 8207832,
       "verified" : false
     }
@@ -2933,7 +2933,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -3020,7 +3020,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }

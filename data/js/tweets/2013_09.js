@@ -121,7 +121,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "234306919",
       "id" : 234306919
     }, {
-      "name" : "~c",
+      "name" : "Be kind to all, for they are fighting a battle too",
       "screen_name" : "cwodtke",
       "indices" : [ 63, 71 ],
       "id_str" : "1763261",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "~c",
+        "name" : "Be kind to all, for they are fighting a battle too",
         "screen_name" : "cwodtke",
         "indices" : [ 46, 54 ],
         "id_str" : "1763261",
@@ -501,7 +501,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "Jeff_Daniels",
       "protected" : false,
       "id_str" : "506652594",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/589623882190958592\/287JQRGx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1075872732963840000\/BaWGGAVX_normal.jpg",
       "id" : 506652594,
       "verified" : true
     }
@@ -1139,11 +1139,11 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CSS-Tricks",
+      "name" : "Chris Coyier",
       "screen_name" : "Real_CSS_Tricks",
       "indices" : [ 3, 19 ],
-      "id_str" : "285019665",
-      "id" : 285019665
+      "id_str" : "1033184462119399426",
+      "id" : 1033184462119399426
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1177,10 +1177,10 @@ Grailbird.data.tweets_2013_09 =
     "created_at" : "2013-09-17 17:51:03 +0000",
     "user" : {
       "name" : "CSS-Tricks",
-      "screen_name" : "Real_CSS_Tricks",
+      "screen_name" : "css",
       "protected" : false,
       "id_str" : "285019665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546011298627334146\/MAeF2-yK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080202898372362240\/akqRGyta_normal.jpg",
       "id" : 285019665,
       "verified" : false
     }
@@ -1368,7 +1368,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1614,7 +1614,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "475016622",
       "id" : 475016622
     }, {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 15, 23 ],
       "id_str" : "26618823",
@@ -1631,7 +1631,7 @@ Grailbird.data.tweets_2013_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Arthur Muhlenberg Reloaded \u262E",
+        "name" : "Arthur Muhlenberg Redux\u262E",
         "screen_name" : "Urublog",
         "indices" : [ 0, 8 ],
         "id_str" : "26618823",
@@ -2011,7 +2011,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anna Debenham \uD83E\uDD94",
+      "name" : "Anna Debenham",
       "screen_name" : "anna_debenham",
       "indices" : [ 3, 17 ],
       "id_str" : "9655342",
@@ -2038,7 +2038,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 377018915613712384,
     "created_at" : "2013-09-09 10:41:28 +0000",
     "user" : {
-      "name" : "Anna Debenham \uD83E\uDD94",
+      "name" : "Anna Debenham",
       "screen_name" : "anna_debenham",
       "protected" : false,
       "id_str" : "9655342",

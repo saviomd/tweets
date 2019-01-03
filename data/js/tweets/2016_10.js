@@ -601,7 +601,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "biz",
       "protected" : false,
       "id_str" : "13",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000572120223465472\/PyCBhJxQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052945328012492801\/6YLVnsz-_normal.jpg",
       "id" : 13,
       "verified" : true
     }
@@ -621,7 +621,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pep\u00EA",
+      "name" : "Pep\u00EAi Noel",
       "screen_name" : "Pelaipedadepre",
       "indices" : [ 3, 18 ],
       "id_str" : "1119131604",
@@ -648,7 +648,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 789644508099186689,
     "created_at" : "2016-10-22 01:48:16 +0000",
     "user" : {
-      "name" : "Pep\u00EA",
+      "name" : "Pep\u00EAi Noel",
       "screen_name" : "Pelaipedadepre",
       "protected" : false,
       "id_str" : "1119131604",
@@ -771,7 +771,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "googlechrome",
       "protected" : false,
       "id_str" : "56505125",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639149491690471424\/slowQFCK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037025533182193664\/aCWlGSZF_normal.jpg",
       "id" : 56505125,
       "verified" : true
     }
@@ -948,7 +948,7 @@ Grailbird.data.tweets_2016_10 =
   "id_str" : "788826323502436354",
   "text" : "RT @MarvelStudios: Obviously. #GotGVol2 https:\/\/t.co\/NwuaCIYqcd",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1186,7 +1186,7 @@ Grailbird.data.tweets_2016_10 =
   "id_str" : "788473706469289984",
   "text" : "RT @Flamengo: Anote na agenda: Domingo voc\u00EA tem um compromisso #FLAxCOR https:\/\/t.co\/HPNvKW3IRv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1237,7 +1237,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1256,13 +1256,7 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "katie",
-      "screen_name" : "druggedondolans",
-      "indices" : [ 3, 19 ],
-      "id_str" : "4195273163",
-      "id" : 4195273163
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1347,10 +1341,10 @@ Grailbird.data.tweets_2016_10 =
     "created_at" : "2016-10-16 16:49:33 +0000",
     "user" : {
       "name" : "katie",
-      "screen_name" : "druggedondolans",
+      "screen_name" : "KATlEJACK",
       "protected" : false,
       "id_str" : "4195273163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028641554506887173\/0mCJtsQk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079317067424256001\/uotU7hVR_normal.jpg",
       "id" : 4195273163,
       "verified" : false
     }
@@ -1643,7 +1637,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "tim_cook",
       "protected" : false,
       "id_str" : "1636590253",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000483764274\/ebce94fb34c055f3dc238627a576d251_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035649273721847809\/B0f8n_oe_normal.jpg",
       "id" : 1636590253,
       "verified" : true
     }

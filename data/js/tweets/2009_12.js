@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "36376988",
       "id" : 36376988
     }, {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 61, 69 ],
       "id_str" : "26618823",

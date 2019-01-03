@@ -353,7 +353,7 @@ Grailbird.data.tweets_2018_03 =
       "id_str" : "11855482",
       "id" : 11855482
     }, {
-      "name" : "jennmoneydollars",
+      "name" : "jenn schiffer",
       "screen_name" : "jennschiffer",
       "indices" : [ 42, 55 ],
       "id_str" : "12524622",
@@ -376,7 +376,7 @@ Grailbird.data.tweets_2018_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "jennmoneydollars",
+        "name" : "jenn schiffer",
         "screen_name" : "jennschiffer",
         "indices" : [ 26, 39 ],
         "id_str" : "12524622",
@@ -648,7 +648,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "EASPORTSFIFA",
       "protected" : false,
       "id_str" : "105297123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004752782576975874\/vrL21632_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080503445491073026\/69n3fXxo_normal.jpg",
       "id" : 105297123,
       "verified" : true
     }
@@ -730,7 +730,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Footstats",
+      "name" : "Footstats Premium",
       "screen_name" : "Footstats",
       "indices" : [ 3, 13 ],
       "id_str" : "48491604",
@@ -922,7 +922,7 @@ Grailbird.data.tweets_2018_03 =
   "id_str" : "974347818407288832",
   "text" : "RT @Flamengo: J\u00E1 \u00E9 quinta-feira, mas n\u00E3o me canso de ver esses gola\u00E7os que nos deram a vit\u00F3ria ontem \uD83D\uDE0D #RubroNegro https:\/\/t.co\/jsIaKDTZ5e",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -973,7 +973,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -992,7 +992,13 @@ Grailbird.data.tweets_2018_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Pablo Terrylewis",
+      "screen_name" : "daisyridleee",
+      "indices" : [ 3, 16 ],
+      "id_str" : "1032151080262488065",
+      "id" : 1032151080262488065
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1045,11 +1051,11 @@ Grailbird.data.tweets_2018_03 =
     "id" : 973666036112347137,
     "created_at" : "2018-03-13 21:04:07 +0000",
     "user" : {
-      "name" : "gabrielle | watch blackkklansman",
-      "screen_name" : "bensreylos",
+      "name" : "gabrielle",
+      "screen_name" : "softdanys",
       "protected" : false,
       "id_str" : "4699552572",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027980599322128384\/bsLT9q0__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079844404595171329\/x8rwTpI0_normal.jpg",
       "id" : 4699552572,
       "verified" : false
     }
@@ -1144,7 +1150,7 @@ Grailbird.data.tweets_2018_03 =
   "id_str" : "971597611080781824",
   "text" : "RT @Flamengo: Deixa eu escrever meu nome aqui nessa timeline #NoAlvo https:\/\/t.co\/NLhyyBll42",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1195,7 +1201,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1260,7 +1266,7 @@ Grailbird.data.tweets_2018_03 =
   "id_str" : "971597137854320640",
   "text" : "RT @Flamengo: Julio Cesar, do Flamengo!\n\nBoa noite, Na\u00E7\u00E3o! https:\/\/t.co\/PeN8OZFs0q",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1308,7 +1314,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

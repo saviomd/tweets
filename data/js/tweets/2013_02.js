@@ -132,7 +132,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032014016577597440\/hu8aaasu_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -568,7 +568,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -874,7 +874,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "15601887",
       "id" : 15601887
     }, {
-      "name" : "julia desenha letrinhas",
+      "name" : "julia",
       "screen_name" : "jujubas",
       "indices" : [ 9, 17 ],
       "id_str" : "9143722",

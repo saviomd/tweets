@@ -90,7 +90,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Footstats",
+      "name" : "Footstats Premium",
       "screen_name" : "Footstats",
       "indices" : [ 3, 13 ],
       "id_str" : "48491604",
@@ -208,7 +208,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "slightlylate",
       "protected" : false,
       "id_str" : "229237555",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822887333041049601\/OvA5hT-3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031633677141196800\/_EDc17m__normal.jpg",
       "id" : 229237555,
       "verified" : false
     }
@@ -388,7 +388,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -547,7 +547,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -839,7 +839,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }
@@ -970,7 +970,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }
@@ -1089,7 +1089,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }
@@ -1109,7 +1109,7 @@ Grailbird.data.tweets_2018_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mateus Felipe Scolari",
+      "name" : "Mateus \u00C1ngel Borja",
       "screen_name" : "mateusnjs",
       "indices" : [ 3, 13 ],
       "id_str" : "3255190133",
@@ -1136,11 +1136,11 @@ Grailbird.data.tweets_2018_07 =
     "id" : 1017795134455537665,
     "created_at" : "2018-07-13 15:37:24 +0000",
     "user" : {
-      "name" : "Mateus Felipe Scolari",
+      "name" : "Mateus \u00C1ngel Borja",
       "screen_name" : "mateusnjs",
       "protected" : false,
       "id_str" : "3255190133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016539244234444801\/Oa6C2Qa1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066225647809380352\/-H6q7Fwy_normal.jpg",
       "id" : 3255190133,
       "verified" : false
     }
@@ -1399,7 +1399,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }
@@ -1709,7 +1709,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }
@@ -1879,7 +1879,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }
@@ -2060,7 +2060,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }
@@ -2179,7 +2179,7 @@ Grailbird.data.tweets_2018_07 =
       "screen_name" : "chidajunsei3163",
       "protected" : false,
       "id_str" : "1580762162",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028250302128898048\/idxavOlV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056165000954277888\/czn0Xagb_normal.jpg",
       "id" : 1580762162,
       "verified" : false
     }

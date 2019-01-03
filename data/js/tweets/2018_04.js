@@ -51,7 +51,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "tvaziri",
       "protected" : false,
       "id_str" : "61564648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980554524959031297\/kZJ5yJT__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057814220232781825\/wQt9uN6l_normal.jpg",
       "id" : 61564648,
       "verified" : true
     }
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2018_04 =
   "id_str" : "987896939487334401",
   "text" : "RT @Flamengo: Obrigado por tudo, Julio. #AveJulioCesar https:\/\/t.co\/ThZCKtFvsb",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -170,7 +170,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -289,7 +289,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -329,7 +329,7 @@ Grailbird.data.tweets_2018_04 =
   "id_str" : "984878165666430978",
   "text" : "RT @Flamengo: Em um hotsite @WixBR, apresentamos o projeto de redesign do escudo do Flamengo. Hist\u00F3ria, detalhes t\u00E9cnicos e curiosidades so\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Wix em Portugu\u00EAs",
@@ -394,7 +394,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -673,7 +673,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2018_04 =
   "id_str" : "983695643901415424",
   "text" : "RT @Flamengo: Flamengo sempre eu hei de ser.\n\nEis os novos escudos do Clube de Regatas do Flamengo #CRF https:\/\/t.co\/zRjMHXzVA1",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -792,7 +792,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -949,7 +949,7 @@ Grailbird.data.tweets_2018_04 =
   "id_str" : "982023415497412608",
   "text" : "RT @Flamengo: No Brasileir\u00E3o todo jogo \u00E9 uma final. A primeira decis\u00E3o em casa ser\u00E1 contra o Am\u00E9rica-MG, dia 21\/04, no Maracan\u00E3. O \u00FAltimo a\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -997,7 +997,7 @@ Grailbird.data.tweets_2018_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

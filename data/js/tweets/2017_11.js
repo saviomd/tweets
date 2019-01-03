@@ -69,7 +69,7 @@ Grailbird.data.tweets_2017_11 =
     "user" : {
       "name" : "Vanessa Maia",
       "screen_name" : "nessamaia",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "4879901",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563781396859076608\/m2hWOwN1_normal.jpeg",
       "id" : 4879901,
@@ -184,7 +184,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "eliistender10",
       "protected" : false,
       "id_str" : "23483816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013133643768885251\/3oWfOGxG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072216423915810817\/opAQntEn_normal.jpg",
       "id" : 23483816,
       "verified" : true
     }
@@ -226,7 +226,7 @@ Grailbird.data.tweets_2017_11 =
   "id_str" : "933924230546288642",
   "text" : "RT @justiceleaguewb: She\u2019s ready for the fight. #JusticeLeague now playing in theaters. Get tickets: https:\/\/t.co\/8JHVXftoWK https:\/\/t.co\/4\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -454,7 +454,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "915758846110519297",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915763601377554432\/vvpQWeuu_normal.jpg",
       "id" : 915758846110519297,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 932736963387580418,
@@ -598,7 +598,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -975,7 +975,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "14114731",
       "id" : 14114731
     }, {
-      "name" : "Ada Rose Cannon \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Ada Rose Cannon",
       "screen_name" : "Lady_Ada_King",
       "indices" : [ 43, 57 ],
       "id_str" : "216348755",
@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2017_11 =
         "id_str" : "14114731",
         "id" : 14114731
       }, {
-        "name" : "Ada Rose Cannon \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+        "name" : "Ada Rose Cannon",
         "screen_name" : "Lady_Ada_King",
         "indices" : [ 30, 44 ],
         "id_str" : "216348755",
@@ -1179,7 +1179,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "ManxomeMia",
       "protected" : false,
       "id_str" : "2459340186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/963161517205045248\/ziUa9RP9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041929363707461632\/0Tir9t_M_normal.jpg",
       "id" : 2459340186,
       "verified" : false
     }

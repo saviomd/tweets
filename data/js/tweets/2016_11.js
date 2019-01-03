@@ -75,7 +75,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "GitHubEducation",
       "protected" : false,
       "id_str" : "1943578656",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013681965608796160\/kICyCY6t_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029098632539123714\/6dFCiBGh_normal.jpg",
       "id" : 1943578656,
       "verified" : false
     }
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2016_11 =
   "id_str" : "803816390855655424",
   "text" : "RT @LFC: #For\u00E7aChape https:\/\/t.co\/35GfAl2k7J",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "LFC",
       "protected" : false,
       "id_str" : "19583545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023911025232494597\/ylQceGYg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070253948769054721\/kvHt-oNl_normal.jpg",
       "id" : 19583545,
       "verified" : true
     }
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948512208190926848\/yY3kme2u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1069915051266592768\/Exxg7h9I_normal.jpg",
       "id" : 287690539,
       "verified" : true
     }
@@ -462,7 +462,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "ChapecoenseReal",
       "protected" : false,
       "id_str" : "287690539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948512208190926848\/yY3kme2u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1069915051266592768\/Exxg7h9I_normal.jpg",
       "id" : 287690539,
       "verified" : true
     }
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -586,7 +586,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -655,7 +655,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1452,7 +1452,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "ChromiumDev",
       "protected" : false,
       "id_str" : "113713261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1320180647\/chromiumchrome_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065986962467647489\/Qrc3K-jZ_normal.jpg",
       "id" : 113713261,
       "verified" : true
     }
@@ -1826,7 +1826,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "perlmutations",
       "protected" : false,
       "id_str" : "926620369",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011002760756543488\/9xgxTBkG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052625584633700352\/-Cz-lAnJ_normal.jpg",
       "id" : 926620369,
       "verified" : true
     }
@@ -1877,7 +1877,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032014016577597440\/hu8aaasu_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -2033,7 +2033,7 @@ Grailbird.data.tweets_2016_11 =
   "id_str" : "794882578448871424",
   "text" : "RT @github: Level up your game development skills with this list of open source games, engines, libraries and more: https:\/\/t.co\/SAnot1EUlL\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2206,7 +2206,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }

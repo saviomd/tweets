@@ -814,7 +814,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "RottenTomatoes",
       "protected" : false,
       "id_str" : "20108560",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971091973204398080\/jA2iqFYK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058038192006356992\/DqZkna23_normal.jpg",
       "id" : 20108560,
       "verified" : true
     }
@@ -966,7 +966,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "euqueirozbrenda",
       "protected" : false,
       "id_str" : "1659909228",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015348978513166336\/F9Jd9Nhk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070667004871393280\/h0Vzsc-a_normal.jpg",
       "id" : 1659909228,
       "verified" : false
     }
@@ -1043,7 +1043,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "819606",
       "id" : 819606
     }, {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash \uD83E\uDD6D",
       "screen_name" : "anildash",
       "indices" : [ 13, 22 ],
       "id_str" : "36823",
@@ -1091,7 +1091,7 @@ Grailbird.data.tweets_2014_10 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Anil Dash",
+        "name" : "Anil Dash \uD83E\uDD6D",
         "screen_name" : "anildash",
         "indices" : [ 3, 12 ],
         "id_str" : "36823",
@@ -1142,7 +1142,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "janl",
       "protected" : false,
       "id_str" : "819606",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2673735348\/331cefd2263bbc754979526b3fd48e4d_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057584898826035200\/MUMjHK1i_normal.jpg",
       "id" : 819606,
       "verified" : false
     }

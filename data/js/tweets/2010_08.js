@@ -662,7 +662,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "mattbrett",
       "protected" : false,
       "id_str" : "637373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009995914839187456\/WEuBzeSB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032014016577597440\/hu8aaasu_normal.jpg",
       "id" : 637373,
       "verified" : false
     }
@@ -803,7 +803,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vote Eduardo 666",
+      "name" : "Ministro dos Nudes",
       "screen_name" : "edutestosterona",
       "indices" : [ 3, 19 ],
       "id_str" : "19335309",
@@ -836,7 +836,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21451864023,
     "created_at" : "2010-08-18 01:47:05 +0000",
     "user" : {
-      "name" : "Vote Eduardo 666",
+      "name" : "Ministro dos Nudes",
       "screen_name" : "edutestosterona",
       "protected" : false,
       "id_str" : "19335309",

@@ -288,7 +288,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -407,7 +407,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "mbatshuayi",
       "protected" : false,
       "id_str" : "2353374818",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998466079222464513\/lLgBcu1R_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1045409614999650304\/dHy5oYUu_normal.jpg",
       "id" : 2353374818,
       "verified" : true
     }
@@ -627,7 +627,7 @@ Grailbird.data.tweets_2018_06 =
   "id_str" : "1011277792644861954",
   "text" : "RT @Flamengo: Voa, Garoto do Ninho! Foi um privil\u00E9gio! Boa sorte! #VoaVini https:\/\/t.co\/d07nKTNa3m",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -678,7 +678,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Footstats",
+      "name" : "Footstats Premium",
       "screen_name" : "Footstats",
       "indices" : [ 3, 13 ],
       "id_str" : "48491604",
@@ -812,7 +812,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "mikeshinoda",
       "protected" : false,
       "id_str" : "66528154",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007480940090646528\/s3CpsBLt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053329312823177217\/LD7KrDQv_normal.jpg",
       "id" : 66528154,
       "verified" : true
     }
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2018_06 =
   "id_str" : "1005974714756497409",
   "text" : "RT @Flamengo: De: Felipe Vizeu\nPara: a Na\u00E7\u00E3o\nO amor incondicional de quem sabe muito bem o que \u00E9 Flamengo \u2764\uFE0F\uD83D\uDDA4\n#DeFlamengoParaNa\u00E7\u00E3o https:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1512,7 +1512,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

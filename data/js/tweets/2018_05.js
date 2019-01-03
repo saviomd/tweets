@@ -228,7 +228,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "MoSalah",
       "protected" : false,
       "id_str" : "2396677714",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021914729864945664\/-gPd3WsC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070620301644455936\/q4yB6iiT_normal.jpg",
       "id" : 2396677714,
       "verified" : true
     }
@@ -289,7 +289,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "lbertozzi",
       "protected" : false,
       "id_str" : "37929603",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001268504358735874\/0j8QXisR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042849388933120002\/T3BNrA6I_normal.jpg",
       "id" : 37929603,
       "verified" : true
     }
@@ -899,7 +899,7 @@ Grailbird.data.tweets_2018_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Footstats",
+      "name" : "Footstats Premium",
       "screen_name" : "Footstats",
       "indices" : [ 3, 13 ],
       "id_str" : "48491604",
@@ -1110,7 +1110,7 @@ Grailbird.data.tweets_2018_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "THIS DAY IN METAL",
+      "name" : "\uD83E\uDD18\uD83C\uDFFBTHIS DAY IN METAL\uD83E\uDD18\uD83C\uDFFB",
       "screen_name" : "ThisDayInMETAL",
       "indices" : [ 3, 18 ],
       "id_str" : "743472216",
@@ -1192,7 +1192,7 @@ Grailbird.data.tweets_2018_05 =
     "id" : 993785393777537025,
     "created_at" : "2018-05-08 09:31:16 +0000",
     "user" : {
-      "name" : "THIS DAY IN METAL",
+      "name" : "\uD83E\uDD18\uD83C\uDFFBTHIS DAY IN METAL\uD83E\uDD18\uD83C\uDFFB",
       "screen_name" : "ThisDayInMETAL",
       "protected" : false,
       "id_str" : "743472216",

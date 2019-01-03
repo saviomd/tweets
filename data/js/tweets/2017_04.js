@@ -347,7 +347,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "suddiraval",
       "protected" : false,
       "id_str" : "29766924",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943184373314187264\/LOugTC1M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057617320779177984\/Io3aO7pJ_normal.jpg",
       "id" : 29766924,
       "verified" : false
     }
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "RomarioOnze",
       "protected" : false,
       "id_str" : "42629261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900038556294447104\/-Eo66A4S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049357568420843520\/DqRJemT7_normal.jpg",
       "id" : 42629261,
       "verified" : true
     }
@@ -962,126 +962,13 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
   },
   "id" : 856965462906810369,
   "created_at" : "2017-04-25 20:17:42 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Luma Theodoro",
-      "screen_name" : "lumatheodoro",
-      "indices" : [ 3, 16 ],
-      "id_str" : "71315210",
-      "id" : 71315210
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/lumatheodoro\/status\/856179682697412613\/video\/1",
-      "indices" : [ 79, 102 ],
-      "url" : "https:\/\/t.co\/pHEe8AXIuS",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
-      "id_str" : "856179464509702144",
-      "id" : 856179464509702144,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
-      "sizes" : [ {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 480,
-        "resize" : "fit",
-        "w" : 480
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/pHEe8AXIuS"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "856575113159901185",
-  "text" : "RT @lumatheodoro: Here you have a panel of clocks, which together form a clock https:\/\/t.co\/pHEe8AXIuS",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/lumatheodoro\/status\/856179682697412613\/video\/1",
-        "indices" : [ 61, 84 ],
-        "url" : "https:\/\/t.co\/pHEe8AXIuS",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
-        "id_str" : "856179464509702144",
-        "id" : 856179464509702144,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/856179464509702144\/pu\/img\/6xhR_YW4Iu-BmERx.jpg",
-        "sizes" : [ {
-          "h" : 480,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 480,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 480,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 480,
-          "resize" : "fit",
-          "w" : 480
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/pHEe8AXIuS"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "856179682697412613",
-    "text" : "Here you have a panel of clocks, which together form a clock https:\/\/t.co\/pHEe8AXIuS",
-    "id" : 856179682697412613,
-    "created_at" : "2017-04-23 16:15:18 +0000",
-    "user" : {
-      "name" : "Luma Theodoro",
-      "screen_name" : "lumatheodoro",
-      "protected" : false,
-      "id_str" : "71315210",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551792221864099841\/KMZjgLyR_normal.jpeg",
-      "id" : 71315210,
-      "verified" : false
-    }
-  },
-  "id" : 856575113159901185,
-  "created_at" : "2017-04-24 18:26:36 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1314,7 +1201,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1599,7 +1486,7 @@ Grailbird.data.tweets_2017_04 =
   "id_str" : "851431174518054912",
   "text" : "RT @MarvelStudios: This November, Thor: Ragnarok. Watch the teaser trailer now! https:\/\/t.co\/74hKD75vJ0",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2332,7 +2219,7 @@ Grailbird.data.tweets_2017_04 =
   "id_str" : "850053514151833601",
   "text" : "RT @Twitter: Introducing Twitter Lite on mobile web! \uD83D\uDCF1\n\nLoads quickly, takes up less space, and is data-friendly. Learn more: https:\/\/t.co\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2456,7 +2343,7 @@ Grailbird.data.tweets_2017_04 =
   "id_str" : "850043522275258368",
   "text" : "RT @MarvelStudios: Raise your \u270B if you know what this is! #TBT #GotGVol2 \uD83C\uDFA7 https:\/\/t.co\/XgxhNdklyd",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {

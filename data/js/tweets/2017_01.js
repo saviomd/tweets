@@ -109,7 +109,7 @@ Grailbird.data.tweets_2017_01 =
   "id_str" : "825739491239411712",
   "text" : "RT @Flamengo: Dia 29 tamb\u00E9m \u00E9 dia de comemorar mais um ano de vida do Baixinho! Parab\u00E9ns, craque! https:\/\/t.co\/Oac7pVydQO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -157,7 +157,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -348,7 +348,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "bing_fla",
       "protected" : false,
       "id_str" : "1402886802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022648836534222848\/WMjuUEGW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1078022406776803357\/FTbfyLk1_normal.jpg",
       "id" : 1402886802,
       "verified" : false
     }
@@ -1239,7 +1239,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -2165,7 +2165,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "monmouthu",
       "protected" : false,
       "id_str" : "15862680",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009104877975289857\/v-_-SSxq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039600005177176064\/PIVAq1Yb_normal.jpg",
       "id" : 15862680,
       "verified" : true
     }
@@ -2262,7 +2262,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -2494,7 +2494,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2793,7 +2793,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "HamillHimself",
       "protected" : false,
       "id_str" : "304679484",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021538703624232960\/VSTojMRw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079656924080001024\/9k5cfc1U_normal.jpg",
       "id" : 304679484,
       "verified" : true
     }

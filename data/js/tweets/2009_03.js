@@ -830,7 +830,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luiz Jos\u00E9 de Lemos",
+      "name" : "Luiz",
       "screen_name" : "luizlemos",
       "indices" : [ 0, 10 ],
       "id_str" : "67148928",

@@ -192,7 +192,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -241,7 +241,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 426855415473664000,
     "created_at" : "2014-01-24 23:13:56 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -265,7 +265,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anna Debenham \uD83E\uDD94",
+      "name" : "Anna Debenham",
       "screen_name" : "anna_debenham",
       "indices" : [ 3, 17 ],
       "id_str" : "9655342",
@@ -354,7 +354,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 426831053638995968,
     "created_at" : "2014-01-24 21:37:07 +0000",
     "user" : {
-      "name" : "Anna Debenham \uD83E\uDD94",
+      "name" : "Anna Debenham",
       "screen_name" : "anna_debenham",
       "protected" : false,
       "id_str" : "9655342",
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "resenna",
       "protected" : false,
       "id_str" : "15601887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988897199865126915\/xOJNnWFS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052410146050252802\/qsbBijAt_normal.jpg",
       "id" : 15601887,
       "verified" : false
     }
@@ -1017,7 +1017,7 @@ Grailbird.data.tweets_2014_01 =
     "user" : {
       "name" : "Vanessa Maia",
       "screen_name" : "nessamaia",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "4879901",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563781396859076608\/m2hWOwN1_normal.jpeg",
       "id" : 4879901,

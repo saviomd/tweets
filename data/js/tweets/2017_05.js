@@ -96,7 +96,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "bayer04_en",
       "protected" : false,
       "id_str" : "2362437362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702893319593074688\/KLfHrgWH_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070715818823028736\/ox5A62Ck_normal.jpg",
       "id" : 2362437362,
       "verified" : true
     }
@@ -164,7 +164,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -283,7 +283,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -544,7 +544,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "MrKenShabby",
       "protected" : false,
       "id_str" : "49031126",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997501336726859777\/XMrsbl2P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052902476112908289\/sBVaxYMg_normal.jpg",
       "id" : 49031126,
       "verified" : false
     }
@@ -951,7 +951,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "spencerchen",
       "protected" : false,
       "id_str" : "14213734",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025517112490483712\/s0rUa7FK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032132593779523584\/c_Y_4Nw1_normal.jpg",
       "id" : 14213734,
       "verified" : false
     }
@@ -1286,7 +1286,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "ChromiumDev",
       "protected" : false,
       "id_str" : "113713261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1320180647\/chromiumchrome_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065986962467647489\/Qrc3K-jZ_normal.jpg",
       "id" : 113713261,
       "verified" : true
     }
@@ -2199,7 +2199,7 @@ Grailbird.data.tweets_2017_05 =
   "id_str" : "862660744462172162",
   "text" : "RT @IronMaiden: Fear of the Dark is 25 today! And it'll be available on 180g heavyweight black vinyl, Friday May 19 More info here: https:\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2339,7 +2339,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -2437,7 +2437,7 @@ Grailbird.data.tweets_2017_05 =
   "id_str" : "862355260173635585",
   "text" : "RT @GQMagazine: .@TheRock stars in the imaginary sequels to your favorite movies. https:\/\/t.co\/OyeRzak5YF",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Dwayne Johnson",
@@ -2528,7 +2528,7 @@ Grailbird.data.tweets_2017_05 =
   "id_str" : "862355009010323456",
   "text" : "RT @IronMaiden: Happy #Wednesday  \nNo Prayer For The Dying (and more) available on 180 gram heavyweight vinyl May 19, info here: https:\/\/t.\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2764,7 +2764,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2832,7 +2832,7 @@ Grailbird.data.tweets_2017_05 =
   "id_str" : "861410812363251712",
   "text" : "RT @Flamengo: Aquela imagem para voc\u00EA mandar para os amigos. #MaiorDoRio https:\/\/t.co\/1bbv20NF3a",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2883,7 +2883,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

@@ -97,7 +97,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "indices" : [ 3, 11 ],
       "id_str" : "26618823",
@@ -124,7 +124,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 13021196818,
     "created_at" : "2010-04-28 18:30:20 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -817,7 +817,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gary Thomas",
+      "name" : "Gary Powers",
       "screen_name" : "9swords",
       "indices" : [ 3, 11 ],
       "id_str" : "16662478",
@@ -868,11 +868,11 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12025719566,
     "created_at" : "2010-04-12 03:07:11 +0000",
     "user" : {
-      "name" : "Gary Thomas",
+      "name" : "Gary Powers",
       "screen_name" : "9swords",
       "protected" : false,
       "id_str" : "16662478",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642688120866119681\/hdHe71Nk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1051978935280553985\/lvlEHFhL_normal.jpg",
       "id" : 16662478,
       "verified" : false
     }

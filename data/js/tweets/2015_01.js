@@ -56,7 +56,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -159,7 +159,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lost boy",
+      "name" : "2019 ano m\u00E1gico do Flamengo",
       "screen_name" : "DeDeTex",
       "indices" : [ 3, 11 ],
       "id_str" : "156700775",
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "931641182614155264",
       "id" : 931641182614155264
     }, {
-      "name" : "Dryzinho",
+      "name" : "Dryzinho Vargas Mart\u00EDnez",
       "screen_name" : "Dryzinho_praero",
       "indices" : [ 23, 39 ],
       "id_str" : "707980160",
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2015_01 =
         "id_str" : "931641182614155264",
         "id" : 931641182614155264
       }, {
-        "name" : "Dryzinho",
+        "name" : "Dryzinho Vargas Mart\u00EDnez",
         "screen_name" : "Dryzinho_praero",
         "indices" : [ 10, 26 ],
         "id_str" : "707980160",
@@ -250,11 +250,11 @@ Grailbird.data.tweets_2015_01 =
     "in_reply_to_screen_name" : "TvColunaFla",
     "in_reply_to_user_id_str" : "829084044",
     "user" : {
-      "name" : "lost boy",
+      "name" : "2019 ano m\u00E1gico do Flamengo",
       "screen_name" : "DeDeTex",
       "protected" : false,
       "id_str" : "156700775",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876264828616179713\/Hp-yUeri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1051675102553808896\/px2XTt79_normal.jpg",
       "id" : 156700775,
       "verified" : false
     }
@@ -346,7 +346,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -455,7 +455,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "nannerb",
       "protected" : false,
       "id_str" : "156927285",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011191888534212609\/bV1eCGaI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037796049526644736\/ZoB0M-sl_normal.jpg",
       "id" : 156927285,
       "verified" : false
     }
@@ -1453,7 +1453,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -1755,7 +1755,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

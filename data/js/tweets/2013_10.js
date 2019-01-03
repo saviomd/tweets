@@ -34,7 +34,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 395632536006565888,
     "created_at" : "2013-10-30 19:25:21 +0000",
     "user" : {
-      "name" : "Arthur Muhlenberg Reloaded \u262E",
+      "name" : "Arthur Muhlenberg Redux\u262E",
       "screen_name" : "Urublog",
       "protected" : false,
       "id_str" : "26618823",
@@ -232,7 +232,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "jessicaivins",
       "protected" : false,
       "id_str" : "14625678",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483634838616829953\/5h752tJ8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050423529487912961\/VGOO4316_normal.jpg",
       "id" : 14625678,
       "verified" : false
     }
@@ -666,7 +666,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "pontofrio",
       "protected" : false,
       "id_str" : "16788804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936643060670267394\/GBxjjPdK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080460430110310402\/vjWp8r8X_normal.jpg",
       "id" : 16788804,
       "verified" : true
     }

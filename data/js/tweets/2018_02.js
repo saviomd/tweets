@@ -201,7 +201,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "ArtoftheTitle",
       "protected" : false,
       "id_str" : "19261479",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929442092878876672\/MWEGx9Qf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064245710181359616\/SrpsupBA_normal.jpg",
       "id" : 19261479,
       "verified" : true
     }
@@ -434,7 +434,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -606,7 +606,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2018_02 =
   "id_str" : "960317776316567552",
   "text" : "RT @MissionFilm: The fuse has been lit \uD83D\uDCA3 Watch the official #MissionImpossible Fallout trailer starring @TomCruise. In theatres 7.27.18. ht\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Tom Cruise",
@@ -706,7 +706,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "MissionFilm",
       "protected" : false,
       "id_str" : "322333960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022615611162021888\/5A8qMBIQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047215863466606593\/0eb7D1RP_normal.jpg",
       "id" : 322333960,
       "verified" : true
     }

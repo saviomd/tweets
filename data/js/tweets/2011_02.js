@@ -1353,7 +1353,7 @@ Grailbird.data.tweets_2011_02 =
     "user" : {
       "name" : "Vanessa Maia",
       "screen_name" : "nessamaia",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "4879901",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563781396859076608\/m2hWOwN1_normal.jpeg",
       "id" : 4879901,
@@ -1483,7 +1483,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "matthewpennell",
       "protected" : false,
       "id_str" : "12492",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813833657177739264\/bhawdmyX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1043818398831054848\/CFDDylWq_normal.jpg",
       "id" : 12492,
       "verified" : false
     }
@@ -2027,7 +2027,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Victor_Lucas",
       "protected" : false,
       "id_str" : "15177163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014598906661896192\/8Wnh9WBP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1041127478108905472\/4u5WW1fE_normal.jpg",
       "id" : 15177163,
       "verified" : true
     }
@@ -2084,7 +2084,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "dirtgame",
       "protected" : false,
       "id_str" : "168708219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824602750382174208\/PjLgqJ4J_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044882116994125829\/veFagleA_normal.jpg",
       "id" : 168708219,
       "verified" : true
     }
@@ -2143,7 +2143,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "41194626",
       "id" : 41194626
     }, {
-      "name" : "SeoCruz LULA DA SILVA\u262D",
+      "name" : "SeoCruz \u262D",
       "screen_name" : "SeoCruz",
       "indices" : [ 20, 28 ],
       "id_str" : "17140789",
@@ -2160,7 +2160,7 @@ Grailbird.data.tweets_2011_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "SeoCruz LULA DA SILVA\u262D",
+        "name" : "SeoCruz \u262D",
         "screen_name" : "SeoCruz",
         "indices" : [ 4, 12 ],
         "id_str" : "17140789",
@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "librianasp",
       "protected" : false,
       "id_str" : "41194626",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497033042792574976\/AJXBodxi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053296419359154177\/_I__FS0__normal.jpg",
       "id" : 41194626,
       "verified" : false
     }
@@ -2359,7 +2359,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

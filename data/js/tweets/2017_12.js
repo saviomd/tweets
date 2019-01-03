@@ -258,7 +258,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Rupert",
+      "name" : "Old Guard Rupert",
       "screen_name" : "davatron5000",
       "indices" : [ 3, 16 ],
       "id_str" : "14839862",
@@ -295,7 +295,7 @@ Grailbird.data.tweets_2017_12 =
     "id" : 942077083370606592,
     "created_at" : "2017-12-16 17:00:54 +0000",
     "user" : {
-      "name" : "Dave Rupert",
+      "name" : "Old Guard Rupert",
       "screen_name" : "davatron5000",
       "protected" : false,
       "id_str" : "14839862",
@@ -336,7 +336,7 @@ Grailbird.data.tweets_2017_12 =
   "id_str" : "940025248749043712",
   "text" : "RT @StreetFighter: Celebrate 30 Years of #StreetFighter with the Street Fighter 30th Anniversary Collection in May 2018 \uD83C\uDF82! https:\/\/t.co\/TX6\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -387,126 +387,13 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "StreetFighter",
       "protected" : false,
       "id_str" : "356745883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1026543854692888576\/2ZCamNaw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1075536902139240449\/d0BA0WiH_normal.jpg",
       "id" : 356745883,
       "verified" : true
     }
   },
   "id" : 940025248749043712,
   "created_at" : "2017-12-11 01:07:38 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Doug Bowman",
-      "screen_name" : "stop",
-      "indices" : [ 3, 8 ],
-      "id_str" : "949521",
-      "id" : 949521
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/stop\/status\/938199369861316608\/photo\/1",
-      "indices" : [ 69, 92 ],
-      "url" : "https:\/\/t.co\/VWKT1eXuYd",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DQUnWhKVQAAj0cG.jpg",
-      "id_str" : "938199365188927488",
-      "id" : 938199365188927488,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DQUnWhKVQAAj0cG.jpg",
-      "sizes" : [ {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 640
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/VWKT1eXuYd"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "938264374359285760",
-  "text" : "RT @stop: Thank you, Apple. Good riddance, prompts for app feedback. https:\/\/t.co\/VWKT1eXuYd",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/stop\/status\/938199369861316608\/photo\/1",
-        "indices" : [ 59, 82 ],
-        "url" : "https:\/\/t.co\/VWKT1eXuYd",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DQUnWhKVQAAj0cG.jpg",
-        "id_str" : "938199365188927488",
-        "id" : 938199365188927488,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DQUnWhKVQAAj0cG.jpg",
-        "sizes" : [ {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 640
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/VWKT1eXuYd"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "938199369861316608",
-    "text" : "Thank you, Apple. Good riddance, prompts for app feedback. https:\/\/t.co\/VWKT1eXuYd",
-    "id" : 938199369861316608,
-    "created_at" : "2017-12-06 00:12:15 +0000",
-    "user" : {
-      "name" : "Doug Bowman",
-      "screen_name" : "stop",
-      "protected" : false,
-      "id_str" : "949521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/537483244468318208\/H1ArNbIw_normal.jpeg",
-      "id" : 949521,
-      "verified" : true
-    }
-  },
-  "id" : 938264374359285760,
-  "created_at" : "2017-12-06 04:30:33 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",

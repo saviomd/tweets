@@ -225,7 +225,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "846904445443166208",
   "text" : "RT @nowthisnews: Is this what making America great looks like? https:\/\/t.co\/h1bOk40cbS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -273,7 +273,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "nowthisnews",
       "protected" : false,
       "id_str" : "701725963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013778236734504966\/HWM6Dh-Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065251761034682368\/HjiKEt_M_normal.jpg",
       "id" : 701725963,
       "verified" : true
     }
@@ -310,7 +310,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "846773794962374656",
   "text" : "RT @SpiderManMovie: Does the suit make the man? Watch the all-new #SpiderManHomecoming trailer now and make sure to see it in theaters July\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -474,7 +474,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "rosstmiller",
       "protected" : false,
       "id_str" : "15933879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951267625732100096\/RoxbjdXj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077751045273632773\/rgPM1Xv5_normal.jpg",
       "id" : 15933879,
       "verified" : false
     }
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "addyosmani",
       "protected" : false,
       "id_str" : "35432643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028519480412884992\/o5vdCry7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053159168197111808\/8eipWrau_normal.jpg",
       "id" : 35432643,
       "verified" : true
     }
@@ -685,7 +685,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "846442667772907523",
   "text" : "RT @SpiderManMovie: Take flight. A new #SpiderManHomecoming trailer is landing tomorrow. https:\/\/t.co\/AZQwodJUE6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -804,7 +804,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "845656608873046016",
   "text" : "RT @justiceleaguewb: Justice for all. #JusticeLeague in theaters\u00A0November 17. https:\/\/t.co\/p01PMDzAsM",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -929,7 +929,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "845351032825765888",
   "text" : "RT @justiceleaguewb: Smarter United #JusticeLeague #Cyborg #UniteTheLeague https:\/\/t.co\/a9xrAVZHJb",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1060,7 +1060,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "845320611983437826",
   "text" : "RT @justiceleaguewb: Wiser United #JusticeLeague #WonderWoman #UniteTheLeague https:\/\/t.co\/fPOgXGKbov",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1288,7 +1288,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "845066243312947200",
   "text" : "RT @justiceleaguewb: Faster United #JusticeLeague #TheFlash #UniteTheLeague https:\/\/t.co\/hTygiPYa5o",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1726,7 +1726,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "845002960920887300",
   "text" : "RT @justiceleaguewb: Braver United #JusticeLeague\u00A0#Batman #UniteTheLeague https:\/\/t.co\/5852pENuuO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1857,7 +1857,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "844962743086202880",
   "text" : "RT @justiceleaguewb: Bolder United #JusticeLeague\u00A0#Aquaman #UniteTheLeague https:\/\/t.co\/7i7057WgbB",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1934,7 +1934,7 @@ Grailbird.data.tweets_2017_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "THIS DAY IN METAL",
+      "name" : "\uD83E\uDD18\uD83C\uDFFBTHIS DAY IN METAL\uD83E\uDD18\uD83C\uDFFB",
       "screen_name" : "ThisDayInMETAL",
       "indices" : [ 3, 18 ],
       "id_str" : "743472216",
@@ -2022,7 +2022,7 @@ Grailbird.data.tweets_2017_03 =
     "id" : 844499421417127936,
     "created_at" : "2017-03-22 10:42:06 +0000",
     "user" : {
-      "name" : "THIS DAY IN METAL",
+      "name" : "\uD83E\uDD18\uD83C\uDFFBTHIS DAY IN METAL\uD83E\uDD18\uD83C\uDFFB",
       "screen_name" : "ThisDayInMETAL",
       "protected" : false,
       "id_str" : "743472216",
@@ -2231,7 +2231,7 @@ Grailbird.data.tweets_2017_03 =
     "user" : {
       "name" : "Vanessa Maia",
       "screen_name" : "nessamaia",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "4879901",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563781396859076608\/m2hWOwN1_normal.jpeg",
       "id" : 4879901,
@@ -2504,7 +2504,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2833,7 +2833,7 @@ Grailbird.data.tweets_2017_03 =
   "id_str" : "836973123291447300",
   "text" : "RT @jimmykimmel: FIRST LOOK at the new @Guardians of the Galaxy trailer... #GotGVol2 https:\/\/t.co\/E1oKoNWRtQ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "GuardiansOfTheGalaxy",
@@ -2890,7 +2890,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "jimmykimmel",
       "protected" : false,
       "id_str" : "26053643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020089483570450432\/isXKhtSz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1054456136823275520\/B-xsLG5G_normal.jpg",
       "id" : 26053643,
       "verified" : true
     }
@@ -3009,7 +3009,7 @@ Grailbird.data.tweets_2017_03 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }

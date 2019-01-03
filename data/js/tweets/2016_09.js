@@ -96,7 +96,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "meeloalex",
       "protected" : false,
       "id_str" : "3416773767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020033312113479680\/mmv8NwFL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059616688596021248\/LuauEsDJ_normal.jpg",
       "id" : 3416773767,
       "verified" : false
     }
@@ -446,7 +446,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -559,7 +559,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "Sammy_Goal",
       "protected" : false,
       "id_str" : "30720839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854971250556403712\/0lyG-i0Y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029295686280519682\/5tVGAYzc_normal.jpg",
       "id" : 30720839,
       "verified" : true
     }
@@ -834,7 +834,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "letterboxd",
       "protected" : false,
       "id_str" : "26981455",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2529194120\/f383glyd16f8sm5e0wnv_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058171443660222464\/QbE666vU_normal.jpg",
       "id" : 26981455,
       "verified" : true
     }
@@ -968,99 +968,13 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
   },
   "id" : 775878039402078208,
   "created_at" : "2016-09-14 02:05:14 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tony Zhou",
-      "screen_name" : "tonyszhou",
-      "indices" : [ 3, 13 ],
-      "id_str" : "1424721133",
-      "id" : 1424721133
-    }, {
-      "name" : "Taylor Ramos",
-      "screen_name" : "glassesattached",
-      "indices" : [ 54, 70 ],
-      "id_str" : "210283664",
-      "id" : 210283664
-    }, {
-      "name" : "Brian Satterwhite",
-      "screen_name" : "bmsatter",
-      "indices" : [ 71, 80 ],
-      "id_str" : "465719448",
-      "id" : 465719448
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "everyframeapainting",
-      "indices" : [ 27, 47 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "775514586686644225",
-  "text" : "RT @tonyszhou: A brand new #everyframeapainting by me @glassesattached @bmsatter about the music of the Marvel Cinematic Universe https:\/\/t\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Taylor Ramos",
-        "screen_name" : "glassesattached",
-        "indices" : [ 39, 55 ],
-        "id_str" : "210283664",
-        "id" : 210283664
-      }, {
-        "name" : "Brian Satterwhite",
-        "screen_name" : "bmsatter",
-        "indices" : [ 56, 65 ],
-        "id_str" : "465719448",
-        "id" : 465719448
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "everyframeapainting",
-        "indices" : [ 12, 32 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 115, 138 ],
-        "url" : "https:\/\/t.co\/rgU45SOTtC",
-        "expanded_url" : "https:\/\/www.youtube.com\/watch?v=7vfqkvwW2fs",
-        "display_url" : "youtube.com\/watch?v=7vfqkv\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "775361643144318977",
-    "text" : "A brand new #everyframeapainting by me @glassesattached @bmsatter about the music of the Marvel Cinematic Universe https:\/\/t.co\/rgU45SOTtC",
-    "id" : 775361643144318977,
-    "created_at" : "2016-09-12 15:53:15 +0000",
-    "user" : {
-      "name" : "Tony Zhou",
-      "screen_name" : "tonyszhou",
-      "protected" : false,
-      "id_str" : "1424721133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472583129203355648\/Co_o1uuc_normal.jpeg",
-      "id" : 1424721133,
-      "verified" : false
-    }
-  },
-  "id" : 775514586686644225,
-  "created_at" : "2016-09-13 02:01:00 +0000",
   "user" : {
     "name" : "S\u00E1vio Mendes",
     "screen_name" : "saviomd",
@@ -1339,11 +1253,11 @@ Grailbird.data.tweets_2016_09 =
       "id_str" : "793830",
       "id" : 793830
     }, {
-      "name" : "CSS-Tricks",
+      "name" : "Chris Coyier",
       "screen_name" : "Real_CSS_Tricks",
       "indices" : [ 92, 108 ],
-      "id_str" : "285019665",
-      "id" : 285019665
+      "id_str" : "1033184462119399426",
+      "id" : 1033184462119399426
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1362,11 +1276,11 @@ Grailbird.data.tweets_2016_09 =
         "id_str" : "793830",
         "id" : 793830
       }, {
-        "name" : "CSS-Tricks",
+        "name" : "Chris Coyier",
         "screen_name" : "Real_CSS_Tricks",
         "indices" : [ 73, 89 ],
-        "id_str" : "285019665",
-        "id" : 285019665
+        "id_str" : "1033184462119399426",
+        "id" : 1033184462119399426
       } ],
       "media" : [ ],
       "hashtags" : [ ],

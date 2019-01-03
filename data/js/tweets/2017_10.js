@@ -54,7 +54,7 @@ Grailbird.data.tweets_2017_10 =
   "id_str" : "925424523750522880",
   "text" : "RT @justiceleaguewb: Gotham's Caped Crusader. #Batman #JusticeLeague https:\/\/t.co\/FRf1fzZNmB",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -125,92 +125,10 @@ Grailbird.data.tweets_2017_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "SimonNRicketts",
-      "screen_name" : "SimonNRicketts",
-      "indices" : [ 3, 18 ],
-      "id_str" : "18991263",
-      "id" : 18991263
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "925321215191015425",
-  "text" : "RT @SimonNRicketts: A museum in Washington DC has a virtual shark tank, telling you to touch the glass if you dare. So, this guy did. https\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/SimonNRicketts\/status\/924771850604941312\/photo\/1",
-        "indices" : [ 114, 137 ],
-        "url" : "https:\/\/t.co\/m7vKb07uWR",
-        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DNVy8U7WkAAgJsQ.jpg",
-        "id_str" : "924771679229874176",
-        "id" : 924771679229874176,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DNVy8U7WkAAgJsQ.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 384,
-          "resize" : "fit",
-          "w" : 366
-        }, {
-          "h" : 384,
-          "resize" : "fit",
-          "w" : 366
-        }, {
-          "h" : 384,
-          "resize" : "fit",
-          "w" : 366
-        }, {
-          "h" : 384,
-          "resize" : "fit",
-          "w" : 366
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/m7vKb07uWR"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "924771850604941312",
-    "text" : "A museum in Washington DC has a virtual shark tank, telling you to touch the glass if you dare. So, this guy did. https:\/\/t.co\/m7vKb07uWR",
-    "id" : 924771850604941312,
-    "created_at" : "2017-10-29 22:56:05 +0000",
-    "user" : {
-      "name" : "SimonNRicketts",
-      "screen_name" : "SimonNRicketts",
-      "protected" : false,
-      "id_str" : "18991263",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000759409678\/0f9477b787db017cfb2c0c4aac78cbf3_normal.jpeg",
-      "id" : 18991263,
-      "verified" : false
-    }
-  },
-  "id" : 925321215191015425,
-  "created_at" : "2017-10-31 11:19:03 +0000",
-  "user" : {
-    "name" : "S\u00E1vio Mendes",
-    "screen_name" : "saviomd",
-    "protected" : false,
-    "id_str" : "4111071",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689954367999447042\/1JY8WC5W_normal.jpg",
-    "id" : 4111071,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Skeleton Claw",
+      "name" : "Skeleton Claw \uD83D\uDC80\uD83D\uDD90\uFE0F",
       "screen_name" : "skeleton_claw",
       "indices" : [ 3, 17 ],
       "id_str" : "3194635094",
@@ -305,11 +223,11 @@ Grailbird.data.tweets_2017_10 =
     "id" : 924107615453421568,
     "created_at" : "2017-10-28 02:56:39 +0000",
     "user" : {
-      "name" : "Skeleton Claw",
+      "name" : "Skeleton Claw \uD83D\uDC80\uD83D\uDD90\uFE0F",
       "screen_name" : "skeleton_claw",
       "protected" : false,
       "id_str" : "3194635094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976563992532414464\/zN9T4wpd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035621105132654592\/slGFkM5g_normal.jpg",
       "id" : 3194635094,
       "verified" : false
     }
@@ -510,7 +428,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "smashingmag",
       "protected" : false,
       "id_str" : "15736190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014194982499078145\/ScpR-ujV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057746497884880898\/lyruNAFp_normal.jpg",
       "id" : 15736190,
       "verified" : true
     }
@@ -1072,7 +990,7 @@ Grailbird.data.tweets_2017_10 =
   "id_str" : "922553547656482819",
   "text" : "RT @Arsenal: FIFA Puskas Award winner 2017: @_OlivierGiroud_ \uD83D\uDC4F\uD83D\uDC4F\uD83D\uDC4F\n\nCongratulations Oli, we're all proud of you \uD83D\uDE4C #TheBest\n\n#NaNaNaNaa \uD83E\uDD82\uD83D\uDC51 htt\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Olivier Giroud",
@@ -1132,7 +1050,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "Arsenal",
       "protected" : false,
       "id_str" : "34613288",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935074994165637121\/TOXV4nn7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070994569477718021\/l-TOc4VS_normal.jpg",
       "id" : 34613288,
       "verified" : true
     }
@@ -1704,7 +1622,7 @@ Grailbird.data.tweets_2017_10 =
   "id_str" : "920057089065672704",
   "text" : "RT @majornelson: New Fall Update for Xbox One starting to roll out today. Check out the video and details of the new features here https:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2128,7 +2046,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "Flamengo",
       "protected" : false,
       "id_str" : "59591856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983685481195073537\/LOGohMvc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068855171613159425\/k5B9Tzkv_normal.jpg",
       "id" : 59591856,
       "verified" : true
     }
@@ -2696,7 +2614,7 @@ Grailbird.data.tweets_2017_10 =
   "id_str" : "917919186508308480",
   "text" : "RT @OnsOranje: #ArjenBedankt, voor alles wat je voor het Nederlands elftal hebt betekend: https:\/\/t.co\/VzQGtGjE8r. https:\/\/t.co\/DCJN4ayf9z",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2933,7 +2851,7 @@ Grailbird.data.tweets_2017_10 =
   "id_str" : "917533131871309824",
   "text" : "RT @justiceleaguewb: I need warriors. #JusticeLeague in theaters November 17. https:\/\/t.co\/Vx5iE0y7Aj",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -3052,7 +2970,7 @@ Grailbird.data.tweets_2017_10 =
   "id_str" : "917027521899761665",
   "text" : "RT @justiceleaguewb: Check out the new trailer and see #JusticeLeague in theaters November 17. https:\/\/t.co\/oGqsLN3U4X",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003EMedia Studio\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/studio.twitter.com\" rel=\"nofollow\"\u003ETwitter Media Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -3216,7 +3134,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "futtmais",
       "protected" : false,
       "id_str" : "887489515501342721",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015547487560626177\/-BFmrr7t_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068851344654635008\/qc7YZD1q_normal.jpg",
       "id" : 887489515501342721,
       "verified" : false
     }
@@ -3535,7 +3453,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Rupert",
+      "name" : "Old Guard Rupert",
       "screen_name" : "davatron5000",
       "indices" : [ 3, 16 ],
       "id_str" : "14839862",
@@ -3567,7 +3485,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 914958419114823681,
     "created_at" : "2017-10-02 21:01:00 +0000",
     "user" : {
-      "name" : "Dave Rupert",
+      "name" : "Old Guard Rupert",
       "screen_name" : "davatron5000",
       "protected" : false,
       "id_str" : "14839862",
